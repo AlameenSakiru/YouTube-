@@ -2,7 +2,9 @@
 
 ## Script length
 
-People speak about 150 words a minute. A 1,500–2,000 word script gives a 10–13 minute video. Videos over 8 minutes can carry ads in the middle once you are monetized.
+People speak about 150 words a minute. A 2,000–2,300 word script gives a video of about 15 minutes, which is the length the 14-day plan aims for: more minutes watched per view means fewer views needed. Only go that long if the story fills it; a padded video loses viewers. Videos over 8 minutes can carry ads in the middle once you are monetized.
+
+The timings in the template below are for a 12-minute video. For 15 minutes, give the extra time to the escalation and the collapse.
 
 ## Script template
 

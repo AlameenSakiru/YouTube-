@@ -4,7 +4,9 @@ A 14-day plan to launch a faceless, long-form YouTube channel in a high-paying n
 
 ## Read this first
 
-**Nobody can guarantee monetization in 14 days.** YouTube pays ad revenue only after a channel reaches 1,000 subscribers and 4,000 public watch hours, and then passes a review. The 14 days in this kit are for launching well: four videos published, a format that works, and a clear path to the threshold.
+**The goal:** within 14 days, get the views that qualify the channel for monetization: 4,000 public watch hours and 1,000 subscribers. That is about 48,000 views at a 5-minute average watch time. Approval comes later, after YouTube's review.
+
+**This needs at least one video to break out, and no plan can guarantee that.** The kit is built to give you as many good chances as possible in 14 days and to react fast when a video starts to move. If the numbers are not there on day 14, you keep going with real data on what works.
 
 **There is a real deadline: 1 February 2027.** Reports say YouTube doubles the watch-hour bar for new applicants on that date (4,000 → 8,000 hours). Channels already in the program keep their status. Getting in before then is worth pushing for. Details and sources are in [docs/01-rules-and-targets.md](docs/01-rules-and-targets.md).
 
@@ -22,10 +24,10 @@ A 14-day plan to launch a faceless, long-form YouTube channel in a high-paying n
 ## The plan in five lines
 
 1. **Niche:** business and money stories (collapses, scams, how companies really make money).
-2. **Format:** 10–15 minute faceless documentaries with voiceover.
-3. **Pace:** one video every three days, four videos in 14 days.
-4. **Target:** about 48,000 views at a 5-minute average watch time gives 4,000 watch hours.
-5. **After day 14:** make more of whatever video performed best, and apply before 1 February 2027.
+2. **Format:** faceless documentaries of about 15 minutes with voiceover.
+3. **Pace:** video 1 on day 3, then one every three days, and a fast follow-up to the best one on days 13–14.
+4. **Target by day 14:** 4,000 watch hours and 1,000 subscribers, which is about 48,000 views at a 5-minute average watch time.
+5. **After day 14:** make more of whatever performed best, and apply before 1 February 2027.
 
 ## Using the tracker
 

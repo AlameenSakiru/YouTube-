@@ -133,7 +133,8 @@ td.note { white-space: normal; min-width: 160px; color: var(--muted); }
   </header>
 
   <section aria-labelledby="h-goals">
-    <h2 id="h-goals">Progress to full monetization</h2>
+    <h2 id="h-goals">Progress to the monetization thresholds</h2>
+    <p class="muted">The goal is to reach both by day 14. Day 1 is the first day you log.</p>
     <div class="panel">
       <div class="meter" id="meter-subs">
         <div class="meter-head">
@@ -157,7 +158,7 @@ td.note { white-space: normal; min-width: 160px; color: var(--muted); }
       </div>
       <div class="facts">
         <div class="fact"><span>Videos published</span><b class="num" id="videos-now">0</b></div>
-        <div class="fact"><span>Days logged</span><b class="num" id="days-logged">0</b></div>
+        <div class="fact"><span>Launch day</span><b class="num" id="launch-day">Day 1 of 14</b></div>
         <div class="fact"><span>Last update</span><b class="num" id="last-update">–</b></div>
       </div>
     </div>
@@ -206,20 +207,20 @@ td.note { white-space: normal; min-width: 160px; color: var(--muted); }
   var GOAL_SUBS = 1000, GOAL_HOURS = 4000;
   var DEADLINE = '2027-02-01', APPLY_BY = '2027-01-10';
   var PLAN = [
-    'Set up the channel. Study 15 channels in the niche.',
-    'Research and write the script for video 1.',
-    'Record, edit and make the thumbnail for video 1.',
-    'Publish video 1.',
-    'Script and voiceover for video 2.',
-    'Edit video 2. Make the thumbnail and title.',
+    'Set up the channel. Choose and research a fresh story for video 1.',
+    'Write the script and record the voiceover for video 1.',
+    'Publish video 1 after editing and making the thumbnail.',
+    'Research and write the script for video 2.',
+    'Record and edit video 2. Make the thumbnail and title.',
     'Publish video 2. Check video 1\'s numbers.',
-    'Script and voiceover for video 3.',
-    'Edit video 3. Make the thumbnail and title.',
+    'Write the script for video 3, close to your better video.',
+    'Record and edit video 3. Make the thumbnail and title.',
     'Publish video 3. Fix weak titles or thumbnails.',
-    'Script and voiceover for video 4.',
-    'Edit video 4. Make the thumbnail and title.',
+    'Write the script for video 4, close to your best video.',
+    'Record and edit video 4. Make the thumbnail and title.',
     'Publish video 4.',
-    'Review all four videos. Plan the next ten.'
+    'Write and record a follow-up to your best video.',
+    'Publish the follow-up. Review everything and plan the next ten.'
   ];
 
   var state = { log: {}, done: {}, canWrite: true };
@@ -256,19 +257,22 @@ td.note { white-space: normal; min-width: 160px; color: var(--muted); }
     meter.classList.toggle('done', left <= 0);
     foot.classList.toggle('reached', left <= 0);
     if (left <= 0) { foot.textContent = '✓ Reached'; return; }
-    var days = daysBetween(todayStr(), APPLY_BY);
     var text = fmt(left, decimals) + ' to go';
-    if (days > 0) text += ' · about ' + fmt(left / days, left / days < 10 ? 1 : 0) + ' a day to get there by 10 Jan';
+    if (target.days > 0) text += ' · about ' + fmt(left / target.days, left / target.days < 10 ? 1 : 0) + ' a day to get there by ' + target.label;
     foot.textContent = text;
   }
 
+  var target = { days: 13, label: 'day 14' };
+
   function render() {
     var dates = Object.keys(state.log).sort();
+    var dayN = Math.max(1, daysBetween(dates.length ? dates[0] : todayStr(), todayStr()) + 1);
+    target = dayN < 14 ? { days: 14 - dayN, label: 'day 14' } : { days: daysBetween(todayStr(), APPLY_BY), label: '10 Jan' };
+    $('launch-day').textContent = dayN <= 14 ? 'Day ' + dayN + ' of 14' : 'Day ' + fmt(dayN);
     var latest = dates.length ? state.log[dates[dates.length - 1]] : { subs: 0, hours: 0, videos: 0 };
     renderMeter('subs', latest.subs || 0, GOAL_SUBS, 0);
     renderMeter('hours', latest.hours || 0, GOAL_HOURS, 1);
     $('videos-now').textContent = fmt(latest.videos || 0);
-    $('days-logged').textContent = fmt(dates.length);
     $('last-update').textContent = dates.length ? niceDate(dates[dates.length - 1]) : '–';
 
     var body = $('history-body');

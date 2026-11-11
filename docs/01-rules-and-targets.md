@@ -45,10 +45,24 @@ This is why long-form matters: a 12-minute video that holds people for 5–6 min
 
 Subscribers are often the slower number. As a rough rule of thumb, a new channel gains about 1–2 subscribers per 100 views, so 48,000 views may bring 500–1,000 subscribers. Ask for the subscription in every video.
 
+## The 14-day target
+
+The goal of this kit is to have the qualifying views by day 14: **240,000 minutes watched and 1,000 subscribers**. YouTube's review and approval come after that.
+
+Longer videos that hold attention cut the views you need:
+
+| Video length | Average watch time | Views needed |
+|---|---|---|
+| 10 minutes | 4 minutes | 60,000 |
+| 12 minutes | 5 minutes | 48,000 |
+| 15 minutes | 7 minutes | about 34,000 |
+
+Watch hours in YouTube Studio can lag by a day or two, so the count on day 14 may be lower than what you have really earned.
+
 ## What is realistic
 
-- **In 14 days:** four videos live, real data on what works, the first few hundred to few thousand views. A breakout video in this window is possible but not something you can plan on.
-- **In 82 days:** about 25 videos at one every three days. One or two videos usually bring most of the views. That is enough attempts to have a fair chance at the threshold.
+- **In 14 days:** the target is reachable only if at least one video breaks out and YouTube recommends it widely. That happens to some new channels and not to most. Without a breakout, expect four or five videos live and a few hundred to a few thousand views.
+- **In 82 days:** about 25 videos at one every three days. One or two videos usually bring most of the views. That is enough attempts to have a fair chance at the threshold before the 1 February change.
 
 ## What gets a channel rejected
 
