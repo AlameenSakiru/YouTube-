@@ -14,8 +14,8 @@ Backups, if the click rate is low after 48 hours:
 ## Thumbnail
 
 - **Picture:** an old-looking black-and-white Chicago lakefront pier with a tall wall of water rising behind it.
-- **Text:** "CHICAGO, 1954" in large letters and "NO WARNING" in a smaller label.
-- Keep the people on the pier small and the wave large. Make three versions and pick the one that reads best at phone size.
+- **Text:** "10 FEET" in large letters and "CHICAGO, 1954" in a smaller label. Do not use "no warning": the title already says that.
+- Keep the people on the pier small and the wave large. Make three versions and pick the one that reads best at phone size. If YouTube Studio offers you its thumbnail test, upload all three and let it choose.
 
 ## Description
 
@@ -34,17 +34,17 @@ Adjust the times after editing.
 | Time | Chapter |
 |---|---|
 | 0:00 | A wet shoe |
-| 1:02 | The lake that is not a lake |
-| 1:45 | The storm that left |
-| 2:39 | North Avenue Beach |
-| 3:49 | Montrose Harbor |
-| 5:13 | The wrong name |
-| 6:14 | What a meteotsunami is |
-| 7:57 | Why it came in sunshine |
-| 9:15 | Ten days later |
-| 10:16 | Not a freak |
-| 12:14 | Can anyone see the next one coming? |
-| 13:34 | The warning |
+| 1:06 | The lake that is not a lake |
+| 1:49 | The storm that left |
+| 2:44 | North Avenue Beach |
+| 3:54 | Montrose Harbor |
+| 5:18 | The wrong name |
+| 6:23 | What a meteotsunami is |
+| 8:06 | Why it came in sunshine |
+| 9:24 | Ten days later |
+| 10:25 | Not a freak |
+| 12:10 | Can anyone see the next one coming? |
+| 13:30 | The warning |
 
 ## Pinned comment
 
@@ -72,7 +72,7 @@ He stepped up to higher ground. Behind him, he heard a rush. And when he turned 
 
 Eight people drowned in Chicago that morning. There was no storm overhead. There was no earthquake. The National Weather Service still describes it as a killer wave that rose "under calm winds and a bright sunny sky."
 
-It had a cause. The cause had left Chicago two hours earlier. And it still happens on the Great Lakes more than a hundred times a year.
+It was a tsunami. On a lake. And nobody in Chicago saw it coming, because the thing that caused it had left two hours earlier. It still happens on the Great Lakes more than a hundred times a year.
 
 ## 2. The lake that is not a lake
 
@@ -150,11 +150,11 @@ And then, as quickly as it had come, it was gone. The lake went flat. The sun wa
 
 *On screen: a 1950s newsroom. The word "seiche" with its pronunciation. Animation of water rocking in a long tank. A slow line on a graph against a sudden spike.*
 
-So what was it?
+In 1954, nobody called it a tsunami.
 
-There had been no earthquake. No wind to speak of. A wall of water had come out of a calm lake, under a clear sky, killed eight people, and left.
+There had been no earthquake. No wind to speak of. A wall of water had come out of a calm lake, under a clear sky, killed eight people, and left. It needed a name.
 
-The experts had a word ready. Seiche. It is spelled S, E, I, C, H, E, and it is pronounced "saysh".
+The experts had one ready. Seiche. It is spelled S, E, I, C, H, E, and it is pronounced "saysh".
 
 A seiche is a slosh. Wind pushes the water of a lake toward one end. When the wind lets go, the water rocks back, like water in a bathtub.
 
@@ -162,7 +162,7 @@ It was the best explanation anyone had. For decades that is what the disaster wa
 
 But a seiche is slow. The whole lake tilts and rocks, over hours. This had been one violent surge, over in minutes.
 
-When scientists went back to the 1954 records with modern computer models, they found the name that fits. It is a word most people have never heard.
+When scientists went back to the 1954 records with modern computer models, they found it had been a tsunami after all. A kind most people have never heard of.
 
 Meteotsunami.
 
@@ -232,23 +232,23 @@ And Chicago did one more thing. It fixed steel posts and cables along its breakw
 
 *On screen: map of the Great Lakes with dots appearing and the number 106. Then three date cards, each followed by its place: Grand Haven 1929, Warren Dunes 2003, Ludington 2018. Then Lake Superior 2025.*
 
-For years after that, 1954 was filed away as a freak. A once-in-a-lifetime accident.
+For years, 1954 was filed away as a freak. A once-in-a-lifetime accident.
 
 It was not.
 
-In 2016, scientists searched years of water-level records from gauges all around the Great Lakes, looking for the signature of these waves. They found that meteotsunamis big enough to be dangerous, a foot high or more, happen on average one hundred and six times a year. And Lake Michigan gets more of them than any other lake.
+In 2016, scientists searched years of water-level records from all around the Great Lakes. They found that meteotsunamis big enough to be dangerous, a foot high or more, happen on average one hundred and six times a year. Lake Michigan gets the most.
 
-Most are small. Most arrive when nobody is in the water. But not all of them.
+Most are small, and most arrive when nobody is in the water. Not all of them.
 
-July 4, 1929. Grand Haven, Michigan. After a morning thunderstorm, a large wave swept people off the pier. Ten were reported killed.
+July 4, 1929. Grand Haven, Michigan. A morning thunderstorm, then a wave that swept people off the pier. Ten were reported killed.
 
-July 4, 2003. Warren Dunes, Michigan. A storm passes. The sun comes out. Families go back into the water. Seven swimmers drown. A study later found the most likely cause. A meteotsunami only about a foot high had come through, and the rip currents it set off kept pulling long after the wave itself was gone.
+July 4, 2003. Warren Dunes, Michigan. A storm passes. The sun comes out. Families go back into the water. Seven swimmers drown. Scientists later concluded the most likely cause: a meteotsunami only about a foot high, and the rip currents it set off, which kept pulling long after the wave was gone.
 
-April 13, 2018. Ludington, Michigan. A wave comes over the harbor walls and damages docks and homes along the shore. This time, people photographed it. It was April, and almost nobody was near the water. NOAA scientists used those pictures to recreate a Great Lakes meteotsunami in a computer for the first time.
+April 2018. Ludington, Michigan. Water comes over the harbor walls and damages docks and homes along the shore. It was April, so almost nobody was there. But this time people took pictures, and NOAA used them to recreate a Great Lakes meteotsunami in a computer for the first time.
 
-And in June 2025, on Lake Superior, a storm set off a meteotsunami and a seiche together. People filmed the water draining away from their beaches until the lake bed lay dry. Then it came back. One gauge recorded a rise of forty-five inches, the largest in its thirty years of records.
+June 2025. Lake Superior. A storm sets off a meteotsunami and a seiche at once. People film their beaches draining until the lake bed lies bare. Then the water comes back. One gauge records a forty-five-inch rise, the largest in its thirty years of records.
 
-Look at the deadly ones. 1929. 1954. 2003. Every one of them came the same way. A storm. Then sunshine. Then the water.
+Look at the deadly ones. 1929. 1954. 2003. Every one came the same way. A storm. Then sunshine. Then the water.
 
 ## 11. Can anyone see the next one coming?
 
@@ -295,7 +295,8 @@ That is the next video. Subscribe, and I will see you down there.
 | Part | What it does for the viewer |
 |---|---|
 | The wet shoe opening | Starts inside a real moment in the first sentence, with no introduction to skip |
-| "The cause had left Chicago two hours earlier" | Plants a question that is not answered until section 8, so there is a reason to keep watching |
+| "It was a tsunami. On a lake." | Confirms the title within the first minute, so the viewer knows the click was worth it |
+| "The thing that caused it had left two hours earlier" | Plants a question that is not answered until section 8, so there is a reason to keep watching |
 | "Everybody did the sensible thing" | Makes the viewer think it could have been them |
 | Real names and real words | Two eyewitnesses and four victims make it a story about people, not a weather lesson |
 | The lifeguards laughing | A moment of relief just before the worst news; it is the detail people repeat to others |
