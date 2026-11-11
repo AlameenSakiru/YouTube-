@@ -23,7 +23,7 @@ A 14-day plan to launch a faceless, long-form YouTube channel in a high-paying n
 
 ## The plan in five lines
 
-1. **Niche:** business and money stories (collapses, scams, how companies really make money).
+1. **Niche:** famous brands in trouble right now. Each video explains why a well-known brand has just gone bankrupt or is closing stores, published while few other channels have covered it.
 2. **Format:** faceless documentaries of about 15 minutes with voiceover.
 3. **Pace:** video 1 on day 3, then one every three days, and a fast follow-up to the best one on days 13–14.
 4. **Target by day 14:** 4,000 watch hours and 1,000 subscribers, which is about 48,000 views at a 5-minute average watch time.

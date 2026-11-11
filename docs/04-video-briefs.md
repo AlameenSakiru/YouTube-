@@ -1,179 +1,135 @@
-# Video briefs: your first six videos
+# Video briefs: your first videos
 
-Each brief gives you titles, a thumbnail idea, the opening lines, an outline, and the facts to check.
+The niche is famous brands in trouble right now (see [02-niche-and-channel.md](02-niche-and-channel.md)). These briefs come from news searches on 11 November 2026.
 
-**Check every fact before you record.** The figures below are from my memory and are starting points for your research. Confirm each one in at least two reliable sources (major news outlets, court records, company filings). A wrong number in a business video brings angry comments and hurts the channel.
+**Check every fact before you record.** I read search summaries, not the full articles or court filings. Figures marked "from memory" were not in this week's sources at all. Confirm each one in at least two reliable sources. These are live stories about real companies, so say only what the company, the court or major outlets have reported.
 
 ## How to choose video 1
 
-Famous collapses have been covered many times by big channels. For the best chance of a breakout, your first video should be one of these:
-
-- **A fresh story.** A collapse or scandal from the last few months that the big channels have not covered yet. Search YouTube for the company name; if the top results are news clips and not documentaries, the space is open. Two leads that came up in a news search this week, which I have not verified: the bankruptcy of car-parts maker First Brands Group with a reported $10 billion or more in debt, and the collapse of used-car lender Tricolor.
-- **A famous story with a new angle.** Brief 1 below is the easiest to start with: the story is short, the numbers are striking, and it has fewer documentaries than WeWork or FTX.
+Use the freshest story that passes the four-part test in the niche guide. Today that is brief 1. If more than about a week has passed since you read this, search the news again first: a newer bankruptcy of a famous brand will beat an older one.
 
 ---
 
-## 1. Quibi: $1.75 billion gone in six months
+## 1. The Children's Place (filed for bankruptcy, early November 2026)
+
+**Why this one:** the news is days old, the brand is known to most US parents, and a YouTube search on 11 November showed news clips but no full explainer.
 
 **Titles**
-- How to Lose $1.75 Billion in 6 Months
-- The Fastest Billion-Dollar Failure in History
-- Hollywood's $1.75 Billion Mistake
+- Why The Children's Place Just Went Bankrupt
+- The Children's Place Is Bankrupt. Here's What Went Wrong
+- How a 500-Store Kids' Clothing Giant Ran Out of Money
 
-**Thumbnail:** a phone with a cracked screen, big text "$1.75B → $0", and "6 MONTHS" in a smaller label.
+**Thumbnail:** a dark storefront in a mall, the text "BANKRUPT" in large letters, and "500 STORES" in a smaller label. Do not write "closing all stores": the company says stores stay open for now.
 
 **Opening lines**
-> In April 2020, a new streaming app launched with 1.75 billion dollars in the bank, some of the biggest names in Hollywood, and a Super Bowl ad. Six months later, it was dead. No scandal. No fraud. Just one idea that almost nobody wanted. This is how Quibi burned through nearly two billion dollars faster than any startup before it.
+> For decades, The Children's Place was where American parents bought school clothes. Over five hundred stores. A place in almost every mall. This month, the company filed for bankruptcy and put itself up for sale, with only weeks to find a buyer. If nobody comes, one of the last big names in kids' clothing could disappear. This is how it got here.
 
 **Outline**
-1. The pitch: short premium shows made only for phones
-2. The founders and why investors trusted them
-3. Raising the money before a single viewer existed
-4. Launch day, and the bad timing of the pandemic
-5. The product decisions that hurt it (no sharing, no TV app at launch)
-6. The numbers falling short
-7. The shutdown and where the shows went
-8. The lesson: money and famous names cannot replace demand
+1. What just happened: the filing, the sale, the deadline
+2. The rise: how it became a mall staple
+3. The mall problem: fewer shoppers every year
+4. New competition: big-box stores, online sellers, cheap fast fashion
+5. Debt, losses and the change of owner
+6. The final months before the filing
+7. What happens to the stores, the staff and gift cards
+8. What comes next: the possible buyers and the dates to watch
 
-**Facts to check:** total raised; launch date; shutdown announcement date; subscriber figures; who bought the content library and for how much.
+**Reported this week (confirm):** filed for Chapter 11 in New Jersey in early November 2026; 514 stores in North America and two online stores; seeking a buyer for nearly all of the business; offers due 9 December; aims to close a deal by the end of December; stores and websites stay open for now; some store closures expected.
+
+**From memory (confirm):** founded in 1969; an investment firm from Saudi Arabia took majority control in 2024; owns the Gymboree brand.
+
+**Built-in follow-up:** the sale deadline in December gives you a second video ("Who Is Buying The Children's Place?") when the result is known.
 
 ---
 
-## 2. Blockbuster: the $50 million offer they laughed at
+## 2. Saks Global (filed for bankruptcy, January 2026)
+
+**Angle:** how the owner of America's best-known luxury department stores went bankrupt. Check for the latest news first; the best version of this video is tied to a new development such as store closures or a sale.
 
 **Titles**
-- Blockbuster Could Have Bought Netflix for $50 Million
-- The $50 Million Mistake That Killed Blockbuster
-- How Blockbuster Lost Everything to a DVD-by-Mail Startup
+- Why Saks Fifth Avenue Went Bankrupt
+- The Luxury Giant That Could Not Pay Its Bills
+- How Saks Lost Billions Selling to the Rich
 
-**Thumbnail:** an empty video store with the lights off, text "THEY SAID NO", and "$50M" circled.
+**Thumbnail:** a luxury storefront with the lights off, text "LUXURY, BANKRUPT".
 
-**Opening lines**
-> In the year 2000, the founders of a small, money-losing company flew to Dallas to make an offer. Buy us for 50 million dollars. The giant across the table had thousands of stores and millions of customers. It turned them down. Ten years later the giant was bankrupt, and the small company was called Netflix.
-
-**Outline**
-1. Blockbuster at its peak
-2. Why customers quietly hated it: late fees
-3. Netflix's early struggle and the meeting in Dallas
-4. Blockbuster's own online service, and why it was stopped
-5. Debt, a change of leadership, and the wrong bet on stores
-6. Bankruptcy
-7. The last store still open
-8. The lesson: the business that pays you today can stop you from building tomorrow's
-
-**Facts to check:** the year and amount of the offer; number of stores at peak; share of revenue from late fees; bankruptcy date; details of Blockbuster's online service.
+**Facts to check:** filing date; size of the debt; the purchase of Neiman Marcus and what it cost (from memory: 2024, about $2.65 billion); reports that it is liquidating its physical stores; what has happened since the filing.
 
 ---
 
-## 3. Kodak: killed by its own invention
+## 3. Francesca's (all stores closed, March 2026)
+
+**Angle:** a women's clothing chain that closed every store. The second time it went bankrupt, there was no rescue.
 
 **Titles**
-- Kodak Invented the Digital Camera, Then Hid It
-- The Invention That Destroyed Its Own Inventor
-- How Kodak Lost a 100-Year Empire
+- Why Francesca's Closed All 450 Stores
+- The Mall Boutique That Died Twice
+- Francesca's: From Every Mall to Gone
 
-**Thumbnail:** an old film roll next to a smartphone camera, text "THEY INVENTED IT" on top and "IT KILLED THEM" below.
+**Thumbnail:** a "STORE CLOSING" sign in a boutique window, text "ALL 450 STORES".
 
-**Opening lines**
-> In 1975, an engineer at Kodak built something nobody had seen before: a camera that needed no film. He showed it to his bosses. Their reaction was simple. That's cute, but don't tell anyone about it. Kodak made its money from film, and this machine made film useless. Thirty-seven years later, Kodak filed for bankruptcy.
-
-**Outline**
-1. Kodak's hold on photography and why film was so profitable
-2. The first digital camera, built inside Kodak
-3. Why management kept it quiet
-4. Competitors move into digital
-5. Kodak's late and half-hearted digital push
-6. The smartphone finishes the job
-7. Bankruptcy and what Kodak is today
-8. The lesson: protecting an old profit can cost the whole company
-
-**Facts to check:** the engineer's name and the year; the exact reaction of management (find a direct quote); Kodak's market share at its peak; bankruptcy date; what the company does now.
+**Facts to check:** number of stores at closing (reported as about 450); announcement date (reported 15 January 2026); last day of business (reported 29 March 2026); the earlier bankruptcy and who bought it then.
 
 ---
 
-## 4. WeWork: from $47 billion to bankruptcy
+## 4. Rite Aid (closing its remaining stores)
+
+**Angle:** one of America's three big pharmacy chains has gone. Wide audience, because almost everyone knew a Rite Aid.
 
 **Titles**
-- How WeWork Lost $47 Billion
-- The $47 Billion Office Company That Was Never a Tech Company
-- WeWork: The Most Expensive Lie in Startup History
+- Why Rite Aid Is Gone
+- How America's Third-Biggest Pharmacy Collapsed
+- Rite Aid: Two Bankruptcies and the End
 
-**Thumbnail:** an empty modern office, a red arrow falling, text "$47B → BANKRUPT".
+**Thumbnail:** an empty pharmacy shelf, text "GONE".
 
-**Opening lines**
-> In early 2019, WeWork was valued at 47 billion dollars. It rented office space, added free coffee, and rented it out again. Investors called it a technology company. Within months, the plan to sell shares to the public fell apart, the founder was pushed out, and the valuation collapsed. This is how a company that leased desks convinced the world it was worth more than most banks.
-
-**Outline**
-1. The simple business underneath
-2. The founder and the story he sold
-3. The biggest investor and the money that kept coming
-4. The public filing that exposed the losses
-5. The failed share sale and the founder's exit
-6. The pandemic and empty offices
-7. Bankruptcy
-8. The lesson: a great story can hide a weak business only until someone reads the numbers
-
-**Facts to check:** peak valuation and date; annual losses; the founder's exit package; bankruptcy filing date; what happened to the company after.
+**Facts to check:** dates of both bankruptcies; number of stores at the peak and at the end; the role of opioid lawsuits and debt; who bought the prescriptions and stores. A blog post from May 2026 was my only source for the final closures, so confirm with a major outlet.
 
 ---
 
-## 5. Theranos: the $9 billion blood test that never worked
+## 5. FAT Brands (filed for bankruptcy, January 2026)
+
+**Angle:** the company behind several well-known restaurant chains filed for bankruptcy. Viewers know the restaurants even if they do not know the parent company.
 
 **Titles**
-- The $9 Billion Company That Never Had a Product
-- How One Lie Fooled Silicon Valley
-- Theranos: The Blood Test That Did Not Exist
+- The Company Behind Your Favourite Burger Chains Is Bankrupt
+- How One Company Bought 18 Restaurant Brands and Went Broke
+- Why FAT Brands Collapsed
 
-**Thumbnail:** a single drop of blood on a fingertip, text "$9B" above and "IT NEVER WORKED" below.
+**Thumbnail:** a burger on a tray with an overdue-bill stamp, text "BANKRUPT".
 
-**Opening lines**
-> The promise was simple. One drop of blood from your finger, and a small machine would run hundreds of medical tests. The company behind it was valued at 9 billion dollars. Its founder was called the next Steve Jobs. There was only one problem. The machine did not work, and people inside the company knew it.
-
-**Outline**
-1. The promise and why everyone wanted it to be true
-2. The founder's rise and the famous names on the board
-3. The deal that put the tests in pharmacies
-4. What was really happening in the lab
-5. The employees who spoke up and the reporter who listened
-6. The collapse
-7. The trial and the sentence
-8. The lesson: investors checked the story and not the science
-
-**Facts to check:** peak valuation; the pharmacy partner; the reporter and newspaper; conviction and sentence. This video is about real people and criminal cases, so state only what courts decided or what major outlets reported.
+**Facts to check:** filing date (reported 26 January 2026); which restaurant chains it owns; how much debt it had and how it was raised; what has happened to the restaurants.
 
 ---
 
-## 6. FTX: $32 billion to zero in a week
+## 6. Sleep Number (reported filing, June 2026)
+
+**Angle:** a famous mattress brand with its own stores. One tracker listed a Chapter 11 filing in June 2026; I could not confirm it in a major outlet, so verify before choosing this topic.
 
 **Titles**
-- How FTX Lost $32 Billion in 7 Days
-- The Week a $32 Billion Company Disappeared
-- FTX: The Fastest Collapse in Finance
+- Why Sleep Number Went Bankrupt
+- The $5,000 Mattress Company That Ran Out of Money
+- How Sleep Number Lost Its Customers
 
-**Thumbnail:** a stack of coins turning to dust, text "$32B" with "7 DAYS" under it.
-
-**Opening lines**
-> At the start of November 2022, FTX was one of the largest crypto exchanges in the world, valued at 32 billion dollars. Its founder was on magazine covers and in meetings with politicians. By the end of the next week, the company was bankrupt, billions in customer money was missing, and the founder was on his way to a courtroom.
-
-**Outline**
-1. What FTX was and how fast it grew
-2. The founder's public image
-3. The second company in the shadows and where customer money went
-4. The leaked balance sheet
-5. The rival's announcement and the rush to withdraw
-6. Bankruptcy
-7. The trial and the sentence
-8. The lesson: when a company and its owner's trading firm share one wallet, the customers pay
-
-**Facts to check:** valuation and date; timeline of the final week day by day; amount of customer money missing; conviction and sentence. Same caution as brief 5.
+**Facts to check:** whether and when it filed; store count; sales trend over the last five years; what happens to warranties.
 
 ---
 
-## More topics for videos 7 onward
+## Script opening pattern for any brand
 
-- Juicero: the $400 juicer you could replace with your hands
-- Nokia: from half the phone market to selling the phone business
-- Toys "R" Us: how debt killed a profitable toy giant
-- MoviePass: unlimited movies for $10 a month
-- Enron: the company that invented its own profits
-- Any new collapse in the news that week
+Fill in the brackets from your research.
+
+> For [number] years, [brand] was [what it meant to ordinary people]. [Number] stores. [One detail everyone remembers.] This [week/month], it [filed for bankruptcy / announced it is closing every store]. [The single most surprising fact.] This is how it got here.
+
+## Keep the list fresh
+
+By the time you reach video 3, newer stories will exist. Before each video, repeat the search in the niche guide and choose the newest famous brand that passes the test.
+
+## Sources for these briefs
+
+- [Children's Place files for Chapter 11, seeks buyer (CNBC)](https://cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html)
+- [The Children's Place is closing stores, joins list of 2026 retail bankruptcies (Fast Company)](https://www.fastcompany.com/91639434/the-childrens-place-closing-stores-joins-list-of-2026-retail-bankruptcies?partner=rss)
+- [The Children's Place files for Chapter 11 bankruptcy (NJBIZ)](https://njbiz.com/childrens-place-chapter-11-bankruptcy/)
+- [Francesca's (Wikipedia)](https://en.wikipedia.org/wiki/Francesca%27s)
+- [Leading companies filing for bankruptcy (Intellizence tracker)](https://intellizence.com/insights/bankruptcy/leading-companies-filing-for-bankruptcy/?ref=reliefmine.com)
+- [Longtime kids clothing retailer The Children's Place files for bankruptcy (YouTube news clip)](https://www.youtube.com/watch?v=ter82rwrVSU)
