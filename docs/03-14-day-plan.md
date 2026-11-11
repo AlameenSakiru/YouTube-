@@ -9,7 +9,7 @@ Plan for 3–5 hours of work a day.
 ## How the plan raises your chances
 
 1. **Publish early.** Video 1 goes out on day 3, so it has 11 days to collect views.
-2. **Start with a fresh story.** A collapse or scandal from the last few months has people searching and few documentaries competing. See "How to choose video 1" in [04-video-briefs.md](04-video-briefs.md).
+2. **Start with your strongest story.** One specific place, a date or number, and a fact that sounds impossible but is documented. See "How to choose video 1" in [04-video-briefs.md](04-video-briefs.md).
 3. **Make longer videos that hold attention.** A 15-minute video watched for 7 minutes needs about 34,000 views to reach 4,000 hours. A 10-minute video watched for 4 minutes needs 60,000.
 4. **Four videos, then follow the winner.** Days 13–14 are kept free for a fast follow-up to whichever video is doing best.
 5. **Fix packaging quickly.** If a video has a low click rate after 48 hours, change the thumbnail or title the same day.
@@ -18,7 +18,7 @@ Plan for 3–5 hours of work a day.
 
 | Day | Tasks |
 |---|---|
-| **1** | Set up the channel (checklist in [02-niche-and-channel.md](02-niche-and-channel.md)). Choose a fresh story for video 1. Research it from at least three reliable sources. Decide the title and thumbnail idea. |
+| **1** | Set up the channel (checklist in [02-niche-and-channel.md](02-niche-and-channel.md)). Choose the story for video 1. Research it from at least three reliable sources and collect pictures you are allowed to use. Decide the title and thumbnail idea. |
 | **2** | Write the script (2,000–2,300 words for about 15 minutes). Record the voiceover. |
 | **3** | Edit the video. Make three thumbnail versions and pick the clearest. **Publish video 1.** Reply to every comment. |
 
@@ -50,7 +50,7 @@ Plan for 3–5 hours of work a day.
 
 | Day | Tasks |
 |---|---|
-| **13** | Start a follow-up to your best video: a related company, the same kind of story, the same title style. Write and record it. |
+| **13** | Start a follow-up to your best video: a nearby place, the same kind of story, the same title style. Write and record it. |
 | **14** | Publish the follow-up if it is ready. Review all your videos and plan the next ten topics. |
 
 ## If a video starts to take off

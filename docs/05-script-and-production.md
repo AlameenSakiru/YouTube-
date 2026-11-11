@@ -4,18 +4,18 @@
 
 People speak about 150 words a minute. A 2,000–2,300 word script gives a video of about 15 minutes, which is the length the 14-day plan aims for: more minutes watched per view means fewer views needed. Only go that long if the story fills it; a padded video loses viewers. Videos over 8 minutes can carry ads in the middle once you are monetized.
 
-The timings in the template below are for a 12-minute video. For 15 minutes, give the extra time to the escalation and the collapse.
+The timings in the template below are for a 12-minute video. For 15 minutes, give the extra time to the story and the answer.
 
 ## Script template
 
 | Part | Length | What it does |
 |---|---|---|
 | **Hook** | 0:00–0:30 | The most surprising fact or number, then a promise of what the video explains. No greeting, no "welcome to my channel". |
-| **Setup** | 0:30–2:00 | Who or what this is about, and how big it was at the top. The higher the peak, the harder the fall feels. |
-| **First crack** | 2:00–4:00 | The first sign of trouble. End with a question the viewer wants answered. |
-| **Escalation** | 4:00–8:00 | Two or three turning points, each worse than the last. Start each with a short line that pulls the viewer forward, such as "But the real problem was still hidden." |
-| **Collapse** | 8:00–10:30 | The moment it all comes down. Slow down here and give the detail. |
-| **Aftermath and lesson** | 10:30–12:00 | What happened to the people and the money. One clear lesson. |
+| **Setup** | 0:30–2:00 | Where this place is and what it looks like today. Use a map so viewers who have never been there can follow. |
+| **The question** | 2:00–4:00 | The strange fact, stated plainly, and why it should not be possible. End with the question the video will answer. |
+| **The story** | 4:00–8:00 | How it came to be, in two or three steps. Start each with a short line that pulls the viewer forward, such as "But that was not the strangest part." |
+| **The answer** | 8:00–10:30 | The explanation or the key event. Slow down here and give the detail. |
+| **Today** | 10:30–12:00 | What is there now, and what could happen next. |
 | **Ask** | last 15 seconds | Ask viewers to subscribe and point to another video on screen. |
 
 ## Writing rules
@@ -29,23 +29,23 @@ The timings in the template below are for a 12-minute video. For 15 minutes, giv
 ## Title and thumbnail rules
 
 - Decide the title and thumbnail **before** writing the script. If you cannot make a title you would click, choose another topic.
-- Title: under 60 characters, one clear number or claim.
+- Title: one named place, one date or number, one surprising fact. Put the place and the surprise in the first 60 characters, because phones cut off the rest. The best-performing titles in the research were long and specific, not short and vague.
 - Thumbnail: one image, three to five words of text at most, readable at phone size.
 - The thumbnail text should add to the title, not repeat it.
 - The video must deliver what the title promises in the first minute.
 
 ## Production workflow for each video
 
-1. **Research (2–3 hours).** Collect facts with links in one document. Build a timeline.
+1. **Research (2–3 hours).** Collect facts with links in one document. Build a timeline. Save every picture with a note of where it came from and its licence.
 2. **Script (2–3 hours).** Follow the template. Mark where each fact came from.
 3. **Voiceover (1 hour).** Record in a quiet room, close to the microphone. Remove long pauses.
-4. **Edit (3–5 hours).** Change the picture every 3–6 seconds: stock clips, article screenshots, simple charts, key numbers as large text. Add quiet background music.
+4. **Edit (3–5 hours).** Change the picture every 3–6 seconds: maps, fly-over shots, archive photographs, diagrams, key numbers as large text. Add quiet background music.
 5. **Package (1 hour).** Three thumbnail versions. Final title. A description with a two-sentence summary and your sources.
 6. **Publish.** Add chapters, an end screen pointing to another video, and a pinned comment that asks viewers a question.
 
 ## Upload checklist
 
-- [ ] Title under 60 characters
+- [ ] Title names the place and the surprising fact in its first 60 characters
 - [ ] Custom thumbnail uploaded
 - [ ] Description with summary and source links
 - [ ] Chapters added

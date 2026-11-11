@@ -1,56 +1,75 @@
 # Niche and channel setup
 
-## The niche: famous brands in trouble right now
+## The niche: hidden places of the Great Lakes region
 
-Every video explains why a well-known brand has just filed for bankruptcy or is closing its stores. The story is told while it is in the news: what happened, how the company got here, and what happens next.
+One strange, dangerous or little-known place per video, in the region around North America's five Great Lakes: eight US states and the Canadian province of Ontario.
 
-Example: The Children's Place, a kids' clothing chain with about 500 stores, filed for bankruptcy in early November 2026. When I searched YouTube on 11 November, the results were short news clips and no full explainer. That gap is the niche.
+The subjects are the lakes themselves, their storms and shipwrecks, the land around them, and the engineering built on them. Every video is a true, documented story about one place.
+
+This niche was chosen from measurements, not opinion. The full research is in [06-niche-research.md](06-niche-research.md).
 
 ## Why this niche
 
-You asked for low competition, high pay, and the ability to hit the targets. I do not know of a whole category that is empty, high-paying and popular at the same time, because money attracts creators. This niche gets its low competition from **timing** instead.
-
-| What you asked for | How this niche delivers it |
+| What you asked for | What the data shows |
 |---|---|
-| Low competition | Each story is new. For the first days after a brand files for bankruptcy, YouTube has news clips but few or no full explainers. You compete with almost nobody on that story if you publish fast. |
-| High pay | Business content with a mostly US audience earns some of the highest ad rates. These are US brands that US viewers know. |
-| Able to hit the targets | People already know the brand and are searching "why is it closing". You do not have to create the interest. |
-| Long term | Brands fail every month, so topics never run out. A channel known for being first and accurate becomes the place people check. |
-
-It suits a faceless channel: voiceover, news screenshots, stock footage of stores and malls, charts and simple motion graphics.
+| Low competition | No channel I found covers the whole region across these subjects. In the Great Lakes topics I sampled, I found four channels under three months old, and all four already had a video over 30,000 views. In the US roads lane, 8 of 11 new channels were struggling. |
+| High pay | Long educational documentaries had the highest measured earnings ($10.22 median per 1,000 views in the 300-channel study). The audience is in the US and Canada, two of the best-paying countries. |
+| Able to hit the targets | Places-and-geography was the best group measured: 11 of 20 small channels had a video over 50,000 views in six months. Videos on this region have reached 97,000 to 204,000 views on channels under 14,000 subscribers. |
+| Subscribers | Places-and-geography channels gained roughly 1 to 1.5 subscribers per 100 views, against 0.2 to 0.9 for railroad and road channels. |
+| Long term | The same format extends to the rest of North America once the channel is established. Channels of this type with only 23 to 36 videos have passed 95,000 subscribers. |
 
 ## What you give up
 
-- **Speed matters.** A video published a week after the news does far better than one published a month after. The three-day cycle in the plan fits this.
-- **Videos age faster** than timeless stories. Tell the brand's full history in each video, not only this week's news, so it stays worth watching.
-- **The category has established channels** that cover company failures. They are usually slower on new stories, and that is your opening. On an old, famous story they will beat you.
-- **Accuracy is harder on live stories.** Say only what the company, the court filings or major outlets have reported.
+- **You have to learn the region.** Viewers who live there will notice wrong place names and wrong facts. Every script needs checked sources.
+- **Some topics are seasonal.** Shipwreck interest peaks around 10 November, which has just passed. Storm and snow topics do best in winter; drowning and beach topics in summer.
+- **Others can move in.** Larger geography channels could start covering the region. Being consistent and accurate is the defence.
+- **The proof is recent.** The successful small channels here are weeks or months old. Nobody knows yet how long the opening lasts.
 
-I could check competition only through web searches of YouTube, not YouTube's own data. Before each video, search the brand name on YouTube yourself.
+## The title pattern that works
+
+In every niche I measured, the same day's results ranged from 100,000 views to 50. The titles that won share three things:
+
+1. **One specific place or object**, named.
+2. **A date or a number.**
+3. **A fact that sounds impossible but is documented.**
+
+Weak: "The history of the Great Lakes". Strong: "In 1969 engineers turned off Niagara Falls for five months".
+
+Do not copy another channel's titles or topics. In the data, channels that copied did far worse than the ones they copied.
 
 ## The test for every topic
 
 Make the video only if all four are true:
 
-1. Most adults in the US would recognise the brand.
-2. The news is less than two weeks old.
-3. A YouTube search for the brand shows news clips, not full explainers.
-4. You can find at least three reliable sources.
+1. It is one specific place, event or object in the region.
+2. There is a surprising fact that you can prove with a reliable source.
+3. You can find at least three sources, one of them official (a government agency, a university, a museum).
+4. You can get enough pictures you are allowed to use.
 
-## Where to find stories each week
+## Where to find stories
 
-- Google News: search "files for Chapter 11", "closing all stores", "bankruptcy" plus the current month
-- Retail and restaurant trade news: Retail Dive, Restaurant Business, CNBC's retail section
-- The company's own bankruptcy filing. The "first day declaration" explains in the company's words why it failed, and it is the best single source for a script.
-- Google Trends, to compare how much people are searching for two possible topics
+- NOAA Great Lakes Environmental Research Laboratory (lake science, ice, waves, water levels)
+- NOAA Thunder Bay National Marine Sanctuary (shipwrecks)
+- National Weather Service history pages for Chicago, Detroit, Cleveland, Buffalo, Duluth
+- US Army Corps of Engineers, Detroit and Buffalo districts (locks, harbours, Niagara)
+- US Geological Survey and state geological surveys (rocks, sinkholes, dunes)
+- National Transportation Safety Board and US Coast Guard accident reports
+- Great Lakes Shipwreck Museum and local historical societies
+- Local newspapers' history sections
 
-## Other niches I considered
+## Where to find pictures you can use
 
-| Niche | Competition | Why I did not choose it |
+| Source | What it has | Rule |
 |---|---|---|
-| Famous old collapses (WeWork, Theranos, FTX) | High | Many large channels have already told these stories well |
-| Company scandals from outside the US, rarely told in English | Low | Fewer viewers know the companies, and the audience is less US-based, so both views and ad rates are lower |
-| How ordinary businesses make money (laundromats, car washes) | Medium | Steady search traffic but a small chance of a breakout in 14 days |
+| NOAA, USGS, NASA, US Army Corps, US Coast Guard, National Weather Service | Photos, maps, satellite images, diagrams | Works made by US federal agencies are generally free to use. Check the credit line on each image, because some are supplied by other people. |
+| Library of Congress, US National Archives | Historic photographs and film | Most older material is free to use; each item lists its rights. |
+| Wikimedia Commons | Photos and maps | Follow the licence shown for each file and give credit where it says to. |
+| Google Earth Studio | Fly-over shots of any place | Allowed for online video with the required credit shown on screen. Read its current terms first. |
+| Pexels, Pixabay | Stock video of water, ice, storms, ships | Free to use. |
+
+Canadian government images are not automatically free to use. Check the licence for each one.
+
+Do not use television news footage or clips from other YouTube channels.
 
 ## Channel setup checklist
 
@@ -66,17 +85,17 @@ Make the video only if all four are true:
 
 Check each on YouTube first and pick one nobody is using.
 
-- Last Day Open
-- Why It's Closing
-- Going Under
-- Chapter 11 Stories
-- Store Closing Explained
+- Five Lakes Files
+- Freshwater Files
+- Under the Lakes
+- Lake Country Secrets
+- The Sweetwater Seas
 
 A good name is short, easy to spell, and tells a new viewer what the channel covers.
 
 ## Channel description template
 
-> Why famous brands are closing. Every video explains one company that has just filed for bankruptcy or is shutting its stores: what happened, how it got here, and what comes next. New video every three days.
+> True stories of the strangest and most dangerous places around the Great Lakes. Each video explains one place: what is there, how it got that way, and why most people have never heard of it. New video every three days.
 
 ## Tools for a faceless channel
 
@@ -84,12 +103,9 @@ All have free plans or free alternatives.
 
 | Job | Tool |
 |---|---|
-| Research | News articles, court filings, company annual reports, Wikipedia for the outline (never as the only source) |
 | Script | Google Docs |
-| Voiceover | Your own voice with a phone and a quiet room is best. If you use an AI voice, pick one natural voice and keep it. |
+| Voiceover | Your own voice with a phone and a quiet room is best. If you use an AI voice, pick one natural voice and keep it. Check how every place name is pronounced. |
 | Editing | CapCut or DaVinci Resolve |
-| Footage | Pexels and Pixabay (free stock video), your own screen recordings, simple charts |
+| Maps and fly-overs | Google Earth Studio |
 | Thumbnails | Canva or Photopea |
 | Music | YouTube Audio Library |
-
-Only use footage, images and music you have the right to use. Copyright claims can block monetization. News footage from TV stations is not free to reuse.

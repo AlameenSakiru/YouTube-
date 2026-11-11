@@ -19,11 +19,13 @@ A 14-day plan to launch a faceless, long-form YouTube channel in a high-paying n
 | [docs/03-14-day-plan.md](docs/03-14-day-plan.md) | What to do each day for 14 days |
 | [docs/04-video-briefs.md](docs/04-video-briefs.md) | Your first six videos: titles, thumbnails, opening lines, outlines |
 | [docs/05-script-and-production.md](docs/05-script-and-production.md) | The script template and the faceless production workflow |
+| [docs/06-niche-research.md](docs/06-niche-research.md) | The research behind the niche: pay data and 582 channels measured |
+| [research/channels-2026-11-11.csv](research/channels-2026-11-11.csv) | The channel data, with a link to every channel |
 | [tracker/index.html](tracker/index.html) | Progress tracker: log subscribers and watch hours, tick off the 14 days |
 
 ## The plan in five lines
 
-1. **Niche:** famous brands in trouble right now. Each video explains why a well-known brand has just gone bankrupt or is closing stores, published while few other channels have covered it.
+1. **Niche:** hidden places of the Great Lakes region. Each video tells one true story about a strange or dangerous place around North America's Great Lakes. Chosen from measurements of 582 channels.
 2. **Format:** faceless documentaries of about 15 minutes with voiceover.
 3. **Pace:** video 1 on day 3, then one every three days, and a fast follow-up to the best one on days 13–14.
 4. **Target by day 14:** 4,000 watch hours and 1,000 subscribers, which is about 48,000 views at a 5-minute average watch time.
