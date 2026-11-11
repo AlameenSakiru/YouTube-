@@ -1,0 +1,428 @@
+<title>Monetization Tracker</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;700&display=swap">
+<style>
+/* Layout: one narrow column. Goal meters first, then the daily log, then the 14-day checklist. */
+:root {
+  --bg: #F2F4F7;
+  --surface: #FFFFFF;
+  --ink: #101A2B;
+  --muted: #56637A;
+  --line: #D9DFE8;
+  --accent: #1F4FD8;
+  --accent-ink: #FFFFFF;
+  --track: #DCE5FB;
+  --good: #16794A;
+  --good-track: #D5EFE1;
+  --warn: #8A5200;
+  --danger: #B3261E;
+  --font-display: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Inter", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0C1220; --surface: #141C2D; --ink: #E7ECF5; --muted: #97A4BA; --line: #26324A;
+    --accent: #7EA6FF; --accent-ink: #0C1220; --track: #1F2C4A;
+    --good: #4FD08E; --good-track: #173527; --warn: #F0B455; --danger: #FF8A80;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0C1220; --surface: #141C2D; --ink: #E7ECF5; --muted: #97A4BA; --line: #26324A;
+  --accent: #7EA6FF; --accent-ink: #0C1220; --track: #1F2C4A;
+  --good: #4FD08E; --good-track: #173527; --warn: #F0B455; --danger: #FF8A80;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink);
+  font-family: var(--font-body); font-size: 15px; line-height: 1.5;
+}
+.page {
+  max-width: 820px; margin: 0 auto;
+  padding-block: 28px 56px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: flex; flex-direction: column; gap: 28px;
+}
+h1, h2 { font-family: var(--font-display); text-wrap: balance; margin: 0; }
+h1 { font-size: 28px; font-weight: 700; letter-spacing: -0.01em; }
+h2 { font-size: 18px; font-weight: 700; }
+p { margin: 0; }
+.muted { color: var(--muted); }
+.num { font-variant-numeric: tabular-nums; }
+
+header { display: flex; flex-direction: column; gap: 6px; }
+.deadline { color: var(--muted); max-width: 62ch; }
+.deadline b { color: var(--ink); font-weight: 600; }
+#status { color: var(--muted); font-size: 13px; min-height: 20px; }
+#status.problem { color: var(--warn); }
+
+section { display: flex; flex-direction: column; gap: 14px; }
+.panel {
+  background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+  padding: 18px; display: flex; flex-direction: column; gap: 18px;
+}
+
+/* Meters */
+.meter { display: flex; flex-direction: column; gap: 8px; }
+.meter-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.meter-name { font-weight: 600; }
+.meter-fig { color: var(--muted); }
+.meter-fig b { font-family: var(--font-display); font-size: 24px; font-weight: 700; color: var(--ink); }
+.track { position: relative; height: 12px; border-radius: 4px; background: var(--track); overflow: hidden; }
+.fill { height: 100%; width: 0; background: var(--accent); border-radius: 4px; transition: width .3s ease; }
+.meter.done .track { background: var(--good-track); }
+.meter.done .fill { background: var(--good); }
+.tick { position: absolute; top: 0; bottom: 0; width: 2px; background: var(--surface); }
+.meter-foot { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; font-size: 13px; color: var(--muted); }
+.meter-foot .reached { color: var(--good); font-weight: 600; }
+.facts { display: flex; gap: 24px; flex-wrap: wrap; border-top: 1px solid var(--line); padding-top: 14px; }
+.fact { display: flex; flex-direction: column; }
+.fact span { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.fact b { font-family: var(--font-display); font-size: 20px; }
+
+/* Form */
+form { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+.field { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.field.wide { grid-column: 1 / -1; }
+label { font-size: 13px; font-weight: 500; color: var(--muted); }
+input[type="date"], input[type="number"], input[type="text"] {
+  font: inherit; color: var(--ink); background: var(--bg);
+  border: 1px solid var(--line); border-radius: 6px; padding: 9px 10px; width: 100%; min-width: 0;
+}
+input:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.actions { grid-column: 1 / -1; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+button { font: inherit; cursor: pointer; border-radius: 6px; }
+.primary { background: var(--accent); color: var(--accent-ink); border: 0; padding: 10px 18px; font-weight: 600; }
+.primary:disabled { opacity: .55; cursor: default; }
+#form-error { color: var(--danger); font-size: 13px; }
+@media (max-width: 560px) { form { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+/* History */
+.table-wrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+th { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); font-weight: 500; }
+td.r, th.r { text-align: right; }
+td.note { white-space: normal; min-width: 160px; color: var(--muted); }
+.link { background: none; border: 0; padding: 2px 0; color: var(--muted); text-decoration: underline; font-size: 13px; }
+.link.confirm { color: var(--danger); font-weight: 600; }
+.empty { color: var(--muted); }
+
+/* Checklist */
+.days { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.days li { border-bottom: 1px solid var(--line); }
+.days li:last-child { border-bottom: 0; }
+.days label {
+  display: grid; grid-template-columns: 20px 58px minmax(0, 1fr); gap: 10px; align-items: start;
+  padding: 10px 0; font-size: 15px; color: var(--ink); font-weight: 400; cursor: pointer;
+}
+.days input { width: 18px; height: 18px; margin: 2px 0 0; accent-color: var(--accent); }
+.days .day { font-family: var(--font-display); font-weight: 500; color: var(--muted); }
+.days li.done .task { color: var(--muted); text-decoration: line-through; }
+.days .publish { font-weight: 600; }
+@media (prefers-reduced-motion: reduce) { .fill { transition: none; } }
+</style>
+
+<div class="page">
+  <header>
+    <h1>Monetization Tracker</h1>
+    <p class="deadline"><b class="num" id="days-left">–</b> days until 1 February 2027, when the watch-hour bar for new channels is reported to double to 8,000. Aim to apply by 10 January.</p>
+    <p id="status" role="status" aria-live="polite">Loading saved numbers…</p>
+  </header>
+
+  <section aria-labelledby="h-goals">
+    <h2 id="h-goals">Progress to full monetization</h2>
+    <div class="panel">
+      <div class="meter" id="meter-subs">
+        <div class="meter-head">
+          <span class="meter-name">Subscribers</span>
+          <span class="meter-fig num"><b id="subs-now">0</b> / 1,000</span>
+        </div>
+        <div class="track" id="subs-track" role="progressbar" aria-label="Subscribers" aria-valuemin="0" aria-valuemax="1000" aria-valuenow="0">
+          <div class="fill" id="subs-fill"></div><span class="tick" style="left:50%"></span>
+        </div>
+        <div class="meter-foot"><span id="subs-state">1,000 to go</span><span>Mark at 500: fan-funding tier</span></div>
+      </div>
+      <div class="meter" id="meter-hours">
+        <div class="meter-head">
+          <span class="meter-name">Public watch hours</span>
+          <span class="meter-fig num"><b id="hours-now">0</b> / 4,000</span>
+        </div>
+        <div class="track" id="hours-track" role="progressbar" aria-label="Public watch hours" aria-valuemin="0" aria-valuemax="4000" aria-valuenow="0">
+          <div class="fill" id="hours-fill"></div><span class="tick" style="left:75%"></span>
+        </div>
+        <div class="meter-foot"><span id="hours-state">4,000 to go</span><span>Mark at 3,000: fan-funding tier</span></div>
+      </div>
+      <div class="facts">
+        <div class="fact"><span>Videos published</span><b class="num" id="videos-now">0</b></div>
+        <div class="fact"><span>Days logged</span><b class="num" id="days-logged">0</b></div>
+        <div class="fact"><span>Last update</span><b class="num" id="last-update">–</b></div>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-log">
+    <h2 id="h-log">Log today's numbers</h2>
+    <p class="muted">Copy the totals from YouTube Studio. Saving a date you already logged replaces that day.</p>
+    <div class="panel">
+      <form id="log-form" novalidate>
+        <div class="field"><label for="f-date">Date</label><input type="date" id="f-date" required></div>
+        <div class="field"><label for="f-subs">Subscribers</label><input type="number" id="f-subs" min="0" step="1" inputmode="numeric" placeholder="0"></div>
+        <div class="field"><label for="f-hours">Watch hours</label><input type="number" id="f-hours" min="0" step="0.1" inputmode="decimal" placeholder="0"></div>
+        <div class="field"><label for="f-videos">Videos published</label><input type="number" id="f-videos" min="0" step="1" inputmode="numeric" placeholder="0"></div>
+        <div class="field wide"><label for="f-note">Note (optional)</label><input type="text" id="f-note" maxlength="200" placeholder="What you published or changed today"></div>
+        <div class="actions">
+          <button class="primary" type="submit" id="save-btn">Save day</button>
+          <span id="form-error" role="alert"></span>
+        </div>
+      </form>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-history">
+    <h2 id="h-history">History</h2>
+    <div class="panel">
+      <p class="empty" id="history-empty">No days logged yet. Your daily numbers will be listed here after you save the first day above.</p>
+      <div class="table-wrap" id="history-wrap" hidden>
+        <table>
+          <thead><tr><th>Date</th><th class="r">Subscribers</th><th class="r">Watch hours</th><th class="r">Videos</th><th>Note</th><th></th></tr></thead>
+          <tbody id="history-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-plan">
+    <h2 id="h-plan">14-day launch plan</h2>
+    <p class="muted"><span class="num" id="plan-count">0</span> of 14 days done.</p>
+    <div class="panel"><ul class="days" id="days"></ul></div>
+  </section>
+</div>
+
+<script>
+(function () {
+  var GOAL_SUBS = 1000, GOAL_HOURS = 4000;
+  var DEADLINE = '2027-02-01', APPLY_BY = '2027-01-10';
+  var PLAN = [
+    'Set up the channel. Study 15 channels in the niche.',
+    'Research and write the script for video 1.',
+    'Record, edit and make the thumbnail for video 1.',
+    'Publish video 1.',
+    'Script and voiceover for video 2.',
+    'Edit video 2. Make the thumbnail and title.',
+    'Publish video 2. Check video 1\'s numbers.',
+    'Script and voiceover for video 3.',
+    'Edit video 3. Make the thumbnail and title.',
+    'Publish video 3. Fix weak titles or thumbnails.',
+    'Script and voiceover for video 4.',
+    'Edit video 4. Make the thumbnail and title.',
+    'Publish video 4.',
+    'Review all four videos. Plan the next ten.'
+  ];
+
+  var state = { log: {}, done: {}, canWrite: true };
+  var backend = null;
+  var $ = function (id) { return document.getElementById(id); };
+  var fmt = function (n, d) { return Number(n).toLocaleString('en-US', { maximumFractionDigits: d || 0 }); };
+
+  function todayStr() {
+    var d = new Date();
+    return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+  }
+  function daysBetween(a, b) {
+    var pa = a.split('-'), pb = b.split('-');
+    return Math.round((Date.UTC(+pb[0], pb[1] - 1, +pb[2]) - Date.UTC(+pa[0], pa[1] - 1, +pa[2])) / 86400000);
+  }
+  function niceDate(s) {
+    var p = s.split('-');
+    return new Date(Date.UTC(+p[0], p[1] - 1, +p[2])).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' });
+  }
+  function setStatus(text, problem) {
+    var el = $('status'); el.textContent = text; el.classList.toggle('problem', !!problem);
+  }
+
+  /* ---------- Rendering ---------- */
+  function renderMeter(key, value, goal, decimals) {
+    var pct = Math.max(0, Math.min(100, value / goal * 100));
+    var fill = $(key + '-fill');
+    fill.style.width = pct + '%';
+    fill.style.minWidth = value > 0 ? '4px' : '0';
+    $(key + '-track').setAttribute('aria-valuenow', String(Math.min(value, goal)));
+    $(key + '-now').textContent = fmt(value, decimals);
+    var meter = $('meter-' + key), foot = $(key + '-state');
+    var left = goal - value;
+    meter.classList.toggle('done', left <= 0);
+    foot.classList.toggle('reached', left <= 0);
+    if (left <= 0) { foot.textContent = '✓ Reached'; return; }
+    var days = daysBetween(todayStr(), APPLY_BY);
+    var text = fmt(left, decimals) + ' to go';
+    if (days > 0) text += ' · about ' + fmt(left / days, left / days < 10 ? 1 : 0) + ' a day to get there by 10 Jan';
+    foot.textContent = text;
+  }
+
+  function render() {
+    var dates = Object.keys(state.log).sort();
+    var latest = dates.length ? state.log[dates[dates.length - 1]] : { subs: 0, hours: 0, videos: 0 };
+    renderMeter('subs', latest.subs || 0, GOAL_SUBS, 0);
+    renderMeter('hours', latest.hours || 0, GOAL_HOURS, 1);
+    $('videos-now').textContent = fmt(latest.videos || 0);
+    $('days-logged').textContent = fmt(dates.length);
+    $('last-update').textContent = dates.length ? niceDate(dates[dates.length - 1]) : '–';
+
+    var body = $('history-body');
+    body.textContent = '';
+    dates.slice().reverse().forEach(function (date) {
+      var e = state.log[date], tr = document.createElement('tr');
+      [[niceDate(date), ''], [fmt(e.subs || 0), 'r num'], [fmt(e.hours || 0, 1), 'r num'], [fmt(e.videos || 0), 'r num'], [e.note || '', 'note']]
+        .forEach(function (c) { var td = document.createElement('td'); td.textContent = c[0]; td.className = c[1]; tr.appendChild(td); });
+      var td = document.createElement('td');
+      if (state.canWrite) {
+        var btn = document.createElement('button');
+        btn.type = 'button'; btn.className = 'link'; btn.textContent = 'Delete';
+        btn.addEventListener('click', function () {
+          if (!btn.classList.contains('confirm')) {
+            btn.classList.add('confirm'); btn.textContent = 'Confirm delete';
+            setTimeout(function () { btn.classList.remove('confirm'); btn.textContent = 'Delete'; }, 4000);
+            return;
+          }
+          guard(backend.removeDay(date), 'Deleted ' + niceDate(date) + '.');
+        });
+        td.appendChild(btn);
+      }
+      tr.appendChild(td);
+      body.appendChild(tr);
+    });
+    $('history-empty').hidden = dates.length > 0;
+    $('history-wrap').hidden = dates.length === 0;
+
+    var count = 0;
+    PLAN.forEach(function (_, i) {
+      var on = !!state.done[String(i + 1)];
+      if (on) count++;
+      var box = $('day-' + (i + 1));
+      box.checked = on; box.disabled = !state.canWrite;
+      box.closest('li').classList.toggle('done', on);
+    });
+    $('plan-count').textContent = count;
+    $('save-btn').disabled = !state.canWrite;
+  }
+
+  function buildPlan() {
+    var ul = $('days');
+    PLAN.forEach(function (task, i) {
+      var n = i + 1, li = document.createElement('li'), label = document.createElement('label');
+      var box = document.createElement('input'); box.type = 'checkbox'; box.id = 'day-' + n;
+      var day = document.createElement('span'); day.className = 'day'; day.textContent = 'Day ' + n;
+      var text = document.createElement('span'); text.className = 'task' + (/^Publish/.test(task) ? ' publish' : ''); text.textContent = task;
+      label.appendChild(box); label.appendChild(day); label.appendChild(text);
+      li.appendChild(label); ul.appendChild(li);
+      box.addEventListener('change', function () {
+        var next = Object.assign({}, state.done);
+        if (box.checked) next[String(n)] = true; else delete next[String(n)];
+        guard(backend.saveDone(next), '');
+      });
+    });
+  }
+
+  /* ---------- Saving ---------- */
+  function guard(promise, okText) {
+    return promise.then(function () { if (okText) setStatus(okText); }, function (err) {
+      if (err && err.code === 'invalid_argument') {
+        state.canWrite = false;
+        setStatus('You can view this tracker but not change it.', true);
+      } else if (err && err.code === 'quota_exceeded') {
+        setStatus('Storage is full. Delete some old days and try again.', true);
+      } else {
+        setStatus('Could not save. Check your connection and try again.', true);
+      }
+      render();
+    });
+  }
+
+  $('log-form').addEventListener('submit', function (ev) {
+    ev.preventDefault();
+    var err = $('form-error'); err.textContent = '';
+    var date = $('f-date').value;
+    var subs = $('f-subs').value === '' ? 0 : Number($('f-subs').value);
+    var hours = $('f-hours').value === '' ? 0 : Number($('f-hours').value);
+    var videos = $('f-videos').value === '' ? 0 : Number($('f-videos').value);
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) { err.textContent = 'Choose a date.'; return; }
+    if (!(subs >= 0) || subs % 1 !== 0) { err.textContent = 'Subscribers must be a whole number, 0 or more.'; return; }
+    if (!(hours >= 0)) { err.textContent = 'Watch hours must be 0 or more.'; return; }
+    if (!(videos >= 0) || videos % 1 !== 0) { err.textContent = 'Videos published must be a whole number, 0 or more.'; return; }
+    var entry = { date: date, subs: subs, hours: Math.round(hours * 10) / 10, videos: videos, note: $('f-note').value.trim() };
+    guard(backend.saveDay(entry), 'Saved ' + niceDate(date) + '.').then(function () { $('f-note').value = ''; });
+  });
+
+  /* ---------- Storage: this browser ---------- */
+  function localBackend() {
+    function read(key) { try { return JSON.parse(localStorage.getItem(key) || '{}') || {}; } catch (e) { return {}; } }
+    function write(key, value) {
+      try { localStorage.setItem(key, JSON.stringify(value)); return Promise.resolve(); }
+      catch (e) { return Promise.reject({ code: 'unavailable' }); }
+    }
+    state.log = read('mt.log'); state.done = read('mt.done');
+    return {
+      saveDay: function (e) { state.log[e.date] = e; render(); return write('mt.log', state.log); },
+      removeDay: function (d) { delete state.log[d]; render(); return write('mt.log', state.log); },
+      saveDone: function (done) { state.done = done; render(); return write('mt.done', state.done); }
+    };
+  }
+
+  /* ---------- Storage: saved with the page ---------- */
+  function dbBackend(db) {
+    var loaded = false;
+    var timer = setTimeout(function () {
+      if (!loaded) setStatus('Your saved numbers can\'t be reached yet. Still trying…', true);
+    }, 10000);
+    function onError() {
+      clearTimeout(timer); loaded = true;
+      setStatus('Could not load your saved numbers. Reopen the page to try again.', true);
+    }
+    db.collection('log').onSnapshot(function (snap) {
+      var log = {};
+      snap.docs.forEach(function (d) { var v = d.data(); if (v) log[d.id] = v; });
+      state.log = log;
+      if (!snap.metadata.fromCache) {
+        clearTimeout(timer);
+        if (!loaded) setStatus(snap.empty ? 'Ready. Save your first day below.' : 'Saved numbers loaded.');
+        loaded = true;
+      }
+      render();
+    }, onError);
+    db.doc('plan/checklist').onSnapshot(function (snap) {
+      var v = snap.exists ? snap.data() : null;
+      state.done = Object.assign({}, (v && v.done) || {});
+      render();
+    }, onError);
+    var chain = Promise.resolve();
+    return {
+      saveDay: function (e) { return db.doc('log/' + e.date).set(e); },
+      removeDay: function (d) { return db.doc('log/' + d).delete(); },
+      saveDone: function (done) {
+        var p = chain.then(function () { return db.doc('plan/checklist').set({ done: done }); });
+        chain = p.catch(function () {});
+        return p;
+      }
+    };
+  }
+
+  /* ---------- Start ---------- */
+  buildPlan();
+  $('f-date').value = todayStr();
+  $('days-left').textContent = Math.max(0, daysBetween(todayStr(), DEADLINE));
+  backend = { saveDay: wait, removeDay: wait, saveDone: wait };
+  function wait() { return Promise.reject({ code: 'unavailable' }); }
+  render();
+
+  var use = window.claude && typeof window.claude.use === 'function' ? window.claude.use('db') : Promise.resolve(null);
+  Promise.resolve(use).catch(function () { return null; }).then(function (db) {
+    if (db) { backend = dbBackend(db); return; }
+    backend = localBackend();
+    setStatus('Your numbers are saved in this browser only.');
+    render();
+  });
+})();
+</script>
