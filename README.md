@@ -21,7 +21,7 @@ A 14-day plan to launch a faceless, long-form YouTube channel in a high-paying n
 | [docs/05-script-and-production.md](docs/05-script-and-production.md) | The script template and the faceless production workflow |
 | [docs/06-niche-research.md](docs/06-niche-research.md) | The research behind the niche: pay data and 582 channels measured |
 | [research/channels-2026-11-11.csv](research/channels-2026-11-11.csv) | The channel data, with a link to every channel |
-| [scripts/01-lake-michigan-tsunami.md](scripts/01-lake-michigan-tsunami.md) | First-draft script for video 1, with title, description and chapters |
+| [scripts/01-lake-michigan-tsunami.md](scripts/01-lake-michigan-tsunami.md) | Full script for video 1, with title, description, chapters and fact-check notes |
 | [video-01/](video-01/README.md) | How we make video 1 together: shot list, image prompts, where to upload |
 | [tracker/index.html](tracker/index.html) | Progress tracker: log subscribers and watch hours, tick off the 14 days |
 

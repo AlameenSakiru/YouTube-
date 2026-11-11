@@ -1,6 +1,6 @@
 # Video 1: the Lake Michigan tsunami
 
-Everything needed to make and publish the first video.
+The full script and everything needed to publish it.
 
 ## Title
 
@@ -13,13 +13,15 @@ Backups, if the click rate is low after 48 hours:
 
 ## Thumbnail
 
-- **Picture:** an old black-and-white photograph of a Chicago lakefront pier, with a tall wall of water drawn in behind it.
+- **Picture:** an old-looking black-and-white Chicago lakefront pier with a tall wall of water rising behind it.
 - **Text:** "CHICAGO, 1954" in large letters and "NO WARNING" in a smaller label.
 - Keep the people on the pier small and the wave large. Make three versions and pick the one that reads best at phone size.
 
 ## Description
 
-> In June 1954 a wave up to ten feet high came out of a calm Lake Michigan and swept people off Chicago's piers. At least seven drowned. It was not an earthquake, and for years it was given the wrong name. This is the story of the Great Lakes tsunami, how it forms, why it arrived after the storm had passed, and how often it still happens.
+> On a calm, sunny morning in June 1954, Lake Michigan rose ten feet in a few minutes and swept people off Chicago's piers. Eight drowned. There was no storm overhead and no earthquake. This is the true story of the Great Lakes tsunami: the people who were there, what really caused it, why it arrived two hours after the storm had gone, and how often it still happens.
+>
+> The 1954 scenes in this video are illustrations, not photographs from the day.
 >
 > Sources are listed below.
 
@@ -31,194 +33,319 @@ Adjust the times after editing.
 
 | Time | Chapter |
 |---|---|
-| 0:00 | The wave nobody expected |
-| 1:10 | A lake that behaves like a sea |
-| 2:20 | The morning of June 26, 1954 |
-| 3:30 | The wave |
-| 4:50 | The wrong name |
-| 6:00 | What a meteotsunami is |
-| 7:30 | Why it came after the storm |
-| 8:30 | Ten days later |
-| 9:30 | How often this happens |
-| 11:30 | Can it be forecast today? |
+| 0:00 | A wet shoe |
+| 1:02 | The lake that is not a lake |
+| 1:45 | The storm that left |
+| 2:39 | North Avenue Beach |
+| 3:49 | Montrose Harbor |
+| 5:13 | The wrong name |
+| 6:14 | What a meteotsunami is |
+| 7:57 | Why it came in sunshine |
+| 9:15 | Ten days later |
+| 10:16 | Not a freak |
+| 12:14 | Can anyone see the next one coming? |
+| 13:34 | The warning |
 
 ## Pinned comment
 
-> Have you ever seen the water on one of the Great Lakes suddenly rise or pull back? Tell me where and when.
+> Have you ever seen the water on one of the Great Lakes suddenly rise or pull away from the shore? Tell me where and when.
 
 ---
 
-## Script
+# The script
 
-About 1,400 words, which is 9 to 10 minutes of narration. It is a first draft and shorter than the 15-minute target. Lines marked **[CHECK]** are from my memory or from a single source and must be confirmed before recording. "On screen" notes say what to show.
+About 2,200 words, which is about 15 minutes at a calm documentary pace. It is in 12 sections; record each as its own file, `01.mp3` to `12.mp3`.
 
-### The wave nobody expected
+"On screen" lines are for the edit. Do not read them aloud.
 
-*On screen: clearing sky over a lake; an old photograph of a Chicago pier; the title.*
+## 1. A wet shoe
 
-On a Saturday morning in June 1954, the storm had already passed over Chicago. The rain had stopped. The sky was clearing. Along the lakefront, people who had run for cover walked back out onto the piers and picked up their fishing rods.
+*On screen: a man's shoe on wet concrete as water creeps over it. Then the calm lake. Then the title.*
 
-Then Lake Michigan rose.
+The only warning Herbert Riederer got was a wet shoe.
 
-There was no earthquake. A wall of water, as much as ten feet high, came out of a calming lake and swept across miles of shoreline. It pulled people off the piers and the rocks. At least seven of them drowned.
+He was twenty-four years old, a state conservation officer, standing on the breakwater at Montrose Harbor in Chicago. He had just written a ticket to a man who was fishing without a licence. The sun was out. The lake was flat.
 
-For years it was given the wrong name. What hit Chicago that morning was a tsunami. And the Great Lakes produce more than a hundred of them every year.
+Then he felt water coming over his foot.
 
-### A lake that behaves like a sea
+He stepped up to higher ground. Behind him, he heard a rush. And when he turned around, the people who had been standing on that pier were being washed into Lake Michigan.
 
-*On screen: map of the Great Lakes, zoom to Lake Michigan, then to Chicago and Montrose Harbor.*
+Eight people drowned in Chicago that morning. There was no storm overhead. There was no earthquake. The National Weather Service still describes it as a killer wave that rose "under calm winds and a bright sunny sky."
 
-To understand how, you have to stop thinking of Lake Michigan as a lake.
+It had a cause. The cause had left Chicago two hours earlier. And it still happens on the Great Lakes more than a hundred times a year.
 
-It is about three hundred miles long and more than a hundred miles wide. **[CHECK: 307 miles by 118 miles]** From the Chicago shore you cannot see the other side. It has shipping lanes, lighthouses and storms that have sunk steel ships. In everything but salt, it behaves like a sea.
+## 2. The lake that is not a lake
 
-Chicago sits near its southern end, on the western shore. In 1954 the lakefront was the city's front yard, just as it is today. And some of the best fishing spots were the long piers at Montrose Harbor, on the North Side, reaching out into deep water.
+*On screen: map of the Great Lakes, zoom to Lake Michigan with its size marked. The open horizon. 1950s Chicago lakefront.*
 
-That is where people were standing on the morning of June 26.
+Lake Michigan is called a lake, and that is the first mistake.
 
-### The morning of June 26, 1954
+It is three hundred and seven miles long and more than a hundred miles wide. Stand on the shore in Chicago and there is no other side. There is only a horizon. Twelve million people live along its edge.
 
-*On screen: storm clouds over water; a weather map with a line of storms crossing the lake.*
+In Chicago, the lakefront is the city's front yard, and on a hot Saturday in June it fills up. Swimmers on the beaches. Families on the grass. And out on the long concrete piers, the fishermen, because that is where the deep water is.
 
-The day began with a storm. A fast line of thunderstorms crossed the lake. Later studies put its winds at more than fifty miles an hour, and found that the air pressure jumped sharply in about four minutes as it passed.
+Saturday, June 26, 1954, was going to be one of those days.
 
-On the piers, people did what anyone would do. They got out of the rain, and they waited.
+## 3. The storm that left
 
-The storm did not last. It moved off across the water, and behind it the weather improved. So the fishermen went back.
+*On screen: weather map with a line of storms running from La Crosse through Madison, Rockford and Milwaukee, then over Chicago and out onto the lake. Clearing sky. People walking back onto a pier.*
 
-That detail matters more than any other in this story. The danger did not arrive with the storm. It arrived after it, when everything looked safe.
+It began with a storm that was only passing through.
 
-### The wave
+A line of squalls formed near La Crosse, Wisconsin, and ran southeast. Madison. Rockford. Milwaukee. At about half past seven in the morning it crossed Chicago and blew out over the lake, moving at close to sixty miles an hour.
 
-*On screen: map of the shoreline from Wilmette to North Avenue Beach, highlighted; archive newspaper front pages.*
+It was fast, it was violent, and it was brief. Along the lakefront, people got off the piers and waited it out.
 
-It did not come the way people imagine a wave. A tsunami is not a curling breaker. It is a surge. The water simply keeps rising, and it does it fast.
+Then it was gone. The sky cleared. The wind dropped. By the time the lifeguards came on duty, the lake was still.
 
-Reports from that day put it between six and ten feet high. It struck the shore from Wilmette Harbor, in the northern suburbs, down to North Avenue Beach. In places the water ran about a hundred and fifty feet inland.
+So people did the most natural thing in the world. They went back.
 
-On an open beach, a surge like that knocks you off your feet. On a narrow pier, with deep water on both sides and nothing to hold, it carries you away.
+Remember that. Everybody in this story did the sensible thing. They waited for the storm to pass. It passed. And two hours later, the lake came for them anyway.
 
-When the count was finished, at least seven people were dead. Some accounts say eight.
+## 4. North Avenue Beach
 
-### The wrong name
+*On screen: an empty 1950s beach, a hook-shaped pier, rowboats on the sand. A wave over the boats. A man running across the sand. On-screen name: Joseph Pecararo, lifeguard captain.*
 
-*On screen: animation of water sloshing in a long tank; the word "seiche".*
+The first place it reached was North Avenue Beach.
 
-The newspapers needed a word for it, and the experts of the day gave them one: seiche.
+Joseph Pecararo was the lifeguard captain there. He was twenty-four. When he arrived for work the beach was almost empty. Two fishermen out on the hook-shaped pier. A line of rescue rowboats on the sand, in front of the beach house.
 
-A seiche is what happens when water in a lake sloshes from one end to the other, like water in a bathtub. Wind and pressure pile the water up at one end. When they let go, it rocks back. The Great Lakes do this often.
+Then the lifeguards saw the water coming up toward the boats, and ran to pull them higher.
 
-It was a reasonable answer. The water had risen, and a storm was involved. For decades, the event was remembered as the Chicago seiche.
+"And when we did," Pecararo remembered, "there was a wave."
 
-But it never quite fitted. A seiche is slow. The whole lake rocks, and the level creeps up and down over hours. What hit Chicago was sudden: one great surge, arriving in minutes, behind a fast-moving storm.
+A wall of water went straight over them and knocked them off their feet. And when they came up, they laughed. "We thought it was kind of funny," he said.
 
-When scientists went back to the 1954 records with modern tools, they reached a different conclusion. It was a meteotsunami.
+Seconds later, a man came running across the sand. A fisherman had been swept off the pier.
 
-### What a meteotsunami is
+His name was John Jaworski. He had gone fishing that morning with his son Joseph, who was eighteen.
 
-*On screen: simple animation of a storm line moving over water with a wave growing beneath it; then the wave rising as the water gets shallow.*
+The lifeguards formed a line in the rough water and found him. They were bringing his body to shore when a police car pulled up beside them, with four words.
 
-An ordinary tsunami starts when the sea floor moves. An earthquake or a landslide shoves a huge body of water, and the wave races outward.
+"Dozens down at Montrose."
 
-A meteotsunami is the same kind of wave with a different cause. "Meteo", as in meteorology. It is made by weather.
+## 5. Montrose Harbor
 
-Here is how. A fast line of storms brings strong wind and a sudden jump in air pressure. As it crosses open water, it pushes on the surface and raises a small wave beneath it. Usually that wave is nothing. A few inches.
+*On screen: map moving north along the shore to Montrose Harbor. The breakwater. Water rising over it. Divers and police boats. On-screen name: Herbert Riederer, conservation officer. Names of the dead as plain text on black.*
 
-But a wave like this travels at a speed set by the depth of the water. If the storm happens to be moving at close to that same speed, it stays on top of its own wave and keeps pushing it, again and again, like pushing a child on a swing at exactly the right moment. The wave grows.
+Montrose Harbor is a few miles up the shore. Its breakwater was one of the best fishing spots in the city, and that morning there were people all along it.
 
-Then it reaches the shallow water near the coast. It slows down, piles up, and gets taller still. Harbours and bays squeeze it higher.
+This is where Herbert Riederer was standing, with his ticket book and his wet shoe.
 
-The result is a wave many feet high, arriving on a shore where the weather may already be clear.
+The National Weather Service says the water at Montrose rose more than ten feet in a few minutes. Not a breaking wave, like at the ocean. A surge. The whole lake, lifting.
 
-### Why it came after the storm
+Riederer never forgot what he saw when he turned around. Decades later he could still describe one woman. "She was riding the crest of this huge wave into the harbor mouth," he said. "Then she disappeared."
 
-*On screen: map animation. The storm crosses the lake; the wave follows it to the far shore, bounces, and returns to Chicago.*
+A husband and wife, Mae and Edward Gabriel, were among those later found drowned. She was forty-eight. He was forty-nine.
 
-That explains the height. It does not explain the timing. Why did the wave hit Chicago after the storm had gone?
+Divers pulled three bodies from the harbor that morning. Four more were found later.
 
-The long-standing explanation is this. **[CHECK this whole paragraph against the scientific studies]** The storm crossed the lake from the northwest, and the wave travelled with it, away from Chicago, toward the far shore near Michigan City, Indiana. There it struck the coast and bounced. The reflected wave then came back across the southern end of the lake. By the time it reached Chicago, well over an hour had passed.
+One of them was Theodore Stempinski. He was the man Riederer had just ticketed. It seems that when the water came, he stopped to pick up his fishing gear.
 
-The people on the piers had no way of knowing. The thing that was about to reach them had been made by the storm they had just watched leave.
+The wave struck the shore all the way from the Chicago River north to Wilmette.
 
-### Ten days later
+And then, as quickly as it had come, it was gone. The lake went flat. The sun was still shining.
 
-*On screen: calendar turning from June 26 to July 6; archive photograph of Belmont Harbor.*
+## 6. The wrong name
 
-What happened next is the part almost nobody remembers.
+*On screen: a 1950s newsroom. The word "seiche" with its pronunciation. Animation of water rocking in a long tank. A slow line on a graph against a sudden spike.*
 
-Ten days later, on July 6, 1954, it happened again. Another storm. Another wave. The harbourmaster at Belmont Harbor told the Chicago Tribune that the lake that day was much more severe than on June 26.
+So what was it?
 
-Nobody died.
+There had been no earthquake. No wind to speak of. A wall of water had come out of a calm lake, under a clear sky, killed eight people, and left.
 
-The difference was not the wave. It was the warning. This time warnings had been given, and people were away from the water's edge when it arrived.
+The experts had a word ready. Seiche. It is spelled S, E, I, C, H, E, and it is pronounced "saysh".
 
-The same lake, ten days apart. At least seven dead the first time. None the second.
+A seiche is a slosh. Wind pushes the water of a lake toward one end. When the wind lets go, the water rocks back, like water in a bathtub.
 
-### How often this happens
+It was the best explanation anyone had. For decades that is what the disaster was called: the Chicago seiche.
 
-*On screen: map of the Great Lakes with dots appearing; then the three dates and places as large text.*
+But a seiche is slow. The whole lake tilts and rocks, over hours. This had been one violent surge, over in minutes.
 
-For most of the twentieth century, waves like this were treated as freak events.
+When scientists went back to the 1954 records with modern computer models, they found the name that fits. It is a word most people have never heard.
 
-Then, in 2016, a team of scientists searched years of water-level records from around the Great Lakes, looking for the fingerprint of a meteotsunami. They found that waves of a potentially dangerous size, more than about a foot high, happen on average one hundred and six times a year.
+Meteotsunami.
 
-Lake Michigan has the most. And spring and early summer are the peak season.
+## 7. What a meteotsunami is
 
-Most are small, and nobody notices. But 1954 was not the only deadly one.
+*On screen: animation of the sea floor moving and a tsunami spreading. Then a storm line crossing water with a small wave beneath it, growing. A child on a swing. The wave rising as the water gets shallow.*
 
-On July 4, 1929, at Grand Haven, Michigan, a large wave after a morning thunderstorm reportedly swept ten people off a pier.
+You know what a tsunami is. The sea floor moves, usually in an earthquake. It shoves the water above it, and a wave races outward.
 
-On July 4, 2003, seven people drowned at Warren Dunes, on the lake's southeastern shore. The weather had cleared, and swimmers had gone back into the water. Years later, a study concluded that the most likely cause was a meteotsunami. Not the wave itself, which was only about a foot high, but the rip currents it left behind. Those currents, the researchers found, can last for hours after the wave has gone.
+A meteotsunami is the same kind of wave. The only difference is what does the shoving. "Meteo", as in meteorology. It is a tsunami made by weather.
 
-And on April 13, 2018, a meteotsunami struck Ludington, Michigan. It went over harbour walls and damaged docks and shoreline homes. Nobody was killed. It was April, and few people were near the water.
+Here is how weather does it.
 
-### Can it be forecast today?
+A fast line of storms carries a sudden jump in air pressure. In 1954, that jump crossed the lake at around sixty miles an hour. As it moves, it presses down on the water, and a small wave forms underneath it. A few inches high. Harmless.
 
-*On screen: photograph of a NOAA buoy; map showing its position in southern Lake Michigan.*
+But a wave in water travels at a speed that depends on how deep the water is. And this is the key to everything.
 
-So can these waves be forecast now?
+If the storm above is moving at the same speed as the wave below, it stays right on top of it, and it keeps pushing. It is like pushing a child on a swing at exactly the right moment. Every push adds to the last one.
 
-Partly. NOAA's Great Lakes laboratory has placed a tsunami-detection buoy in southern Lake Michigan, the same kind used in the oceans, and is building an early-warning system around it. **[CHECK the current status; my sources end in 2025 and describe it as still in development]**
+Scientists at NOAA call it a Goldilocks event. If the storm is too slow, nothing builds. If it is too fast, it leaves its wave behind. But a storm moving at just the right speed for that lake builds a wave that keeps growing, all the way across.
 
-Until that system is working, the lesson is the one Chicago learned in 1954.
+Then the wave reaches the shallows. It slows down. It piles up. A harbor squeezes it higher still.
 
-A storm passing is not the same as the danger passing. After a fast line of thunderstorms crosses the lake, stay off piers and breakwaters, and stay out of the water for a while. **[CHECK the official safety advice and use its wording]** And if the water suddenly pulls away from the shore, or starts rising quickly, move to higher ground. Do not go to look.
+A few inches in the middle of the lake becomes ten feet at the end of a pier.
 
-### Close
+## 8. Why it came in sunshine
 
-*On screen: the pier photograph again, then a calm lake at sunrise; end screen with the next video.*
+*On screen: one map of southern Lake Michigan with a clock in the corner. 7:30, the storm leaves Chicago. 8:10, it reaches Michigan City. The wave bounces. 9:30, it reaches Chicago.*
 
-On June 26, 1954, the people at Montrose Harbor did nothing foolish. They waited out the storm. They went back when the sky cleared. Everything they could see told them it was over.
+That explains the size. It does not explain the strangest part. Why did it hit Chicago in sunshine, two hours after the storm?
 
-Lake Michigan looks like a lake. It behaves like a sea. And more than a hundred times a year, somewhere on the Great Lakes, it proves it.
+Follow the clock.
 
-The next video is about a second city, twelve hundred feet under Detroit. Subscribe so you do not miss it.
+Seven thirty. The storm crosses Chicago and heads out over the lake, toward the southeast. The wave is forming beneath it. But it is moving away from Chicago.
+
+Ten past eight. Storm and wave arrive together at Michigan City, Indiana, about forty miles across the water. A five-foot wall of water goes over the breakwater.
+
+And here is the cruel part. The fishermen in Michigan City had already run. They had seen the squall coming and gone for higher ground. The storm that made the wave was also their warning.
+
+Then the wave hit the shore. And it bounced.
+
+It turned around and went back the way it had come. Forty miles of open lake, under a sky that was now clear. It took an hour and twenty minutes.
+
+Nine thirty. It reaches Chicago.
+
+The people on the piers were looking at a calm lake. The storm was long gone. What was about to reach them had been made by that storm, carried across the lake, and sent back.
+
+## 9. Ten days later
+
+*On screen: a calendar turning from June 26 to July 6. Empty beaches. Water running up beach-house steps. Steel posts and cables on a breakwater.*
+
+What happened next is the part almost nobody knows.
+
+Ten days later, it happened again.
+
+On July 6, 1954, a similar storm crossed Chicago. But this time the city knew what a storm like that could leave behind. The weather service put out a warning. The beaches were cleared.
+
+And the wave came. Water rushed into the parking lot at Loyola Beach. It ran up the steps of the beach house at North Avenue, the same beach where the lifeguards had laughed ten days before. Then it raced back out.
+
+Nobody was hurt.
+
+Two waves, ten days apart, on the same stretch of shore. Eight dead the first time. None the second. The only difference was that somebody told people to get away from the water.
+
+And Chicago did one more thing. It fixed steel posts and cables along its breakwaters. Something to hold on to, the next time the lake rose.
+
+## 10. Not a freak
+
+*On screen: map of the Great Lakes with dots appearing and the number 106. Then three date cards, each followed by its place: Grand Haven 1929, Warren Dunes 2003, Ludington 2018. Then Lake Superior 2025.*
+
+For years after that, 1954 was filed away as a freak. A once-in-a-lifetime accident.
+
+It was not.
+
+In 2016, scientists searched years of water-level records from gauges all around the Great Lakes, looking for the signature of these waves. They found that meteotsunamis big enough to be dangerous, a foot high or more, happen on average one hundred and six times a year. And Lake Michigan gets more of them than any other lake.
+
+Most are small. Most arrive when nobody is in the water. But not all of them.
+
+July 4, 1929. Grand Haven, Michigan. After a morning thunderstorm, a large wave swept people off the pier. Ten were reported killed.
+
+July 4, 2003. Warren Dunes, Michigan. A storm passes. The sun comes out. Families go back into the water. Seven swimmers drown. A study later found the most likely cause. A meteotsunami only about a foot high had come through, and the rip currents it set off kept pulling long after the wave itself was gone.
+
+April 13, 2018. Ludington, Michigan. A wave comes over the harbor walls and damages docks and homes along the shore. This time, people photographed it. It was April, and almost nobody was near the water. NOAA scientists used those pictures to recreate a Great Lakes meteotsunami in a computer for the first time.
+
+And in June 2025, on Lake Superior, a storm set off a meteotsunami and a seiche together. People filmed the water draining away from their beaches until the lake bed lay dry. Then it came back. One gauge recorded a rise of forty-five inches, the largest in its thirty years of records.
+
+Look at the deadly ones. 1929. 1954. 2003. Every one of them came the same way. A storm. Then sunshine. Then the water.
+
+## 11. Can anyone see the next one coming?
+
+*On screen: a yellow buoy on the lake. Map of its position in the middle of Lake Michigan. On-screen name: Bryan Mroczka, NOAA Great Lakes Environmental Research Laboratory, with his words as text.*
+
+So can anyone see the next one coming?
+
+Not yet.
+
+After Ludington, NOAA placed a tsunami buoy in the middle of Lake Michigan, based on the ones that watch for tsunamis in the Pacific. It is anchored to the lake floor, and it listens for exactly this kind of wave. Scientists hope it will one day let them warn the shore in time.
+
+But today, there is still no meteotsunami warning system for the Great Lakes.
+
+So the warning has to be the one a NOAA scientist, Bryan Mroczka, gave. "Most people are used to thinking that once the sun comes out, the dangers of a storm have passed." These waves, he said, "can be deadly and destructive, and continue to impact the lakes for hours after the rain and thunder have stopped."
+
+If you are ever on one of the Great Lakes and a fast line of storms goes through, remember that. When the sun comes back, do not go straight back onto the pier. Do not go straight back into the water. Give the lake time.
+
+And if you see the water suddenly rising, or suddenly pulling away from the shore, do not go and look. Go up.
+
+## 12. The warning
+
+*On screen: the wet shoe again. The calm lake at sunrise. End screen with the next video.*
+
+On June 26, 1954, nobody on those piers was careless. They waited for the storm to pass. They went back when the sky was blue. Everything they could see told them it was over.
+
+Herbert Riederer's only warning was a wet shoe. Most of the people around him did not even get that.
+
+Twelve million people live on the shores of this lake, and most of them have never heard the word meteotsunami. If you know someone who swims in it, fishes in it, or walks its piers, send them this.
+
+And there is something else hidden in this region, which most of the people living right on top of it have never seen. It is twelve hundred feet under Detroit. It is the size of a city. And trucks are driving through it right now.
+
+That is the next video. Subscribe, and I will see you down there.
 
 ---
 
-## Before you record
+# Notes for recording
 
-Confirm these in the original sources:
+- **Pace:** calm and steady. Slow down for the names of the dead and for the last line of each section.
+- **Pauses:** leave a full second after "Then he felt water coming over his foot", after "Dozens down at Montrose", and after "Meteotsunami".
+- **Say it right:** seiche is "saysh". Riederer is "REE-der-er". Pecararo is "peck-uh-RAH-ro". Mroczka is "muh-ROACH-kuh". These three name pronunciations are my best guess; check them if you can.
 
-1. The deaths: seven or eight, and where along the shore they happened. Montrose Harbor is named in several accounts.
-2. The direction the storm travelled, and the reflection from the Michigan City shore.
-3. Lake Michigan's length and width.
-4. Whether the warnings on July 6 cleared the Chicago piers. One account describes the Coast Guard warning boaters and a pier being cleared at Michigan City, and I could not tell which day it referred to.
-5. The current state of NOAA's warning system, and the official safety advice.
+# Why the script is built this way
 
-To reach 15 minutes, add real detail from the Chicago Tribune archive: what witnesses saw, and who the victims were. Do not add anything you cannot source.
+| Part | What it does for the viewer |
+|---|---|
+| The wet shoe opening | Starts inside a real moment in the first sentence, with no introduction to skip |
+| "The cause had left Chicago two hours earlier" | Plants a question that is not answered until section 8, so there is a reason to keep watching |
+| "Everybody did the sensible thing" | Makes the viewer think it could have been them |
+| Real names and real words | Two eyewitnesses and four victims make it a story about people, not a weather lesson |
+| The lifeguards laughing | A moment of relief just before the worst news; it is the detail people repeat to others |
+| The wrong name, then the right one | Gives the viewer a new word to tell someone else |
+| The clock in section 8 | Pays off the opening question, one step at a time |
+| Ten days later | A second story with the opposite ending, at the point where attention usually drops |
+| 1929, 2003, 2018, 2025 | Turns a history story into something that matters now |
+| The ending | Gives a reason to share, then opens the next video's question before asking for the subscription |
 
-## Sources
+# Before you record
 
+**Read from the pages themselves**
+
+- Eight deaths, the ten-foot rise "within a few minutes", and the "calm winds and a bright sunny sky" wording: National Weather Service Chicago.
+- The buoy, the Bryan Mroczka quotes, the Goldilocks description, and the 1929, 2003 and 2018 events: NOAA Great Lakes Environmental Research Laboratory.
+- The 2025 Lake Superior event and the 45-inch rise: NOAA Great Lakes Environmental Research Laboratory.
+- Lake Michigan's size and the twelve million people: Wikipedia.
+
+**From a history site that reprints a newspaper article**
+
+The names, ages, quotes and clock times in sections 3, 4, 5, 8 and 9 come from a detailed account headed "Lakefront was caught off guard by a deadly inland tidal wave", reprinted on an Illinois history site. I could not open the original newspaper article. Find it in the Chicago Tribune archive and confirm the names, spellings and quotes before you publish.
+
+**From search summaries only**
+
+- The storm's pressure jump crossing the lake at about 66 miles an hour. The reprinted account says nearly 55. The script says "close to sixty".
+- The 2016 study's figure of 106 a year, and Lake Michigan having the most. Wikipedia gives 126 a year from a different count; "more than a hundred" is safe.
+- The 2003 study on Warren Dunes.
+
+**Things to know**
+
+1. **The death toll.** The National Weather Service and NOAA's laboratory say eight. Some scientific papers say seven. The script uses eight.
+2. **"There is still no warning system."** My newest source is from 2025. Check NOAA's site and change the line if a system has started.
+3. **The steel posts and cables.** Two history sites say they were installed after 1954. I did not confirm they are still there.
+4. **Small bridging details are mine:** that people left the piers during the storm, that the Montrose breakwater was busy, and that the lifeguards saw the water rising before they ran to the boats. They fit the accounts but are not stated in them. Cut them if you want only what is on record.
+
+# Sources
+
+- [Top weather events of the 20th century, including the seiche of 1954 (National Weather Service Chicago)](https://www.weather.gov/lot/top20events_1900to1999)
+- [The Lake Michigan seiche of 1954 in Chicago (Digital Research Library of Illinois History Journal)](https://drloihjournal.blogspot.com/2017/07/the-lake-michigan-seiche-of-1954-in.html)
+- [The Big Wave, 6-26-1954 (Chicago History Today)](https://chicagohistorytoday.wordpress.com/2026/06/26/the-big-wave-6-26-1954/)
+- [Killer tsunami-like waves on Lake Michigan (Vintage Chicago Postcards)](https://www.vintagechicagopostcards.com/2020/10/killer-tsunami-like-waves-on-lake.html)
 - [Freak wave in 1954 was actually a meteotsunami (Chicago Tribune)](https://www.pressreader.com/usa/chicago-tribune-sunday/20190428/281522227503830)
-- [Tsunamis from the sky: spring is prime time for meteotsunamis in Lake Michigan (Wisconsin Sea Grant)](https://seagrant.wisc.edu/news/tsunamis-from-the-sky-spring-is-prime-time-for-meteotsunamis-in-lake-michigan)
-- [Top weather events 1900 to 1999 (National Weather Service Chicago)](https://www.weather.gov/lot/top20events_1900to1999)
-- [Meteotsunami (Wikipedia)](https://en.wikipedia.org/wiki/Meteotsunami)
-- [Great Lakes weather (Midwestern Regional Climate Center)](https://mrcc.purdue.edu/living_wx/greatLakes)
-- [Meteotsunamis in the Laurentian Great Lakes, Scientific Reports 2016 (NOAA repository)](https://repository.library.noaa.gov/view/noaa/16139)
-- [Meteotsunamis: an underrated hazard in the Great Lakes (Marine Technology News)](https://www.marinetechnologynews.com/news/meteotsunamis-underrated-hazard-great-541884)
+- [New buoy is detecting meteotsunamis in the Great Lakes (NOAA Great Lakes Environmental Research Laboratory)](https://www.glerl.noaa.gov/blog/2024/08/30/new-buoy-is-detecting-meteotsunamis-in-the-great-lakes)
+- [June 21, 2025 storm causes significant meteotsunami and seiche on Lake Superior (NOAA Great Lakes Environmental Research Laboratory)](https://www.glerl.noaa.gov/blog/2025/07/18/june-21-2025-storm-causes-significant-meteotsunami-and-seiche-on-lake-superior)
+- [The Lake Michigan meteotsunamis of 1954 revisited (Natural Hazards, 2014)](https://link.springer.com/article/10.1007/s11069-014-1193-5)
+- [An explanation of the Lake Michigan wave of 26 June 1954 (Science, 1954)](https://www.semanticscholar.org/paper/An-Explanation-of-the-Lake-Michigan-Wave-of-26-June-Ewing-Press/daaac6194631e9da9f0adde24e376ec71c66f952)
+- [Meteotsunami occurrences and causes in Lake Michigan (Journal of Geophysical Research, 2015)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JC011317)
+- [Meteotsunamis in the Laurentian Great Lakes (Scientific Reports, 2016)](https://www.nature.com/articles/srep37832)
 - [Scientists discover that meteotsunamis can cause rip currents (Wisconsin Sea Grant)](https://www.seagrant.wisc.edu/news/scientists-discover-that-meteotsunamis-can-cause-rip-currents)
-- [New buoy is detecting meteotsunamis in the Great Lakes (NOAA Great Lakes laboratory)](https://www.glerl.noaa.gov/blog/2024/08/30/new-buoy-is-detecting-meteotsunamis-in-the-great-lakes)
-- [June 21, 2025 storm causes significant meteotsunami and seiche on Lake Superior (NOAA Great Lakes laboratory)](https://www.glerl.noaa.gov/blog/2025/07/18/june-21-2025-storm-causes-significant-meteotsunami-and-seiche-on-lake-superior)
-- [Meteotsunami forecasting and warning system for the Great Lakes (Cooperative Institute for Great Lakes Research)](https://ciglr.seas.umich.edu/opportunities/summits-and-working-groups/meteotsunami-forecasting-and-warning-system-summit)
-- [Meteotsunamis on the Great Lakes (ClickOnDetroit)](https://www.clickondetroit.com/weather-center/2018/05/16/meteotsunamis-on-the-great-lakes-heres-what-they-are-and-how-they-form)
+- [Wave warnings: alerts for meteotsunamis on the Great Lakes (International Joint Commission)](https://ijc.org/en/wave-warnings-alerts-meteotsunamis-great-lakes)
+- [Great Lakes weather (Midwestern Regional Climate Center)](https://mrcc.purdue.edu/living_wx/greatLakes)
+- [Meteotsunami (Wikipedia)](https://en.wikipedia.org/wiki/Meteotsunami)
+- [Lake Michigan (Wikipedia)](https://en.wikipedia.org/wiki/Lake_Michigan)

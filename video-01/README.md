@@ -6,7 +6,7 @@ You generate the images and record the voice. I edit the video.
 
 | Step | Who |
 |---|---|
-| Script | Done: [scripts/01-lake-michigan-tsunami.md](../scripts/01-lake-michigan-tsunami.md) |
+| Full script | Done: [scripts/01-lake-michigan-tsunami.md](../scripts/01-lake-michigan-tsunami.md) |
 | Shot list with a prompt for every image | Done: [shot-list.md](shot-list.md) |
 | Generate the images in Flow and upload them | You |
 | Record the voiceover and upload it | You |
@@ -30,7 +30,7 @@ Short video clips from Flow are welcome too. Name them the same way: `015.mp4`.
 
 ### Voiceover
 
-- **Record each section of the script as its own file.** There are 11 sections. Name them `01.mp3` to `11.mp3`. This lets me line the pictures up with your words accurately.
+- **Record each section of the script as its own file.** There are 12 sections. Name them `01.mp3` to `12.mp3`. This lets me line the pictures up with your words accurately.
 - **Type:** MP3 or M4A. Do not upload WAV; the files are too large for GitHub.
 - **Folder:** `video-01/voice/`
 - Record in a quiet room, close to the microphone. Read at a steady pace. Leave one second of silence at the start and end of each file.
