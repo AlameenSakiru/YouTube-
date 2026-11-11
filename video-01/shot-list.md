@@ -2,8 +2,8 @@
 
 80 shots for the script in [scripts/01-lake-michigan-tsunami.md](../scripts/01-lake-michigan-tsunami.md). Each picture stays on screen for about seven seconds.
 
-- **FLOW** shots are yours to generate: 51 images.
-- **ME** shots are maps, diagrams and text cards that I make: 29 shots.
+- **FLOW** shots are yours to generate: 46 images.
+- **ME** shots are maps, diagrams and text cards that I make: 34 shots.
 
 ## How to write each prompt
 
