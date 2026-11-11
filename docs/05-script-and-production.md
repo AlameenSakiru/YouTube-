@@ -29,7 +29,7 @@ The timings in the template below are for a 12-minute video. For 15 minutes, giv
 ## Title and thumbnail rules
 
 - Decide the title and thumbnail **before** writing the script. If you cannot make a title you would click, choose another topic.
-- Title: one named place, one date or number, one surprising fact. Put the place and the surprise in the first 60 characters, because phones cut off the rest. The best-performing titles in the research were long and specific, not short and vague.
+- Title: name the place first, then one hook (something hidden, dangerous, still there, or that nobody knows). One sentence, 50 to 90 characters, no hype words. The data behind this is in the niche guide.
 - Thumbnail: one image, three to five words of text at most, readable at phone size.
 - The thumbnail text should add to the title, not repeat it.
 - The video must deliver what the title promises in the first minute.
@@ -45,7 +45,7 @@ The timings in the template below are for a 12-minute video. For 15 minutes, giv
 
 ## Upload checklist
 
-- [ ] Title names the place and the surprising fact in its first 60 characters
+- [ ] Title starts with the place name and is one sentence of 50 to 90 characters
 - [ ] Custom thumbnail uploaded
 - [ ] Description with summary and source links
 - [ ] Chapters added

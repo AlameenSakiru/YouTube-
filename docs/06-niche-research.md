@@ -90,7 +90,25 @@ For the same views, a places-and-geography channel reaches 1,000 subscribers two
 
 Inside the same niche, on the same day, one channel gets 100,000 views and another gets 50. The channels that copy a successful channel's topics with shorter videos and vaguer titles are the ones getting 50.
 
-The winning titles share a pattern: one specific place or object, a date or number, and a fact that sounds impossible but is documented. For example, a road video titled around a named state, a year and a strange outcome beats "The history of American highways" every time.
+I tested 1,467 titles from 66 small channels. A breakout is a video with at least three times its own channel's usual views; about 20% of all videos were breakouts.
+
+| Title feature | Titles | Breakout rate |
+|---|---|---|
+| "Hiding" or "nobody talks about" | 35 | 43% |
+| "Still" | 68 | 29% |
+| Danger words (dangerous, deadliest, killed) | 150 | 28% |
+| Most, biggest, last, first, only | 182 | 26% |
+| Never, nobody, no one | 110 | 26% |
+| Starts with Why or How | 180 | 22% |
+| Has a year in it | 204 | 16% |
+| Hype words (terrifying, disturbing, shocking) | 52 | 15% |
+| Two sentences | 89 | 11% |
+
+Titles of 50 to 90 characters did slightly better than shorter or longer ones.
+
+This corrects my earlier advice. I had said a date or number helps. Across these channels a year in the title did not help, and two-sentence titles did worse than average. One road-history channel does very well with exactly that style, but it is the exception.
+
+The biggest breakouts in the Great Lakes region all start with the place name: "Michigan's Upper Peninsula Is More Dangerous Than You Think" (322,000 views), "Wisconsin Is Hiding Something More Dangerous Than You Think" (283,000), "Lake Superior Is WAY More Dangerous Than People Think" (243,000), all from one channel with under 8,000 subscribers.
 
 ## Finding 6: where it is crowded and where it is not
 

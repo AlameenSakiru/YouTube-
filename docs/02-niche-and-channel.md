@@ -27,15 +27,34 @@ This niche was chosen from measurements, not opinion. The full research is in [0
 
 ## The title pattern that works
 
-In every niche I measured, the same day's results ranged from 100,000 views to 50. The titles that won share three things:
+In every niche I measured, the same day's results ranged from 100,000 views to 50. I then tested 1,467 video titles from 66 small channels to see which features go with a breakout. A breakout here means a video that got at least three times its own channel's usual views. About 20% of all videos did.
 
-1. **One specific place or object**, named.
-2. **A date or a number.**
-3. **A fact that sounds impossible but is documented.**
+| Title feature | Breakout rate |
+|---|---|
+| "Hiding" or "nobody talks about" | 43% |
+| "Still" (still there, still working) | 29% |
+| Danger words (dangerous, deadliest, killed) | 28% |
+| Most, biggest, last, first, only | 26% |
+| Never, nobody, no one | 26% |
+| Starts with Why or How | 22% |
+| All titles (baseline) | 20% |
+| Has a year in it | 16% |
+| Hype words (terrifying, disturbing, shocking) | 15% |
+| Two sentences | 11% |
 
-Weak: "The history of the Great Lakes". Strong: "In 1969 engineers turned off Niagara Falls for five months".
+The rules that follow from this:
 
-Do not copy another channel's titles or topics. In the data, channels that copied did far worse than the ones they copied.
+1. **Name the place first.** The biggest breakouts in this region start with it: Lake Superior, Michigan's Upper Peninsula, Wisconsin.
+2. **Add one hook:** something hidden, something dangerous, something still there, or something nobody knows.
+3. **One sentence, 50 to 90 characters.**
+4. **No hype words, and no need for a year.**
+5. **The video must prove the title in the first minute.**
+
+Weak: "The history of the Great Lakes". Strong: "Detroit Is Hiding a City-Sized Salt Mine 1,200 Feet Underground".
+
+These are patterns across many channels, not guarantees. Some samples are small (35 titles for "hiding").
+
+Do not copy another channel's exact titles or topics. In the data, channels that copied did far worse than the ones they copied.
 
 ## The test for every topic
 

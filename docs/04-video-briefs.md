@@ -13,9 +13,9 @@ Start with brief 1. It has a single dramatic event, a clear mystery, a scientifi
 ## 1. The wave that hit Chicago on a calm morning (1954)
 
 **Titles**
-- In 1954 a Wave Hit Chicago on a Calm Morning. Nobody Saw It Coming
-- The Day Lake Michigan Sent a Tsunami Into Chicago
-- Lake Michigan Has Tsunamis. One Killed People in Chicago in 1954
+- Lake Michigan Has Tsunamis, and Nobody in Chicago Saw This One Coming (use this one)
+- The Lake Michigan Tsunami That Hit Chicago on a Calm Morning
+- Lake Michigan Is Hiding a Danger Most of Chicago Has Never Heard Of
 
 **Thumbnail:** an old black-and-white pier with a wall of water drawn over it, the text "CHICAGO, 1954", and "NO WARNING" in a smaller label.
 
@@ -48,9 +48,9 @@ Start with brief 1. It has a single dramatic event, a clear mystery, a scientifi
 ## 2. The salt mine under Detroit
 
 **Titles**
-- There Is a City-Sized Salt Mine 1,200 Feet Under Detroit
-- Detroit Is Sitting on 1,500 Acres of Tunnels. They Are Still Being Dug
-- The Hidden City Under Detroit That Most People There Have Never Seen
+- Detroit Is Hiding a City-Sized Salt Mine 1,200 Feet Underground (use this one)
+- The City Under Detroit Is Still Being Dug and Almost Nobody Has Seen It
+- Why There Is a Second City 1,200 Feet Under Detroit
 
 **Thumbnail:** a cut-away drawing with the Detroit skyline on top and white tunnels far below, the text "1,200 FEET DOWN".
 
@@ -82,9 +82,9 @@ Start with brief 1. It has a single dramatic event, a clear mystery, a scientifi
 ## 3. The 9,000-year-old hunting ground at the bottom of Lake Huron
 
 **Titles**
-- There Is a 9,000-Year-Old Hunting Ground at the Bottom of Lake Huron
-- Scientists Found Stone Walls Under Lake Huron. People Built Them
-- Lake Huron Was Once Dry Land. The Proof Is Still Down There
+- Lake Huron Is Hiding a 9,000-Year-Old Hunting Ground Nobody Knew Was There (use this one)
+- The Stone Walls at the Bottom of Lake Huron Are Still Standing After 9,000 Years
+- Why There Are Man-Made Walls at the Bottom of Lake Huron
 
 **Thumbnail:** a diver's light on a line of stones on the lake floor, the text "BUILT BY PEOPLE", and "9,000 YEARS AGO" below.
 
@@ -117,9 +117,9 @@ Start with brief 1. It has a single dramatic event, a clear mystery, a scientifi
 ## 4. The year Niagara Falls was turned off (1969)
 
 **Titles**
-- In 1969 Engineers Turned Off Niagara Falls. Here Is What Was Underneath
-- The 5 Months Niagara Falls Ran Dry
+- Engineers Once Turned Off Niagara's American Falls and the Problem Is Still There
 - Why the US Army Shut Off Niagara Falls and Then Changed Its Mind
+- The Only Time Niagara's American Falls Ran Dry
 
 **Thumbnail:** a real 1969 photograph of the dry rock face, the text "TURNED OFF", and "1969" in a label.
 
@@ -152,8 +152,8 @@ Start with brief 1. It has a single dramatic event, a clear mystery, a scientifi
 ## 5. The storm that sank 12 ships in four days (1913)
 
 **Titles**
-- The 1913 Storm That Sank 12 Ships on the Great Lakes in 4 Days
-- 8 Ships Vanished on Lake Huron in 6 Hours
+- The Deadliest Storm on the Great Lakes Sank 12 Ships in Four Days
+- Why 8 Ships Vanished on Lake Huron in One Night
 - The Great Lakes Storm So Violent They Called It a Hurricane
 
 **Thumbnail:** an upturned steel hull in heavy seas (a real 1913 photograph exists), the text "12 SHIPS", and "4 DAYS" below.
@@ -187,9 +187,9 @@ Start with brief 1. It has a single dramatic event, a clear mystery, a scientifi
 ## 6. The one lock the American steel industry depends on
 
 **Titles**
-- Most of America's Iron Ore Passes Through One Lock in Michigan
-- If This One Lock Fails, US Steel Production Stops Within Weeks
-- The Single Weak Point in the American Steel Industry
+- America's Steel Still Depends on One Lock in Michigan
+- The Only Lock Most of America's Iron Ore Can Fit Through
+- Why One Lock in Michigan Could Stop American Steel
 
 **Thumbnail:** a satellite view of the locks with one circled in red, the text "ONE LOCK".
 

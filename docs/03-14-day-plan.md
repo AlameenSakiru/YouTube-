@@ -9,7 +9,7 @@ Plan for 3–5 hours of work a day.
 ## How the plan raises your chances
 
 1. **Publish early.** Video 1 goes out on day 3, so it has 11 days to collect views.
-2. **Start with your strongest story.** One specific place, a date or number, and a fact that sounds impossible but is documented. See "How to choose video 1" in [04-video-briefs.md](04-video-briefs.md).
+2. **Start with your strongest story.** One named place and one hidden or dangerous fact that is documented. See "How to choose video 1" in [04-video-briefs.md](04-video-briefs.md).
 3. **Make longer videos that hold attention.** A 15-minute video watched for 7 minutes needs about 34,000 views to reach 4,000 hours. A 10-minute video watched for 4 minutes needs 60,000.
 4. **Four videos, then follow the winner.** Days 13–14 are kept free for a fast follow-up to whichever video is doing best.
 5. **Fix packaging quickly.** If a video has a low click rate after 48 hours, change the thumbnail or title the same day.
