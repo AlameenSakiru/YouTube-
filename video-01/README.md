@@ -7,6 +7,7 @@ You generate the images and record the voice. I edit the video.
 | Step | Who |
 |---|---|
 | Full script | Done: [scripts/01-lake-michigan-tsunami.md](../scripts/01-lake-michigan-tsunami.md) |
+| Voiceover script for the AI voice, as a Word file | Done: [voiceover-script.docx](voiceover-script.docx) |
 | Shot list with a prompt for every image | Done: [shot-list.md](shot-list.md) |
 | Generate the images in Flow and upload them | You |
 | Record the voiceover and upload it | You |
