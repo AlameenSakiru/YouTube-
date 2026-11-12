@@ -94,18 +94,14 @@ flow.forEach((s) => {
   if (s.optional) meta.push(run(`     Optional`, { bold: true, color: OPT, size: 20 }));
   children.push(p(meta, { after: 40, keepNext: true }));
   children.push(p([run("With the words: ", { italics: true, color: MUTED, size: 20 }), run(`“${snippet(s.sec, s.word)}”`, { italics: true, color: MUTED, size: 20 })], { after: 40, keepNext: true }));
-  children.push(promptBox(`${s.desc}. ${STYLE[s.style]}`));
+  children.push(promptBox(s.prompt || `${s.desc}. ${STYLE[s.style]}`));
 });
 
 // thumbnails
 children.push(new Paragraph({ children: [new PageBreak()] }));
 children.push(new Paragraph({ heading: HeadingLevel.HEADING_1, children: [new TextRun({ text: "Thumbnail", font: FONT })] }));
 children.push(p("Make all three. I will add the text (\"10 FEET\" and \"CHICAGO, 1954\") and we will pick the one that reads best at phone size. Each prompt leaves empty sky on the right for the text."));
-const thumbs = [
-  ["thumb-1.png", "A towering wall of grey lake water rising behind a long concrete pier on Lake Michigan, a few small fishermen on the pier seen from behind, bright sunny sky, the wave fills the left two thirds of the frame and the right third is empty sky. Black-and-white documentary photograph from 1954, high contrast, film grain, realistic, no text, no watermark, wide 16:9 frame."],
-  ["thumb-2.png", "Low angle from the end of a concrete pier, an enormous swell of lake water towering over one small fisherman seen from behind, clear sky, the right third of the frame is empty sky. Black-and-white documentary photograph from 1954, high contrast, dramatic, realistic, no text, no watermark, wide 16:9 frame."],
-  ["thumb-3.png", "A sunny 1950s Chicago lakefront pier with a huge wall of blue-grey water rising behind small figures, deep blue summer sky, the right third of the frame is empty sky. Colourised 1950s photograph, vivid but realistic, no modern objects, no text, no watermark, wide 16:9 frame."],
-];
+const thumbs = fs.readFileSync(path.join(path.dirname(process.argv[3] || __dirname), "flow", "flow-thumbnails.txt"), "utf8").trim().split("\n").map((t, k) => [`thumb-${k + 1}.png`, t]);
 thumbs.forEach(([name, t]) => {
   children.push(p([run(name, { bold: true, size: 26, color: ACCENT })], { after: 40, keepNext: true }));
   children.push(promptBox(t));
