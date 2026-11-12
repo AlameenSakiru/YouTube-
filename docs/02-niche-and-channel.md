@@ -116,12 +116,12 @@ Other free handles checked the same day, if you prefer: @FiveLakesFiles, @FiveLa
 
 ## Channel description
 
-Paste this into YouTube Studio, Customization, Basic info, Description (limit 1,000 characters; this is 778). Replace the email placeholder, or delete that line.
+Paste this into YouTube Studio, Customization, Basic info, Description (limit 1,000 characters; this is 867). Replace the email placeholder, or delete that line.
 
 ```
 True stories from the Great Lakes that most people have never heard.
 
-Great Lakes Files investigates the strangest and most dangerous places around Lake Michigan, Lake Superior, Lake Huron, Lake Erie and Lake Ontario: a tsunami that hit Chicago on a calm morning, a storm that sank eight ships in a single night, a city-sized salt mine 1,200 feet under Detroit, and a 9,000-year-old hunting ground at the bottom of Lake Huron.
+Great Lakes Files is a documentary channel about Great Lakes history, shipwrecks, storms and mysteries. It investigates the strangest and most dangerous places around Lake Michigan, Lake Superior, Lake Huron, Lake Erie and Lake Ontario: a tsunami that hit Chicago on a calm morning, a storm that sank eight ships in a single night, a city-sized salt mine 1,200 feet under Detroit, and a 9,000-year-old hunting ground at the bottom of Lake Huron.
 
 Every video is one case file: what happened, why it happened, and what is still there today. The facts are researched and the sources are listed in every video description.
 
@@ -134,7 +134,29 @@ Business enquiries: [your email]
 
 The first two lines are what people see in search and on the channel page before they click "more", so they carry the promise and the place names.
 
-**Channel keywords** (YouTube Studio, Settings, Channel): Great Lakes, Lake Michigan, Lake Superior, Lake Huron, Great Lakes history, Great Lakes shipwrecks, Chicago history, Michigan history, documentary, true stories
+The second line now names the four subjects people search for most in this niche: Great Lakes history, shipwrecks, storms and mysteries. The research is in [research/keywords-2026-11-12.md](../research/keywords-2026-11-12.md).
+
+## Channel keywords
+
+YouTube Studio, Settings, Channel, Basic info, Keywords. Type each phrase and then a comma, so each one becomes its own keyword:
+
+```
+Great Lakes Files, Great Lakes, Great Lakes history, Great Lakes shipwrecks, Great Lakes documentary, Great Lakes mysteries, Great Lakes storms, Great Lakes disasters, Lake Michigan, Lake Superior, Lake Huron, Lake Erie, Lake Ontario, Lake Superior mysteries, Michigan history documentary, Chicago history, history documentary, true stories
+```
+
+Why these:
+
+- **The channel name first,** so people who hear about the channel can find it.
+- **"Great Lakes shipwrecks"** is the first thing YouTube suggests after typing "great lakes", and "Great Lakes history", "documentary" and "mysteries" are all among the top suggestions.
+- **All five lakes by name,** because people search each lake on its own.
+- **No words the channel does not cover.** Unrelated popular words would show the channel to the wrong people, who would not click.
+
+Channel keywords are a small signal. What makes YouTube recommend the channel is the same as for each video: people clicking and watching. The channel name already contains "Great Lakes", which is the strongest keyword it can have.
+
+### Also set up
+
+- **Playlists named with search phrases:** "Great Lakes Mysteries and Disasters", then "Great Lakes Shipwrecks" once there is a shipwreck video. Playlists appear in search and on the channel page.
+- **Channel trailer** (Customization, Layout, Video spotlight): once there are two or three videos, set the best one as the featured video for people who are not subscribed.
 
 ## Tools for a faceless channel
 

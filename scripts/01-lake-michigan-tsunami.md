@@ -19,7 +19,11 @@ Backups, if the click rate is low after 48 hours:
 
 ## Description
 
-> On a calm, sunny morning in June 1954, Lake Michigan rose ten feet in a few minutes and swept people off Chicago's piers. Eight drowned. There was no storm overhead and no earthquake. This is the true story of the Great Lakes tsunami: the people who were there, what really caused it, why it arrived two hours after the storm had gone, and how often it still happens.
+The final version, with chapters, sources, hashtags and tags, is in [video-01/upload.md](../video-01/upload.md).
+
+> On a calm, sunny morning in June 1954, a tsunami hit Chicago. Lake Michigan rose ten feet in a few minutes and swept people off the piers. Eight drowned. There was no storm overhead and no earthquake.
+>
+> This is the true story of the 1954 Chicago wave: the people at North Avenue Beach and Montrose Harbor, why the newspapers called it a seiche, what really caused it (a meteotsunami), and why it arrived two hours after the storm had gone. Scientists now count more than a hundred meteotsunamis a year on the Great Lakes, and Lake Michigan gets the most. Some set off rip currents that keep pulling swimmers out long after the wave has passed.
 >
 > The 1954 scenes in this video are illustrations, not photographs from the day.
 >

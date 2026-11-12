@@ -22,6 +22,7 @@ A 14-day plan to launch a faceless, long-form YouTube channel in a high-paying n
 | [docs/06-niche-research.md](docs/06-niche-research.md) | The research behind the niche: pay data and 582 channels measured |
 | [docs/07-channel-art.md](docs/07-channel-art.md) | Prompts for the channel logo and banner, with YouTube's sizes |
 | [research/channels-2026-11-11.csv](research/channels-2026-11-11.csv) | The channel data, with a link to every channel |
+| [research/keywords-2026-11-12.md](research/keywords-2026-11-12.md) | What people search for in the niche, and the tags, hashtags and descriptions the best small channels use |
 | [scripts/01-lake-michigan-tsunami.md](scripts/01-lake-michigan-tsunami.md) | Full script for video 1, with title, description, chapters and fact-check notes |
 | [video-01/](video-01/README.md) | How we make video 1 together: shot list, image prompts, where to upload |
 | [tracker/index.html](tracker/index.html) | Progress tracker: log subscribers and watch hours, tick off the 14 days |

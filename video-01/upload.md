@@ -9,7 +9,9 @@ Lake Michigan Has Tsunamis, and Nobody in Chicago Saw This One Coming
 ## Description
 
 ```
-On a calm, sunny morning in June 1954, Lake Michigan rose ten feet in a few minutes and swept people off Chicago's piers. Eight drowned. There was no storm overhead and no earthquake. This is the true story of the Great Lakes tsunami: the people who were there, what really caused it, why it arrived two hours after the storm had gone, and how often it still happens.
+On a calm, sunny morning in June 1954, a tsunami hit Chicago. Lake Michigan rose ten feet in a few minutes and swept people off the piers. Eight drowned. There was no storm overhead and no earthquake.
+
+This is the true story of the 1954 Chicago wave: the people at North Avenue Beach and Montrose Harbor, why the newspapers called it a seiche, what really caused it (a meteotsunami), and why it arrived two hours after the storm had gone. Scientists now count more than a hundred meteotsunamis a year on the Great Lakes, and Lake Michigan gets the most. Some set off rip currents that keep pulling swimmers out long after the wave has passed.
 
 The 1954 and 1929 scenes in this video are AI illustrations, not photographs from the day.
 
@@ -43,16 +45,39 @@ Wave warnings: alerts for meteotsunamis on the Great Lakes (International Joint 
 Great Lakes weather (Midwestern Regional Climate Center): https://mrcc.purdue.edu/living_wx/greatLakes
 Meteotsunami (Wikipedia): https://en.wikipedia.org/wiki/Meteotsunami
 Lake Michigan (Wikipedia): https://en.wikipedia.org/wiki/Lake_Michigan
+
+#LakeMichigan #Meteotsunami #ChicagoHistory #GreatLakes
 ```
+
+### Why the description is written this way
+
+- **The first two sentences carry the four words people search for:** tsunami, Chicago, Lake Michigan and 1954. They are what shows in search results and above "Show more".
+- **The second paragraph names everything else people search for,** in plain sentences: meteotsunami, seiche, North Avenue Beach, Montrose Harbor, Great Lakes, rip currents. Every one of them is in the video. Stuffing in words the video does not cover would break YouTube's spam policy.
+- **Hashtags:** four, at the end. YouTube shows up to three beside the title. #Meteotsunami is small (314 videos), so this video can sit near the top of its page; #LakeMichigan (27,000) and #GreatLakes (30,000) reach the wider audience. Skip #Tsunami (238,000 videos, mostly ocean disasters) and #Chicago (1.1 million).
+
+The research is in [research/keywords-2026-11-12.md](../research/keywords-2026-11-12.md).
+
+## Tags
+
+Paste this into the Tags box (under "Show more"). It is 459 characters, inside YouTube's 500 limit:
+
+```
+Lake Michigan tsunami, meteotsunami, meteo tsunami, Chicago tsunami, 1954 Chicago seiche, Chicago 1954, seiche, Lake Michigan seiche, meteotsunami Lake Michigan, Great Lakes tsunami, lake tsunami, Lake Michigan waves, Lake Michigan rogue wave, freak wave, Lake Michigan rip current, Lake Michigan dangerous, Montrose Harbor, North Avenue Beach, Chicago history, Chicago disasters, Great Lakes storms, Great Lakes history, Great Lakes Files
+```
+
+The exact subject comes first, then other ways of saying it ("meteo tsunami" is a common misspelling, which is what YouTube says tags are best for), then the places, then the wider topics, and the channel name last. Tags are a small signal; the title, thumbnail, description and spoken words matter much more.
 
 ## Settings
 
 - **Thumbnail:** `thumbnails/thumb-a.jpg` (my pick), or `thumb-b.jpg` / `thumb-c.jpg`. If YouTube offers you its thumbnail test, upload all three
 - **Audience:** No, it's not made for kids
 - **Altered or synthetic content:** Yes. The video uses realistic AI images of real events. This box matters more now that the images carry the channel name instead of an "AI illustration" label; keep the line about AI illustrations in the description too
-- **Subtitles:** upload `subtitles-en.srt` under Subtitles, English, Upload file, With timing
+- **Subtitles:** upload `subtitles-en.srt` under Subtitles, English, Upload file, With timing. This also gives YouTube every spoken word, correctly spelt, including "meteotsunami" and "seiche", which automatic captions often get wrong
 - **Category:** Education
-- **Tags:** Lake Michigan, Great Lakes, meteotsunami, Chicago history, 1954, seiche, Great Lakes history, Lake Michigan tsunami
+- **Language:** English for both the video and the title and description
+- **Tags:** see [Tags](#tags) above
+- **File name:** rename the file `lake-michigan-tsunami-1954.mp4` before uploading. It costs nothing; there is no proof it helps
+- **Playlist:** create a playlist called "Great Lakes Mysteries and Disasters" and add the video. Playlist titles show up in search too
 - **End screen:** add your next video (left area is the title; place the video element on the right) and a Subscribe element. The end card is on screen for the last 16 seconds
 
 ## Pinned comment
