@@ -11,10 +11,11 @@ You generate the images and record the voice. I edit the video.
 | Voiceover recorded | Done: 12 files in [voice/](voice/) |
 | Image prompts, timed to the voiceover | Done: [image-prompts.docx](image-prompts.docx) |
 | Shot list timed to the voiceover | Done: [shot-list.md](shot-list.md) |
-| Generate the images in Flow and upload them | You |
+| Generate the images in Flow and upload them | Done: 73 images in [images/](images/) |
 | Record the voiceover and upload it | You |
-| Maps, diagrams and text cards | Me |
-| Choose the best images, edit, add captions | Me |
+| Maps, diagrams and text cards | Done: 51 graphics, drawn by [tools/gfx](../tools/gfx) |
+| Edit | Done: `video-01.mp4`, 14:50, built by [tools/edit/build.py](../tools/edit/build.py). Too large for GitHub, so it is sent in the chat |
+| Subtitles and upload details | Done: [subtitles-en.srt](subtitles-en.srt), [upload.md](upload.md) |
 | Final check and upload to YouTube | You |
 
 ## What to upload
