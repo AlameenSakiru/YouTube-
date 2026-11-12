@@ -26,6 +26,7 @@ A 14-day plan to launch a faceless, long-form YouTube channel in a high-paying n
 | [scripts/01-lake-michigan-tsunami.md](scripts/01-lake-michigan-tsunami.md) | Full script for video 1, with title, description, chapters and fact-check notes |
 | [video-01/](video-01/README.md) | How we make video 1 together: shot list, image prompts, where to upload |
 | [tracker/index.html](tracker/index.html) | Progress tracker: log subscribers and watch hours, tick off the 14 days |
+| [video-01/monitoring.md](video-01/monitoring.md) | How we watch video 1's numbers and what we change for each one |
 
 ## The plan in five lines
 
