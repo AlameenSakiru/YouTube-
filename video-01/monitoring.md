@@ -6,7 +6,7 @@ Published on 12 November 2026 at about 17:45 UTC: https://youtu.be/FVzIMTzzHqs
 
 | Who | What | How |
 |---|---|---|
-| Me | Public views and subscribers, about every 8 hours | [tools/monitor/public_stats.py](../tools/monitor/public_stats.py), logged in [tracker/public-stats.csv](../tracker/public-stats.csv) |
+| Me | Public views and subscribers, every 3 hours | [tools/monitor/public_stats.py](../tools/monitor/public_stats.py), logged in [tracker/public-stats.csv](../tracker/public-stats.csv) |
 | You | Impressions, click rate, watch time, retention, traffic sources and search terms. These are private and only visible in YouTube Studio | Screenshots sent to me in the chat |
 | You | Comments: reply to every one, especially in the first hours | YouTube Studio, Comments |
 
