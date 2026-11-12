@@ -114,9 +114,27 @@ No name makes a channel go viral; titles, thumbnails and the first 30 seconds do
 
 Other free handles checked the same day, if you prefer: @FiveLakesFiles, @FiveLakesUncovered, @HiddenGreatLakes.
 
-## Channel description template
+## Channel description
 
-> True stories of the strangest and most dangerous places around the Great Lakes. Each video explains one place: what is there, how it got that way, and why most people have never heard of it. New video every three days.
+Paste this into YouTube Studio, Customization, Basic info, Description (limit 1,000 characters; this is 778). Replace the email placeholder, or delete that line.
+
+```
+True stories from the Great Lakes that most people have never heard.
+
+Great Lakes Files investigates the strangest and most dangerous places around Lake Michigan, Lake Superior, Lake Huron, Lake Erie and Lake Ontario: a tsunami that hit Chicago on a calm morning, a storm that sank eight ships in a single night, a city-sized salt mine 1,200 feet under Detroit, and a 9,000-year-old hunting ground at the bottom of Lake Huron.
+
+Every video is one case file: what happened, why it happened, and what is still there today. The facts are researched and the sources are listed in every video description.
+
+Some scenes are AI illustrations of real events, based on the historical record.
+
+New stories every few days. Subscribe to open the next file.
+
+Business enquiries: [your email]
+```
+
+The first two lines are what people see in search and on the channel page before they click "more", so they carry the promise and the place names.
+
+**Channel keywords** (YouTube Studio, Settings, Channel): Great Lakes, Lake Michigan, Lake Superior, Lake Huron, Great Lakes history, Great Lakes shipwrecks, Chicago history, Michigan history, documentary, true stories
 
 ## Tools for a faceless channel
 
