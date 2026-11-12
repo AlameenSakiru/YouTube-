@@ -8,7 +8,9 @@ You generate the images and record the voice. I edit the video.
 |---|---|
 | Full script | Done: [scripts/01-lake-michigan-tsunami.md](../scripts/01-lake-michigan-tsunami.md) |
 | Voiceover script for the AI voice, as a Word file | Done: [voiceover-script.docx](voiceover-script.docx) |
-| Shot list with a prompt for every image | Done: [shot-list.md](shot-list.md) |
+| Voiceover recorded | Done: 12 files in [voice/](voice/) |
+| Image prompts, timed to the voiceover | Done: [image-prompts.docx](image-prompts.docx) |
+| Shot list timed to the voiceover | Done: [shot-list.md](shot-list.md) |
 | Generate the images in Flow and upload them | You |
 | Record the voiceover and upload it | You |
 | Maps, diagrams and text cards | Me |
@@ -21,8 +23,8 @@ You generate the images and record the voice. I edit the video.
 
 - **Shape:** wide (16:9). Choose the largest size Flow offers.
 - **Type:** PNG or JPG.
-- **Name:** the shot number from the shot list, three digits: `001.png`, `002.png`.
-- **Extra versions:** if you make two versions of a shot, name the second `004b.png`. I will keep the better one.
+- **Name:** the image number from [image-prompts.docx](image-prompts.docx), three digits: `001.png` to `073.png`. Thumbnails are `thumb-1.png` to `thumb-3.png`.
+- **Extra versions:** if you make two versions of an image, name the second `004b.png`. I will keep the better one.
 - **Folder:** `video-01/images/`
 
 You do not have to make every shot. If one will not come out right, skip it and I will cover the gap with a neighbouring image or a map.
