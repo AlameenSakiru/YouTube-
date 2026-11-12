@@ -47,7 +47,7 @@ Lake Michigan (Wikipedia): https://en.wikipedia.org/wiki/Lake_Michigan
 
 ## Settings
 
-- **Thumbnail:** the one you pick from thumb-1 to thumb-3, with the text "10 FEET" and "CHICAGO, 1954"
+- **Thumbnail:** `thumbnails/thumb-a.jpg` (my pick), or `thumb-b.jpg` / `thumb-c.jpg`. If YouTube offers you its thumbnail test, upload all three
 - **Audience:** No, it's not made for kids
 - **Altered or synthetic content:** Yes. The video uses AI images of real events
 - **Subtitles:** upload `subtitles-en.srt` under Subtitles, English, Upload file, With timing
