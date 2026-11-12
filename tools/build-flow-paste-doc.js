@@ -2,7 +2,8 @@
 // one prompt per paragraph, nothing else between them.
 const fs = require("fs");
 const { Document, Packer, Paragraph, TextRun, HeadingLevel, AlignmentType, PageBreak, Header, Footer, PageNumber, LevelFormat } = require("docx");
-const [OUT, PROMPTS, THUMBS] = process.argv.slice(2);
+const [OUT, PROMPTS, THUMBS, OPTS] = process.argv.slice(2);
+const opt = OPTS ? JSON.parse(fs.readFileSync(OPTS, "utf8")) : {};
 const prompts = fs.readFileSync(PROMPTS, "utf8").trim().split("\n");
 const thumbs = fs.readFileSync(THUMBS, "utf8").trim().split("\n");
 const FONT = "Arial", INK = "1F2933", MUTED = "5B6675", ACCENT = "1F5A7A";
@@ -13,13 +14,13 @@ const promptPara = (t) => new Paragraph({ spacing: { after: 200, line: 264 }, ke
 const h = (t, level) => new Paragraph({ heading: level, children: [new TextRun({ text: t, font: FONT })] });
 
 const children = [
-  h("Flow prompts for automation", HeadingLevel.TITLE),
+  h(opt.title || "Flow prompts for automation", HeadingLevel.TITLE),
   para("Video 1: Lake Michigan Has Tsunamis, and Nobody in Chicago Saw This One Coming", { color: ACCENT, size: 24, after: 80 }),
-  para(`${prompts.length} image prompts, then ${thumbs.length} thumbnail prompts on the last page.`, { color: MUTED, after: 240 }),
+  para(opt.summary || `${prompts.length} image prompts, then ${thumbs.length} thumbnail prompts on the last page.`, { color: MUTED, after: 240 }),
   h("How to use it", HeadingLevel.HEADING_2),
   step("Set your Flow tool to the wide 16:9 shape and the highest image quality your plan allows."),
   step("Go to the next page. Select from the first word of the first prompt to the last word of prompt " + prompts.length + ", copy, and paste it into your tool."),
-  step("Each prompt is one paragraph, so it pastes as one line. Line 1 is image 001, line 2 is image 002, and so on."),
+  step(opt.order || "Each prompt is one paragraph, so it pastes as one line. Line 1 is image 001, line 2 is image 002, and so on."),
   step("Run the thumbnail prompts on the last page separately."),
   step("Send me the images when they are done, whatever the tool names them. I will match each one to its shot."),
   para("Do not copy this first page into your tool. If your tool needs an empty line between prompts, tell me and I will send that version.", { color: MUTED, after: 0 }),
