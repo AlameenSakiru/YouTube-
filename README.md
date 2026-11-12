@@ -20,6 +20,7 @@ A 14-day plan to launch a faceless, long-form YouTube channel in a high-paying n
 | [docs/04-video-briefs.md](docs/04-video-briefs.md) | Your first six videos: titles, thumbnails, opening lines, outlines |
 | [docs/05-script-and-production.md](docs/05-script-and-production.md) | The script template and the faceless production workflow |
 | [docs/06-niche-research.md](docs/06-niche-research.md) | The research behind the niche: pay data and 582 channels measured |
+| [docs/07-channel-art.md](docs/07-channel-art.md) | Prompts for the channel logo and banner, with YouTube's sizes |
 | [research/channels-2026-11-11.csv](research/channels-2026-11-11.csv) | The channel data, with a link to every channel |
 | [scripts/01-lake-michigan-tsunami.md](scripts/01-lake-michigan-tsunami.md) | Full script for video 1, with title, description, chapters and fact-check notes |
 | [video-01/](video-01/README.md) | How we make video 1 together: shot list, image prompts, where to upload |
