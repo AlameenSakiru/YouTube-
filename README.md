@@ -27,7 +27,7 @@ A 14-day plan to launch a faceless, long-form YouTube channel in a high-paying n
 
 ## The plan in five lines
 
-1. **Niche:** hidden places of the Great Lakes region. Each video tells one true story about a strange or dangerous place around North America's Great Lakes. Chosen from measurements of 582 channels.
+1. **Channel:** Great Lakes Files (@GreatLakesFiles). **Niche:** hidden places of the Great Lakes region. Each video tells one true story about a strange or dangerous place around North America's Great Lakes. Chosen from measurements of 582 channels.
 2. **Format:** faceless documentaries of about 15 minutes with voiceover.
 3. **Pace:** video 1 on day 3, then one every three days, and a fast follow-up to the best one on days 13–14.
 4. **Target by day 14:** 4,000 watch hours and 1,000 subscribers, which is about 48,000 views at a 5-minute average watch time.

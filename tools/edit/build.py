@@ -1,7 +1,7 @@
 """Assemble video 1 from the voiceover, the Flow images and the graphics.
 
 python3 build.py plan              work out final timings (pauses, gaps, end card) -> build/timeline.json
-python3 build.py images [N..]      render image shots (Ken Burns, grain, labels)
+python3 build.py images [N..]      render image shots (motion, name and place captions)
 python3 build.py graphics          render graphics clips at their final lengths
 python3 build.py audio             voice track with pauses, levelled to -14 LUFS
 python3 build.py subs              subtitles (.srt) with correct spellings
@@ -20,6 +20,7 @@ sys.path.insert(0, GFX)
 W, H, FPS, SR = 1920, 1080, 30, 48000
 GAP = 0.6          # silence between sections
 END_CARD = 16.0    # seconds the end card stays up (YouTube end screens need 5 to 20)
+CHANNEL = os.environ.get('CHANNEL_NAME', 'Great Lakes Files')  # shown in the corner of the whole video
 
 # dramatic pauses: (section, words that end the line, extra seconds)
 PAUSES = [
@@ -163,12 +164,19 @@ def overlay(lines_fn):
     return rgb, alpha  # premultiplied
 
 
-def tag_overlay():
-    from style import font, text, INK
-    def draw(cr):
-        font(cr, 'Inter', 22, bold=True)
-        text(cr, 'AI ILLUSTRATION', W - 44, H - 36, (1, 1, 1), 0.55, 'right', tracking=3)
-    return overlay(draw)
+def watermark_png(path):
+    """The channel name, small, in the bottom-right corner, readable on bright skies too."""
+    import cairo
+    from style import font, text, text_width, AMBER
+    s = cairo.ImageSurface(cairo.FORMAT_ARGB32, W, H); cr = cairo.Context(s)
+    font(cr, 'Inter', 24, bold=True)
+    label = CHANNEL.upper(); tr = 4
+    w = text_width(cr, label, tr); x = W - 48 - w; y = H - 40
+    for dx, dy, al in ((2, 2, 0.45), (1, 1, 0.45)):
+        text(cr, label, x + dx, y + dy, (0, 0, 0), al, tracking=tr)
+    cr.set_source_rgba(*AMBER, 0.85); cr.rectangle(x - 18, y - 19, 5, 22); cr.fill()
+    text(cr, label, x, y, (1, 1, 1), 0.72, tracking=tr)
+    s.write_to_png(path)
 
 
 def lower_third(title, sub):
@@ -210,12 +218,9 @@ def render_image_shot(g):
     if os.path.exists(out) and os.path.getsize(out) > 1000: return out
     im = load_image(g['img']); sw, sh = im.size
     fx, fy, z0, z1 = motion(g)
-    tag_rgb, tag_a = tag_overlay()
     lt = None
     if g['kind'] == 'F' and g['img'] in LOWER_THIRDS: lt = lower_third(*LOWER_THIRDS[g['img']])
     vig = vignette(); n = g['n']
-    ty0, tx0 = H - 80, W - 520                        # tag region
-    tag_rgb, tag_a = tag_rgb[ty0:, tx0:], tag_a[ty0:, tx0:]
     if lt is not None: lt = (lt[0][H - 260:H - 90, :920], lt[1][H - 260:H - 90, :920])
     p = subprocess.Popen(['ffmpeg', '-v', 'error', '-y', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', str(FPS),
                           '-i', '-', '-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-pix_fmt', 'yuv420p', out],
@@ -227,7 +232,6 @@ def render_image_shot(g):
         cx = min(max(fx * sw, cw / 2), sw - cw / 2); cy = min(max(fy * sh, ch / 2), sh - ch / 2)
         fr = im.transform((W, H), Image.EXTENT, (cx - cw / 2, cy - ch / 2, cx + cw / 2, cy + ch / 2), Image.BILINEAR)
         a = np.asarray(fr, np.float32) * vig
-        r = a[ty0:, tx0:] / 255; a[ty0:, tx0:] = (r * (1 - tag_a) + tag_rgb) * 255
         if lt is not None:
             t = i / FPS; al = min(1, max(0, (t - 0.6) / 0.4)) * min(1, max(0, (min(g['dur_final'], 5.5) - t) / 0.4))
             if al > 0:
@@ -365,8 +369,12 @@ def video(out, to=None):
             f.write("file '%s'\n" % os.path.join(BUILD, 'clips', 'S%04d.mp4' % g['F0']))
     vid = os.path.join(BUILD, 'video-only.mp4')
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', lst, '-c', 'copy', vid], check=True)
-    cmd = ['ffmpeg', '-v', 'error', '-y', '-i', vid, '-i', os.path.join(BUILD, 'voice.wav'), '-map', '0:v', '-map', '1:a',
-           '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-shortest', '-movflags', '+faststart']
+    wm = os.path.join(BUILD, 'watermark.png'); watermark_png(wm)
+    end_card_start = tl['shots'][-1]['T']
+    cmd = ['ffmpeg', '-v', 'error', '-y', '-i', vid, '-i', wm, '-i', os.path.join(BUILD, 'voice.wav'),
+           '-filter_complex', "[0:v][1:v]overlay=0:0:enable='lt(t,%.2f)'[v]" % end_card_start,
+           '-map', '[v]', '-map', '2:a', '-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-pix_fmt', 'yuv420p',
+           '-c:a', 'aac', '-b:a', '192k', '-shortest', '-movflags', '+faststart']
     if to: cmd += ['-t', str(to)]
     subprocess.run(cmd + [out], check=True)
     print('wrote', out)

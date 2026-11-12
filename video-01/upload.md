@@ -49,7 +49,7 @@ Lake Michigan (Wikipedia): https://en.wikipedia.org/wiki/Lake_Michigan
 
 - **Thumbnail:** `thumbnails/thumb-a.jpg` (my pick), or `thumb-b.jpg` / `thumb-c.jpg`. If YouTube offers you its thumbnail test, upload all three
 - **Audience:** No, it's not made for kids
-- **Altered or synthetic content:** Yes. The video uses AI images of real events
+- **Altered or synthetic content:** Yes. The video uses realistic AI images of real events. This box matters more now that the images carry the channel name instead of an "AI illustration" label; keep the line about AI illustrations in the description too
 - **Subtitles:** upload `subtitles-en.srt` under Subtitles, English, Upload file, With timing
 - **Category:** Education
 - **Tags:** Lake Michigan, Great Lakes, meteotsunami, Chicago history, 1954, seiche, Great Lakes history, Lake Michigan tsunami

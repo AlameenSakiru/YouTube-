@@ -100,17 +100,19 @@ Do not use television news footage or clips from other YouTube channels.
 - [ ] Add a simple logo and banner
 - [ ] Write the channel description (template below)
 
-## Name ideas
+## Channel name: Great Lakes Files
 
-Check each on YouTube first and pick one nobody is using.
+The handle **@GreatLakesFiles** was free on 12 November 2026. Claim it as soon as you create the channel.
 
-- Five Lakes Files
-- Freshwater Files
-- Under the Lakes
-- Lake Country Secrets
-- The Sweetwater Seas
+Why this name:
 
-A good name is short, easy to spell, and tells a new viewer what the channel covers.
+- **"Great Lakes"** is the phrase people already know and search for. A new viewer understands the subject instantly.
+- **"Files"** says true stories, investigated one case at a time, which is exactly the format.
+- It is short, easy to spell and easy to say.
+
+No name makes a channel go viral; titles, thumbnails and the first 30 seconds do that. A good name helps people remember you and come back.
+
+Other free handles checked the same day, if you prefer: @FiveLakesFiles, @FiveLakesUncovered, @HiddenGreatLakes.
 
 ## Channel description template
 
