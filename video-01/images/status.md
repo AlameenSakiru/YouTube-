@@ -8,11 +8,11 @@ All 73 images received on 12 November 2026, at 1376 by 768 pixels.
 | 044 | Use, cropped | "SEPTEMBER 1954" film-edge lettering and black border removed |
 | 050 | Use, cropped | Black print border removed |
 | 069 | Use, cropped | "OCT 14, 1954." date stamp removed |
-| 004 | **Redo** | Shows a storm breaker on a rough sea; the story needs a smooth surge on a calm lake. Made with the old prompt |
-| 006 | **Redo** | The skyline includes towers built after 1954, including one like the John Hancock Center (1969) |
-| 023 | **Redo** | Shows two children close up; the shot is two young lifeguards seen from a distance |
-| 045 | **Redo** | The skyline includes the John Hancock Center (1969) |
-| 062 | Redo if easy | Two buoys; the narration says one |
+| 004 | Replaced 12 November | New version: a smooth surge over the breakwater |
+| 006 | Replaced 12 November | New version: a 1920s-era skyline |
+| 023 | Replaced 12 November | New version: two young lifeguards |
+| 045 | Replaced 12 November, retouched | A faint modern-looking tower in the rain was cloned out |
+| 062 | Replaced 12 November | New version: one buoy |
 | All others | Use | |
 
-Redo prompts: [../flow/redo-1.docx](../flow/redo-1.docx) (also `redo-1.txt`). The first version of 004 is kept in `spare/`.
+The first versions of the replaced images are kept in `spare/`.
