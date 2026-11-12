@@ -3,6 +3,7 @@
 | File | Use it when your automation tool wants |
 |---|---|
 | `flow-prompts.txt` | One prompt per line. **Start with this one.** 73 lines, line 1 is image 001 |
+| `flow-prompts.docx` | The same 73 prompts in a Word file, one per paragraph, ready to copy and paste |
 | `flow-prompts-blank-lines.txt` | Prompts separated by an empty line |
 | `flow-prompts.csv` | A spreadsheet. Columns: file name, optional, prompt |
 | `flow-thumbnails.txt` | The 3 thumbnail prompts, one per line. Run these separately |
