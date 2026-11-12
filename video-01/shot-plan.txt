@@ -1,0 +1,155 @@
+# kind | style | cue (first words of the line it starts on) | description
+# kind: F = Flow image, G = graphic I make, R:<n> = reuse Flow image n with a different crop
+# style: A = 1954, B = present day, C = 1929, D = underground
+== 1
+F|A|the only warning|Close view of a man's leather shoe on a wet concrete breakwater as a thin sheet of lake water creeps over it
+F|A|he was twenty four|A young conservation officer in a 1950s uniform and cap, seen from behind, writing in a small ticket book beside a man fishing on a concrete breakwater, calm sunny lake
+R:he was twenty four|-|he'd just written|Crop on the fisherman being given the ticket
+F|A|the sun was out|A flat, mirror-calm lake under bright morning sun, a long concrete breakwater with small figures of fishermen in the distance
+R:the only warning|-|then he felt water|Closer crop of the wet shoe
+F|A|he stepped up to higher ground|A surge of lake water pouring over the top of a concrete breakwater, seen from higher ground, figures tiny and indistinct
+F|A|and when he turned around|A huge swell of water rolling through a narrow harbour entrance between two breakwaters, seen from a distance, no people visible
+G|-|eight people drowned|Text card: Eight people drowned
+R:the sun was out|-|there was no storm overhead|Wide crop of the calm lake under a clear sky
+G|-|the national weather service|Quote card: "under calm winds and a bright sunny sky" (National Weather Service)
+G|-|it was a tsunami|Title card: A tsunami. On a lake.
+F|A|and nobody in chicago|A sunny 1950s Chicago lakefront promenade, people strolling, calm water, a faint line of storm clouds far away on the horizon
+G|-|it still happens|Map of the Great Lakes with dots appearing: more than 100 a year
+== 2
+F|B|lake michigan is called|The open horizon of Lake Michigan seen from a beach, no far shore visible, it looks like an ocean
+G|-|it's three hundred|Map zooming to Lake Michigan with its length and width marked
+F?|B|stand on the shore|A lone person standing at the water's edge on a Chicago beach, seen from behind, looking out at an endless horizon
+G|-|twelve million people|Map: 12 million people live along its shores
+F|A|in chicago the lakefront|A crowded Chicago beach on a hot summer day, swimmers in the water and families on the grass, the skyline behind
+F|A|and out on the long|A long concrete pier reaching out into deep water, fishermen spaced along it, seen from the shore end
+G|-|saturday june|Date card: Saturday, June 26, 1954
+== 3
+F|A|it began with a storm|A dark line of storm clouds sweeping low over a city lakefront, trees bending in the wind
+G|-|a line of squalls|Weather map: storm line moving from La Crosse through Madison, Rockford and Milwaukee
+G|-|at about half past seven|Map: 7:30 a.m., the storm crosses Chicago and heads out over the lake, close to 60 mph
+F|A|it was fast|People hurrying off a concrete pier in driving rain, coats pulled over their heads, seen from behind
+F?|A|along the lakefront people|Men sheltering in the doorway of a brick harbour building, watching heavy rain, seen from behind
+F|A|then it was gone|The storm moving away over the lake, sunlight breaking through, a wet empty pier in the foreground
+F|A|so people did the most|Fishermen walking back out along a pier carrying their rods, backs to the camera
+F?|A|remember that|Close view of hands holding a fishing rod over calm water, no face
+R:the sun was out|-|and two hours later|Slow push-in on the calm, glittering lake
+== 4
+G|-|the first place it reached|Map: Chicago shoreline with North Avenue Beach marked
+F|A|joseph pecararo|A young lifeguard in 1950s swim trunks with a whistle round his neck, seen from behind, looking out at a calm lake
+F|A|when he arrived for work|An almost empty city beach in morning sun with a long white beach house
+F|A|two fishermen out|Two fishermen far out on a curved, hook-shaped concrete pier
+F|A|a line of rescue rowboats|A row of wooden rescue rowboats pulled up on the sand in front of a beach house
+F|A|then the lifeguards saw|Lifeguards running down the sand toward the rowboats as water climbs the beach
+G|-|pecararo remembered|Quote card: "And when we did, there was a wave."
+F|A|a wall of water went|A wall of water breaking over rowboats on a beach, seen from a distance
+F|A|and when they came up|Two young lifeguards standing up soaked in shallow water, laughing, seen from a distance
+F|A|seconds later a man|A man running across wet sand, waving his arms
+F|A|his name was john|A father and his teenage son fishing side by side on a pier, seen from behind
+F|A|the lifeguards formed a line|A line of lifeguards wading in rough water, linked arm in arm, seen from the shore
+F|A|they were bringing his body|A 1950s police car stopped beside a beach, an officer leaning out of the window
+G|-|dozens down at montrose|Black card: "Dozens down at Montrose."
+== 5
+G|-|montrose harbor is|Map moving north along the shore from North Avenue Beach to Montrose Harbor
+F|A|its breakwater was one|A long harbour breakwater lined with fishermen in morning sun, small boats moored behind
+R:he was twenty four|-|this is where herbert|Closer crop of the officer with his ticket book
+F|A|the national weather service says|Water rising fast up a harbour wall, moored boats lifting and straining at their ropes
+G|-|not a breaking wave|Diagram: a breaking wave compared with a surge
+R:and when he turned around|-|riederer never forgot|Slow push-in on the swell rolling through the harbour entrance
+G|-|he said|Quote card: Herbert Riederer's words
+G|-|a husband and wife|Names on black: Mae Gabriel, 48. Edward Gabriel, 49
+F|A|divers pulled three|Divers in 1950s gear and small police boats working in a harbour
+F|A|one of them was theodore|Fishing rods, a tackle box and a hat left lying on wet concrete
+G|-|the wave struck the shore|Map: the shoreline from the Chicago River north to Wilmette highlighted
+F|A|and then as quickly|The same breakwater empty, the lake flat calm again in bright sunshine
+== 6
+F|A|in nineteen fifty four nobody|A 1950s newspaper newsroom, reporters at typewriters under hanging lamps, nothing readable
+R:the sun was out|-|there'd been no earthquake|The calm lake again
+F?|A|a wall of water had come|Men in suits and hats standing on a breakwater, looking out at a calm lake, seen from behind
+G|-|the experts had one ready|Word card: seiche, with how to say it
+G|-|a saysh is a slosh|Animation: water rocking from end to end in a long tank
+F|A|it was the best explanation|A 1950s scientist in shirt and tie studying the ink line on a paper chart recorder, seen from the side
+G|-|but a saysh is slow|Graph: a slow rise over hours against a sudden spike in minutes
+F|B|when scientists went back|A researcher at a desk with screens showing a blue computer simulation of a lake, nothing readable
+G|-|meteo tsunami|Word card: meteotsunami
+== 7
+G|-|you know what a tsunami|Animation: the sea floor moves and an ocean tsunami spreads out
+G|-|a meteo tsunami is the same|Card: meteo means weather
+F|B|here's how weather|A long line of thunderstorms over open water, seen from the air
+G|-|in nineteen fifty four that jump|Map: the pressure jump crossing the lake at about 60 mph
+G|-|as it moves it presses|Animation: the storm presses on the water and a small wave forms beneath it
+G|-|but a wave in water|Diagram: deeper water, faster wave
+G|-|if the storm above|Animation: storm and wave moving at the same speed, the wave growing
+F|B|it's like pushing a child|A child on a playground swing being pushed from behind by an adult, seen from behind
+G|-|scientists at noah|Diagram: too slow, too fast, just right
+G|-|but a storm moving|Animation: the wave growing as it crosses the lake
+G|-|then the wave reaches|Animation: the wave reaching shallow water and rising
+G|-|a harbor squeezes|Animation: a harbour squeezing the wave higher
+F|B|a few inches in the middle|A sunny lakeshore with a sudden surge of water washing over a breakwater
+== 8
+F?|A|that explains the size|A bright sunny morning over a calm city lakefront, empty blue sky
+G|-|follow the clock|Map with clock at 7:30: the storm leaves Chicago
+G|-|ten past eight|Map with clock at 8:10: storm and wave reach Michigan City
+F|A|a five foot wall|Water pouring over a breakwater with a small lighthouse during a violent storm
+F|A|and here's the cruel part|Fishermen running up a sandy path away from the lake in driving rain, seen from behind
+R:it began with a storm|-|the storm that made|Crop of the dark storm line
+G|-|then the wave hit|Map: the wave strikes the far shore and bounces
+F|A|forty miles of open lake|A calm open lake under a clear sky with one long, low swell approaching from the distance
+G|-|nine thirty|Map with clock at 9:30: the wave reaches Chicago
+F?|A|the people on the piers|Fishermen on a pier looking out at a calm sunlit lake, seen from behind
+G|-|what was about to reach|Map: the whole path, storm out, wave back
+== 9
+G|-|what happened next|Calendar turning from June 26 to July 6
+F|A|on july sixth|A storm passing over a city lakefront, dark sky over the water
+F?|A|but this time the city|A 1950s weather office, a man at a desk with a telephone beside a teleprinter, seen from behind, nothing readable
+F|A|the beaches were cleared|Police officers and lifeguards waving people off a beach, pointing inland, seen from a distance
+F|A|and the wave came|Lake water flooding a beach car park, 1950s cars with water around their wheels
+F|A|it ran up the steps|Water running up the steps of a beach house and pouring back down
+F?|A|nobody was hurt|An empty beach under a clearing sky, nobody there
+G|-|two waves ten days|Comparison card: June 26, eight dead. July 6, none
+R:the beaches were cleared|-|the only difference|Crop of the officers clearing the beach
+F|B|and chicago did one more|Close view of steel posts and cables fixed along the top of a concrete breakwater
+== 10
+F?|A|for years nineteen fifty four|A records room with tall shelves of bound newspaper volumes and filing cabinets, dim light, nothing readable
+F|B|in twenty sixteen|A small water-level measuring station on a harbour wall beside a large lake
+G|-|they found that meteo|Map of the Great Lakes with dots appearing, and the number 106
+R:a few inches in the middle|-|most are small|Crop of the surge over the breakwater
+G|-|july fourth nineteen twenty nine|Date card: July 4, 1929. Grand Haven, Michigan
+F|C|a morning thunderstorm then|A long pier with a lighthouse at the end, people in 1920s clothes on it, rough water
+G|-|july fourth two thousand|Date card: July 4, 2003. Warren Dunes, Michigan
+F|B|a storm passes|A wide sandy beach with tall dunes behind it, the sky clearing after a storm
+F|B|families go back|Swimmers walking into the lake in sunshine, storm clouds leaving in the distance, seen from behind
+G|-|a meteo tsunami only about|Diagram: a rip current pulling away from the beach
+G|-|april twenty eighteen|Date card: April 2018. Ludington, Michigan
+F|B|water comes over the harbor|Water pouring over a harbour wall in a small Michigan port town on a cold grey April day, no people
+F?|B|it was april so|A damaged wooden boat dock and debris on a lakeshore after high water
+F?|B|but this time people took|A person photographing big waves on a harbour wall with a phone, seen from behind
+G|-|june twenty twenty five|Date card: June 2025. Lake Superior
+F|B|a storm sets off|A rocky Lake Superior beach where the water has drained far away, leaving the lake bed bare, people filming with phones, seen from behind
+F?|B|then the water comes back|Water rushing back up over a rocky beach
+G|-|one gauge records|Text card: 45 inches, the largest rise in 30 years of records
+G|-|look at the deadly ones|Card: 1929, 1954, 2003. A storm. Then sunshine. Then the water.
+== 11
+R:that explains the size|-|so can anyone see|Calm lake under a bright sky
+F|B|after ludington noah|A yellow scientific buoy with instruments floating on a large lake
+G|-|it's anchored to the lake|Map: the buoy in the middle of Lake Michigan
+F?|B|scientists hope it will|Scientists on the deck of a research boat preparing a buoy, seen from behind
+G|-|but today there's still|Text card: still no warning system
+G|-|so the warning has to be|Quote card: Bryan Mroczka, NOAA
+F?|B|however these meteo tsunami waves|A beach in bright sunshine just after a storm, people walking back toward the water, seen from behind
+R:then it was gone|-|for hours after the rain|The storm moving away, sun breaking through
+F|B|if you're ever on one|A line of thunderstorms moving away from an empty pier, sun breaking through
+F?|B|when the sun comes back|An empty pier in bright sunshine just after rain, puddles on the concrete
+R:a storm passes|-|don't go straight back into|Crop of the beach with dunes
+F|B|and if you see the water|Water drawn far back from a beach, leaving wet sand and rocks exposed
+G|-|don't go and look|Safety card: Don't go and look. Go up.
+== 12
+F|A|on june twenty sixth|Fishermen walking out onto a pier under a clear sky, seen from behind
+R:it was fast|-|they waited for the storm|People hurrying off the pier in the rain
+R:so people did the most|-|they went back when|Fishermen walking back out along the pier
+F?|A|everything they could see|An empty breakwater in sunshine, one fishing rod leaning on the rail
+R:the only warning|-|herbert riederer's only|The wet shoe again
+F|B|twelve million people|A modern Chicago lakefront path with people walking and cycling, the skyline behind
+F|B|if you know someone|Aerial view of Lake Michigan and the Chicago skyline at dawn
+F|D|and there's something else|A wide tunnel cut through white rock salt deep underground, lit by the headlights of a large truck
+F?|D|it's the size of a city|A vast underground cavern of white rock salt with a tiny truck far away for scale, lit by work lights
+G|-|that's the next video|End card: next video and subscribe
