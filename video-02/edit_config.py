@@ -20,7 +20,6 @@ PAUSES = [
 # name captions on 1844 reconstructions and a present-day view (no dates on modern AI images)
 LOWER_THIRDS = {
     3: ('Buffalo, New York', 'October 18, 1844'),
-    9: ('Buffalo, New York', 'The eastern end of Lake Erie'),
     12: ('Buffalo harbor', '1844'),
     21: ('The Julia Palmer', 'About 400 passengers'),
     29: ('Main Street, Buffalo', 'About midnight'),

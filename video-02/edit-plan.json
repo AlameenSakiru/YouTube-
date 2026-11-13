@@ -199,22 +199,8 @@
   "gid": "G07",
   "word": 12,
   "t": 4.489999999999999,
-  "d": 10.3,
+  "d": 12.6,
   "line": "lake erie is about two hundred and forty miles long and it"
- },
- {
-  "sec": 2,
-  "kind": "F",
-  "style": "B",
-  "cue": "buffalo sits at the other",
-  "desc": "The Buffalo skyline seen from the lake at dusk",
-  "optional": false,
-  "img": 9,
-  "word": 35,
-  "prompt": "Wide shot from out on the water of a lakeside American city skyline at dusk, a mix of older stone towers and modern glass buildings, the lights coming on, calm grey-blue lake water in the foreground, a long breakwater crossing the frame. 70mm lens. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame.",
-  "t": 14.83,
-  "d": 2.3,
-  "line": "buffalo sits at the other it's also the shallowest of the five"
  },
  {
   "sec": 2,

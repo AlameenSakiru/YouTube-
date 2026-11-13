@@ -19,7 +19,7 @@ F|B|and the same lake did|Winter storm waves on Lake Erie crashing over a breakw
 == 2
 G|-|to understand how a lake|Map: the Great Lakes, zooming to Lake Erie
 G|-|lake erie is about|Map: Lake Erie, about 240 miles long, southwest to northeast, Toledo and Buffalo marked
-F|B|buffalo sits at the other|The Buffalo skyline seen from the lake at dusk
+F-|B|buffalo sits at the other|Not used: Flow drew Chicago's skyline, so the Lake Erie map stays up
 G|-|it's also the shallowest|Bars: average depth of the five lakes, Erie 62 ft against Superior 483 ft
 F|B|shallow water is easy|Aerial view of shallow green lake water near the shore, wind streaks across the surface
 G|-|and lake erie's worst|Map: strong southwest wind arrows along the lake

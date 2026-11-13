@@ -4,7 +4,7 @@
     python3 tools/shotplan.py video-02 --json     # also write video-02/shots-untimed.json
 
 Plan lines: kind|style|cue|description, sections start with "== N".
-kind: F (Flow image), F? (optional Flow image), G (graphic), R:<cue> (reuse the Flow image
+kind: F (Flow image), F? (optional Flow image), F- (Flow image not used), G (graphic), R:<cue> (reuse the Flow image
 that starts at <cue>), V1:<n> (reuse image n from video 1).
 """
 import json, os, re, sys
@@ -28,12 +28,15 @@ def parse(video_dir):
         if line.startswith('=='):
             sec = int(line[2:]); continue
         kind, style, cue, desc = line.split('|', 3)
+        if kind == 'F-':   # Flow image made but not used: keeps the numbers of the images after it
+            shots.append(dict(sec=sec, kind='X', style=style, cue=cue, desc=desc, optional=False)); continue
         opt = kind == 'F?'
         shots.append(dict(sec=sec, kind='F' if opt else kind, style=style, cue=cue, desc=desc, optional=opt))
     flow, fcue, g = 0, {}, 0
     for s in shots:
-        if s['kind'] == 'F':
+        if s['kind'] in ('F', 'X'):
             flow += 1; s['img'] = flow; fcue[s['cue']] = flow
+    shots = [s for s in shots if s['kind'] != 'X']
     for s in shots:
         if s['kind'].startswith('R:'):
             s['img'] = fcue[s['kind'][2:]]; s['kind'] = 'R'
