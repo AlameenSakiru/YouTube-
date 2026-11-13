@@ -6,8 +6,11 @@ const {
 } = require("docx");
 
 const shots = JSON.parse(fs.readFileSync(process.argv[3] || path.join(__dirname, "shots.json"), "utf8"));
-const sections = JSON.parse(fs.readFileSync(process.argv[4] || path.join(__dirname, "sections.json"), "utf8"));
+const _secs = JSON.parse(fs.readFileSync(process.argv[4] || path.join(__dirname, "sections.json"), "utf8"));
+const sections = Array.isArray(_secs) ? _secs : _secs.sections;
 const OUT = process.argv[2];
+// optional 5th argument: JSON with video, title, styleNames, checks, thumbText
+const opt = process.argv[5] ? JSON.parse(fs.readFileSync(process.argv[5], "utf8")) : {};
 
 const FONT = "Arial", INK = "1F2933", MUTED = "5B6675", ACCENT = "1F5A7A", BOX = "EEF3F7", OPT = "8A5A00";
 
@@ -17,7 +20,7 @@ const STYLE = {
   C: "Black-and-white documentary photograph from 1929, Michigan harbour town on Lake Michigan, film grain, realistic, no modern objects, no text, no watermark, wide 16:9 frame.",
   D: "Colour documentary photograph, present day, deep underground salt mine, dramatic artificial light, realistic, no text, no watermark, wide 16:9 frame.",
 };
-const STYLE_NAME = { A: "1954, black and white", B: "present day, colour", C: "1929, black and white", D: "underground, colour" };
+const STYLE_NAME = Object.assign({ A: "1954, black and white", B: "present day, colour", C: "1929, black and white", D: "underground, colour" }, opt.styleNames || {});
 
 // map a normalized token index back to the original words of a section
 function snippet(secIdx, tokenIdx, n = 11) {
@@ -56,7 +59,7 @@ const nOpt = flow.filter((s) => s.optional).length;
 
 const children = [];
 children.push(new Paragraph({ heading: HeadingLevel.TITLE, children: [new TextRun({ text: "Image prompts", font: FONT })] }));
-children.push(p([run("Video 1: ", { bold: true, size: 26, color: ACCENT }), run("Lake Michigan Has Tsunamis, and Nobody in Chicago Saw This One Coming", { size: 26, color: ACCENT })], { after: 80 }));
+children.push(p([run(`Video ${opt.video || 1}: `, { bold: true, size: 26, color: ACCENT }), run(opt.title || "Lake Michigan Has Tsunamis, and Nobody in Chicago Saw This One Coming", { size: 26, color: ACCENT })], { after: 80 }));
 children.push(p(`${flow.length} images · ${flow.length - nOpt} needed and ${nOpt} optional · plus 3 thumbnail versions`, { color: MUTED, after: 240 }));
 
 children.push(h2("How to use this list"));
@@ -69,14 +72,14 @@ children.push(h2("How to use this list"));
 ].forEach((t) => children.push(numbered(t)));
 
 children.push(h2("Generate it again if you see"));
-[
+(opt.checks || [
   "Any readable text, letters, signs or newspaper headlines.",
   "Modern things in a 1954 or 1929 picture: phones, modern cars, modern clothes, plastic.",
   "Colour in a picture that should be black and white.",
   "Faces shown close up. People should be small, far away or seen from behind.",
   "Warped hands, extra limbs, or bodies that look wrong.",
   "Anyone shown drowning, injured or dead.",
-].forEach((t) => children.push(bullet(t)));
+]).forEach((t) => children.push(bullet(t)));
 
 children.push(h2("Why the timing matters"));
 children.push(p("Each image shows how long it stays on screen, timed to your voiceover. I add slow zooms and pans in the edit, so a picture never sits still. The line under each number is the narration it goes with, so you can check that the picture matches the words."));
@@ -100,7 +103,7 @@ flow.forEach((s) => {
 // thumbnails
 children.push(new Paragraph({ children: [new PageBreak()] }));
 children.push(new Paragraph({ heading: HeadingLevel.HEADING_1, children: [new TextRun({ text: "Thumbnail", font: FONT })] }));
-children.push(p("Make all three. I will add the text (\"10 FEET\" and \"CHICAGO, 1954\") and we will pick the one that reads best at phone size. Each prompt leaves empty sky on the right for the text."));
+children.push(p(opt.thumbText || "Make all three. I will add the text (\"10 FEET\" and \"CHICAGO, 1954\") and we will pick the one that reads best at phone size. Each prompt leaves empty sky on the right for the text."));
 const thumbs = fs.readFileSync(path.join(path.dirname(process.argv[3] || __dirname), "flow", "flow-thumbnails.txt"), "utf8").trim().split("\n").map((t, k) => [`thumb-${k + 1}.png`, t]);
 thumbs.forEach(([name, t]) => {
   children.push(p([run(name, { bold: true, size: 26, color: ACCENT })], { after: 40, keepNext: true }));
@@ -108,8 +111,8 @@ thumbs.forEach(([name, t]) => {
 });
 
 const doc = new Document({
-  creator: "Five Lakes Files",
-  title: "Video 1 image prompts",
+  creator: "Great Lakes Files",
+  title: `Video ${opt.video || 1} image prompts`,
   styles: {
     default: { document: { run: { font: FONT, size: 22, color: INK } } },
     paragraphStyles: [
@@ -126,7 +129,7 @@ const doc = new Document({
   },
   sections: [{
     properties: { page: { size: { width: 12240, height: 15840 }, margin: { top: 1440, bottom: 1440, left: 1440, right: 1440 } } },
-    headers: { default: new Header({ children: [new Paragraph({ alignment: AlignmentType.RIGHT, children: [run("Video 1 image prompts", { size: 18, color: MUTED })] })] }) },
+    headers: { default: new Header({ children: [new Paragraph({ alignment: AlignmentType.RIGHT, children: [run(`Video ${opt.video || 1} image prompts`, { size: 18, color: MUTED })] })] }) },
     footers: { default: new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ children: ["Page ", PageNumber.CURRENT, " of ", PageNumber.TOTAL_PAGES], font: FONT, size: 18, color: MUTED })] })] }) },
     children,
   }],

@@ -1,0 +1,14 @@
+{
+  "video": 2,
+  "title": "Buffalo's Deadliest Natural Disaster Came From Lake Erie, Not Snow",
+  "styleNames": {"N": "1844, night storm", "D": "1844, daylight", "B": "present day, colour"},
+  "checks": [
+    "Any readable text, letters, signs, posters or newspaper pages.",
+    "Modern things in an 1844 picture: cars, phones, electric lights, power lines, steel ships, modern clothes.",
+    "1844 scenes that look like a modern photograph or a cartoon. They should look like a still from a historical film.",
+    "Faces shown close up. People should be small, far away or seen from behind.",
+    "Warped hands, extra limbs, or bodies that look wrong.",
+    "Anyone shown drowning, injured or dead."
+  ],
+  "thumbText": "Make all three. I will add the text (\"MIDNIGHT\" and \"BUFFALO, 1844\") in the video's red and white style, and we will pick the one that reads best at phone size. Each prompt leaves dark sky on the right for the text."
+}
