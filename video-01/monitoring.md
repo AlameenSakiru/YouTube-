@@ -41,6 +41,14 @@ Use only if the click rate stays low after a thumbnail change:
 - Do not buy views, subscribers or likes, or join "sub for sub" groups. It breaks YouTube's fake engagement policy and can cost the channel its monetization.
 - Do not change a video that is working.
 
+## Studio readings
+
+The public view count on the channel page runs behind YouTube Studio: at about 9 hours it still showed 3 views while Studio showed 14. Studio is the true number; the public count is only used for the trend.
+
+| Time | Hours since publishing | Views | Watch time | Average per view | Impressions | Click rate | Traffic sources | Notes |
+|---|---|---|---|---|---|---|---|---|
+| 13 Nov, about 02:40 UTC | 9 | 14 | 1.4 hours | about 6 minutes (40%) | 180 | 4.4% | Suggested 9, external 2, browse 1, channel page 1, search 1 | Impressions started climbing steeply at about 8 hours. Retention graph not ready yet |
+
 ## Change log
 
 | Date (UTC) | Change | Why | Result after 48 hours |
