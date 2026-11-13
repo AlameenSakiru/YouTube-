@@ -141,8 +141,10 @@ The second line now names the four subjects people search for most in this niche
 YouTube Studio, Settings, Channel, Basic info, Keywords. Type each phrase and then a comma, so each one becomes its own keyword:
 
 ```
-Great Lakes Files, Great Lakes, Great Lakes history, Great Lakes shipwrecks, Great Lakes documentary, Great Lakes mysteries, Great Lakes storms, Great Lakes disasters, Lake Michigan, Lake Superior, Lake Huron, Lake Erie, Lake Ontario, Lake Superior mysteries, Michigan history documentary, Chicago history, history documentary, true stories
+Great Lakes Files, Great Lakes, Great Lakes history, Great Lakes shipwrecks, Great Lakes documentary, Great Lakes mysteries, Great Lakes storms, Great Lakes disasters, Lake Michigan, Lake Superior, Lake Huron, Lake Erie, Lake Ontario, Lake Superior mysteries, Lake Erie documentary, Lake Erie history, Michigan history documentary, Chicago history, Buffalo history, history documentary, true stories
 ```
+
+Updated on 13 November 2026 for video 2: "Lake Erie documentary" is YouTube's first suggestion after typing "lake erie d", and the channel now has a Buffalo story.
 
 Why these:
 

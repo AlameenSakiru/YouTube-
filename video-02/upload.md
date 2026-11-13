@@ -11,7 +11,7 @@ Buffalo's Deadliest Natural Disaster Came From Lake Erie, Not Snow
 ```
 Buffalo is famous for its blizzards, but the deadliest natural disaster in its history came from Lake Erie: a seiche. Just before midnight on October 18, 1844, a gale swung around to the southwest and the lake came into the city. In less than half an hour, the lower part of Buffalo was under two to eight feet of water. 78 people died.
 
-This is the true story of the 1844 Lake Erie seiche: the days of east wind that tilted the lake like a bathtub, the families who drifted across the flats on a split roof, the steamboat Julia Palmer burning its furniture to stay afloat, and why the same seiche still drains Toledo and floods Buffalo, as it did in November 2020 and December 2025.
+This documentary tells the true story of the 1844 Lake Erie seiche, with the science explained: the days of east wind that tilted the lake like a bathtub, the flooded lower city at the end of the Erie Canal where two families drifted across the flats on a split roof, the steamboat Julia Palmer burning its furniture to stay afloat, and why the same seiche still drains Toledo and floods Buffalo, as it did in November 2020 and December 2025.
 
 All the images in this video are AI illustrations, not photographs. There are no known pictures of the 1844 flood.
 
@@ -48,14 +48,17 @@ Lake Erie (Wikipedia): https://en.wikipedia.org/wiki/Lake_Erie
 
 - **The first sentence carries the words people search:** Buffalo, Lake Erie and seiche. "Lake erie seiche" and "lake erie seiche 2025" are both YouTube search suggestions, and the video covers the December 2025 seiche.
 - **The AI line covers every image**, not only the 1844 scenes, because the present-day scenes are AI images too.
-- **Hashtags:** YouTube shows up to three beside the title. #Seiche is small (under 900 videos), so the video can sit near the top of its page; #LakeErie and #GreatLakes reach the wider audience.
+- **The second paragraph adds the searched phrases the video really covers,** in plain sentences: documentary, seiche explained, Erie Canal, Toledo.
+- **Hashtags:** YouTube shows up to three beside the title. #Seiche (867 videos) and #BuffaloHistory (about 1,000) are small and exact, so the video can sit near the top of their pages; #LakeErie (15,000) and #GreatLakes (30,000) reach the wider audience. Skip #Buffalo: 848,000 videos, mostly the animal and the Bills.
+
+The research is in [research/keywords-video-02.md](../research/keywords-video-02.md).
 
 ## Tags
 
-Paste this into the Tags box (under "Show more"). It is 382 characters, inside YouTube's 500 limit:
+Paste this into the Tags box (under "Show more"). It is 448 characters, inside YouTube's 500 limit:
 
 ```
-Lake Erie seiche, Lake Erie seiche 2025, seiche, 1844 Buffalo flood, Buffalo 1844, Buffalo flood, Lake Erie flooding, Lake Erie disaster, Lake Erie storm, Buffalo history, Buffalo NY history, Julia Palmer steamboat, Toledo seiche, lake tsunami, Great Lakes disasters, Great Lakes storms, Great Lakes history, Lake Erie history, Buffalo blizzard, Great Lakes Files
+Lake Erie seiche, Lake Erie seiche 2025, seiche, seiche explained, seiche wave, 1844 Buffalo flood, Buffalo 1844, Lake Erie flooding, Lake Erie disaster, Lake Erie storm, Lake Erie waves, Lake Erie dangerous, Lake Erie documentary, Lake Erie history, Buffalo history, Buffalo NY history, Erie Canal history, Julia Palmer steamboat, storm surge, Great Lakes disasters, Great Lakes storms, Great Lakes history, Great Lakes Files
 ```
 
 ## Settings
