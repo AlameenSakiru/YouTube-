@@ -49,6 +49,7 @@ The public view count on the channel page runs behind YouTube Studio: at about 9
 |---|---|---|---|---|---|---|---|---|
 | 13 Nov, about 02:40 UTC | 9 | 14 | 1.4 hours | about 6 minutes (40%) | 180 | 4.4% | Suggested 9, external 2, browse 1, channel page 1, search 1 | Impressions started climbing steeply at about 8 hours. Retention graph not ready yet. Suggested next to: "15 Kansas Towns Buried Under Reservoirs", "Washington, The Most Evil Tornado", a weather-forecast video ("Pattern flip"), a film soundtrack, "The Mutiny of HMS Wager". So YouTube is matching it with weather-disaster, hidden-places and sea-history viewers |
 | 13 Nov, about 08:30 UTC | 15 | 40 | 4.0 hours | about 6 minutes (40%) | 647 | 3.9% | Suggested 80%, browse 5%, channel page 5%, search 5%, external 5% | Impressions still climbing; views slowing slightly. Retention graph not ready. Click rate just under 4%, but under the 1,000 impressions the rule needs |
+| 13 Nov, about 18:30 UTC | 25 | 54 | (not shown) | | 1,200 | 2.8% | Suggested 43, browse 3, other 9 | Passed 1,000 impressions with the click rate under 4%: the rule says change the thumbnail first. Plan: Test & compare with the current thumbnail and two new colour ones with a face, in the style of video 2's thumbnail |
 
 ## Change log
 
