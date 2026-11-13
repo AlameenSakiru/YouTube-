@@ -296,6 +296,15 @@
  },
  {
   "sec": 3,
+  "kind": "R",
+  "style": "-",
+  "cue": "and small wooden homes where",
+  "desc": "Closer crop on the small wooden houses",
+  "optional": false,
+  "img": 16
+ },
+ {
+  "sec": 3,
   "kind": "F",
   "style": "D",
   "cue": "across buffalo creek were",
@@ -750,6 +759,15 @@
  },
  {
   "sec": 8,
+  "kind": "R",
+  "style": "-",
+  "cue": "the city opened the basement",
+  "desc": "Closer crop on the survivors in the basement",
+  "optional": false,
+  "img": 47
+ },
+ {
+  "sec": 8,
   "kind": "G",
   "style": "-",
   "cue": "then came the count",
@@ -857,6 +875,15 @@
   "optional": false,
   "img": 49,
   "prompt": "Wide shot of grey lake water piled up high against a rocky shore under a heavy overcast sky, waves pressing over the rocks and up the bank, wind on the water. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 9,
+  "kind": "R",
+  "style": "-",
+  "cue": "and the water that leaves",
+  "desc": "Push-in on the piled-up water",
+  "optional": false,
+  "img": 49
  },
  {
   "sec": 9,
@@ -984,6 +1011,15 @@
  },
  {
   "sec": 11,
+  "kind": "R",
+  "style": "-",
+  "cue": "and flooded the lakeshore and",
+  "desc": "Closer crop on the flooded road",
+  "optional": false,
+  "img": 56
+ },
+ {
+  "sec": 11,
   "kind": "G",
   "style": "-",
   "cue": "the bathtub had tilted",
@@ -1056,6 +1092,15 @@
   "optional": false,
   "img": 59,
   "prompt": "Wide shot from behind of one small figure in a winter coat walking out across a bare, muddy lake bed toward the distant edge of the water, footprints in the mud, a vast grey sky, the person tiny in the frame. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 12,
+  "kind": "R",
+  "style": "-",
+  "cue": "and people are tempted to",
+  "desc": "Push-in on the figure walking out",
+  "optional": false,
+  "img": 59
  },
  {
   "sec": 12,

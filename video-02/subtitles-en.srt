@@ -1,0 +1,899 @@
+1
+00:00:00,510 --> 00:00:03,540
+Buffalo, New York, is famous for snow.
+
+2
+00:00:03,610 --> 00:00:08,060
+For blizzards that bury cars and shut the city down for days.
+
+3
+00:00:08,130 --> 00:00:13,110
+But the deadliest natural disaster in Buffalo's history didn't come with snow.
+
+4
+00:00:13,180 --> 00:00:16,810
+It came on an October night in 1844…
+
+5
+00:00:16,880 --> 00:00:18,640
+and it came out of the lake.
+
+6
+00:00:18,710 --> 00:00:20,993
+Just before midnight on the eighteenth of October,
+
+7
+00:00:21,013 --> 00:00:23,940
+the wind swung around and began to blow hard from the southwest,
+
+8
+00:00:23,960 --> 00:00:25,690
+straight down the length of Lake Erie.
+
+9
+00:00:29,230 --> 00:00:32,090
+And the lake came with it.
+
+10
+00:00:32,160 --> 00:00:36,065
+In less than half an hour, the whole lower part of the city,
+
+11
+00:00:36,085 --> 00:00:39,140
+everything south of the canal, was under water.
+
+12
+00:00:39,700 --> 00:00:41,540
+Two feet deep in some streets.
+
+13
+00:00:41,610 --> 00:00:43,930
+Eight feet in others.
+
+14
+00:00:44,000 --> 00:00:47,310
+People woke up with the lake inside their homes.
+
+15
+00:00:47,380 --> 00:00:49,320
+By the time it was over…
+
+16
+00:00:49,390 --> 00:00:52,660
+78 people were dead.
+
+17
+00:00:52,730 --> 00:00:53,900
+There was no hurricane.
+
+18
+00:00:53,970 --> 00:00:56,300
+No dam broke.
+
+19
+00:00:56,370 --> 00:01:02,159
+The lake had been pushed away to its far end, held there by the wind for days,
+
+20
+00:01:02,179 --> 00:01:03,350
+and then let go.
+
+21
+00:01:03,850 --> 00:01:09,370
+And the same lake did the same thing again, last winter.
+
+22
+00:01:09,440 --> 00:01:13,310
+To understand how a lake can do that, look at its shape.
+
+23
+00:01:13,380 --> 00:01:20,360
+Lake Erie is about 240 miles long, and it runs from southwest to northeast.
+
+24
+00:01:20,680 --> 00:01:23,650
+Toledo, Ohio, sits at one end.
+
+25
+00:01:23,720 --> 00:01:25,920
+Buffalo sits at the other.
+
+26
+00:01:25,990 --> 00:01:29,190
+It's also the shallowest of the five Great Lakes.
+
+27
+00:01:29,260 --> 00:01:32,850
+On average, it's only about 60 feet deep.
+
+28
+00:01:32,920 --> 00:01:37,830
+Lake Superior, on average, is almost eight times deeper.
+
+29
+00:01:37,900 --> 00:01:40,630
+Shallow water is easy to push.
+
+30
+00:01:40,700 --> 00:01:44,992
+And Lake Erie's worst seiches come when strong winds blow from the southwest,
+
+31
+00:01:45,012 --> 00:01:47,680
+right along the lake, from one end to the other.
+
+32
+00:01:49,620 --> 00:01:55,600
+The National Weather Service describes Lake Erie as acting like "a giant bathtub."
+
+33
+00:01:55,670 --> 00:01:58,626
+When a strong wind blows along it for hours,
+
+34
+00:01:58,646 --> 00:02:02,210
+the water piles up at one end and drops at the other.
+
+35
+00:02:02,280 --> 00:02:04,842
+In an extreme case, the weather service says,
+
+36
+00:02:04,862 --> 00:02:09,260
+the water at Toledo and the water at Buffalo can differ by more than 10 feet.
+
+37
+00:02:11,300 --> 00:02:13,660
+It works in both directions.
+
+38
+00:02:13,730 --> 00:02:17,484
+When strong winds blow from the east instead, it's the western shore's turn,
+
+39
+00:02:17,504 --> 00:02:20,710
+and the weather service watches the water at Toledo for flooding.
+
+40
+00:02:23,300 --> 00:02:28,470
+And when the wind stops, or turns, the water doesn't just settle back.
+
+41
+00:02:28,540 --> 00:02:30,520
+It rocks.
+
+42
+00:02:30,590 --> 00:02:32,640
+That rocking has a name.
+
+43
+00:02:32,710 --> 00:02:33,660
+Seiche.
+
+44
+00:02:33,730 --> 00:02:39,356
+It's spelled S, E, I, C, H, E.
+
+45
+00:02:39,426 --> 00:02:43,806
+In 1844, Buffalo was one of the fastest-growing cities in America,
+
+46
+00:02:43,826 --> 00:02:46,406
+and it owed almost everything to water.
+
+47
+00:02:48,026 --> 00:02:53,716
+The Erie Canal had opened in 1825, and Buffalo was where it ended.
+
+48
+00:02:53,786 --> 00:02:57,516
+Grain and timber came across the lakes by steamboat.
+
+49
+00:02:57,586 --> 00:03:02,089
+At Buffalo, they were loaded onto canal boats and sent east,
+
+50
+00:03:02,109 --> 00:03:04,276
+all the way to New York City.
+
+51
+00:03:04,346 --> 00:03:09,666
+People came the other way, thousands of them, heading west across the lakes.
+
+52
+00:03:09,736 --> 00:03:13,586
+That waterfront was crowded, busy, and low.
+
+53
+00:03:13,656 --> 00:03:16,963
+South of the canal lay the lower part of the city: docks, warehouses, hotels,
+
+54
+00:03:16,983 --> 00:03:20,636
+boarding houses, and small wooden homes where canal workers and their families lived.
+
+55
+00:03:25,986 --> 00:03:31,056
+Across Buffalo Creek were more homes, on low, flat ground.
+
+56
+00:03:31,126 --> 00:03:35,186
+Out in the harbor stood a seawall and a stone pier,
+
+57
+00:03:35,206 --> 00:03:38,066
+built to keep the lake in its place.
+
+58
+00:03:38,136 --> 00:03:41,936
+The trouble started with a wind that seemed harmless.
+
+59
+00:03:42,006 --> 00:03:47,156
+For several days before the storm, a stiff wind had been blowing from the east.
+
+60
+00:03:47,226 --> 00:03:51,496
+A Buffalo newspaper explained afterward what it had done.
+
+61
+00:03:51,566 --> 00:03:57,325
+It "had driven the water up the lake," away from Buffalo, and toward the far,
+
+62
+00:03:57,345 --> 00:03:58,226
+western end.
+
+63
+00:03:58,296 --> 00:04:00,256
+Think of the bathtub again.
+
+64
+00:04:00,326 --> 00:04:01,756
+The lake was being tilted.
+
+65
+00:04:01,826 --> 00:04:04,116
+Lower at Buffalo's end.
+
+66
+00:04:04,186 --> 00:04:06,116
+Higher at Toledo's.
+
+67
+00:04:06,186 --> 00:04:08,586
+And the wind was holding it there.
+
+68
+00:04:08,656 --> 00:04:14,027
+On the evening of Friday, October 18, four steamboats left Buffalo,
+
+69
+00:04:14,047 --> 00:04:15,636
+heading up the lake.
+
+70
+00:04:15,956 --> 00:04:17,106
+The St. Louis.
+
+71
+00:04:17,176 --> 00:04:18,576
+The Robert Fulton.
+
+72
+00:04:18,646 --> 00:04:20,166
+The Indian Queen.
+
+73
+00:04:20,236 --> 00:04:25,929
+And the Julia Palmer, with about 400 passengers on board.
+
+74
+00:04:25,999 --> 00:04:29,099
+Then, at about midnight, the wind changed.
+
+75
+00:04:29,169 --> 00:04:32,280
+It swung around to the southwest, and it blew, a later history says,
+
+76
+00:04:32,300 --> 00:04:36,149
+"with a tremendous force never before or since known to the inhabitants of Buffalo."
+
+77
+00:04:40,909 --> 00:04:46,049
+Now it was blowing straight down the lake, from Toledo toward Buffalo.
+
+78
+00:04:46,119 --> 00:04:50,375
+All the water that had been held at the far end was released,
+
+79
+00:04:50,395 --> 00:04:52,479
+and driven back the other way.
+
+80
+00:04:52,549 --> 00:04:54,749
+The newspaper put it simply.
+
+81
+00:04:54,819 --> 00:04:59,249
+The water "came down before it as if a dam had broken away."
+
+82
+00:04:59,319 --> 00:05:01,681
+It ran down 240 miles of lake,
+
+83
+00:05:01,701 --> 00:05:06,129
+and it piled up at the one place it could go no further.
+
+84
+00:05:06,199 --> 00:05:07,559
+The eastern end…
+
+85
+00:05:07,629 --> 00:05:09,879
+Buffalo.
+
+86
+00:05:09,949 --> 00:05:13,099
+It tore holes in the seawall and the stone pier,
+
+87
+00:05:13,119 --> 00:05:16,929
+and carried stones weighing many tons ten and twenty feet.
+
+88
+00:05:17,959 --> 00:05:19,851
+By the newspaper's measure,
+
+89
+00:05:19,871 --> 00:05:24,099
+the lake rose 22 feet above where it had stood that evening.
+
+90
+00:05:24,169 --> 00:05:25,716
+And in less than half an hour,
+
+91
+00:05:25,736 --> 00:05:29,373
+"the whole lower part of the city south of the canal" was under water,
+
+92
+00:05:29,393 --> 00:05:31,149
+"from two to eight feet in depth."
+
+93
+00:05:34,876 --> 00:05:36,156
+It was midnight.
+
+94
+00:05:36,226 --> 00:05:38,946
+Almost everyone in the lower city was asleep.
+
+95
+00:05:39,016 --> 00:05:44,336
+A later history called it "an avalanche of waters upon a sleeping community."
+
+96
+00:05:44,406 --> 00:05:48,376
+One man across the creek was woken by the noise of the wind.
+
+97
+00:05:48,446 --> 00:05:53,126
+He guessed the water might rise, and ran to wake his family.
+
+98
+00:05:53,196 --> 00:05:55,680
+Before he could get his trousers on,
+
+99
+00:05:55,700 --> 00:05:59,366
+the water in his house was more than three feet deep.
+
+100
+00:05:59,436 --> 00:06:05,526
+On Main Street, near the bridge, a witness saw it come "in one huge wave."
+
+101
+00:06:05,596 --> 00:06:10,356
+At the corner of Main and Ohio Streets, the water stood six feet deep.
+
+102
+00:06:10,426 --> 00:06:15,906
+At Huff's Hotel, at Main and Scott, six feet.
+
+103
+00:06:15,976 --> 00:06:21,786
+In basements and on ground floors, there was almost no time to get out.
+
+104
+00:06:21,856 --> 00:06:26,016
+In one house, two families climbed to the second floor.
+
+105
+00:06:26,086 --> 00:06:29,226
+The water followed them, and they climbed onto the roof.
+
+106
+00:06:29,296 --> 00:06:33,226
+Then the flood lifted the whole house off its foundation…
+
+107
+00:06:33,296 --> 00:06:35,936
+and floated it away.
+
+108
+00:06:36,006 --> 00:06:40,146
+The roof split in two, with a family on each half.
+
+109
+00:06:40,216 --> 00:06:45,716
+They drifted across the creek and over the flats, more than a mile in the dark.
+
+110
+00:06:45,786 --> 00:06:50,928
+"The most fearful midnight voyaging," one account says, "that ever a man,
+
+111
+00:06:50,948 --> 00:06:52,766
+wife and child underwent."
+
+112
+00:06:53,486 --> 00:06:57,516
+Neighbors, risking their own lives, pulled them into the second story of a house,
+
+113
+00:06:57,536 --> 00:07:00,466
+just before the rafts were swept into Little Buffalo Creek.
+
+114
+00:07:03,116 --> 00:07:07,019
+Another family clung to their roof all the way to the Hydraulics,
+
+115
+00:07:07,039 --> 00:07:10,096
+a mile and a half from where their house had stood.
+
+116
+00:07:10,747 --> 00:07:15,637
+Out on the lake, the four steamboats met the gale at its height.
+
+117
+00:07:15,707 --> 00:07:18,697
+Off Dunkirk, the St. Louis broke her shaft,
+
+118
+00:07:18,717 --> 00:07:22,687
+and four of her passengers were swept overboard and lost.
+
+119
+00:07:22,797 --> 00:07:26,145
+The Robert Fulton lost two or three people overboard,
+
+120
+00:07:26,165 --> 00:07:29,387
+and was thrown up on the beach near Sturgeon Point.
+
+121
+00:07:29,457 --> 00:07:30,767
+A total wreck.
+
+122
+00:07:30,837 --> 00:07:33,937
+The Julia Palmer couldn't fight it at all.
+
+123
+00:07:34,007 --> 00:07:36,867
+She was driven helplessly back down the lake.
+
+124
+00:07:36,937 --> 00:07:41,562
+At about six in the morning, opposite the foot of Main Street in Buffalo,
+
+125
+00:07:41,582 --> 00:07:43,917
+her anchors finally caught, and held.
+
+126
+00:07:45,907 --> 00:07:48,997
+She rolled and pitched there all that day.
+
+127
+00:07:49,067 --> 00:07:51,299
+Steamboats in 1844 burned wood,
+
+128
+00:07:51,319 --> 00:07:55,587
+and the Julia Palmer had been fighting the storm for hours.
+
+129
+00:07:55,657 --> 00:08:01,297
+Then a horse swam ashore from her, with a letter tied to its mane.
+
+130
+00:08:01,367 --> 00:08:04,157
+They had burned all their wood, it said.
+
+131
+00:08:04,227 --> 00:08:04,857
+They were…
+
+132
+00:08:04,927 --> 00:08:08,067
+"now burning the furniture."
+
+133
+00:08:08,137 --> 00:08:11,471
+On Sunday morning, when the water had gone down,
+
+134
+00:08:11,491 --> 00:08:14,127
+the Julia Palmer came into the harbor.
+
+135
+00:08:14,197 --> 00:08:18,059
+Everyone on board was safe.
+
+136
+00:08:18,129 --> 00:08:21,909
+In the morning, Buffalo saw what the lake had done.
+
+137
+00:08:21,979 --> 00:08:26,939
+Canal boats lay out in the streets, on Division, Eagle, and Clinton.
+
+138
+00:08:27,009 --> 00:08:33,279
+A steamboat, the Columbus, sat in a pasture 200 feet from the creek.
+
+139
+00:08:33,349 --> 00:08:36,793
+More than 80 canal boats had been driven ashore,
+
+140
+00:08:36,813 --> 00:08:39,969
+and more than 200 small buildings were gone.
+
+141
+00:08:40,039 --> 00:08:42,784
+Across the creek, the newspaper said,
+
+142
+00:08:42,804 --> 00:08:46,819
+there was "scarcely a house in its original position."
+
+143
+00:08:46,889 --> 00:08:51,679
+Most of the survivors had escaped in their nightclothes, with nothing else.
+
+144
+00:08:51,749 --> 00:08:56,229
+The city opened the basement of the Mohawk Market as a shelter,
+
+145
+00:08:56,249 --> 00:08:58,729
+and asked for clothing of any kind.
+
+146
+00:08:59,089 --> 00:09:00,789
+Then came the count.
+
+147
+00:09:00,859 --> 00:09:05,319
+The newspapers said it was impossible to get "at anything like accuracy."
+
+148
+00:09:05,389 --> 00:09:10,219
+Their first list had 39 dead, "besides several who are missing."
+
+149
+00:09:10,289 --> 00:09:16,329
+Later records put the toll at 53 in Buffalo, and 25 on the lake.
+
+150
+00:09:16,399 --> 00:09:19,479
+78 in all.
+
+151
+00:09:19,549 --> 00:09:19,925
+Today,
+
+152
+00:09:19,945 --> 00:09:26,199
+New York Sea Grant still calls it "the most destructive documented seiche in Western New York."
+
+153
+00:09:26,269 --> 00:09:31,029
+Local historians call it the worst natural disaster in Buffalo's history.
+
+154
+00:09:31,099 --> 00:09:35,502
+And yet most people in Buffalo have never heard of it.
+
+155
+00:09:35,572 --> 00:09:41,242
+If you watched the last video on this channel, you've heard the word seiche before.
+
+156
+00:09:41,312 --> 00:09:47,932
+In 1954, a killer wave hit Chicago, and for decades it was called a seiche.
+
+157
+00:09:48,002 --> 00:09:48,922
+It wasn't.
+
+158
+00:09:48,992 --> 00:09:53,392
+It was a meteotsunami: one fast wave, over in minutes.
+
+159
+00:09:53,462 --> 00:09:57,642
+What hit Buffalo in 1844 was the real thing.
+
+160
+00:09:57,712 --> 00:10:00,872
+A seiche isn't one wave.
+
+161
+00:10:00,942 --> 00:10:04,978
+It's the whole lake tilting, and then rocking back and forth, end to end,
+
+162
+00:10:04,998 --> 00:10:07,922
+the way water rocks in a bathtub after you climb out.
+
+163
+00:10:10,772 --> 00:10:16,078
+On Lake Erie, one full rock, from one end to the other and back again,
+
+164
+00:10:16,098 --> 00:10:17,752
+takes around 14 hours.
+
+165
+00:10:19,082 --> 00:10:21,342
+That's what makes a seiche so dangerous.
+
+166
+00:10:21,412 --> 00:10:23,182
+It's slow.
+
+167
+00:10:23,252 --> 00:10:27,262
+It can keep going long after the wind that started it.
+
+168
+00:10:27,332 --> 00:10:31,372
+And the water that leaves one end of the lake hasn't gone anywhere.
+
+169
+00:10:31,442 --> 00:10:33,552
+It's piled up at the other end…
+
+170
+00:10:33,622 --> 00:10:36,645
+waiting to come back.
+
+171
+00:10:36,715 --> 00:10:41,455
+So why does almost nobody remember the worst night in Buffalo's history?
+
+172
+00:10:41,525 --> 00:10:43,715
+Part of the answer may be pictures.
+
+173
+00:10:43,785 --> 00:10:47,242
+Photography had been invented only five years earlier,
+
+174
+00:10:47,262 --> 00:10:50,655
+and there are no known pictures of that night at all.
+
+175
+00:10:50,725 --> 00:10:51,765
+Not a photograph.
+
+176
+00:10:51,835 --> 00:10:53,355
+Not even a drawing.
+
+177
+00:10:53,425 --> 00:10:55,615
+Only newspaper columns.
+
+178
+00:10:55,685 --> 00:10:57,225
+Part of it is snow.
+
+179
+00:10:57,295 --> 00:10:59,885
+Buffalo became the city of blizzards.
+
+180
+00:10:59,955 --> 00:11:03,045
+Those are the storms people tell stories about.
+
+181
+00:11:03,115 --> 00:11:06,145
+And part of it is that Buffalo built its way out.
+
+182
+00:11:06,215 --> 00:11:13,015
+In the 1860s, work began on a long breakwater out in the lake to shelter the harbor.
+
+183
+00:11:13,085 --> 00:11:16,279
+Buffalo still gets two or three seiches a year,
+
+184
+00:11:16,299 --> 00:11:19,355
+but the breakwater takes most of their force.
+
+185
+00:11:19,425 --> 00:11:23,425
+The old canal district was rebuilt, and rebuilt again.
+
+186
+00:11:23,495 --> 00:11:29,255
+Today, the site of the old canal harbor is a waterfront district called Canalside.
+
+187
+00:11:29,325 --> 00:11:30,745
+The city changed…
+
+188
+00:11:30,815 --> 00:11:33,598
+The lake didn't.
+
+189
+00:11:33,668 --> 00:11:40,648
+On November 15, 2020, storm-force winds blew down Lake Erie from the southwest.
+
+190
+00:11:41,038 --> 00:11:44,602
+For the first time since the remains of Hurricane Sandy in 2012,
+
+191
+00:11:44,622 --> 00:11:48,018
+the weather service put the whole lake under a storm warning.
+
+192
+00:11:50,178 --> 00:11:56,138
+It measured a difference of 14 feet between the water at Buffalo and the water at Toledo.
+
+193
+00:11:56,208 --> 00:11:57,856
+Halfway along the lake, at Erie, Pennsylvania,
+
+194
+00:11:57,876 --> 00:12:01,012
+the water climbed more than seven feet above its chart level and flooded the lakeshore,
+
+195
+00:12:01,032 --> 00:12:03,188
+and several homes in Millcreek Township had to be evacuated.
+
+196
+00:12:09,878 --> 00:12:12,508
+The bathtub had tilted again.
+
+197
+00:12:12,578 --> 00:12:14,133
+Then, on December 29, 2025,
+
+198
+00:12:14,153 --> 00:12:17,983
+a winter storm hit the lakes with gusts of 60 to 80 miles an hour,
+
+199
+00:12:18,003 --> 00:12:19,558
+and set off another seiche.
+
+200
+00:12:23,758 --> 00:12:29,958
+At the western end, the water drained away from the shore and left the lake bed bare.
+
+201
+00:12:30,028 --> 00:12:34,208
+At the other end, the water rose against Buffalo.
+
+202
+00:12:34,278 --> 00:12:35,378
+The same lake.
+
+203
+00:12:35,448 --> 00:12:36,978
+The same wind.
+
+204
+00:12:37,048 --> 00:12:38,048
+The same direction.
+
+205
+00:12:38,118 --> 00:12:43,241
+A strong seiche like this comes every few years.
+
+206
+00:12:43,311 --> 00:12:46,951
+There are two dangerous moments in a seiche.
+
+207
+00:12:47,021 --> 00:12:51,467
+The first is the one Buffalo met in 1844: the water arriving, in the dark,
+
+208
+00:12:51,487 --> 00:12:54,001
+faster than anyone can get out of its way.
+
+209
+00:12:56,601 --> 00:12:58,521
+The second is quieter.
+
+210
+00:12:58,591 --> 00:13:01,121
+It's the moment the lake pulls back.
+
+211
+00:13:01,191 --> 00:13:03,997
+The water drains away, the lake bed is bare,
+
+212
+00:13:04,017 --> 00:13:08,171
+and people are tempted to walk out and see what it's left behind.
+
+213
+00:13:09,101 --> 00:13:11,191
+But that water isn't gone.
+
+214
+00:13:11,261 --> 00:13:16,841
+It's piled up at the other end of the lake, and when the wind drops, it comes back.
+
+215
+00:13:16,911 --> 00:13:19,564
+So if you ever see Lake Erie, or any lake,
+
+216
+00:13:19,584 --> 00:13:23,891
+pull far back from the shore after a storm, don't walk out after it.
+
+217
+00:13:25,601 --> 00:13:30,881
+And if the weather service warns of lakeshore flooding where you live, believe it.
+
+218
+00:13:30,951 --> 00:13:31,475
+In 1844,
+
+219
+00:13:31,495 --> 00:13:37,931
+the people of Buffalo went to sleep beside a lake that had been pushed away from them for days.
+
+220
+00:13:38,851 --> 00:13:40,311
+Nothing told them…
+
+221
+00:13:40,381 --> 00:13:42,681
+it was only waiting.
+
+222
+00:13:42,751 --> 00:13:45,947
+78 people died in Buffalo's worst natural disaster,
+
+223
+00:13:45,967 --> 00:13:49,731
+and the city famous for snow almost forgot it ever happened.
+
+224
+00:13:51,611 --> 00:13:55,541
+If you know someone who lives on Lake Erie, send them this.
+
+225
+00:13:55,611 --> 00:13:59,391
+Subscribe to open the next file.

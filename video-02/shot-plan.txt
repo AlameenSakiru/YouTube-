@@ -36,6 +36,7 @@ F|D|grain and timber came|A paddle steamer unloading sacks of grain at a wooden 
 F|D|at buffalo they were loaded|Canal boats being loaded beside a canal, a mule on the towpath
 F|D|people came the other way|Immigrant families with trunks and bundles waiting on a crowded wharf beside a steamboat
 F|D|that waterfront was crowded|A muddy street of small wooden houses, warehouses and boarding houses near the water
+R:that waterfront was crowded|-|and small wooden homes where|Closer crop on the small wooden houses
 F|D|across buffalo creek were|Low flat ground across a creek with scattered small wooden homes and chimney smoke
 F|D|out in the harbor stood|A stone pier and seawall with a small lighthouse at its end, in the evening
 == 4
@@ -88,6 +89,7 @@ F|D|a steamboat the columbus|A paddle steamer sitting in a grassy field far from
 G|-|more than eighty canal|Cards: 80+ canal boats ashore, 200+ small buildings destroyed
 F|D|across the creek the newspaper|Small houses tilted and shoved off their foundations on flats strewn with wreckage
 F|D|most of the survivors had|Survivors wrapped in blankets in their nightclothes in a market hall basement
+R:most of the survivors had|-|the city opened the basement|Closer crop on the survivors in the basement
 G|-|then came the count|Card: first count, 39 dead "besides several who are missing"
 G|-|later records put the toll|Card: 53 in Buffalo + 25 on the lake
 G|-|seventy eight in all|Number card: 78
@@ -101,6 +103,7 @@ G|-|a saysh isn't one wave|Side view: the whole lake tilting and rocking end to 
 R:and when the wind stops|-|the way water rocks in|The bathtub image again
 G|-|on lake erie one full|Side view with a clock: one full rock takes around 14 hours
 F|B|that's what makes a saysh|Grey lake water piled up against a rocky shore under a heavy sky
+R:that's what makes a saysh|-|and the water that leaves|Push-in on the piled-up water
 G|-|it's piled up at the|Side view: water held at one end, waiting to come back
 == 10
 F|B|so why does almost nobody|Buffalo's old grain elevators by the river at dusk
@@ -116,6 +119,7 @@ G|-|on november the fifteenth|Date card: November 15, 2020
 F|B|for the first time since|Modern storm waves crashing over a Lake Erie pier, grey sky
 G|-|it measured a difference|Chart: Buffalo 133.5 in above chart datum, Toledo 34.5 in below, a 14-foot difference
 F|B|halfway along the lake at|Lake water flooding a lakeside residential road
+R:halfway along the lake at|-|and flooded the lakeshore and|Closer crop on the flooded road
 G|-|the bathtub had tilted|Side view: the lake tilted again
 G|-|then on december the twenty|Date card: December 29, 2025, gusts of 60 to 80 mph
 F|B|at the western end the|Bare lake bed with puddles and old wooden pilings, the water far from shore
@@ -125,6 +129,7 @@ G|-|the same lake the same|Map: southwest wind arrows again, "every few years"
 G|-|there are two dangerous|Card: two dangerous moments
 R:in less than half|-|the first is the one|The flooded lower town at night again
 F|B|the second is quieter|Bare lake bed, a small figure in the distance walking out toward the far-off water, seen from behind
+R:the second is quieter|-|and people are tempted to|Push-in on the figure walking out
 F|B|but that water isn't gone|A fast sheet of water flooding back across a muddy lake bed
 G|-|so if you ever see|Safety card: if the lake pulls back, don't walk out after it; believe lakeshore flood warnings
 F|D|in eighteen forty four the|A calm dusk over an 1840s harbour, lights in windows, the lake low and far out

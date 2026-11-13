@@ -2,3 +2,5 @@ video-01/build/
 video-01/*.mp4
 __pycache__/
 *.pyc
+video-02/build/
+video-02/*.mp4

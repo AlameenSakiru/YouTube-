@@ -31,6 +31,11 @@ REUSE_FOCUS = [
     ('bathtub image again', (0.50, 0.50, 1.25, 1.40)),
     ('flooded lower town at night again', (0.45, 0.55, 1.30, 1.45)),
     ("video 1's image", (0.60, 0.50, 1.10, 1.25)),
+    ('closer crop on the small wooden houses', (0.40, 0.55, 1.35, 1.50)),
+    ('closer crop on the survivors', (0.50, 0.55, 1.35, 1.50)),
+    ('push-in on the piled-up water', (0.50, 0.55, 1.20, 1.45)),
+    ('closer crop on the flooded road', (0.45, 0.60, 1.35, 1.50)),
+    ('push-in on the figure walking out', (0.50, 0.55, 1.25, 1.60)),
 ]
 
 # subtitle spellings: what the AI voice was given -> what viewers should read
