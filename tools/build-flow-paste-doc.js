@@ -15,7 +15,7 @@ const h = (t, level) => new Paragraph({ heading: level, children: [new TextRun({
 
 const children = [
   h(opt.title || "Flow prompts for automation", HeadingLevel.TITLE),
-  para("Video 1: Lake Michigan Has Tsunamis, and Nobody in Chicago Saw This One Coming", { color: ACCENT, size: 24, after: 80 }),
+  para(`Video ${opt.video || 1}: ${opt.videoTitle || "Lake Michigan Has Tsunamis, and Nobody in Chicago Saw This One Coming"}`, { color: ACCENT, size: 24, after: 80 }),
   para(opt.summary || `${prompts.length} image prompts, then ${thumbs.length} thumbnail prompts on the last page.`, { color: MUTED, after: 240 }),
   h("How to use it", HeadingLevel.HEADING_2),
   step("Set your Flow tool to the wide 16:9 shape and the highest image quality your plan allows."),
@@ -33,7 +33,7 @@ const children = [
 ];
 
 const doc = new Document({
-  title: "Video 1 Flow prompts for automation",
+  title: `Video ${opt.video || 1} Flow prompts for automation`,
   styles: {
     default: { document: { run: { font: FONT, size: 22, color: INK } } },
     paragraphStyles: [
@@ -44,7 +44,7 @@ const doc = new Document({
   numbering: { config: [{ reference: "steps", levels: [{ level: 0, format: LevelFormat.DECIMAL, text: "%1.", alignment: AlignmentType.LEFT, style: { paragraph: { indent: { left: 540, hanging: 360 } } } }] }] },
   sections: [{
     properties: { page: { size: { width: 12240, height: 15840 }, margin: { top: 1440, bottom: 1440, left: 1440, right: 1440 } } },
-    headers: { default: new Header({ children: [new Paragraph({ alignment: AlignmentType.RIGHT, children: [run("Video 1 Flow prompts", { size: 18, color: MUTED })] })] }) },
+    headers: { default: new Header({ children: [new Paragraph({ alignment: AlignmentType.RIGHT, children: [run(`Video ${opt.video || 1} Flow prompts`, { size: 18, color: MUTED })] })] }) },
     footers: { default: new Footer({ children: [new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ children: ["Page ", PageNumber.CURRENT, " of ", PageNumber.TOTAL_PAGES], font: FONT, size: 18, color: MUTED })] })] }) },
     children,
   }],

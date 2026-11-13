@@ -1,0 +1,1127 @@
+[
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "B",
+  "cue": "buffalo new york is famous",
+  "desc": "A Buffalo city street buried in deep snow, cars half hidden under drifts, snow still falling",
+  "optional": false,
+  "img": 1,
+  "prompt": "Wide shot down a residential city street in the American Great Lakes region buried in deep fresh snow, parked cars half hidden under rounded drifts, snow still falling thickly, grey winter daylight, old brick houses with front porches on both sides. 35mm lens at eye level. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "B",
+  "cue": "for blizzards that bury",
+  "desc": "Snowplows working down a city street at night through a blizzard, snowbanks taller than the cars",
+  "optional": false,
+  "img": 2,
+  "prompt": "Wide shot of two big orange snowplows working down a city street at night through a heavy blizzard, their headlights cutting through the falling snow, snowbanks piled taller than the parked cars on both sides, streetlights glowing in the snow. Telephoto lens. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "N",
+  "cue": "but the deadliest natural",
+  "desc": "An 1840s lakefront town at night under racing storm clouds, wooden warehouses and the masts of ships",
+  "optional": false,
+  "img": 3,
+  "prompt": "Wide establishing shot of a small lakefront town in 1844 at night, a row of wooden warehouses and plain brick buildings along the water, the tall masts of sailing ships and the smokestacks of paddle steamers crowded along the wharves, racing storm clouds overhead lit by a hidden moon, a few lamplit windows. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "it came on an october",
+  "desc": "Date card: October 18, 1844 \u00b7 Buffalo, New York",
+  "optional": false,
+  "gid": "G01"
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "N",
+  "cue": "just before midnight",
+  "desc": "Ships' rigging and flags straining in a violent wind at night, waves rising in the harbour",
+  "optional": false,
+  "img": 4,
+  "prompt": "Low-angle close shot looking up at the rigging and furled sails of a wooden sailing ship moored in a harbour at night, ropes and a ragged flag straining hard in a violent wind, dark waves rising against the hull, moonlight flickering through fast clouds. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "straight down the length",
+  "desc": "Map: Lake Erie, a long wind arrow from the southwest end toward Buffalo",
+  "optional": false,
+  "gid": "G02"
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "N",
+  "cue": "and the lake came",
+  "desc": "Dark lake water surging over a stone harbour wall into a street at night",
+  "optional": false,
+  "img": 5,
+  "prompt": "Wide shot at night of dark lake water surging over the top of a stone harbour wall and pouring into a muddy street lined with wooden buildings, foam and spray glowing in the light of a lantern hanging on a post, the street already shining with water. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "N",
+  "cue": "in less than half",
+  "desc": "The flooded lower town at night, water between wooden buildings up to the windows",
+  "optional": false,
+  "img": 6,
+  "prompt": "High wide shot at night over the flooded lower part of an 1840s lakeside town, black water filling the streets between small wooden houses and warehouses up to the window sills, a few windows glowing with lamplight, wind-whipped spray, the storm-lit lake beyond. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "two feet deep in some",
+  "desc": "Text card: two to eight feet of water in the streets",
+  "optional": false,
+  "gid": "G03"
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "N",
+  "cue": "people woke up with",
+  "desc": "Inside a small wooden house at night, water spreading across the floor, a candle on the table, a figure on the stairs",
+  "optional": false,
+  "img": 7,
+  "prompt": "Interior of a small, plain 1840s wooden house at night, dark lake water spreading fast across the bare plank floor, a single candle burning on a wooden table, a figure in a nightgown seen from behind standing on the narrow stairs holding a lantern, deep shadows. 28mm lens. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "by the time it was",
+  "desc": "Number card: 78 dead",
+  "optional": false,
+  "gid": "G04"
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "there was no hurricane",
+  "desc": "Side view of the lake: water held at the far end, then let go",
+  "optional": false,
+  "gid": "G05"
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "B",
+  "cue": "and the same lake did",
+  "desc": "Winter storm waves on Lake Erie crashing over a breakwater, ice on the railings",
+  "optional": false,
+  "img": 8,
+  "prompt": "Wide shot of huge grey winter storm waves on Lake Erie crashing over a concrete breakwater, spray exploding into the air, thick ice coating the metal railings and a small navigation light, a dark heavy sky. Telephoto lens. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "to understand how a lake",
+  "desc": "Map: the Great Lakes, zooming to Lake Erie",
+  "optional": false,
+  "gid": "G06"
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "lake erie is about",
+  "desc": "Map: Lake Erie, about 240 miles long, southwest to northeast, Toledo and Buffalo marked",
+  "optional": false,
+  "gid": "G07"
+ },
+ {
+  "sec": 2,
+  "kind": "F",
+  "style": "B",
+  "cue": "buffalo sits at the other",
+  "desc": "The Buffalo skyline seen from the lake at dusk",
+  "optional": false,
+  "img": 9,
+  "prompt": "Wide shot from out on the water of a lakeside American city skyline at dusk, a mix of older stone towers and modern glass buildings, the lights coming on, calm grey-blue lake water in the foreground, a long breakwater crossing the frame. 70mm lens. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "it's also the shallowest",
+  "desc": "Bars: average depth of the five lakes, Erie 62 ft against Superior 483 ft",
+  "optional": false,
+  "gid": "G08"
+ },
+ {
+  "sec": 2,
+  "kind": "F",
+  "style": "B",
+  "cue": "shallow water is easy",
+  "desc": "Aerial view of shallow green lake water near the shore, wind streaks across the surface",
+  "optional": false,
+  "img": 10,
+  "prompt": "Aerial view looking straight down at shallow green lake water near a sandy shore, the sandy bottom visible through the water, long wind streaks and ripples running diagonally across the surface, a thin line of beach at one edge of the frame. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "and lake erie's worst",
+  "desc": "Map: strong southwest wind arrows along the lake",
+  "optional": false,
+  "gid": "G09"
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "the national weather service",
+  "desc": "Quote card: \"a giant bathtub\" (National Weather Service)",
+  "optional": false,
+  "gid": "G10"
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "when a strong wind blows",
+  "desc": "Side view: wind pushes the water, piling up at one end and dropping at the other",
+  "optional": false,
+  "gid": "G11"
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "in an extreme case",
+  "desc": "Diagram: Toledo and Buffalo water levels, more than 10 feet apart",
+  "optional": false,
+  "gid": "G12"
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "it works in both directions",
+  "desc": "Map: east wind arrows, water piling up toward Toledo",
+  "optional": false,
+  "gid": "G13"
+ },
+ {
+  "sec": 2,
+  "kind": "F",
+  "style": "B",
+  "cue": "and when the wind stops",
+  "desc": "Water rocking from one end of a white bathtub to the other",
+  "optional": false,
+  "img": 11,
+  "prompt": "Close-up of clear water rocking from one end of a white bathtub to the other, the surface tilted, light reflections rippling on the white enamel, soft daylight from a window, a clean and minimal bathroom. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "that rocking has a name",
+  "desc": "Word card: seiche, pronounced \"saysh\"",
+  "optional": false,
+  "gid": "G14"
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "D",
+  "cue": "in eighteen forty four buffalo",
+  "desc": "A busy 1840s harbour crowded with canal boats and paddle steamers, church spires behind",
+  "optional": false,
+  "img": 12,
+  "prompt": "Wide shot of a busy 1840s lake harbour crowded with long wooden canal boats and side-wheel paddle steamers with tall black smokestacks, wooden wharves piled with barrels and sacks, plain brick warehouses and white church steeples behind, a pale overcast sky. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 3,
+  "kind": "G",
+  "style": "-",
+  "cue": "the erie canal had opened",
+  "desc": "Map: the Erie Canal from Albany to Buffalo, opened 1825",
+  "optional": false,
+  "gid": "G15"
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "D",
+  "cue": "grain and timber came",
+  "desc": "A paddle steamer unloading sacks of grain at a wooden wharf",
+  "optional": false,
+  "img": 13,
+  "prompt": "Medium-wide shot of a side-wheel paddle steamer moored at a wooden wharf as dock workers in 1840s work clothes and caps carry heavy sacks of grain down a gangplank, stacks of sacks and barrels on the wharf, seen from the side. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "D",
+  "cue": "at buffalo they were loaded",
+  "desc": "Canal boats being loaded beside a canal, a mule on the towpath",
+  "optional": false,
+  "img": 14,
+  "prompt": "Wide shot of long narrow wooden canal boats tied up along a straight canal while men in 1840s work clothes load them with sacks and timber, a mule standing on the dirt towpath with its harness, plain wooden buildings behind. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "D",
+  "cue": "people came the other way",
+  "desc": "Immigrant families with trunks and bundles waiting on a crowded wharf beside a steamboat",
+  "optional": false,
+  "img": 15,
+  "prompt": "Medium-wide shot from behind of immigrant families in 1840s clothing, women in long dresses and shawls, men in long coats and caps, sitting and standing among trunks and cloth bundles on a crowded wooden wharf beside a paddle steamer, waiting. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "D",
+  "cue": "that waterfront was crowded",
+  "desc": "A muddy street of small wooden houses, warehouses and boarding houses near the water",
+  "optional": false,
+  "img": 16,
+  "prompt": "Wide shot down a muddy unpaved street near a lake harbour in the 1840s, lined with small plain wooden houses, a two-storey wooden boarding house and brick warehouses, puddles reflecting the grey sky, a few people walking away from the camera. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "D",
+  "cue": "across buffalo creek were",
+  "desc": "Low flat ground across a creek with scattered small wooden homes and chimney smoke",
+  "optional": false,
+  "img": 17,
+  "prompt": "Wide shot across a slow muddy creek to a stretch of low, flat marshy ground with small scattered wooden homes, thin smoke rising from their chimneys, wooden fences and washing lines, a flat grey sky, everything close to the level of the water. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "D",
+  "cue": "out in the harbor stood",
+  "desc": "A stone pier and seawall with a small lighthouse at its end, in the evening",
+  "optional": false,
+  "img": 18,
+  "prompt": "Wide shot of a long stone pier and seawall running out into a calm lake at evening, a small round stone lighthouse at its far end, the water glassy, a soft pale sky fading toward dusk, a wooden sailing boat moored along the wall. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "D",
+  "cue": "the trouble started with",
+  "desc": "Flags and chimney smoke streaming in a steady wind over a grey harbour",
+  "optional": false,
+  "img": 19,
+  "prompt": "Wide shot over a grey 1840s lake harbour as a steady wind blows from one side, every flag on the ships' masts streaming out in the same direction, chimney smoke from the town bending low and flat, small choppy waves on the water. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "G",
+  "style": "-",
+  "cue": "for several days before",
+  "desc": "Map: east wind arrows across Lake Erie, pushing the water west",
+  "optional": false,
+  "gid": "G16"
+ },
+ {
+  "sec": 4,
+  "kind": "G",
+  "style": "-",
+  "cue": "it had driven the water",
+  "desc": "Quote card: \"had driven the water up the lake\" (Buffalo newspaper, 1844)",
+  "optional": false,
+  "gid": "G17"
+ },
+ {
+  "sec": 4,
+  "kind": "G",
+  "style": "-",
+  "cue": "think of the bathtub again",
+  "desc": "Side view: the lake tilted, low at Buffalo, high at Toledo, held by the wind",
+  "optional": false,
+  "gid": "G18"
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "D",
+  "cue": "on the evening of friday",
+  "desc": "Four paddle steamers leaving the harbour at dusk, smoke from tall funnels",
+  "optional": false,
+  "img": 20,
+  "prompt": "Wide shot of four side-wheel paddle steamers with tall black smokestacks steaming out of a harbour one after another at dusk, dark smoke trailing behind them, the town's lamps coming on along the shore, a moody orange and grey sky. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "G",
+  "style": "-",
+  "cue": "the saint louis the robert",
+  "desc": "Card: the four steamboats' names",
+  "optional": false,
+  "gid": "G19"
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "D",
+  "cue": "and the julia palmer with",
+  "desc": "The crowded deck of a paddle steamer at dusk, passengers in 1840s clothing seen from behind",
+  "optional": false,
+  "img": 21,
+  "prompt": "Medium-wide shot from behind of passengers in 1840s clothing crowded on the open deck of a paddle steamer at dusk, top hats, bonnets and shawls, piles of luggage, the smokestack and paddle box beside them, the shore slipping away behind. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 5,
+  "kind": "F",
+  "style": "N",
+  "cue": "then at about midnight",
+  "desc": "A lantern swinging hard on a ship's mast at night",
+  "optional": false,
+  "img": 22,
+  "prompt": "Close shot of an oil lantern hanging from a ship's mast at night swinging hard in a violent wind, its warm light flaring against the wet rigging, rain streaking across the frame, black storm clouds behind. Shallow depth of field. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 5,
+  "kind": "G",
+  "style": "-",
+  "cue": "it swung around to the",
+  "desc": "Map: the wind arrows swing from east to southwest",
+  "optional": false,
+  "gid": "G20"
+ },
+ {
+  "sec": 5,
+  "kind": "G",
+  "style": "-",
+  "cue": "with a tremendous force",
+  "desc": "Quote card: \"with a tremendous force never before or since known\u2026\" (a later history)",
+  "optional": false,
+  "gid": "G21"
+ },
+ {
+  "sec": 5,
+  "kind": "G",
+  "style": "-",
+  "cue": "now it was blowing straight",
+  "desc": "Side view: the tilted water let go and surging toward Buffalo",
+  "optional": false,
+  "gid": "G22"
+ },
+ {
+  "sec": 5,
+  "kind": "G",
+  "style": "-",
+  "cue": "the water came down before",
+  "desc": "Quote card: \"as if a dam had broken away\" (Buffalo newspaper, 1844)",
+  "optional": false,
+  "gid": "G23"
+ },
+ {
+  "sec": 5,
+  "kind": "F",
+  "style": "N",
+  "cue": "it ran down two hundred",
+  "desc": "Huge storm waves running across an open lake at night under moonlit clouds",
+  "optional": false,
+  "img": 23,
+  "prompt": "Wide shot of huge storm waves running across an open lake at night, rows of steep dark waves with white crests torn into spray, moonlight breaking through low racing clouds and shining on the water, no land in sight. Low angle near the water. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 5,
+  "kind": "F",
+  "style": "N",
+  "cue": "the eastern end buffalo",
+  "desc": "Waves piling into a harbour at night, a lighthouse beam through the spray",
+  "optional": false,
+  "img": 24,
+  "prompt": "Wide shot at night of enormous waves piling into a lake harbour, a small stone lighthouse at the end of a pier sending a beam of light through clouds of spray, waves washing over the pier, wooden ships tossing at their moorings. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 5,
+  "kind": "F",
+  "style": "N",
+  "cue": "it tore holes in the",
+  "desc": "Giant waves breaking over a stone pier and seawall at night, huge stone blocks shifting",
+  "optional": false,
+  "img": 25,
+  "prompt": "Wide shot at night of giant waves breaking over a long stone pier and seawall, white water exploding over the top, huge square blocks of stone knocked loose and tumbling, lantern light and moonlight on the spray. Telephoto lens. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 5,
+  "kind": "G",
+  "style": "-",
+  "cue": "by the newspaper's measure",
+  "desc": "Number card: 22 feet above the evening's level",
+  "optional": false,
+  "gid": "G24"
+ },
+ {
+  "sec": 5,
+  "kind": "G",
+  "style": "-",
+  "cue": "and in less than half",
+  "desc": "Quote card: \"the whole lower part of the city south of the canal\u2026 from two to eight feet in depth\"",
+  "optional": false,
+  "gid": "G25"
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "N",
+  "cue": "it was midnight almost",
+  "desc": "A dark street of wooden houses at night, every window dark, wind tearing at a shutter",
+  "optional": false,
+  "img": 26,
+  "prompt": "Wide shot of a dark, narrow street of small wooden houses at midnight, every window dark, rain blowing sideways, a wooden shutter torn open and banging in the wind, puddles shining in faint moonlight, the street completely empty. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "G",
+  "style": "-",
+  "cue": "a later history called",
+  "desc": "Quote card: \"an avalanche of waters upon a sleeping community\"",
+  "optional": false,
+  "gid": "G26"
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "N",
+  "cue": "one man across the creek",
+  "desc": "A man in a nightshirt holding a candle at the door of a small house in the wind",
+  "optional": false,
+  "img": 27,
+  "prompt": "Medium shot from behind of a man in a long white nightshirt standing in the open doorway of a small wooden house at night, holding up a candle that gutters in the wind, looking out at the dark storm, rain blowing past him. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "N",
+  "cue": "before he could get",
+  "desc": "Water pouring into a small room, knee-deep and rising, chairs floating",
+  "optional": false,
+  "img": 28,
+  "prompt": "Interior of a small, plain 1840s room at night as dark lake water pours in through the doorway, already knee-deep and rising, wooden chairs and a basket floating, a lantern hanging from a beam lighting the churning water, a figure seen from behind wading toward the stairs. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "N",
+  "cue": "on main street near the",
+  "desc": "One huge wave rolling up a main street of 1840s brick and wooden buildings at night",
+  "optional": false,
+  "img": 29,
+  "prompt": "Wide shot at night looking down a main street of two- and three-storey 1840s brick and wooden buildings as one huge wave of dark lake water rolls up the street toward the camera, white foam on its crest, a few lamplit windows above. Low angle. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "G",
+  "style": "-",
+  "cue": "at the corner of main",
+  "desc": "Card: six feet deep at Main and Ohio, six feet at Huff's Hotel",
+  "optional": false,
+  "gid": "G27"
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "N",
+  "cue": "in basements and on ground",
+  "desc": "Water pouring down basement steps, a lantern on the wall",
+  "optional": false,
+  "img": 30,
+  "prompt": "Close shot looking down a narrow stone stairway into a basement at night as dark water pours down the steps, an oil lantern hanging on the wall lighting the rushing water, deep shadows below. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "N",
+  "cue": "in one house two families",
+  "desc": "Two families at an upstairs window, floodwater rising below",
+  "optional": false,
+  "img": 31,
+  "prompt": "Exterior shot at night of a two-storey wooden house surrounded by floodwater that reaches the top of the ground-floor windows, two families gathered at the open upstairs window holding lamps, seen small from a distance, rain and spray in the air. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "N",
+  "cue": "then the flood lifted the",
+  "desc": "A wooden house lifted off its foundation and floating in the flood",
+  "optional": false,
+  "img": 32,
+  "prompt": "Wide shot at night of a small wooden house lifted completely off its foundation and floating in dark floodwater, tilted at an angle, moonlight on its wet roof, broken fences and debris drifting around it. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "N",
+  "cue": "the roof split in two",
+  "desc": "Two halves of a roof drifting apart in dark floodwater, small figures clinging on",
+  "optional": false,
+  "img": 33,
+  "prompt": "Wide shot at night of the roof of a wooden house split into two halves drifting apart in dark floodwater, a small family huddled and clinging on each half, seen from a distance, moonlight on the water, rain falling. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "G",
+  "style": "-",
+  "cue": "the most fearful midnight",
+  "desc": "Quote card: \"the most fearful midnight voyaging that ever a man, wife and child underwent\"",
+  "optional": false,
+  "gid": "G28"
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "N",
+  "cue": "neighbors risking their own",
+  "desc": "Men leaning out of a second-floor window reaching down to people on a floating roof",
+  "optional": false,
+  "img": 34,
+  "prompt": "Medium-wide shot at night of two men leaning out of the second-storey window of a brick house, reaching down toward people on a floating section of roof drifting past in the floodwater below, lamplight spilling from the window onto the water. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "N",
+  "cue": "another family clung to",
+  "desc": "A family clinging to a roof drifting across flooded flats, buildings far away",
+  "optional": false,
+  "img": 35,
+  "prompt": "Wide shot at night of a family clinging to the roof of a house drifting across wide flooded flat land, the distant buildings of a town small on the horizon, moonlight breaking through clouds onto the water, a lonely and vast scene. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "N",
+  "cue": "out on the lake the",
+  "desc": "A paddle steamer in huge waves at night, smoke torn sideways by the wind",
+  "optional": false,
+  "img": 36,
+  "prompt": "Wide shot at night of a side-wheel paddle steamer with a tall smokestack fighting through huge waves on an open lake, its bow buried in white water, black smoke torn sideways by the wind, a few lamps glowing on board. Low angle near the waves. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "G",
+  "style": "-",
+  "cue": "off dunkirk the saint louis",
+  "desc": "Map: the east end of Lake Erie, Dunkirk, Sturgeon Point and Buffalo, where each boat ended up",
+  "optional": false,
+  "gid": "G29"
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "N",
+  "cue": "the robert fulton lost",
+  "desc": "A wrecked paddle steamer thrown up on a beach in heavy surf",
+  "optional": false,
+  "img": 37,
+  "prompt": "Wide shot at first light of a wrecked side-wheel paddle steamer thrown up on a sandy beach, tilted on its side with its paddle wheel broken, heavy surf breaking around it, a dark stormy sky. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "N",
+  "cue": "the julia palmer couldn't",
+  "desc": "A paddle steamer driven before huge waves, listing hard",
+  "optional": false,
+  "img": 38,
+  "prompt": "Wide shot at night of a side-wheel paddle steamer driven before towering waves, listing hard to one side, spray bursting over its decks, its smokestack leaning, moonlight on the foaming water. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "D",
+  "cue": "at about six in the",
+  "desc": "A paddle steamer at anchor off a town in a grey dawn gale, rolling in heavy seas",
+  "optional": false,
+  "img": 39,
+  "prompt": "Wide shot at a grey dawn in a gale of a side-wheel paddle steamer riding at anchor off a lakeside town, rolling heavily in big grey waves, its anchor chain taut, smoke streaming from its stack, the small town's waterfront behind. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "N",
+  "cue": "she rolled and pitched",
+  "desc": "Crew feeding broken chairs and wooden furniture into a ship's boiler furnace, orange firelight",
+  "optional": false,
+  "img": 40,
+  "prompt": "Interior shot of the hot, cramped boiler room of a wooden paddle steamer, two crewmen in shirtsleeves feeding broken wooden chairs and parts of a table into the open fire door of a boiler furnace, bright orange firelight on their backs and the iron walls. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in October 1844, at night in a violent autumn gale, lit by cold moonlight breaking through storm clouds and the warm glow of oil lamps and lanterns, deep shadows, rain and spray in the air, muted desaturated colour with fine film grain. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "D",
+  "cue": "then a horse swam ashore",
+  "desc": "A horse swimming through rough grey water toward the shore, a folded paper tied in its mane",
+  "optional": false,
+  "img": 41,
+  "prompt": "Medium shot of a horse swimming hard through rough grey lake water toward a shore, its head and neck above the waves, a folded paper tied into its mane with string, spray around it, a grey stormy morning sky. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "G",
+  "style": "-",
+  "cue": "they were now burning",
+  "desc": "Quote card: \"now burning the furniture\"",
+  "optional": false,
+  "gid": "G30"
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "D",
+  "cue": "on sunday morning when",
+  "desc": "A battered paddle steamer coming into harbour on a calm grey morning, people watching from the wharf",
+  "optional": false,
+  "img": 42,
+  "prompt": "Wide shot on a calm grey morning of a battered side-wheel paddle steamer steaming slowly into a harbour, its paintwork scraped and its railings broken, small crowds of people in 1840s clothing watching from the wharf, seen from behind. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 8,
+  "kind": "F",
+  "style": "D",
+  "cue": "in the morning buffalo saw",
+  "desc": "A grey morning over a wrecked waterfront, broken buildings and debris",
+  "optional": false,
+  "img": 43,
+  "prompt": "Wide shot on a grey morning over a wrecked lakeside waterfront, broken wooden buildings, a collapsed warehouse, timber, barrels and debris scattered across mud and standing water, a few small figures picking through the wreckage. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 8,
+  "kind": "F",
+  "style": "D",
+  "cue": "canal boats lay out in",
+  "desc": "Canal boats stranded in a muddy street between houses",
+  "optional": false,
+  "img": 44,
+  "prompt": "Wide shot of long wooden canal boats stranded on their sides in a muddy street between small wooden houses after a flood, puddles everywhere, a grey morning sky, a few people in 1840s clothing standing and looking at them. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 8,
+  "kind": "F",
+  "style": "D",
+  "cue": "a steamboat the columbus",
+  "desc": "A paddle steamer sitting in a grassy field far from the water",
+  "optional": false,
+  "img": 45,
+  "prompt": "Wide shot of a side-wheel paddle steamer sitting upright on a grassy field far from the water after a flood, its paddle wheel resting on the grass, a wooden fence beside it, a grey morning sky, a few small figures staring at it. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 8,
+  "kind": "G",
+  "style": "-",
+  "cue": "more than eighty canal",
+  "desc": "Cards: 80+ canal boats ashore, 200+ small buildings destroyed",
+  "optional": false,
+  "gid": "G31"
+ },
+ {
+  "sec": 8,
+  "kind": "F",
+  "style": "D",
+  "cue": "across the creek the newspaper",
+  "desc": "Small houses tilted and shoved off their foundations on flats strewn with wreckage",
+  "optional": false,
+  "img": 46,
+  "prompt": "Wide shot on a grey morning of low, flat ground strewn with wreckage, small wooden houses tilted at odd angles and shoved off their foundations, one house sitting in the middle of a field, standing water and broken timber everywhere. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 8,
+  "kind": "F",
+  "style": "D",
+  "cue": "most of the survivors had",
+  "desc": "Survivors wrapped in blankets in their nightclothes in a market hall basement",
+  "optional": false,
+  "img": 47,
+  "prompt": "Wide interior shot of a brick-vaulted basement of a market hall lit by lanterns, flood survivors in 1840s nightclothes wrapped in blankets sitting on benches and crates, a woman handing out bread, quiet and tired, seen from behind and small in the frame. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 8,
+  "kind": "G",
+  "style": "-",
+  "cue": "then came the count",
+  "desc": "Card: first count, 39 dead \"besides several who are missing\"",
+  "optional": false,
+  "gid": "G32"
+ },
+ {
+  "sec": 8,
+  "kind": "G",
+  "style": "-",
+  "cue": "later records put the toll",
+  "desc": "Card: 53 in Buffalo + 25 on the lake",
+  "optional": false,
+  "gid": "G33"
+ },
+ {
+  "sec": 8,
+  "kind": "G",
+  "style": "-",
+  "cue": "seventy eight in all",
+  "desc": "Number card: 78",
+  "optional": false,
+  "gid": "G34"
+ },
+ {
+  "sec": 8,
+  "kind": "G",
+  "style": "-",
+  "cue": "today new york sea grant",
+  "desc": "Quote card: \"the most destructive documented seiche in Western New York\" (New York Sea Grant)",
+  "optional": false,
+  "gid": "G35"
+ },
+ {
+  "sec": 8,
+  "kind": "F",
+  "style": "B",
+  "cue": "and yet most people in",
+  "desc": "The Buffalo waterfront today, people walking by calm water",
+  "optional": false,
+  "img": 48,
+  "prompt": "Wide shot of a modern lakeside city waterfront on a calm day, people walking along a wide boardwalk beside calm water, a few boats moored, mild sunshine, a peaceful scene. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 9,
+  "kind": "V1",
+  "style": "-",
+  "cue": "if you watched the last",
+  "desc": "Video 1's image of the 1954 wave pouring over a breakwater",
+  "optional": false,
+  "img": 4
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "in nineteen fifty four a",
+  "desc": "Card: Chicago 1954, \"seiche\" crossed out, meteotsunami: one fast wave",
+  "optional": false,
+  "gid": "G36"
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "what hit buffalo in eighteen",
+  "desc": "Card: Buffalo 1844, a real seiche",
+  "optional": false,
+  "gid": "G37"
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "a saysh isn't one wave",
+  "desc": "Side view: the whole lake tilting and rocking end to end",
+  "optional": false,
+  "gid": "G38"
+ },
+ {
+  "sec": 9,
+  "kind": "R",
+  "style": "-",
+  "cue": "the way water rocks in",
+  "desc": "The bathtub image again",
+  "optional": false,
+  "img": 11
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "on lake erie one full",
+  "desc": "Side view with a clock: one full rock takes around 14 hours",
+  "optional": false,
+  "gid": "G39"
+ },
+ {
+  "sec": 9,
+  "kind": "F",
+  "style": "B",
+  "cue": "that's what makes a saysh",
+  "desc": "Grey lake water piled up against a rocky shore under a heavy sky",
+  "optional": false,
+  "img": 49,
+  "prompt": "Wide shot of grey lake water piled up high against a rocky shore under a heavy overcast sky, waves pressing over the rocks and up the bank, wind on the water. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "it's piled up at the",
+  "desc": "Side view: water held at one end, waiting to come back",
+  "optional": false,
+  "gid": "G40"
+ },
+ {
+  "sec": 10,
+  "kind": "F",
+  "style": "B",
+  "cue": "so why does almost nobody",
+  "desc": "Buffalo's old grain elevators by the river at dusk",
+  "optional": false,
+  "img": 50,
+  "prompt": "Wide shot at dusk of a row of massive old concrete grain elevators with tall cylindrical silos lined along a river in an American city, warm light fading in the sky, the dark water reflecting them. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 10,
+  "kind": "F",
+  "style": "D",
+  "cue": "part of the answer may",
+  "desc": "An early 1840s box camera on a wooden tripod in a dim studio",
+  "optional": false,
+  "img": 51,
+  "prompt": "Close shot of an early 1840s wooden box camera with a brass lens mounted on a wooden tripod in a dim studio, a heavy curtain and a plain chair behind it, soft window light from one side. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 10,
+  "kind": "G",
+  "style": "-",
+  "cue": "not a photograph not even",
+  "desc": "Card: no known pictures of that night, only newspaper columns",
+  "optional": false,
+  "gid": "G41"
+ },
+ {
+  "sec": 10,
+  "kind": "F",
+  "style": "B",
+  "cue": "part of it is snow buffalo",
+  "desc": "People walking through heavy snow in a Buffalo street",
+  "optional": false,
+  "img": 52,
+  "prompt": "Wide shot of people in winter coats walking through heavy falling snow on a city street, cars covered in snow at the curb, streetlights glowing, seen from behind and small in the frame. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 10,
+  "kind": "F",
+  "style": "B",
+  "cue": "and part of it is that",
+  "desc": "A long stone breakwater with a lighthouse, seen from above",
+  "optional": false,
+  "img": 53,
+  "prompt": "Aerial view of a long stone breakwater running across the open water of a lake outside a harbour, a small lighthouse near one end, waves on the lake side and calm water on the harbour side. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 10,
+  "kind": "G",
+  "style": "-",
+  "cue": "buffalo still gets two",
+  "desc": "Card: two or three seiches a year",
+  "optional": false,
+  "gid": "G42"
+ },
+ {
+  "sec": 10,
+  "kind": "F",
+  "style": "B",
+  "cue": "today the site of the",
+  "desc": "A modern waterfront park beside an old canal slip in a northern US city",
+  "optional": false,
+  "img": 54,
+  "prompt": "Wide shot of a modern waterfront park beside an old canal slip in a northern American city, a boardwalk and grassy steps along the water, a few people walking, historic brick buildings and newer buildings behind, a clear sky. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 10,
+  "kind": "G",
+  "style": "-",
+  "cue": "the city changed the lake",
+  "desc": "Text card: The city changed. The lake did not.",
+  "optional": false,
+  "gid": "G43"
+ },
+ {
+  "sec": 11,
+  "kind": "G",
+  "style": "-",
+  "cue": "on november the fifteenth",
+  "desc": "Date card: November 15, 2020",
+  "optional": false,
+  "gid": "G44"
+ },
+ {
+  "sec": 11,
+  "kind": "F",
+  "style": "B",
+  "cue": "for the first time since",
+  "desc": "Modern storm waves crashing over a Lake Erie pier, grey sky",
+  "optional": false,
+  "img": 55,
+  "prompt": "Wide shot of large storm waves crashing over a concrete pier on Lake Erie under a dark grey sky, spray flying high in the wind, the pier light half hidden in white water. Telephoto lens. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 11,
+  "kind": "G",
+  "style": "-",
+  "cue": "it measured a difference",
+  "desc": "Chart: Buffalo 133.5 in above chart datum, Toledo 34.5 in below, a 14-foot difference",
+  "optional": false,
+  "gid": "G45"
+ },
+ {
+  "sec": 11,
+  "kind": "F",
+  "style": "B",
+  "cue": "halfway along the lake at",
+  "desc": "Lake water flooding a lakeside residential road",
+  "optional": false,
+  "img": 56,
+  "prompt": "Wide shot of lake water flooding a residential road along a lakeshore, waves washing over a low wall and across the road, houses with lawns beside it, a grey stormy sky. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 11,
+  "kind": "G",
+  "style": "-",
+  "cue": "the bathtub had tilted",
+  "desc": "Side view: the lake tilted again",
+  "optional": false,
+  "gid": "G46"
+ },
+ {
+  "sec": 11,
+  "kind": "G",
+  "style": "-",
+  "cue": "then on december the twenty",
+  "desc": "Date card: December 29, 2025, gusts of 60 to 80 mph",
+  "optional": false,
+  "gid": "G47"
+ },
+ {
+  "sec": 11,
+  "kind": "F",
+  "style": "B",
+  "cue": "at the western end the",
+  "desc": "Bare lake bed with puddles and old wooden pilings, the water far from shore",
+  "optional": false,
+  "img": 57,
+  "prompt": "Wide shot of a bare, muddy lake bed exposed far out from the shore, shallow puddles reflecting the grey sky, rows of old wooden pilings sticking up from the mud, the water's edge far away in the distance. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 11,
+  "kind": "F",
+  "style": "B",
+  "cue": "at the other end the",
+  "desc": "Huge winter waves breaking against a breakwater, spray freezing",
+  "optional": false,
+  "img": 58,
+  "prompt": "Wide shot of huge winter waves breaking against a concrete breakwater, spray freezing into white ice on the walls and railings, a cold grey sky. Telephoto lens. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 11,
+  "kind": "G",
+  "style": "-",
+  "cue": "the same lake the same",
+  "desc": "Map: southwest wind arrows again, \"every few years\"",
+  "optional": false,
+  "gid": "G48"
+ },
+ {
+  "sec": 12,
+  "kind": "G",
+  "style": "-",
+  "cue": "there are two dangerous",
+  "desc": "Card: two dangerous moments",
+  "optional": false,
+  "gid": "G49"
+ },
+ {
+  "sec": 12,
+  "kind": "R",
+  "style": "-",
+  "cue": "the first is the one",
+  "desc": "The flooded lower town at night again",
+  "optional": false,
+  "img": 6
+ },
+ {
+  "sec": 12,
+  "kind": "F",
+  "style": "B",
+  "cue": "the second is quieter",
+  "desc": "Bare lake bed, a small figure in the distance walking out toward the far-off water, seen from behind",
+  "optional": false,
+  "img": 59,
+  "prompt": "Wide shot from behind of one small figure in a winter coat walking out across a bare, muddy lake bed toward the distant edge of the water, footprints in the mud, a vast grey sky, the person tiny in the frame. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 12,
+  "kind": "F",
+  "style": "B",
+  "cue": "but that water isn't gone",
+  "desc": "A fast sheet of water flooding back across a muddy lake bed",
+  "optional": false,
+  "img": 60,
+  "prompt": "Low-angle shot of a fast, shallow sheet of lake water flooding back across a muddy lake bed toward the camera, foam on its leading edge, covering the mud and puddles, a grey sky above. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 12,
+  "kind": "G",
+  "style": "-",
+  "cue": "so if you ever see",
+  "desc": "Safety card: if the lake pulls back, don't walk out after it; believe lakeshore flood warnings",
+  "optional": false,
+  "gid": "G50"
+ },
+ {
+  "sec": 12,
+  "kind": "F",
+  "style": "D",
+  "cue": "in eighteen forty four the",
+  "desc": "A calm dusk over an 1840s harbour, lights in windows, the lake low and far out",
+  "optional": false,
+  "img": 61,
+  "prompt": "Wide shot at calm dusk over an 1840s lake harbour, wooden ships at the wharves, warm lamplight in the windows of small wooden houses, the water unusually low and far out from the wall, exposing mud and stones, a quiet pale sky. Shot as a cinematic still from a historical drama set on the Lake Erie shore at Buffalo, New York, in 1844, in soft natural light, muted desaturated colour with fine film grain and natural detail. Every person, building, boat and item of clothing is historically accurate for the 1840s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 12,
+  "kind": "G",
+  "style": "-",
+  "cue": "nothing told them it was",
+  "desc": "Text card: it was only waiting",
+  "optional": false,
+  "gid": "G51"
+ },
+ {
+  "sec": 12,
+  "kind": "F",
+  "style": "B",
+  "cue": "seventy eight people died in",
+  "desc": "The Buffalo waterfront in snow at dawn",
+  "optional": false,
+  "img": 62,
+  "prompt": "Wide shot at dawn of a lakeside city waterfront covered in fresh snow, a snowy boardwalk and benches, the calm grey lake beyond, soft pink light on the horizon, no one in sight. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 12,
+  "kind": "F",
+  "style": "B",
+  "cue": "if you know someone who",
+  "desc": "The Lake Erie shoreline at sunrise, calm water",
+  "optional": false,
+  "img": 63,
+  "prompt": "Wide shot of a calm lake shoreline at sunrise, gentle small waves on a sandy and rocky beach, the sun rising over the water, a peaceful and quiet morning. 24mm wide-angle lens at eye level. Shot as a modern colour documentary photograph with natural light, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces and no lettering anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 12,
+  "kind": "G",
+  "style": "-",
+  "cue": "subscribe to open the next",
+  "desc": "End card",
+  "optional": false,
+  "gid": "G52"
+ }
+]

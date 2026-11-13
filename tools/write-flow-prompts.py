@@ -89,8 +89,23 @@ THUMBS = [
  "Wide shot of a sunny 1950s Chicago lakefront pier with a huge wall of blue-grey water rising behind small figures, a deep blue summer sky, the right third of the frame open sky. Shot as a colourised 1950s photograph, vivid but realistic, historically accurate clothing. A clean image with no lettering anywhere. Cinematic 16:9 wide frame.",
 ]
 
+def video_mode(vd):
+    """python3 tools/write-flow-prompts.py video-02: prompts from video-02/prompts.py, shots from its shot plan."""
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import shotplan
+    ns = {}
+    exec(open(os.path.join(vd, "prompts.py")).read(), ns)
+    shots = shotplan.parse(vd)
+    plan = os.path.join(vd, "shots-untimed.json")
+    json.dump(shots, open(plan, "w"), indent=1)
+    return plan, os.path.join(vd, "flow"), ns["LOOK"], ns["P"], ns["THUMBS"]
+
+
 if __name__ == "__main__":
-    plan = sys.argv[1]; outdir = sys.argv[2]
+    if os.path.isdir(sys.argv[1]):
+        plan, outdir, LOOK, P, THUMBS = video_mode(sys.argv[1])
+    else:
+        plan = sys.argv[1]; outdir = sys.argv[2]
     shots = json.load(open(plan))
     flow = [s for s in shots if s["kind"] == "F"]
     assert sorted(P) == [s["img"] for s in flow], "prompt numbers do not match the plan"

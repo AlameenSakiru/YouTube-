@@ -1,0 +1,134 @@
+# kind | style | cue (first words of the line it starts on) | description
+# kind: F = Flow image, G = graphic I make, R:<cue> = reuse the Flow image that starts at <cue>,
+#       V1:<n> = reuse image n from video 1
+# style: N = 1844 at night in the storm, D = 1844 by day, B = present day
+== 1
+F|B|buffalo new york is famous|A Buffalo city street buried in deep snow, cars half hidden under drifts, snow still falling
+F|B|for blizzards that bury|Snowplows working down a city street at night through a blizzard, snowbanks taller than the cars
+F|N|but the deadliest natural|An 1840s lakefront town at night under racing storm clouds, wooden warehouses and the masts of ships
+G|-|it came on an october|Date card: October 18, 1844 · Buffalo, New York
+F|N|just before midnight|Ships' rigging and flags straining in a violent wind at night, waves rising in the harbour
+G|-|straight down the length|Map: Lake Erie, a long wind arrow from the southwest end toward Buffalo
+F|N|and the lake came|Dark lake water surging over a stone harbour wall into a street at night
+F|N|in less than half|The flooded lower town at night, water between wooden buildings up to the windows
+G|-|two feet deep in some|Text card: two to eight feet of water in the streets
+F|N|people woke up with|Inside a small wooden house at night, water spreading across the floor, a candle on the table, a figure on the stairs
+G|-|by the time it was|Number card: 78 dead
+G|-|there was no hurricane|Side view of the lake: water held at the far end, then let go
+F|B|and the same lake did|Winter storm waves on Lake Erie crashing over a breakwater, ice on the railings
+== 2
+G|-|to understand how a lake|Map: the Great Lakes, zooming to Lake Erie
+G|-|lake erie is about|Map: Lake Erie, about 240 miles long, southwest to northeast, Toledo and Buffalo marked
+F|B|buffalo sits at the other|The Buffalo skyline seen from the lake at dusk
+G|-|it's also the shallowest|Bars: average depth of the five lakes, Erie 62 ft against Superior 483 ft
+F|B|shallow water is easy|Aerial view of shallow green lake water near the shore, wind streaks across the surface
+G|-|and lake erie's worst|Map: strong southwest wind arrows along the lake
+G|-|the national weather service|Quote card: "a giant bathtub" (National Weather Service)
+G|-|when a strong wind blows|Side view: wind pushes the water, piling up at one end and dropping at the other
+G|-|in an extreme case|Diagram: Toledo and Buffalo water levels, more than 10 feet apart
+G|-|it works in both directions|Map: east wind arrows, water piling up toward Toledo
+F|B|and when the wind stops|Water rocking from one end of a white bathtub to the other
+G|-|that rocking has a name|Word card: seiche, pronounced "saysh"
+== 3
+F|D|in eighteen forty four buffalo|A busy 1840s harbour crowded with canal boats and paddle steamers, church spires behind
+G|-|the erie canal had opened|Map: the Erie Canal from Albany to Buffalo, opened 1825
+F|D|grain and timber came|A paddle steamer unloading sacks of grain at a wooden wharf
+F|D|at buffalo they were loaded|Canal boats being loaded beside a canal, a mule on the towpath
+F|D|people came the other way|Immigrant families with trunks and bundles waiting on a crowded wharf beside a steamboat
+F|D|that waterfront was crowded|A muddy street of small wooden houses, warehouses and boarding houses near the water
+F|D|across buffalo creek were|Low flat ground across a creek with scattered small wooden homes and chimney smoke
+F|D|out in the harbor stood|A stone pier and seawall with a small lighthouse at its end, in the evening
+== 4
+F|D|the trouble started with|Flags and chimney smoke streaming in a steady wind over a grey harbour
+G|-|for several days before|Map: east wind arrows across Lake Erie, pushing the water west
+G|-|it had driven the water|Quote card: "had driven the water up the lake" (Buffalo newspaper, 1844)
+G|-|think of the bathtub again|Side view: the lake tilted, low at Buffalo, high at Toledo, held by the wind
+F|D|on the evening of friday|Four paddle steamers leaving the harbour at dusk, smoke from tall funnels
+G|-|the saint louis the robert|Card: the four steamboats' names
+F|D|and the julia palmer with|The crowded deck of a paddle steamer at dusk, passengers in 1840s clothing seen from behind
+== 5
+F|N|then at about midnight|A lantern swinging hard on a ship's mast at night
+G|-|it swung around to the|Map: the wind arrows swing from east to southwest
+G|-|with a tremendous force|Quote card: "with a tremendous force never before or since known…" (a later history)
+G|-|now it was blowing straight|Side view: the tilted water let go and surging toward Buffalo
+G|-|the water came down before|Quote card: "as if a dam had broken away" (Buffalo newspaper, 1844)
+F|N|it ran down two hundred|Huge storm waves running across an open lake at night under moonlit clouds
+F|N|the eastern end buffalo|Waves piling into a harbour at night, a lighthouse beam through the spray
+F|N|it tore holes in the|Giant waves breaking over a stone pier and seawall at night, huge stone blocks shifting
+G|-|by the newspaper's measure|Number card: 22 feet above the evening's level
+G|-|and in less than half|Quote card: "the whole lower part of the city south of the canal… from two to eight feet in depth"
+== 6
+F|N|it was midnight almost|A dark street of wooden houses at night, every window dark, wind tearing at a shutter
+G|-|a later history called|Quote card: "an avalanche of waters upon a sleeping community"
+F|N|one man across the creek|A man in a nightshirt holding a candle at the door of a small house in the wind
+F|N|before he could get|Water pouring into a small room, knee-deep and rising, chairs floating
+F|N|on main street near the|One huge wave rolling up a main street of 1840s brick and wooden buildings at night
+G|-|at the corner of main|Card: six feet deep at Main and Ohio, six feet at Huff's Hotel
+F|N|in basements and on ground|Water pouring down basement steps, a lantern on the wall
+F|N|in one house two families|Two families at an upstairs window, floodwater rising below
+F|N|then the flood lifted the|A wooden house lifted off its foundation and floating in the flood
+F|N|the roof split in two|Two halves of a roof drifting apart in dark floodwater, small figures clinging on
+G|-|the most fearful midnight|Quote card: "the most fearful midnight voyaging that ever a man, wife and child underwent"
+F|N|neighbors risking their own|Men leaning out of a second-floor window reaching down to people on a floating roof
+F|N|another family clung to|A family clinging to a roof drifting across flooded flats, buildings far away
+== 7
+F|N|out on the lake the|A paddle steamer in huge waves at night, smoke torn sideways by the wind
+G|-|off dunkirk the saint louis|Map: the east end of Lake Erie, Dunkirk, Sturgeon Point and Buffalo, where each boat ended up
+F|N|the robert fulton lost|A wrecked paddle steamer thrown up on a beach in heavy surf
+F|N|the julia palmer couldn't|A paddle steamer driven before huge waves, listing hard
+F|D|at about six in the|A paddle steamer at anchor off a town in a grey dawn gale, rolling in heavy seas
+F|N|she rolled and pitched|Crew feeding broken chairs and wooden furniture into a ship's boiler furnace, orange firelight
+F|D|then a horse swam ashore|A horse swimming through rough grey water toward the shore, a folded paper tied in its mane
+G|-|they were now burning|Quote card: "now burning the furniture"
+F|D|on sunday morning when|A battered paddle steamer coming into harbour on a calm grey morning, people watching from the wharf
+== 8
+F|D|in the morning buffalo saw|A grey morning over a wrecked waterfront, broken buildings and debris
+F|D|canal boats lay out in|Canal boats stranded in a muddy street between houses
+F|D|a steamboat the columbus|A paddle steamer sitting in a grassy field far from the water
+G|-|more than eighty canal|Cards: 80+ canal boats ashore, 200+ small buildings destroyed
+F|D|across the creek the newspaper|Small houses tilted and shoved off their foundations on flats strewn with wreckage
+F|D|most of the survivors had|Survivors wrapped in blankets in their nightclothes in a market hall basement
+G|-|then came the count|Card: first count, 39 dead "besides several who are missing"
+G|-|later records put the toll|Card: 53 in Buffalo + 25 on the lake
+G|-|seventy eight in all|Number card: 78
+G|-|today new york sea grant|Quote card: "the most destructive documented seiche in Western New York" (New York Sea Grant)
+F|B|and yet most people in|The Buffalo waterfront today, people walking by calm water
+== 9
+V1:4|-|if you watched the last|Video 1's image of the 1954 wave pouring over a breakwater
+G|-|in nineteen fifty four a|Card: Chicago 1954, "seiche" crossed out, meteotsunami: one fast wave
+G|-|what hit buffalo in eighteen|Card: Buffalo 1844, a real seiche
+G|-|a saysh isn't one wave|Side view: the whole lake tilting and rocking end to end
+R:and when the wind stops|-|the way water rocks in|The bathtub image again
+G|-|on lake erie one full|Side view with a clock: one full rock takes around 14 hours
+F|B|that's what makes a saysh|Grey lake water piled up against a rocky shore under a heavy sky
+G|-|it's piled up at the|Side view: water held at one end, waiting to come back
+== 10
+F|B|so why does almost nobody|Buffalo's old grain elevators by the river at dusk
+F|D|part of the answer may|An early 1840s box camera on a wooden tripod in a dim studio
+G|-|not a photograph not even|Card: no known pictures of that night, only newspaper columns
+F|B|part of it is snow buffalo|People walking through heavy snow in a Buffalo street
+F|B|and part of it is that|A long stone breakwater with a lighthouse, seen from above
+G|-|buffalo still gets two|Card: two or three seiches a year
+F|B|today the site of the|A modern waterfront park beside an old canal slip in a northern US city
+G|-|the city changed the lake|Text card: The city changed. The lake did not.
+== 11
+G|-|on november the fifteenth|Date card: November 15, 2020
+F|B|for the first time since|Modern storm waves crashing over a Lake Erie pier, grey sky
+G|-|it measured a difference|Chart: Buffalo 133.5 in above chart datum, Toledo 34.5 in below, a 14-foot difference
+F|B|halfway along the lake at|Lake water flooding a lakeside residential road
+G|-|the bathtub had tilted|Side view: the lake tilted again
+G|-|then on december the twenty|Date card: December 29, 2025, gusts of 60 to 80 mph
+F|B|at the western end the|Bare lake bed with puddles and old wooden pilings, the water far from shore
+F|B|at the other end the|Huge winter waves breaking against a breakwater, spray freezing
+G|-|the same lake the same|Map: southwest wind arrows again, "every few years"
+== 12
+G|-|there are two dangerous|Card: two dangerous moments
+R:in less than half|-|the first is the one|The flooded lower town at night again
+F|B|the second is quieter|Bare lake bed, a small figure in the distance walking out toward the far-off water, seen from behind
+F|B|but that water isn't gone|A fast sheet of water flooding back across a muddy lake bed
+G|-|so if you ever see|Safety card: if the lake pulls back, don't walk out after it; believe lakeshore flood warnings
+F|D|in eighteen forty four the|A calm dusk over an 1840s harbour, lights in windows, the lake low and far out
+G|-|nothing told them it was|Text card: it was only waiting
+F|B|seventy eight people died in|The Buffalo waterfront in snow at dawn
+F|B|if you know someone who|The Lake Erie shoreline at sunrise, calm water
+G|-|subscribe to open the next|End card
