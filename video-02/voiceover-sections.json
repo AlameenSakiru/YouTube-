@@ -1,0 +1,215 @@
+{
+  "video": 2,
+  "title": "Buffalo's Deadliest Natural Disaster Came From Lake Erie, Not Snow",
+  "folder": "video-02/voice",
+  "voice": "Use the same voice as video 1 (Sawyer, Midnight Storyteller) with exactly the same settings, so the channel always sounds like one narrator.",
+  "pronNote": "These are the words an AI voice is most likely to say wrong.",
+  "pron": [
+    [
+      "Saysh (seiche)",
+      "SAYSH, one syllable: \"say\" with \"sh\" on the end",
+      "saish, or say-sh"
+    ],
+    [
+      "Sayshes (seiches)",
+      "SAY-shiz, two syllables",
+      "say-shiz"
+    ],
+    [
+      "Meteo-tsunami",
+      "MEE-tee-oh soo-NAH-mee",
+      "meetee-oh tsunami"
+    ],
+    [
+      "Toledo",
+      "tuh-LEE-doh",
+      "Tuh-leedo"
+    ],
+    [
+      "Erie",
+      "EER-ee, like \"eerie\"",
+      "Eery"
+    ],
+    [
+      "Hydraulics",
+      "hy-DRAW-liks",
+      "hy-draw-licks"
+    ],
+    [
+      "Dunkirk",
+      "DUN-kirk",
+      "Dun-kirk"
+    ],
+    [
+      "Sturgeon Point",
+      "STUR-jun POINT",
+      "Sturjun Point"
+    ],
+    [
+      "Mohawk Market",
+      "MO-hawk",
+      "Mo-hawk Market"
+    ],
+    [
+      "Millcreek",
+      "MILL-creek",
+      "Mill Creek"
+    ]
+  ],
+  "sections": [
+    {
+      "title": "Midnight",
+      "dir": "Quiet and close, like the start of a true story told at night. Slow. Let each short sentence land. A real pause before \"And the lake came with it.\"",
+      "paras": [
+        "Buffalo, New York, is famous for snow. For blizzards that bury cars and shut the city down for days.",
+        "But the deadliest natural disaster in Buffalo's history didn't come with snow. It came on an October night in eighteen forty-four... and it came out of the lake.",
+        "Just before midnight on the eighteenth of October, the wind swung around and began to blow hard from the southwest, straight down the length of Lake Erie.",
+        "And the lake came with it.",
+        "In less than half an hour, the whole lower part of the city, everything south of the canal, was under water. Two feet deep in some streets. Eight feet in others. People woke up with the lake inside their homes.",
+        "By the time it was over... seventy-eight people were dead.",
+        "There was no hurricane. No dam broke. The lake had been pushed away to its far end, held there by the wind for days, and then let go.",
+        "And the same lake did the same thing again, last winter."
+      ]
+    },
+    {
+      "title": "The bathtub",
+      "dir": "Clear and patient, like explaining something to a friend. A little brighter than section one. Slow down for the last three lines.",
+      "paras": [
+        "To understand how a lake can do that, look at its shape.",
+        "Lake Erie is about two hundred and forty miles long, and it runs from southwest to northeast. Toledo, Ohio, sits at one end. Buffalo sits at the other.",
+        "It's also the shallowest of the five Great Lakes. On average, it's only about sixty feet deep. Lake Superior, on average, is almost eight times deeper.",
+        "Shallow water is easy to push. And Lake Erie's worst sayshes come when strong winds blow from the southwest, right along the lake, from one end to the other.",
+        "The National Weather Service describes Lake Erie as acting like \"a giant bathtub.\" When a strong wind blows along it for hours, the water piles up at one end and drops at the other. In an extreme case, the weather service says, the water at Toledo and the water at Buffalo can differ by more than ten feet.",
+        "It works in both directions. When strong winds blow from the east instead, it's the western shore's turn, and the weather service watches the water at Toledo for flooding.",
+        "And when the wind stops, or turns, the water doesn't just settle back. It rocks.",
+        "That rocking has a name. Saysh. It's spelled S, E, I, C, H, E."
+      ]
+    },
+    {
+      "title": "The city at the end of the canal",
+      "dir": "Warm, steady storytelling. You are painting a busy waterfront. Slightly slower on the last line.",
+      "paras": [
+        "In eighteen forty-four, Buffalo was one of the fastest-growing cities in America, and it owed almost everything to water.",
+        "The Erie Canal had opened in eighteen twenty-five, and Buffalo was where it ended. Grain and timber came across the lakes by steamboat. At Buffalo, they were loaded onto canal boats and sent east, all the way to New York City. People came the other way, thousands of them, heading west across the lakes.",
+        "That waterfront was crowded, busy, and low. South of the canal lay the lower part of the city: docks, warehouses, hotels, boarding houses, and small wooden homes where canal workers and their families lived. Across Buffalo Creek were more homes, on low, flat ground.",
+        "Out in the harbor stood a seawall and a stone pier, built to keep the lake in its place."
+      ]
+    },
+    {
+      "title": "Days of east wind",
+      "dir": "Calm, with a quiet sense of something building. Even pace. A short pause after each steamboat's name.",
+      "paras": [
+        "The trouble started with a wind that seemed harmless.",
+        "For several days before the storm, a stiff wind had been blowing from the east. A Buffalo newspaper explained afterward what it had done. It \"had driven the water up the lake,\" away from Buffalo, and toward the far, western end.",
+        "Think of the bathtub again. The lake was being tilted. Lower at Buffalo's end. Higher at Toledo's. And the wind was holding it there.",
+        "On the evening of Friday, October the eighteenth, four steamboats left Buffalo, heading up the lake. The Saint Louis. The Robert Fulton. The Indian Queen. And the Julia Palmer, with about four hundred passengers on board."
+      ]
+    },
+    {
+      "title": "The wind turns",
+      "dir": "This is the turn. Start low, then build steadily through the middle. Firm on \"Buffalo.\" Slow and plain for the last line.",
+      "paras": [
+        "Then, at about midnight, the wind changed.",
+        "It swung around to the southwest, and it blew, a later history says, \"with a tremendous force never before or since known to the inhabitants of Buffalo.\"",
+        "Now it was blowing straight down the lake, from Toledo toward Buffalo. All the water that had been held at the far end was released, and driven back the other way. The newspaper put it simply. The water \"came down before it as if a dam had broken away.\"",
+        "It ran down two hundred and forty miles of lake, and it piled up at the one place it could go no further. The eastern end... Buffalo.",
+        "It tore holes in the seawall and the stone pier, and carried stones weighing many tons ten and twenty feet. By the newspaper's measure, the lake rose twenty-two feet above where it had stood that evening.",
+        "And in less than half an hour, \"the whole lower part of the city south of the canal\" was under water, \"from two to eight feet in depth.\""
+      ]
+    },
+    {
+      "title": "The lower city",
+      "dir": "Close and vivid, but restrained: do not act it out. A touch of grim lightness on the trousers line. Slow down for the families on the roof.",
+      "paras": [
+        "It was midnight. Almost everyone in the lower city was asleep. A later history called it \"an avalanche of waters upon a sleeping community.\"",
+        "One man across the creek was woken by the noise of the wind. He guessed the water might rise, and ran to wake his family. Before he could get his trousers on, the water in his house was more than three feet deep.",
+        "On Main Street, near the bridge, a witness saw it come \"in one huge wave.\" At the corner of Main and Ohio Streets, the water stood six feet deep. At Huff's Hotel, at Main and Scott, six feet. In basements and on ground floors, there was almost no time to get out.",
+        "In one house, two families climbed to the second floor. The water followed them, and they climbed onto the roof. Then the flood lifted the whole house off its foundation... and floated it away.",
+        "The roof split in two, with a family on each half. They drifted across the creek and over the flats, more than a mile in the dark. \"The most fearful midnight voyaging,\" one account says, \"that ever a man, wife and child underwent.\" Neighbors, risking their own lives, pulled them into the second story of a house, just before the rafts were swept into Little Buffalo Creek.",
+        "Another family clung to their roof all the way to the Hydraulics, a mile and a half from where their house had stood."
+      ]
+    },
+    {
+      "title": "Out on the lake",
+      "dir": "Tense and steady through the storm. A real pause before \"now burning the furniture.\" Relief, quietly, on the last line.",
+      "paras": [
+        "Out on the lake, the four steamboats met the gale at its height.",
+        "Off Dunkirk, the Saint Louis broke her shaft, and four of her passengers were swept overboard and lost. The Robert Fulton lost two or three people overboard, and was thrown up on the beach near Sturgeon Point. A total wreck.",
+        "The Julia Palmer couldn't fight it at all. She was driven helplessly back down the lake. At about six in the morning, opposite the foot of Main Street in Buffalo, her anchors finally caught, and held.",
+        "She rolled and pitched there all that day. Steamboats in eighteen forty-four burned wood, and the Julia Palmer had been fighting the storm for hours.",
+        "Then a horse swam ashore from her, with a letter tied to its mane. They had burned all their wood, it said. They were... \"now burning the furniture.\"",
+        "On Sunday morning, when the water had gone down, the Julia Palmer came into the harbor. Everyone on board was safe."
+      ]
+    },
+    {
+      "title": "Seventy-eight",
+      "dir": "Grey morning. Slow and serious all the way through. Let \"Seventy-eight in all\" stand alone. Quiet and plain on the last line.",
+      "paras": [
+        "In the morning, Buffalo saw what the lake had done.",
+        "Canal boats lay out in the streets, on Division, Eagle, and Clinton. A steamboat, the Columbus, sat in a pasture two hundred feet from the creek. More than eighty canal boats had been driven ashore, and more than two hundred small buildings were gone. Across the creek, the newspaper said, there was \"scarcely a house in its original position.\"",
+        "Most of the survivors had escaped in their nightclothes, with nothing else. The city opened the basement of the Mohawk Market as a shelter, and asked for clothing of any kind.",
+        "Then came the count. The newspapers said it was impossible to get \"at anything like accuracy.\" Their first list had thirty-nine dead, \"besides several who are missing.\" Later records put the toll at fifty-three in Buffalo, and twenty-five on the lake.",
+        "Seventy-eight in all.",
+        "Today, New York Sea Grant still calls it \"the most destructive documented saysh in Western New York.\" Local historians call it the worst natural disaster in Buffalo's history.",
+        "And yet most people in Buffalo have never heard of it."
+      ]
+    },
+    {
+      "title": "The real seiche",
+      "dir": "Curious and a little brisker: the explaining part. Firm on \"What hit Buffalo was the real thing.\" Slow down for the last paragraph.",
+      "paras": [
+        "If you watched the last video on this channel, you've heard the word saysh before.",
+        "In nineteen fifty-four, a killer wave hit Chicago, and for decades it was called a saysh. It wasn't. It was a meteo-tsunami: one fast wave, over in minutes.",
+        "What hit Buffalo in eighteen forty-four was the real thing.",
+        "A saysh isn't one wave. It's the whole lake tilting, and then rocking back and forth, end to end, the way water rocks in a bathtub after you climb out.",
+        "On Lake Erie, one full rock, from one end to the other and back again, takes around fourteen hours.",
+        "That's what makes a saysh so dangerous. It's slow. It can keep going long after the wind that started it. And the water that leaves one end of the lake hasn't gone anywhere. It's piled up at the other end... waiting to come back."
+      ]
+    },
+    {
+      "title": "Why Buffalo forgot",
+      "dir": "Reflective and a little softer. Unhurried. Pause before the last line and say it plainly.",
+      "paras": [
+        "So why does almost nobody remember the worst night in Buffalo's history?",
+        "Part of the answer may be pictures. Photography had been invented only five years earlier, and there are no known pictures of that night at all. Not a photograph. Not even a drawing. Only newspaper columns.",
+        "Part of it is snow. Buffalo became the city of blizzards. Those are the storms people tell stories about.",
+        "And part of it is that Buffalo built its way out. In the eighteen-sixties, work began on a long breakwater out in the lake to shelter the harbor. Buffalo still gets two or three sayshes a year, but the breakwater takes most of their force. The old canal district was rebuilt, and rebuilt again. Today, the site of the old canal harbor is a waterfront district called Canalside.",
+        "The city changed... The lake didn't."
+      ]
+    },
+    {
+      "title": "It still happens",
+      "dir": "Brisker and more modern, like a news report. A short pause after each date. Slow and firm on the last paragraph.",
+      "paras": [
+        "On November the fifteenth, twenty twenty, storm-force winds blew down Lake Erie from the southwest. For the first time since the remains of Hurricane Sandy in twenty twelve, the weather service put the whole lake under a storm warning.",
+        "It measured a difference of fourteen feet between the water at Buffalo and the water at Toledo. Halfway along the lake, at Erie, Pennsylvania, the water climbed more than seven feet above its chart level and flooded the lakeshore, and several homes in Millcreek Township had to be evacuated.",
+        "The bathtub had tilted again.",
+        "Then, on December the twenty-ninth, twenty twenty-five, a winter storm hit the lakes with gusts of sixty to eighty miles an hour, and set off another saysh.",
+        "At the western end, the water drained away from the shore and left the lake bed bare.",
+        "At the other end, the water rose against Buffalo.",
+        "The same lake. The same wind. The same direction. A strong saysh like this comes every few years."
+      ]
+    },
+    {
+      "title": "When the lake pulls back",
+      "dir": "Direct and practical at first, as if speaking to one person. Quiet and reflective from \"In eighteen forty-four\". Warmer on the share line. A little lift on the last line.",
+      "paras": [
+        "There are two dangerous moments in a saysh.",
+        "The first is the one Buffalo met in eighteen forty-four: the water arriving, in the dark, faster than anyone can get out of its way.",
+        "The second is quieter. It's the moment the lake pulls back. The water drains away, the lake bed is bare, and people are tempted to walk out and see what it's left behind.",
+        "But that water isn't gone. It's piled up at the other end of the lake, and when the wind drops, it comes back.",
+        "So if you ever see Lake Erie, or any lake, pull far back from the shore after a storm, don't walk out after it. And if the weather service warns of lakeshore flooding where you live, believe it.",
+        "In eighteen forty-four, the people of Buffalo went to sleep beside a lake that had been pushed away from them for days. Nothing told them... it was only waiting.",
+        "Seventy-eight people died in Buffalo's worst natural disaster, and the city famous for snow almost forgot it ever happened. If you know someone who lives on Lake Erie, send them this.",
+        "Subscribe to open the next file."
+      ]
+    }
+  ],
+  "done": [
+    "Every number, year and date is written out in words, so the AI cannot read 1844 as \"one thousand eight hundred and forty-four\".",
+    "Seiche is spelled \"saysh\" (and \"sayshes\"), meteotsunami is \"meteo-tsunami\", and St. Louis is \"Saint Louis\", so the AI says them right. The subtitles and on-screen text will use the correct spellings.",
+    "Three dots (...) mark the short dramatic pauses. Most voice tools pause there. Leave them in.",
+    "The 1844 newspaper quotes are kept word for word, set up so the AI reads them cleanly. Contractions such as \"didn't\" and \"it's\" make it sound like natural speech.",
+    "Longer pauses, wind, waves and storm sounds are added in the edit. Do not add sound effects or pause tags to the voice."
+  ]
+}

@@ -222,17 +222,17 @@ The city changed. The lake did not.
 
 ## 11. It still happens
 
-*On screen: a weather service chart from November 15, 2020: Buffalo's water level spiking up, Toledo's falling. Then December 2025: a drained harbour, bare lake bed, a car and a snowmobile sitting in the mud at Luna Pier, Michigan.*
+*On screen: a weather service chart from November 15, 2020: Buffalo's water level spiking up, Toledo's falling. Then December 2025: a drained harbour and bare lake bed at the western end, waves breaking at Buffalo.*
 
 On November 15, 2020, storm-force winds blew down Lake Erie from the southwest. For the first time since the remains of Hurricane Sandy in 2012, the weather service put the whole lake under a storm warning.
 
-It measured a difference of fourteen feet between the water at Buffalo and the water at Toledo. Halfway along the lake, at Erie, Pennsylvania, the water climbed more than seven feet above its chart level and flooded the lakeshore, and some people in Millcreek Township had to be evacuated.
+It measured a difference of fourteen feet between the water at Buffalo and the water at Toledo. Halfway along the lake, at Erie, Pennsylvania, the water climbed more than seven feet above its chart level and flooded the lakeshore, and several homes in Millcreek Township had to be evacuated.
 
 The bathtub had tilted again.
 
 Then, on December 29, 2025, a winter storm hit the lakes with gusts of sixty to eighty miles an hour, and set off another seiche.
 
-At the western end, the water drained away from the shore and left the lake bed bare. At Luna Pier, Michigan, the bare lake bed gave up things it had been hiding: a car, a snowmobile, a high school class ring.
+At the western end, the water drained away from the shore and left the lake bed bare.
 
 At the other end, the water rose against Buffalo.
 
@@ -242,7 +242,7 @@ The same lake. The same wind. The same direction. A strong seiche like this come
 
 *On screen: bare lake bed with water creeping back across it. Then the calm lake at Buffalo at dawn. End screen with the next video.*
 
-There are two moments in a seiche that kill people.
+There are two dangerous moments in a seiche.
 
 The first is the one Buffalo met in 1844: the water arriving, in the dark, faster than anyone can get out of its way.
 
@@ -265,7 +265,7 @@ Subscribe to open the next file.
 - **Same voice and settings as video 1** (Sawyer, Midnight Storyteller), so the channel sounds the same.
 - **Pace:** calm and steady. Slow down for the numbers of the dead and for the last line of each section.
 - **Pauses:** leave a full second after "And the lake came with it", after "now burning the furniture", and after "Seventy-eight in all".
-- **Say it right:** seiche is "saysh". Dunkirk, Sturgeon Point, Black Rock, the Hydraulics and Luna Pier are said as written.
+- **Say it right:** seiche is "saysh". Dunkirk, Sturgeon Point, Black Rock and the Hydraulics are said as written.
 
 # Why the script is built this way
 
@@ -306,7 +306,7 @@ Checked on 13 November 2026. "Read directly" means I read the source page itself
 | One full rock takes around 14 hours | Britannica (about 880 minutes); a 40-year water-level study | Search results, two sources agree |
 | 15 November 2020: 14-foot difference; first storm warning for the whole lake since Sandy in 2012; Erie, PA flooding and evacuations in Millcreek Township | National Weather Service Cleveland | Read directly |
 | 29 December 2025: gusts of 60 to 80 mph set off a seiche | Great Lakes Winter 2026 climate summary | Read directly |
-| Luna Pier: a car, a snowmobile and a class ring on the bare lake bed | Cleveland 19 and Fox 17, December 2025 | Search results only; those sites are not on the approved list. **check** before recording, or cut the line |
+| December 2025: the water drained from the western shore and left the lake bed bare | Several news reports (Toledo dropped by 5.5 to 7.5 feet, depending on the report) | Search results, several sources agree; the script gives no number |
 
 # Sources
 
@@ -322,7 +322,6 @@ Checked on 13 November 2026. "Read directly" means I read the source page itself
 - [Sunday marks 182 years since Buffalo's worst natural disaster (WIVB)](https://www.wivb.com/news/local-news/sunday-marks-182-years-since-buffalos-worst-natural-disaster/)
 - [The October surprise of 1844: the deadly storm Buffalo forgot](https://www.yahoo.com/news/weather-news/articles/october-surprise-1844-deadly-storm-144924238.html)
 - [Seiche uncovers hidden treasures in Lake Erie (Cleveland 19)](https://www.cleveland19.com/2025/12/31/seiche-uncovers-hidden-treasures-lake-erie/)
-- [Lake Erie seiche exposes hidden treasures and decades-old stories (Fox 17)](https://www.fox17online.com/news/local-news/michigan/lake-erie-seiche-exposes-hidden-treasures-and-decades-old-stories)
 - [Lake seiches: cause and characteristics (Britannica)](https://www.britannica.com/science/lake/Seiches)
 - [The History of Buffalo: a chronology (Buffalo Architecture and History)](https://buffaloah.com/h/1865.html)
 - [Lake Erie (Wikipedia)](https://en.wikipedia.org/wiki/Lake_Erie)

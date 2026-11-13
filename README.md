@@ -25,6 +25,8 @@ A 14-day plan to launch a faceless, long-form YouTube channel in a high-paying n
 | [research/keywords-2026-11-12.md](research/keywords-2026-11-12.md) | What people search for in the niche, and the tags, hashtags and descriptions the best small channels use |
 | [scripts/01-lake-michigan-tsunami.md](scripts/01-lake-michigan-tsunami.md) | Full script for video 1, with title, description, chapters and fact-check notes |
 | [video-01/](video-01/README.md) | How we make video 1 together: shot list, image prompts, where to upload |
+| [scripts/02-buffalo-1844-seiche.md](scripts/02-buffalo-1844-seiche.md) | Full script for video 2, fact-checked against the 1844 Buffalo newspapers |
+| [video-02/voiceover-script.docx](video-02/voiceover-script.docx) | Video 2 voiceover script for the AI voice, as a Word file |
 | [tracker/index.html](tracker/index.html) | Progress tracker: log subscribers and watch hours, tick off the 14 days |
 | [video-01/monitoring.md](video-01/monitoring.md) | How we watch video 1's numbers and what we change for each one |
 
