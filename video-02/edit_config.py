@@ -1,5 +1,6 @@
 # Edit settings for video 2, read by tools/edit/build.py (VIDEO=video-02).
 GFX_SET = 'video2'
+PALETTE = 'storm'   # lake green-black, teal water, storm-warning red, Charter type
 
 # dramatic pauses: (section, words that end the line, extra seconds)
 PAUSES = [

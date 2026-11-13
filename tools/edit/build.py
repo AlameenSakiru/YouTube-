@@ -177,9 +177,9 @@ def overlay(lines_fn):
 def watermark_png(path):
     """The channel name, small, in the bottom-right corner, readable on bright skies too."""
     import cairo
-    from style import font, text, text_width, AMBER
+    from style import font, text, text_width, AMBER, TEXT
     s = cairo.ImageSurface(cairo.FORMAT_ARGB32, W, H); cr = cairo.Context(s)
-    font(cr, 'Inter', 24, bold=True)
+    font(cr, TEXT, 24, bold=True)
     label = CHANNEL.upper(); tr = 4
     w = text_width(cr, label, tr); x = W - 48 - w; y = H - 40
     for dx, dy, al in ((2, 2, 0.45), (1, 1, 0.45)):
@@ -190,12 +190,12 @@ def watermark_png(path):
 
 
 def lower_third(title, sub):
-    from style import font, text, INK, MUTED, AMBER, BG
+    from style import font, text, INK, MUTED, AMBER, BG, DISPLAY, TEXT
     def draw(cr):
         cr.set_source_rgba(*BG, 0.72); cr.rectangle(0, H - 250, 900, 150); cr.fill()
         cr.set_source_rgba(*AMBER, 1); cr.rectangle(0, H - 250, 10, 150); cr.fill()
-        font(cr, 'Inter Display', 56, bold=True); text(cr, title, 70, H - 172, INK, 1)
-        font(cr, 'Inter', 34); text(cr, sub, 72, H - 124, MUTED, 1)
+        font(cr, DISPLAY, 56, bold=True); text(cr, title, 70, H - 172, INK, 1)
+        font(cr, TEXT, 34); text(cr, sub, 72, H - 124, MUTED, 1)
     return overlay(draw)
 
 
@@ -336,10 +336,14 @@ DISPLAY = [
 
 # per-video settings override the video 1 defaults above
 GFX_SET = 'video1'
+PALETTE = None
 _cfg = os.path.join(V, 'edit_config.py')
 if os.path.exists(_cfg):
     exec(open(_cfg).read())
 os.environ['GFX_SET'] = GFX_SET
+if PALETTE:
+    import style, palettes
+    palettes.apply(PALETTE)
 
 
 def subs():

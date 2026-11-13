@@ -659,3 +659,7 @@ def g52(cr, t, d):
     eyebrow(cr, 'Great Lakes Files', 140, 430, AMBER, a)
     font(cr, DISPLAY, 92, bold=True); text(cr, 'Subscribe to open', 140, 540, INK, a); text(cr, 'the next file', 140, 640, INK, a)
     font(cr, TEXT, 40); text(cr, 'True stories from the Great Lakes', 140, 720, MUTED, a)
+
+
+import palettes  # noqa: E402
+palettes.apply('storm')
