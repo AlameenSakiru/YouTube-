@@ -4,6 +4,15 @@ The niche is hidden places of the Great Lakes region (see [02-niche-and-channel.
 
 I checked the main facts below by web search on 11 November 2026. Where sources disagree, the brief gives the range. I read search summaries, not every full article, so **confirm each fact in the original source before you record**, and use the wording "about" or "at least" where figures vary.
 
+## Change of order, 13 November 2026
+
+Video 2 is now **the 1844 Lake Erie seiche in Buffalo** ([scripts/02-buffalo-1844-seiche.md](../scripts/02-buffalo-1844-seiche.md)), not the Detroit salt mine. Two reasons:
+
+- YouTube's first data on video 1 shows it being recommended beside weather-disaster, hidden-places and sea-history videos. The Buffalo flood is a weather disaster and a direct follow-on to video 1.
+- At least five small channels posted near-identical Detroit salt mine videos in the ten days before video 1 went out, and they got between 2 and 199 views. Buffalo 1844 has almost no full documentary on YouTube.
+
+The Detroit brief stays below for later, with a different angle from the copies.
+
 ## How to choose video 1
 
 Start with brief 1. It has a single dramatic event, a clear mystery, a scientific answer, and a major US city in the title. If you prefer another, pick the one you can find the most pictures for.
