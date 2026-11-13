@@ -19,9 +19,17 @@ if os.path.exists(_bg):
     graphics_more.END_BG = _png
 
 
+GFX_SET = os.environ.get('GFX_SET', 'video1')
+if GFX_SET == 'video2':
+    import video2
+    REG = video2.G
+else:
+    REG = graphics.G
+
+
 def frame(gid, t, d, i=0):
     s, cr = new_surface()
-    graphics.G[gid](cr, t, d)
+    REG[gid](cr, t, d)
     s.flush()
     return grain(to_array(s), 0, 4)  # one still grain pattern: keeps the files small
 
@@ -56,7 +64,7 @@ if __name__ == '__main__':
     mode = sys.argv[1]
     if mode == 'preview':
         out, gids = sys.argv[2], sys.argv[3:]
-        plan = json.load(open(os.path.join(os.path.dirname(__file__), '../../video-01/edit-plan.json')))
+        plan = json.load(open(os.path.join(os.path.dirname(__file__), '../..', os.environ.get('VIDEO', 'video-01'), 'edit-plan.json')))
         durs = {s['gid']: s['d'] for s in plan if s['kind'] == 'G'}
         preview(out, gids, durs)
     elif mode == 'clips':

@@ -1,4 +1,7 @@
-"""Assemble video 1 from the voiceover, the Flow images and the graphics.
+"""Assemble a video from the voiceover, the Flow images and the graphics.
+
+VIDEO=video-02 python3 build.py ...   (default video-01). Per-video settings (pauses, name captions,
+reuse crops, subtitle spellings, graphics set) live in VIDEO/edit_config.py.
 
 python3 build.py plan              work out final timings (pauses, gaps, end card) -> build/timeline.json
 python3 build.py images [N..]      render image shots (motion, name and place captions)
@@ -13,7 +16,9 @@ import numpy as np
 from PIL import Image, ImageFilter
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
-V = os.path.join(ROOT, 'video-01')
+VIDEO = os.environ.get('VIDEO', 'video-01')
+V = os.path.join(ROOT, VIDEO)
+V1 = os.path.join(ROOT, 'video-01')
 BUILD = os.environ.get('BUILD_DIR', os.path.join(V, 'build'))
 GFX = os.path.join(ROOT, 'tools', 'gfx')
 sys.path.insert(0, GFX)
@@ -81,13 +86,18 @@ def silences(a, thresh_db=-38, min_len=0.08):
 
 
 # ---------------------------------------------------------------------------- plan
+def n_sections():
+    d = json.load(open(os.path.join(V, 'voiceover-sections.json')))
+    return len(d['sections'] if isinstance(d, dict) else d)
+
+
 def plan():
     shots = json.load(open(os.path.join(V, 'edit-plan.json')))
     al = json.load(open(os.path.join(V, 'voice', 'word-timings.json')))
     os.makedirs(BUILD, exist_ok=True)
     sections = []
     T = 0.35  # voice starts just after the first picture
-    for sec in range(1, 13):
+    for sec in range(1, n_sections() + 1):
         a = load_audio(os.path.join(V, 'voice', '%02d.mp3' % sec))
         words, starts = al[str(sec)]['words'], al[str(sec)]['start']
         sil = silences(a)
@@ -191,7 +201,7 @@ def lower_third(title, sub):
 
 def motion(g):
     """(focus x, focus y, zoom0, zoom1) for a shot."""
-    if g['kind'] == 'R':
+    if g['kind'] in ('R', 'V1'):
         for key, m in REUSE_FOCUS:
             if key in g['desc'].lower(): return m
         return (0.5, 0.5, 1.30, 1.40)
@@ -202,9 +212,11 @@ def motion(g):
     return (fx, fy, 1.0 if zin else 1.0 + z, 1.0 + z if zin else 1.0)
 
 
-def load_image(n):
-    crops = json.load(open(os.path.join(V, 'images', 'crops.json')))
-    im = Image.open(os.path.join(V, 'images', '%03d.jpg' % n)).convert('RGB')
+def load_image(n, src=None):
+    src = src or V
+    cf = os.path.join(src, 'images', 'crops.json')
+    crops = json.load(open(cf)) if os.path.exists(cf) else {}
+    im = Image.open(os.path.join(src, 'images', '%03d.jpg' % n)).convert('RGB')
     if '%03d' % n in crops: im = im.crop(tuple(crops['%03d' % n]))
     w, h = im.size
     if w / h > 16 / 9: nw = int(h * 16 / 9); im = im.crop(((w - nw) // 2, 0, (w - nw) // 2 + nw, h))
@@ -216,7 +228,7 @@ def load_image(n):
 def render_image_shot(g):
     out = os.path.join(BUILD, 'clips', 'S%04d.mp4' % g['F0'])
     if os.path.exists(out) and os.path.getsize(out) > 1000: return out
-    im = load_image(g['img']); sw, sh = im.size
+    im = load_image(g['img'], V1 if g['kind'] == 'V1' else None); sw, sh = im.size
     fx, fy, z0, z1 = motion(g)
     lt = None
     if g['kind'] == 'F' and g['img'] in LOWER_THIRDS: lt = lower_third(*LOWER_THIRDS[g['img']])
@@ -245,7 +257,7 @@ def render_image_shot(g):
 
 def images(only=None):
     tl = timeline(); os.makedirs(os.path.join(BUILD, 'clips'), exist_ok=True)
-    jobs = [g for g in tl['shots'] if g['kind'] in ('F', 'R') and (not only or g.get('img') in only)]
+    jobs = [g for g in tl['shots'] if g['kind'] in ('F', 'R', 'V1') and (not only or g.get('img') in only)]
     if only:
         for g in jobs:
             out = os.path.join(BUILD, 'clips', 'S%04d.mp4' % g['F0'])
@@ -322,9 +334,18 @@ DISPLAY = [
 ]
 
 
+# per-video settings override the video 1 defaults above
+GFX_SET = 'video1'
+_cfg = os.path.join(V, 'edit_config.py')
+if os.path.exists(_cfg):
+    exec(open(_cfg).read())
+os.environ['GFX_SET'] = GFX_SET
+
+
 def subs():
     tl = timeline(); al = json.load(open(os.path.join(V, 'voice', 'word-timings.json')))
     secs = json.load(open(os.path.join(V, 'voiceover-sections.json')))
+    secs = secs['sections'] if isinstance(secs, dict) else secs
     cues = []
     for s in tl['sections']:
         sec = s['sec']; starts = al[str(sec)]['start']
@@ -390,4 +411,4 @@ if __name__ == '__main__':
     elif m == 'video':
         to = None; args = sys.argv[2:]
         if '--to' in args: i = args.index('--to'); to = float(args[i + 1]); args = args[:i] + args[i + 2:]
-        video(args[0] if args else os.path.join(V, 'video-01.mp4'), to)
+        video(args[0] if args else os.path.join(V, VIDEO + '.mp4'), to)
