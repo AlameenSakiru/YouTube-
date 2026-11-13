@@ -47,7 +47,7 @@ The public view count on the channel page runs behind YouTube Studio: at about 9
 
 | Time | Hours since publishing | Views | Watch time | Average per view | Impressions | Click rate | Traffic sources | Notes |
 |---|---|---|---|---|---|---|---|---|
-| 13 Nov, about 02:40 UTC | 9 | 14 | 1.4 hours | about 6 minutes (40%) | 180 | 4.4% | Suggested 9, external 2, browse 1, channel page 1, search 1 | Impressions started climbing steeply at about 8 hours. Retention graph not ready yet |
+| 13 Nov, about 02:40 UTC | 9 | 14 | 1.4 hours | about 6 minutes (40%) | 180 | 4.4% | Suggested 9, external 2, browse 1, channel page 1, search 1 | Impressions started climbing steeply at about 8 hours. Retention graph not ready yet. Suggested next to: "15 Kansas Towns Buried Under Reservoirs", "Washington, The Most Evil Tornado", a weather-forecast video ("Pattern flip"), a film soundtrack, "The Mutiny of HMS Wager". So YouTube is matching it with weather-disaster, hidden-places and sea-history viewers |
 
 ## Change log
 
