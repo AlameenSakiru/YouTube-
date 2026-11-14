@@ -61,10 +61,10 @@ The research is in [research/keywords-2026-11-12.md](../research/keywords-2026-1
 
 ## Tags
 
-Paste this into the Tags box (under "Show more"). It is 534 characters, inside YouTube's 500 limit:
+Paste this into the Tags box (under "Show more"). It is 490 characters, inside YouTube's 500 limit:
 
 ```
-Lake Michigan tsunami, tsunami Lake Michigan, meteotsunami, meteo tsunami, meteotsunami Lake Michigan, Chicago tsunami, 1954 Chicago seiche, seiche, Lake Michigan seiche, Great Lakes tsunami, lake tsunami, Lake Michigan dangerous, Lake Michigan dangerous waves, why is Lake Michigan so dangerous, Lake Michigan biggest waves, Lake Michigan waves, Lake Michigan rip current, Lake Michigan documentary, Montrose Harbor, North Avenue Beach, Chicago history, Great Lakes storms, Great Lakes history, Great Lakes Files
+Lake Michigan tsunami, tsunami Lake Michigan, meteotsunami, meteo tsunami, meteotsunami Lake Michigan, Chicago tsunami, 1954 Chicago seiche, seiche, Great Lakes tsunami, lake tsunami, Lake Michigan dangerous, Lake Michigan dangerous waves, why is Lake Michigan so dangerous, Lake Michigan biggest waves, Lake Michigan waves, Lake Michigan rip current, Lake Michigan documentary, Montrose Harbor, Chicago history, Great Lakes storms, Great Lakes history, Great Lakes Files
 ```
 
 The exact subject comes first, then other ways of saying it ("meteo tsunami" is a common misspelling, which is what YouTube says tags are best for), then the places, then the wider topics, and the channel name last. Tags are a small signal; the title, thumbnail, description and spoken words matter much more.
