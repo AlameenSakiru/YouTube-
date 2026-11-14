@@ -50,9 +50,11 @@ The public view count on the channel page runs behind YouTube Studio: at about 9
 | 13 Nov, about 02:40 UTC | 9 | 14 | 1.4 hours | about 6 minutes (40%) | 180 | 4.4% | Suggested 9, external 2, browse 1, channel page 1, search 1 | Impressions started climbing steeply at about 8 hours. Retention graph not ready yet. Suggested next to: "15 Kansas Towns Buried Under Reservoirs", "Washington, The Most Evil Tornado", a weather-forecast video ("Pattern flip"), a film soundtrack, "The Mutiny of HMS Wager". So YouTube is matching it with weather-disaster, hidden-places and sea-history viewers |
 | 13 Nov, about 08:30 UTC | 15 | 40 | 4.0 hours | about 6 minutes (40%) | 647 | 3.9% | Suggested 80%, browse 5%, channel page 5%, search 5%, external 5% | Impressions still climbing; views slowing slightly. Retention graph not ready. Click rate just under 4%, but under the 1,000 impressions the rule needs |
 | 13 Nov, about 18:30 UTC | 25 | 54 | (not shown) | | 1,200 | 2.8% | Suggested 43, browse 3, other 9 | Passed 1,000 impressions with the click rate under 4%: the rule says change the thumbnail first. Plan: Test & compare with the current thumbnail and two new colour ones with a face, in the style of video 2's thumbnail |
+| 14 Nov, about 07:00 UTC | 37 | 82 | 8.2 hours | 6:27 (43.5%) | | | | First retention graph: about 74% still watching at 30 seconds (target 65%), a steady slide to about 35% by the halfway point, then flat to about 30% at the end, with small rewatch bumps near 4:30, 10:50 and 13:15. The video holds people; the click is the weak point. Thumbnail already switched to the film-grain lifeguard |
 
 ## Change log
 
 | Date (UTC) | Change | Why | Result after 48 hours |
 |---|---|---|---|
 | 2026-11-12 17:45 | Published with thumb-a | | |
+| 13–14 Nov (time to confirm) | Thumbnail: black and white "10 FEET" → colour film-grain lifeguard | Click rate 2.8% after 1,200 impressions, under the 4% rule | |
