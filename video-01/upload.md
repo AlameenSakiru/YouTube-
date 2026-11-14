@@ -4,7 +4,9 @@ Copy these into YouTube Studio when you upload `video-01.mp4`. Chapter times mat
 
 ## Title
 
-Lake Michigan Has Tsunamis, and Nobody in Chicago Saw This One Coming
+The Lake Michigan Tsunami That Killed 8 in Chicago on a Calm, Sunny Morning
+
+Changed on 14 November 2026 from "Lake Michigan Has Tsunamis, and Nobody in Chicago Saw This One Coming" (click rate 2.8% after 1,200 impressions). The new title starts with the exact phrase people search, "Lake Michigan tsunami", and states the stakes and the surprise. Fallback if this does no better after 48 hours: "Lake Michigan Is Hiding a Deadly Danger Most of Chicago Has Never Heard Of".
 
 ## Description
 
@@ -59,10 +61,10 @@ The research is in [research/keywords-2026-11-12.md](../research/keywords-2026-1
 
 ## Tags
 
-Paste this into the Tags box (under "Show more"). It is 459 characters, inside YouTube's 500 limit:
+Paste this into the Tags box (under "Show more"). It is 534 characters, inside YouTube's 500 limit:
 
 ```
-Lake Michigan tsunami, meteotsunami, meteo tsunami, Chicago tsunami, 1954 Chicago seiche, Chicago 1954, seiche, Lake Michigan seiche, meteotsunami Lake Michigan, Great Lakes tsunami, lake tsunami, Lake Michigan waves, Lake Michigan rogue wave, freak wave, Lake Michigan rip current, Lake Michigan dangerous, Montrose Harbor, North Avenue Beach, Chicago history, Chicago disasters, Great Lakes storms, Great Lakes history, Great Lakes Files
+Lake Michigan tsunami, tsunami Lake Michigan, meteotsunami, meteo tsunami, meteotsunami Lake Michigan, Chicago tsunami, 1954 Chicago seiche, seiche, Lake Michigan seiche, Great Lakes tsunami, lake tsunami, Lake Michigan dangerous, Lake Michigan dangerous waves, why is Lake Michigan so dangerous, Lake Michigan biggest waves, Lake Michigan waves, Lake Michigan rip current, Lake Michigan documentary, Montrose Harbor, North Avenue Beach, Chicago history, Great Lakes storms, Great Lakes history, Great Lakes Files
 ```
 
 The exact subject comes first, then other ways of saying it ("meteo tsunami" is a common misspelling, which is what YouTube says tags are best for), then the places, then the wider topics, and the channel name last. Tags are a small signal; the title, thumbnail, description and spoken words matter much more.

@@ -58,3 +58,4 @@ The public view count on the channel page runs behind YouTube Studio: at about 9
 |---|---|---|---|
 | 2026-11-12 17:45 | Published with thumb-a | | |
 | 13–14 Nov (time to confirm) | Thumbnail: black and white "10 FEET" → colour film-grain lifeguard | Click rate 2.8% after 1,200 impressions, under the 4% rule | |
+| 14 Nov (time to confirm) | Title → "The Lake Michigan Tsunami That Killed 8 in Chicago on a Calm, Sunny Morning"; tags refreshed | Same low click rate. Changed with the thumbnail as one packaging change, to save days; compare the pair against the old 2.8% | |
