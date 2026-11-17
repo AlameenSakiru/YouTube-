@@ -1,0 +1,14 @@
+{
+  "video": 3,
+  "title": "Did a Hidden Mountain Sink the Edmund Fitzgerald?",
+  "styleNames": {"S": "1900s, storm", "D": "1900s, daylight", "F": "1975", "U": "underwater", "B": "present day, colour"},
+  "checks": [
+    "Any readable text, letters, numbers, ship names or signs. The Fitzgerald's name must not appear anywhere.",
+    "Modern things in a 1902 or 1918 picture, or 1980s and later things in a 1975 picture.",
+    "Ships that look wrong: the 1970s freighter must be very long, with the pilothouse at the very front and the funnel at the very back.",
+    "Faces shown close up. People should be small, far away or seen from behind.",
+    "Warped hands, extra limbs, or bodies that look wrong.",
+    "Anyone shown drowning, injured or dead, or any human remains in the underwater wreck pictures."
+  ],
+  "thumbText": "Make all three. I will add the text \"21 FEET\" between the hull and the peak, and we will pick the one that reads best at phone size."
+}

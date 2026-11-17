@@ -1,0 +1,177 @@
+# kind | style | cue (first words of the line it starts on) | description
+# kind: F = Flow image, G = graphic I make, R:<cue> = reuse the Flow image that starts at <cue>
+# style: S = early 1900s storm, D = early 1900s daylight, F = 1975, U = underwater, B = present day
+== 1
+F|F|at ten minutes past|A long 1970s ore freighter at night in a snowstorm, waves over the deck, deck lights glowing
+F|F|the captain of the edmund|Inside a 1970s pilothouse at night, the captain from behind holding a radio handset, green radar glow
+G|-|we are holding our own|Quote card: "We are holding our own." 7:10 p.m., 10 November 1975
+F|F|ten minutes later the|A round 1970s radar screen glowing green, the sweep showing nothing
+F|F|no mayday no distress|Empty storm-tossed lake at night in snow, no ship anywhere
+G|-|twenty nine men and|Number card: 29 men
+G|-|vanished from the radar|Map: Lake Superior, the wreck marked near Whitefish Bay
+G|-|now more than a hundred|Map: a line from the wreck northwest to the middle of the lake, the shoal marked
+F|U|where the water should|Looking down into deep blue-green lake water, the light fading into darkness
+G|-|there is a mountain|Cutaway: the lake in cross-section, a mountain rising from the floor
+G|-|its highest peak stops|Cutaway zoom: the peak, 21 FT below the surface
+G|-|fully loaded the edmund|Cutaway: a freighter hull above the peak, 25 FT draft
+F|B|one engineer believes|An engineer's desk with a lake chart, dividers and a ship model under a lamp
+F|U|he believes the fitzgerald|Underwater, looking up at the dark hull of a huge ship passing just over a jagged rock peak
+F|S|she wasn't the first ship|An early 1900s steamer in a snowstorm at night, lamps glowing
+F|U|tonight every ship linked|Shafts of light falling on a jagged dark lava ridge in deep water
+F|U|i'll show you the one|The rusted bow of a huge ship upright in mud at the bottom of a lake, lit by a submersible's lights
+G|-|this is great lakes files|Channel title card
+G|-|tap subscribe right now|Animated Subscribe button and bell, a cursor clicking it
+== 2
+G|-|it's called superior shoal|Title card: Superior Shoal
+G|-|it sits about fifty miles|Map: the Keweenaw Peninsula, Copper Harbor, the shoal 50 miles north
+F|B|far from any shore|Open Lake Superior with no land in sight, deep blue water
+G|-|it covers about twenty|Map: the outline of the shoal, about 20 square miles
+F|U|it's made of ancient lava|Close-up underwater of dark basalt rock pitted with old gas bubbles
+G|-|when this part of north|Map: the rift across Lake Superior, about 1.1 billion years ago
+G|-|four ridges run across|Relief view of the shoal: four ridges and the gorge
+F|U|most of it lies tens|An underwater rock slope falling away into darkness
+F|U|but a few sharp peaks|Underwater, looking up at a sharp rock peak almost touching the bright surface
+F|D|fishermen knew something was|An early 1900s fishing tug on Lake Superior, men hauling nets
+F|U|lake trout gather on|Lake trout swimming along a rocky underwater slope
+G|-|but for a long time|Chart: the middle of the lake blank, "hundreds of feet"
+F|D|ships crossed this part|An early 1900s steel steamer crossing calm open water
+F|D|the united states lake|A 1920s survey launch, men lowering a lead line over the side
+G|-|didn't chart it until|Date card: charted in 1929
+F|S|two of the strangest|A ship's light vanishing into snow on a dark lake
+== 3
+G|-|november the twenty first|Date card: 21 November 1902
+F|D|the bannockburn a canadian|An early 1900s steel freighter steaming across a grey lake
+G|-|with eighty five thousand|Number card: 85,000 bushels of wheat
+F|D|her captain george wood|A ship's captain in an early 1900s coat and cap at a wheelhouse window, from behind
+G|-|most of his crew were|Card: crew aged 17 to 20; a wheelsman of 16
+F|D|one of the men at|A young man at a ship's wooden wheel, from behind
+F|D|around noon captain james|A captain on a freighter's deck looking through binoculars, from behind, hazy lake
+G|-|about seven miles away|Map: the Algonquin and the Bannockburn, 7 miles apart, 40 miles from Isle Royale
+F|D|he knew the ship well|Binocular view: a distant steamer on hazy water
+F|D|then he raised his binoculars|Binocular view: only grey haze on the water
+F|D|he put it down to|Grey haze lying over the lake
+F|S|a storm hit the lake|Night storm with snow and huge waves on Lake Superior
+G|-|the bannockburn never reached|Map: her route to Sault Ste. Marie, broken off
+F|S|that night the crew|An early 1900s passenger steamer at night in a storm, distant ship lights ahead
+F|D|for days families waited|Families in early 1900s coats waiting on a wooden dock, from behind
+G|-|one manager even told|Quote card: "Crew safe." It wasn't true
+F|D|in december a single|An old cork life jacket lying on a snowy sand beach
+G|-|no wreck no bodies|Text: no wreck, no bodies
+F|S|within a year sailors|A ghostly steamer in snowy mist at night
+G|-|there are plenty of|Card: the theories: boiler explosion, Caribou Island reef, Superior Shoal
+G|-|but one theory points|Map: the last sighting and the shoal
+== 4
+F|D|sixteen years later the|A small grey 1918 warship on a grey lake
+F|D|in nineteen eighteen at|A 1918 shipyard in winter, small hulls on the slipways
+G|-|each was a hundred|Card: 135 feet, two deck guns
+F|D|their job was to clear|Small grey minesweepers at sea off a rocky coast
+G|-|by the time they were|Date card: the war ends, 11 November 1918
+F|D|so in late november|Three small grey warships leaving a harbour in a line, a long mesa-like headland behind
+G|-|the sebastopol the inkerman|Card: the three names
+F|S|on the twenty fourth a|Two small warships in huge storm waves at night, snow
+F|S|the sebastopol made it|One small warship arriving battered at a harbour on a grey morning
+F|S|the inkerman and the cerisoles|The empty stormy lake, snow blowing
+G|-|seventy eight men were lost|Number card: 78 men
+G|-|and they were the last|Card: the last warships lost on the Great Lakes
+F|U|more than a hundred years|The dark lake bed in a searchlight, nothing there
+G|-|their route to the locks|Map: their route to the Soo and the shoal near it
+G|-|eleven years later in|Chart: the shoal appears in 1929, the route moves
+F|F|it wasn't|A huge 1970s ore freighter emerging from fog
+== 5
+F|F|when she was launched|A huge freighter sliding sideways into the water at its launch, crowds watching, 1958
+G|-|seven hundred and twenty|Scale card: 729 feet
+F|F|at a quarter past two|A freighter loading at an ore dock, chutes pouring pellets into the holds
+G|-|loaded with more than|Card: 26,116 tons of taconite
+F|B|iron ore pellets bound|Close-up of dark round taconite pellets
+F|F|her captain was ernest|A captain in a 1970s pilothouse, from behind, grey afternoon light
+F|F|a second freighter the|Two freighters on Lake Superior at dusk, one following the other
+G|-|the forecast wasn't unusual|Map: the storm moving in, gale warnings for the whole lake
+F|F|so both ships turned|A freighter pushing through rising waves at night
+G|-|another captain heard him|Quote card: "We're going to try for some lee from Isle Royale."
+G|-|isle royale the bannockburn|Map: Isle Royale, the Bannockburn's last sighting, the Fitzgerald's course
+G|-|toward the mountain|Map: the course line reaching the shoal
+== 6
+F|U|so what really sank|The wreck of a huge ship on the lake bed in a submersible's lights
+G|-|there are four main|Card: four answers
+G|-|the coast guard said|Diagram: water seeping in past the hatch covers
+F|F|the national transportation safety|A giant wave crashing over a freighter's hatch covers at night
+G|-|the shipping companies said|Map: Caribou Island and the shoal near it
+F|F|others blame the waves|Three giant waves in a row at night bearing down on a freighter
+G|-|and then there's the|Cutaway: the mountain
+G|-|before you hear the|Comment prompt: three big cards, WAVES / HATCHES / MOUNTAIN, then a comment icon
+R:so what really sank|-|and stay with me|The wreck again
+== 7
+F|B|the engineer's name is|A brick university campus beside a waterway in snowy northern Michigan
+G|-|paul hainault a retired|Name card: Paul Hainault, retired professor of mechanical engineering, Michigan Tech
+F|B|his idea began as|Students around a table with a ship model and charts, from behind
+G|-|hainault believes that at|Time card: 9:30 a.m., 10 November 1975
+F|F|the fitzgerald ran over|A freighter on a grey morning lake in rough water, low angle
+G|-|remember the numbers|Cutaway: 21 FT against 25 FT
+F|S|and the lake wasn't|A huge daytime storm across Lake Superior
+G|-|it was a saysh|Side view: the lake rocking from end to end
+F|F|that day it pushed|Lock gates with storm water pouring over the top
+F|F|flooded a city street a|A 1970s town street flooded a foot deep, cars in the water
+G|-|hainault believes that slosh|Cutaway: a wave trough drops the ship onto the peak
+G|-|in his version the|Cutaway: 200 feet of hull scraping the rock
+G|-|remember that number too|Number card: 200 feet
+F|U|it punctured her in|Close-up underwater of torn steel plate grinding on rock
+F|F|she kept going but|Inside a huge cargo hold, water sloshing among ore pellets
+G|-|if that number twenty|Animated Like then Subscribe buttons, a cursor clicking them
+== 8
+G|-|here is what we|Timeline card: the afternoon of 10 November
+F|F|by early afternoon the|A snow squall swallowing a ship ahead
+F|F|the anderson about sixteen|From a pilothouse window: snow, nothing visible ahead
+G|-|just after three thirty|Quote card: a fence rail down, two vents lost, a list
+F|F|she was leaning to|A freighter listing in heavy seas
+F|F|two of her pumps were|A 1970s engine room, pumps running, a man from behind
+G|-|those details matter the|Diagram: a hull bending over a rock, the rail pulled tight
+G|-|they meant the shoal|Map: Caribou Island, the shoal, the Fitzgerald's track
+F|F|then the fitzgerald lost|A dead radar screen in a dark pilothouse
+F|F|the radio beacon at whitefish|A lighthouse on a point in a night storm
+G|-|another captain overheard mcsorley|Quote card: "Don't allow nobody on deck."
+F|F|later mcsorley told him|Waves pouring over a freighter's deck at night
+F|F|by evening the waves|Huge waves in darkness, lit by deck lights
+F|F|at about six thirty two|A huge sea burying the stern cabins of a freighter
+F|F|toward the fitzgerald|Waves rolling away into darkness
+G|-|at ten past seven came|Quote card: "We are holding our own."
+R:no mayday no distress|-|then nothing|The empty lake again
+== 9
+G|-|now the case against|Title card: The case against the mountain
+G|-|first the timing if|Timeline: 9:30 a.m. to 3:30 p.m., six hours
+F|F|twenty nine experienced sailors|A 1970s ship's mess room, sailors from behind
+G|-|second the official investigations|Cards: Coast Guard 1977 and NTSB 1978: the hatch covers
+F|U|third the wreck itself|The upturned stern of a huge ship on the lake bed, in lights
+G|-|in two pieces|Diagram: the wreck on the bottom, bow, stern and debris
+F|U|in nineteen ninety four an|A small submersible with bright lights over a wreck in deep water
+F|U|there was no sign|Close-up of a huge propeller and rudder in a submersible's lights
+F|U|divers who checked the|Divers with lights over a rocky reef
+G|-|but hainault's theory says|Hull diagram, the middle highlighted
+F|U|and the middle of the|A heap of ore pellets and torn steel plating on the lake bed
+G|-|when the navy surveyed|Diagram: bow 276 ft, stern 253 ft, ship 729 ft
+G|-|do the sum and|Diagram: the 200 ft gap highlighted
+G|-|two hundred feet the|Side by side: 200 ft scraped, 200 ft missing
+R:and the middle of the|-|but between the bow|The torn middle again
+F|U|if the proof is anywhere|Twisted steel in the dark under a single light
+== 10
+F|B|superior shoal is still|A modern freighter passing on a calm lake
+R:lake trout gather on|-|lake trout still climb|Lake trout again
+G|-|the inkerman and the|Card: never found, "the Holy Grail of Lake Superior"
+F|B|the bannockburn has never|A snowy Lake Superior shore in winter
+F|B|the fitzgerald has been|Calm Lake Superior at dusk, empty water
+G|-|and no one can dive|Card: licence from Ontario, fines up to CA$1 million
+F|B|it's a grave|A wreath of flowers floating on calm water
+F|B|in nineteen ninety five|A polished bronze ship's bell in a museum display under a spotlight
+F|B|the day after she sank|A church interior with a bell rope, candles burning
+G|-|once for each man|Counter: 29 bell strokes
+F|B|if you've sailed lake superior|A small fishing boat on Lake Superior at sunrise
+G|-|tell me in the comments|Comment prompt: "Tell me in the comments"
+== 11
+G|-|so did a hidden|Title echo: Did a hidden mountain sink the Edmund Fitzgerald?
+G|-|for the two french|Verdict card, row by row: warships, Bannockburn, Fitzgerald
+R:and the middle of the|-|the twisted middle of|The torn middle again
+F|B|but this much is certain|Aerial view of vast open Lake Superior
+G|-|there's a mountain that|Cutaway: the mountain, 21 FT
+F|U|and for a long time|Underwater: a lone peak with light coming down from the surface
+G|-|so now you've heard|Verdict prompt: YOUR VERDICT? and a comment icon
+G|-|and if you've watched|Animated Subscribe button and bell
+F|B|there are a lot more|Lake Superior shore at sunset, end card background
