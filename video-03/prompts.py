@@ -56,7 +56,7 @@ P = {
 38: "Wide shot of an empty, stormy grey lake under heavy clouds, snow blowing across the waves, nothing on the water.",
 39: "Underwater wide shot of a dark, empty lake bed of grey mud and scattered stones lit by a single searchlight beam, nothing else in sight, deep darkness beyond.",
 40: "Wide shot of " + LAKER + ", emerging slowly out of thick grey fog on a calm lake, its bow coming toward the camera. Telephoto lens.",
-41: "Wide shot of the sideways launch of " + LAKER + ", sliding sideways off the slipway into a river with a huge splash and wave, crowds of people in 1950s clothes watching from the shore and stands, a bright day.",
+41: "Wide shot of the sideways launch of " + LAKER + ", sliding sideways off the slipway into a river with a huge splash and wave, crowds of spectators small in the distance watching from the shore, a bright day.",
 42: "Wide shot of " + LAKER + ", moored at a tall ore dock in the afternoon, long steel chutes pouring dark iron ore pellets into its open hatches, a grey sky.",
 43: "Close-up of a pile of dark grey round iron ore pellets, each about the size of a marble, filling the frame, soft daylight. Macro lens.",
 44: "Medium shot from behind of a ship's captain in a dark 1970s jacket and cap standing in a pilothouse looking out of the front windows at a grey afternoon lake, the long deck of the ship stretching ahead.",
