@@ -5,19 +5,71 @@
   "voice": "Use the same voice as videos 1 and 2 (Sawyer, Midnight Storyteller) with exactly the same settings, so the channel always sounds like one narrator.",
   "pronNote": "These are the words an AI voice is most likely to say wrong. If it says one wrong, type it the way the last column shows and generate that section again.",
   "pron": [
-    ["Saysh (seiche)", "SAYSH, one syllable", "saysh (already spelled for the ear)"],
-    ["Inkerman", "INK-er-mun", "Inker-mun"],
-    ["Cerisoles", "sair-ee-ZOLL", "Sairy-zoll"],
-    ["Sebastopol", "seh-BASS-tuh-pole", "Seh-bass-tuh-pole"],
-    ["Bannockburn", "BAN-uk-burn", "Bannuck-burn"],
-    ["McSorley", "muk-SOR-lee", "Muck-sorley"],
-    ["McMaugh", "muk-MAW (my best guess)", "Muck-maw"],
-    ["Hainault", "HAY-nawlt (my best guess)", "Hay-nawlt"],
-    ["Keweenaw", "KEE-wuh-naw", "Kee-wuh-naw"],
-    ["Isle Royale", "ISLE ROY-ul", "Isle Royal"],
-    ["Algonquin", "al-GONG-kwin", "Al-gong-kwin"],
-    ["Taconite", "TACK-uh-nite", "Tack-uh-nite"],
-    ["Caribou Island", "CARE-ih-boo", "Carry-boo Island"]
+    [
+      "Saysh (seiche)",
+      "SAYSH, one syllable",
+      "saysh (already spelled for the ear)"
+    ],
+    [
+      "Inkerman",
+      "INK-er-mun",
+      "Inker-mun"
+    ],
+    [
+      "Cerisoles",
+      "sair-ee-ZOLL",
+      "Sairy-zoll"
+    ],
+    [
+      "Sebastopol",
+      "seh-BASS-tuh-pole",
+      "Seh-bass-tuh-pole"
+    ],
+    [
+      "Bannockburn",
+      "BAN-uk-burn",
+      "Bannuck-burn"
+    ],
+    [
+      "McSorley",
+      "muk-SOR-lee",
+      "Muck-sorley"
+    ],
+    [
+      "McMaugh",
+      "muk-MAW (my best guess)",
+      "Muck-maw"
+    ],
+    [
+      "Hainault",
+      "HAY-nawlt (my best guess)",
+      "Hay-nawlt"
+    ],
+    [
+      "Keweenaw",
+      "KEE-wuh-naw",
+      "Kee-wuh-naw"
+    ],
+    [
+      "Isle Royale",
+      "ISLE ROY-ul",
+      "Isle Royal"
+    ],
+    [
+      "Algonquin",
+      "al-GONG-kwin",
+      "Al-gong-kwin"
+    ],
+    [
+      "Taconite",
+      "TACK-uh-nite",
+      "Tack-uh-nite"
+    ],
+    [
+      "Caribou Island",
+      "CARE-ih-boo",
+      "Carry-boo Island"
+    ]
   ],
   "sections": [
     {
@@ -30,8 +82,8 @@
         "Now... more than a hundred miles to the northwest, in the middle of Lake Superior, where the water should be hundreds of feet deep, there is a mountain. Its highest peak stops just twenty-one feet below the surface.",
         "Fully loaded, the Edmund Fitzgerald sat about twenty-five feet deep in the water.",
         "One engineer believes that's not a coincidence. He believes the Fitzgerald hit that mountain on the morning of her last day, nearly ten hours before she sank. And if he's right... she wasn't the first ship it took.",
-        "Tonight, every ship linked to this mountain, and the evidence for it and against it. By the end, you can decide for yourself.",
-        "This is Great Lakes Files. We go looking for the places hidden in and under these lakes. If that's your kind of story, subscribe. There's a lot more down there."
+        "Tonight, every ship linked to this mountain, and the evidence for it and against it. And at the very end, I'll show you the one place where the proof could still be... and why no one is allowed to touch it.",
+        "This is Great Lakes Files. We go looking for the places hidden in and under these lakes. And here's the thing: most of the people watching these videos haven't subscribed yet. If you like stories like this, tap subscribe right now. It's free, it takes one second, and it's what keeps this channel going."
       ]
     },
     {
@@ -93,19 +145,20 @@
         "The National Transportation Safety Board said the hatch covers caved in under giant waves, and she flooded fast.",
         "The shipping companies said she hit the bottom. They blamed a different shoal, near Caribou Island, at the eastern end of the lake.",
         "And then there's the mountain.",
-        "Before you hear the evidence, take a guess. The waves, the hatches, or the mountain? Put it in the comments right now. One word is enough. Then, at the end, see if you've changed your mind."
+        "Before you hear the evidence, take a guess. The waves, the hatches, or the mountain? Put it in the comments right now. One word is enough. Then, at the end, see if you've changed your mind.",
+        "And stay with me, because the case against the mountain is stronger than you'd think... and then there's the one part of the wreck that changes everything."
       ]
     },
     {
       "title": "Nine thirty in the morning",
-      "dir": "Building tension. Pause after \"Twenty-five feet.\" The last paragraph is quick and light.",
+      "dir": "Building tension. Pause after \"Twenty-five feet.\" The last paragraph is warm, direct and sincere, like asking a friend a real favour.",
       "paras": [
         "The engineer's name is Paul Hainault, a retired professor of mechanical engineering at Michigan Technological University. His idea began as a class project with his students.",
         "Hainault believes that at about nine thirty on the morning of November the tenth, the Fitzgerald ran over Superior Shoal.",
         "Remember the numbers. The peak: twenty-one feet down. The Fitzgerald, fully loaded: about twenty-five feet deep.",
         "And the lake wasn't sitting still that day. The storm was rocking the whole of Lake Superior from end to end. It was a saysh, the same kind of slow slosh that flooded Buffalo in eighteen forty-four. That day, it pushed the water at Sault Sainte Marie three feet over the gates of the locks and flooded a city street a foot deep. Hainault believes that slosh, and the storm waves on top of it, helped drag the ship down onto the rock.",
         "In his version, the Fitzgerald scraped about two hundred feet of her hull across the shoal. It punctured her in the middle. She didn't stop. She kept going. But from that moment, water was getting in.",
-        "If that number, twenty-one feet, just changed the way you see this story, tap the like button. It tells YouTube to show this to more people who'd want to know."
+        "If that number, twenty-one feet, just changed the way you see this story, do two things for me right now. Tap the like button, and if you haven't yet, subscribe. For a small channel like this one, that's the difference between this story reaching a few hundred people or a few hundred thousand."
       ]
     },
     {
@@ -142,7 +195,7 @@
         "The Inkerman and the Cerisoles have never been found. Treasure hunters call them the Holy Grail of Lake Superior. The Bannockburn has never been found either.",
         "The Fitzgerald has been found, and no one can dive her without a licence from Ontario. Break that rule, and the fine can be up to a million Canadian dollars. It's a grave.",
         "In nineteen ninety-five, her bell was brought up and replaced with a copy engraved with the names of the twenty-nine men. The real bell is now in the shipwreck museum at Whitefish Point. The day after she sank, the Mariners' Church in Detroit rang its bell twenty-nine times. Once for each man.",
-        "If you've sailed Lake Superior, fished it, or your family worked on the lake boats, I'd really like to hear from you. Did anyone ever talk about Superior Shoal? Tell me in the comments. Some of the best parts of these stories come from people like you."
+        "If you've sailed Lake Superior, fished it, or your family worked on the lake boats, I'd really like to hear from you. Did anyone ever talk about Superior Shoal? Tell me in the comments. Some of the best parts of these stories come from people like you, and the best stories might end up in a future video."
       ]
     },
     {
@@ -153,7 +206,7 @@
         "Here's the honest answer. For the two French warships, the mountain is still the leading suspect, and in more than a hundred years nothing has proved it wrong. For the Bannockburn, it's one possibility among several. For the Fitzgerald, the official answer is the hatch covers. The mountain is a theory, and the only place that could prove it or rule it out is the twisted middle of a wreck that no one is allowed to touch.",
         "But this much is certain. In the middle of the deepest of the Great Lakes, there's a mountain that reaches up to twenty-one feet below the surface. And for a long time, nobody knew it was there.",
         "So now you've heard all of it. Do you think the mountain did it? Tell me in the comments, yes or no, and why. I read every one.",
-        "And if you want more stories about the places hiding in these lakes, subscribe, and turn on notifications so you don't miss the next one. Thanks for watching."
+        "And if you've watched all the way to here, you're exactly who this channel is made for. So if you haven't subscribed yet, do it now, and tap the bell so you don't miss the next one. There are a lot more places hiding in these lakes, and I'd like you to be there when we find the next one. Thanks for watching."
       ]
     }
   ],

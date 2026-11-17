@@ -1,6 +1,6 @@
 # Video 3: the mountain under Lake Superior
 
-The words to record are in [video-03/voiceover-script.docx](../video-03/voiceover-script.docx) (source: [voiceover-sections.json](../video-03/voiceover-sections.json)). It runs 11 sections, 2,118 words, about 14 minutes 45 seconds. Why this topic and title: [research/video-03-topic-2026-11-14.md](../research/video-03-topic-2026-11-14.md).
+The words to record are in [video-03/voiceover-script.docx](../video-03/voiceover-script.docx) (source: [voiceover-sections.json](../video-03/voiceover-sections.json)). It runs 11 sections, 2,256 words, about 15 minutes 30 seconds. Why this topic and title: [research/video-03-topic-2026-11-14.md](../research/video-03-topic-2026-11-14.md).
 
 ## Title
 
@@ -22,15 +22,25 @@ Backups if the click rate is under 4% after 48 hours:
 
 ## Likes, subscribers and comments
 
-Each ask comes straight after a moment that earns it and is tied to the story, so viewers don't feel it as an interruption. There is no ask in the first 45 seconds, where it would cost the most viewers.
+Every ask is spoken by the narrator **and** shown on screen with an animated button, so it is both heard and seen. There is no ask in the first 45 seconds, where it would cost the most viewers.
 
-| About | Ask | Why here |
+| About | Spoken | On screen |
 |---|---|---|
-| 0:55 | **Subscribe**: "We go looking for the places hidden in and under these lakes. If that's your kind of story, subscribe. There's a lot more down there." | Right after the hook and the promise, when a new viewer has just decided to stay. One sentence, about 8 seconds |
-| 6:30 | **Comment**: "Take a guess. The waves, the hatches, or the mountain? Put it in the comments right now. One word is enough." | A one-word answer is the easiest comment to leave. It also gives viewers a reason to stay to the end: to see whether they were right |
-| 8:00 | **Like**: "If that number, twenty-one feet, just changed the way you see this story, tap the like button." | Straight after the strongest reveal in the video (a 25-foot-deep ship over a 21-foot-deep peak) |
-| 12:30 | **Comment**: "If you've sailed Lake Superior, fished it, or your family worked on the lake boats … did anyone ever talk about Superior Shoal?" | Invites the people who know the lake to share stories, and those comments draw replies from other viewers |
-| 14:15 | **Comment, then subscribe**: "Do you think the mountain did it? Tell me in the comments, yes or no, and why. I read every one." Then "subscribe, and turn on notifications so you don't miss the next one." | The verdict has just been given, so the question asks viewers to judge it |
+| 0:55 | **Subscribe**: "Most of the people watching these videos haven't subscribed yet. If you like stories like this, tap subscribe right now. It's free, it takes one second, and it's what keeps this channel going." | Animated Subscribe button and bell, 6 seconds, lower right |
+| 6:30 | **Comment**: "Take a guess. The waves, the hatches, or the mountain? Put it in the comments right now. One word is enough." | The three choices appear as big cards, then a comment icon |
+| 8:00 | **Like and subscribe**: "Do two things for me right now. Tap the like button, and if you haven't yet, subscribe. For a small channel like this one, that's the difference between this story reaching a few hundred people or a few hundred thousand." | Animated Like then Subscribe buttons, with a cursor clicking them |
+| 12:30 | **Comment**: "If you've sailed Lake Superior, fished it, or your family worked on the lake boats … did anyone ever talk about Superior Shoal? … the best stories might end up in a future video." | Comment icon with "Tell me in the comments" |
+| 14:15 | **Comment, then subscribe and bell**: "Do you think the mountain did it? Yes or no, and why. I read every one." Then "If you've watched all the way to here, you're exactly who this channel is made for. So if you haven't subscribed yet, do it now, and tap the bell." | Big "YOUR VERDICT?" card, then the Subscribe and bell animation, then the end screen |
+
+## Hooks that keep people watching
+
+| About | Line | What it does |
+|---|---|---|
+| 0:45 | "At the very end, I'll show you the one place where the proof could still be... and why no one is allowed to touch it." | A promise that is only paid off in the last two minutes |
+| 2:20 | "Two of the strangest disappearances … happened while the mountain was still a secret." | Moves straight into the first ship |
+| 5:20 | "It should have been the end of the story. It wasn't." | Cliffhanger into the Fitzgerald |
+| 6:45 | "The case against the mountain is stronger than you'd think... and then there's the one part of the wreck that changes everything." | Carries viewers through the middle, where video 2 lost them |
+| 10:45 | "If the proof is anywhere... that's where it is." | Pays off the 0:45 promise, then the verdict |
 
 What you do, so the asks keep working:
 
