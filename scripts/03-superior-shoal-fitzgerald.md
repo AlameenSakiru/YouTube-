@@ -1,6 +1,6 @@
 # Video 3: the mountain under Lake Superior
 
-The words to record are in [video-03/voiceover-script.docx](../video-03/voiceover-script.docx) (source: [voiceover-sections.json](../video-03/voiceover-sections.json)). It runs 11 sections, 2,256 words, about 15 minutes 30 seconds. Why this topic and title: [research/video-03-topic-2026-11-14.md](../research/video-03-topic-2026-11-14.md).
+The words to record are in [video-03/voiceover-script.docx](../video-03/voiceover-script.docx) (source: [voiceover-sections.json](../video-03/voiceover-sections.json)). It runs 11 sections, 2,439 words, about 16 minutes 30 seconds. Why this topic and title: [research/video-03-topic-2026-11-14.md](../research/video-03-topic-2026-11-14.md).
 
 ## Title
 
@@ -40,7 +40,8 @@ Every ask is spoken by the narrator **and** shown on screen with an animated but
 | 2:20 | "Two of the strangest disappearances … happened while the mountain was still a secret." | Moves straight into the first ship |
 | 5:20 | "It should have been the end of the story. It wasn't." | Cliffhanger into the Fitzgerald |
 | 6:45 | "The case against the mountain is stronger than you'd think... and then there's the one part of the wreck that changes everything." | Carries viewers through the middle, where video 2 lost them |
-| 10:45 | "If the proof is anywhere... that's where it is." | Pays off the 0:45 promise, then the verdict |
+| 8:00 | "Remember that number too: two hundred feet." | Plants a number that pays off at about 11:30 |
+| 11:30 | "Do the sum, and about two hundred feet of her middle is missing… The same length Hainault says scraped across the mountain." | The biggest reveal, paying off the 0:45 promise, then the verdict |
 
 What you do, so the asks keep working:
 
@@ -90,6 +91,9 @@ Final times are set after the edit.
 | 78 dead, the largest loss of life on Lake Superior, the last warships to sink in the Great Lakes, possibly on the then-uncharted Superior Shoal | Wikipedia, "Lake Superior" |
 | "Holy Grail" of Lake Superior | Toronto Star, 18 October 2009, "Treasure hunters seek Lake Superior's 'Holy Grail'" (cited by Wikipedia) |
 | Fitzgerald: 729 feet, largest on the Lakes at launch in 1958 and largest lost; 25-foot typical draft; left Superior, Wisconsin, at 2:15 p.m. on 9 November 1975 with 26,116 long tons of taconite for Detroit; joined by the Arthur M. Anderson; gale warnings at 7 p.m.; turned north for the Canadian shore; "we're going to try for some lee from Isle Royale"; 50-knot winds after 1:50 p.m., snow at 2:45 p.m., the Anderson about 16 miles behind; after 3:30 p.m., fence rail down, two vents lost or damaged, a list, two pumps running; both radars lost; Whitefish Point beacon off; "Don't allow nobody on deck"; "one of the worst seas I have ever been in"; waves 25 feet by 6 p.m., rogue waves up to 35 feet; "We are holding our own" at about 7:10 p.m.; no distress signal; 29 dead; wreck at 530 feet in two pieces with taconite and torn plating between | Wikipedia, "SS Edmund Fitzgerald" |
+| The Huronic passed lights at 11 p.m. on 21 November 1902 that its crew believed were the Bannockburn's | Wikipedia, "SS Bannockburn" |
+| The "three sisters" rogue-wave theory; the Anderson hit by two 30 to 35-foot seas at about 6:30 p.m., one burying the aft cabins, which her captain said continued toward the Fitzgerald | Wikipedia, "SS Edmund Fitzgerald" |
+| Navy estimates from the 1976 CURV-III survey: bow section 276 feet, stern section 253 feet (729 − 529 = 200 feet unaccounted for, an arithmetic point made in this script, not a claim from a source) | Wikipedia, "SS Edmund Fitzgerald" |
 | Coast Guard: ineffective hatch closures; NTSB: hatch covers collapsed under boarding seas; Lake Carriers' Association: grounding on Six Fathom Shoal near Caribou Island, and the fence rail could only break if the ship hogged; divers found no sign of grounding there; 1994 photographs showed no damage to the bottom of the stern, propeller or rudder | Wikipedia, "SS Edmund Fitzgerald" |
 | Hainault: retired Michigan Tech mechanical engineering professor, began as a class project, grounding on Superior Shoal at 9:30 a.m. on 10 November, 200 feet of hull, punctured mid-body; a seiche that day raised the water 3 feet over the Soo Locks gates and flooded Portage Avenue 1 foot deep | Wikipedia, "SS Edmund Fitzgerald", Shoaling hypothesis. To confirm against Hainault's own presentation if it can be found |
 | Diving needs a licence under the Ontario Heritage Act, with fines up to CA$1 million; the bell was raised in 1995 and replaced with an engraved replica; it is kept at Whitefish Point; the Mariners' Church rang its bell 29 times the day after | Wikipedia, "SS Edmund Fitzgerald" |
