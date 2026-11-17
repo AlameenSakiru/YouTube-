@@ -1,0 +1,168 @@
+{
+  "video": 3,
+  "title": "Did a Hidden Mountain Sink the Edmund Fitzgerald?",
+  "folder": "video-03/voice",
+  "voice": "Use the same voice as videos 1 and 2 (Sawyer, Midnight Storyteller) with exactly the same settings, so the channel always sounds like one narrator.",
+  "pronNote": "These are the words an AI voice is most likely to say wrong. If it says one wrong, type it the way the last column shows and generate that section again.",
+  "pron": [
+    ["Saysh (seiche)", "SAYSH, one syllable", "saysh (already spelled for the ear)"],
+    ["Inkerman", "INK-er-mun", "Inker-mun"],
+    ["Cerisoles", "sair-ee-ZOLL", "Sairy-zoll"],
+    ["Sebastopol", "seh-BASS-tuh-pole", "Seh-bass-tuh-pole"],
+    ["Bannockburn", "BAN-uk-burn", "Bannuck-burn"],
+    ["McSorley", "muk-SOR-lee", "Muck-sorley"],
+    ["McMaugh", "muk-MAW (my best guess)", "Muck-maw"],
+    ["Hainault", "HAY-nawlt (my best guess)", "Hay-nawlt"],
+    ["Keweenaw", "KEE-wuh-naw", "Kee-wuh-naw"],
+    ["Isle Royale", "ISLE ROY-ul", "Isle Royal"],
+    ["Algonquin", "al-GONG-kwin", "Al-gong-kwin"],
+    ["Taconite", "TACK-uh-nite", "Tack-uh-nite"],
+    ["Caribou Island", "CARE-ih-boo", "Carry-boo Island"]
+  ],
+  "sections": [
+    {
+      "title": "Twenty-one feet",
+      "dir": "Quiet and close, like the start of a true story told at night. Slow. A real pause after \"We are holding our own.\" The last paragraph is lighter and warmer, almost a smile.",
+      "paras": [
+        "At ten minutes past seven on the evening of November the tenth, nineteen seventy-five, the captain of the Edmund Fitzgerald answered a radio call from the ship behind him.",
+        "\"We are holding our own.\"",
+        "Ten minutes later, the Fitzgerald was gone. No mayday. No distress call. Twenty-nine men, and the biggest ship ever lost on the Great Lakes, vanished from the radar in the middle of a storm.",
+        "Now... more than a hundred miles to the northwest, in the middle of Lake Superior, where the water should be hundreds of feet deep, there is a mountain. Its highest peak stops just twenty-one feet below the surface.",
+        "Fully loaded, the Edmund Fitzgerald sat about twenty-five feet deep in the water.",
+        "One engineer believes that's not a coincidence. He believes the Fitzgerald hit that mountain on the morning of her last day, nearly ten hours before she sank. And if he's right... she wasn't the first ship it took.",
+        "Tonight, every ship linked to this mountain, and the evidence for it and against it. By the end, you can decide for yourself.",
+        "This is Great Lakes Files. We go looking for the places hidden in and under these lakes. If that's your kind of story, subscribe. There's a lot more down there."
+      ]
+    },
+    {
+      "title": "The mountain nobody could see",
+      "dir": "Calm wonder, like describing something you have seen on a sonar screen. Even pace.",
+      "paras": [
+        "It's called Superior Shoal. It sits about fifty miles north of Copper Harbor, at the tip of Michigan's Keweenaw Peninsula, far from any shore.",
+        "It covers about twenty square miles. It's made of ancient lava, from a time more than a billion years ago when this part of North America tried to split apart. Four ridges run across it, and a deep gorge cuts between them. Most of it lies tens or hundreds of feet down. But a few sharp peaks rise almost to the surface.",
+        "Fishermen knew something was out there. Lake trout gather on it, swimming up and down its slopes. But for a long time it wasn't on any official chart. Ships crossed this part of the lake believing the water beneath them was hundreds of feet deep.",
+        "The United States Lake Survey didn't chart it until nineteen twenty-nine.",
+        "Which means that two of the strangest disappearances in the history of Lake Superior happened while the mountain was still a secret."
+      ]
+    },
+    {
+      "title": "Gone in minutes",
+      "dir": "Storytelling, with growing unease. A short pause after \"She was gone.\"",
+      "paras": [
+        "November the twenty-first, nineteen-oh-two. The Bannockburn, a Canadian steel freighter, was heading east across Lake Superior with eighty-five thousand bushels of wheat. Her captain, George Wood, was thirty-seven, and he was the oldest man on board. Most of his crew were seventeen to twenty. One of the men at the wheel was sixteen.",
+        "Around noon, Captain James McMaugh of another freighter, the Algonquin, saw her through his binoculars, about seven miles away, out in the open lake, about forty miles from Isle Royale. He knew the ship well. He watched her several times over a few minutes. She was steaming along, right on course.",
+        "Then he raised his binoculars again... and she was gone.",
+        "He put it down to the haze, and thought no more of it. A storm hit the lake that night. The Bannockburn never reached the locks at Sault Sainte Marie.",
+        "For days, families waited. One manager even told a newspaper she'd been found, crew safe. It wasn't true.",
+        "In December, a single cork life jacket from the Bannockburn washed up on a beach at Grand Marais, Michigan. It's the only piece of her ever found. No wreck. No bodies. Within a year, sailors were calling her the Flying Dutchman of the Great Lakes. A ghost ship.",
+        "There are plenty of theories. A boiler explosion. A reef near Caribou Island. But one theory points back to the open water where she was last seen... and to a mountain that, in nineteen-oh-two, was on no chart at all."
+      ]
+    },
+    {
+      "title": "Two warships",
+      "dir": "Steady and serious. Let \"no wreckage has ever been found\" land slowly.",
+      "paras": [
+        "Sixteen years later, the mountain may have taken warships.",
+        "In nineteen eighteen, at Fort William in Ontario, now Thunder Bay, a Canadian factory built twelve minesweepers for the French Navy. Each was a hundred and thirty-five feet long, with two deck guns. Their job was to clear mines off the coast of France.",
+        "By the time they were ready, the First World War was over. But the ships still had to get to France. So in late November, three of them set out together across Lake Superior: the Sebastopol, the Inkerman and the Cerisoles.",
+        "On the twenty-fourth, a storm caught them on the open lake.",
+        "The Sebastopol made it through. The Inkerman and the Cerisoles did not. They simply never arrived. Seventy-eight men were lost, the worst loss of life Lake Superior has ever seen. And they were the last warships ever to sink in the Great Lakes.",
+        "More than a hundred years later, no wreckage has ever been found. Not a lifeboat. Not a plank.",
+        "Their route to the locks crossed the middle of the lake, within a few hours' steaming of a mountain no one had charted. Some historians believe that's where they met their end.",
+        "Eleven years later, in nineteen twenty-nine, the mountain finally went on the charts, and the shipping routes changed. It should have been the end of the story.",
+        "It wasn't."
+      ]
+    },
+    {
+      "title": "The Fitzgerald",
+      "dir": "Brisker, like a ship's log being read. Quote the captain plainly, with no acting.",
+      "paras": [
+        "When she was launched in nineteen fifty-eight, the Edmund Fitzgerald was the biggest ship on the Great Lakes, seven hundred and twenty-nine feet long.",
+        "At a quarter past two on the afternoon of November the ninth, nineteen seventy-five, she left Superior, Wisconsin, loaded with more than twenty-six thousand tons of taconite, iron ore pellets, bound for Detroit. Her captain was Ernest McSorley. Late that afternoon, a second freighter, the Arthur M. Anderson, joined her for the trip across the lake.",
+        "The forecast wasn't unusual for November. But by that evening, the weather service had issued gale warnings for the whole lake.",
+        "So both ships turned north, to shelter along the Canadian shore. Captain McSorley slowed down. Another captain heard him say on the radio, \"We're going to try for some lee from Isle Royale.\"",
+        "Isle Royale. The same part of the lake where the Bannockburn had vanished. And, according to one engineer, that turn put the Fitzgerald on a course across the north of the lake... toward the mountain."
+      ]
+    },
+    {
+      "title": "Make your guess",
+      "dir": "Direct and friendly, talking straight to the viewer. A little faster. Then slow again for the last line.",
+      "paras": [
+        "So what really sank her? More than fifty years later, there is still no single answer. There are three main ones.",
+        "The Coast Guard said water got in through the hatch covers on the deck, slowly, all day, until she lost her buoyancy.",
+        "The National Transportation Safety Board said the hatch covers caved in under giant waves, and she flooded fast.",
+        "The shipping companies said she hit the bottom. They blamed a different shoal, near Caribou Island, at the eastern end of the lake.",
+        "And then there's the mountain.",
+        "Before you hear the evidence, take a guess. The waves, the hatches, or the mountain? Put it in the comments right now. One word is enough. Then, at the end, see if you've changed your mind."
+      ]
+    },
+    {
+      "title": "Nine thirty in the morning",
+      "dir": "Building tension. Pause after \"Twenty-five feet.\" The last paragraph is quick and light.",
+      "paras": [
+        "The engineer's name is Paul Hainault, a retired professor of mechanical engineering at Michigan Technological University. His idea began as a class project with his students.",
+        "Hainault believes that at about nine thirty on the morning of November the tenth, the Fitzgerald ran over Superior Shoal.",
+        "Remember the numbers. The peak: twenty-one feet down. The Fitzgerald, fully loaded: about twenty-five feet deep.",
+        "And the lake wasn't sitting still that day. The storm was rocking the whole of Lake Superior from end to end. It was a saysh, the same kind of slow slosh that flooded Buffalo in eighteen forty-four. That day, it pushed the water at Sault Sainte Marie three feet over the gates of the locks and flooded a city street a foot deep. Hainault believes that slosh, and the storm waves on top of it, helped drag the ship down onto the rock.",
+        "In his version, the Fitzgerald scraped about two hundred feet of her hull across the shoal. It punctured her in the middle. She didn't stop. She kept going. But from that moment, water was getting in.",
+        "If that number, twenty-one feet, just changed the way you see this story, tap the like button. It tells YouTube to show this to more people who'd want to know."
+      ]
+    },
+    {
+      "title": "The longest afternoon",
+      "dir": "Tense, measured. The captain's words plainly. A long pause before the last line.",
+      "paras": [
+        "Here is what we know for certain about the rest of that day.",
+        "By early afternoon the wind was back over fifty knots, and snow cut the visibility. The Anderson, about sixteen miles behind, lost sight of the Fitzgerald.",
+        "Just after three thirty, Captain McSorley radioed the Anderson. He had a fence rail down. Two vents lost or damaged. And the ship had a list. She was leaning to one side. Two of her pumps were running non-stop.",
+        "Those details matter. The shipping companies argued that a fence rail like that would only snap if the ship had bent... sagging at both ends, with her middle pushed up, the way a hull bends when it drags over rock.",
+        "Then the Fitzgerald lost both radars. She was blind. The radio beacon at Whitefish Point, the one she needed to find the way in, was off. McSorley was heard telling his crew, \"Don't allow nobody on deck.\" Later, he told another captain it was one of the worst seas he had ever been in.",
+        "By evening, the waves were twenty-five feet high, and the Anderson was hit by waves of up to thirty-five.",
+        "At ten past seven came the last words. \"We are holding our own.\"",
+        "Then nothing."
+      ]
+    },
+    {
+      "title": "The case against the mountain",
+      "dir": "Fair and careful, like a good detective weighing evidence. Slow down for the last paragraph.",
+      "paras": [
+        "Now, the case against the mountain. And it's a real one.",
+        "First, the timing. If the Fitzgerald hit a mountain at nine thirty in the morning, why did her captain say nothing about damage for six hours? Twenty-nine experienced sailors on board. Would no one have felt it?",
+        "Second, the official investigations. Both the Coast Guard and the Safety Board looked hard at the evidence, and both pointed to the hatch covers, not a shoal.",
+        "Third, the wreck itself. The Fitzgerald lies five hundred and thirty feet down, in two pieces. In nineteen ninety-four, an expedition photographed the upturned stern in detail. There was no sign of damage to the bottom of the stern, the propeller or the rudder that would show she'd hit the bottom. Divers who checked the shoal near Caribou Island found no fresh scars either.",
+        "But Hainault's theory says the damage wasn't at the stern. It was in the middle.",
+        "And the middle of the Edmund Fitzgerald is the one part of her that doesn't exist anymore. Between the bow and the stern, there's just a heap of iron ore pellets and torn steel plating. If the proof is anywhere... that's where it is."
+      ]
+    },
+    {
+      "title": "Still down there",
+      "dir": "Reflective and warm. A respectful pause after the twenty-nine bells. The last paragraph is direct and friendly.",
+      "paras": [
+        "Superior Shoal is still out there today, on every chart, and ships steer around it. Lake trout still climb its slopes.",
+        "The Inkerman and the Cerisoles have never been found. Treasure hunters call them the Holy Grail of Lake Superior. The Bannockburn has never been found either.",
+        "The Fitzgerald has been found, and no one can dive her without a licence from Ontario. Break that rule, and the fine can be up to a million Canadian dollars. It's a grave.",
+        "In nineteen ninety-five, her bell was brought up and replaced with a copy engraved with the names of the twenty-nine men. The real bell is now in the shipwreck museum at Whitefish Point. The day after she sank, the Mariners' Church in Detroit rang its bell twenty-nine times. Once for each man.",
+        "If you've sailed Lake Superior, fished it, or your family worked on the lake boats, I'd really like to hear from you. Did anyone ever talk about Superior Shoal? Tell me in the comments. Some of the best parts of these stories come from people like you."
+      ]
+    },
+    {
+      "title": "Your verdict",
+      "dir": "Slow and honest for the verdict. Then warm and direct for the last two paragraphs, like saying goodnight to a friend.",
+      "paras": [
+        "So, did a hidden mountain sink the Edmund Fitzgerald?",
+        "Here's the honest answer. For the two French warships, the mountain is still the leading suspect, and in more than a hundred years nothing has proved it wrong. For the Bannockburn, it's one possibility among several. For the Fitzgerald, the official answer is the hatch covers. The mountain is a theory, and the only place that could prove it or rule it out is the twisted middle of a wreck that no one is allowed to touch.",
+        "But this much is certain. In the middle of the deepest of the Great Lakes, there's a mountain that reaches up to twenty-one feet below the surface. And for a long time, nobody knew it was there.",
+        "So now you've heard all of it. Do you think the mountain did it? Tell me in the comments, yes or no, and why. I read every one.",
+        "And if you want more stories about the places hiding in these lakes, subscribe, and turn on notifications so you don't miss the next one. Thanks for watching."
+      ]
+    }
+  ],
+  "done": [
+    "Every number, year and date is written out in words, so the AI reads them the way a person would say them.",
+    "Seiche is spelled \"saysh\" so the AI says it right. The subtitles will use the correct spelling.",
+    "Three dots (...) mark the short dramatic pauses. Leave them in.",
+    "The captain's radio words are quoted as they were reported. Read them plainly, with no acting.",
+    "The like, subscribe and comment asks are part of the script on purpose. Each one comes straight after a moment that earns it, so it doesn't feel like an interruption. Don't cut them.",
+    "Wind, waves and storm sounds are added in the edit. Do not add sound effects or pause tags to the voice."
+  ]
+}
