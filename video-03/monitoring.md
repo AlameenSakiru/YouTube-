@@ -22,4 +22,4 @@ Same rules as [video 1's monitoring](../video-01/monitoring.md): change one thin
 
 | Date (UTC) | Change | Why | Result after 48 hours |
 |---|---|---|---|
-| 2026-11-18 18:12 | Published | | |
+| 2026-11-18 18:12 | Published with thumbnails/thumb-yours.png (split view: freighter above, peak below, yellow "21 FEET" with an arrow to the gap) | | |
