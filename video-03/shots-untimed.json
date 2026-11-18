@@ -7,7 +7,7 @@
   "desc": "A long 1970s ore freighter at night in a snowstorm, waves over the deck, deck lights glowing",
   "optional": false,
   "img": 1,
-  "prompt": "Wide shot at night of a very long Great Lakes ore freighter of the 1970s with a dark hull and white cabins, its pilothouse at the very front, its engine house and single funnel at the very back, and a long flat deck of hatch covers between them, pushing through huge dark waves in a heavy snowstorm on Lake Superior, white water pouring across the hatch covers, the deck lights glowing orange through the snow. Low angle near the water, telephoto lens. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 1,
@@ -17,7 +17,7 @@
   "desc": "Inside a 1970s pilothouse at night, the captain from behind holding a radio handset, green radar glow",
   "optional": false,
   "img": 2,
-  "prompt": "Interior of a 1970s ship's pilothouse at night, the captain seen from behind in a dark jacket and cap holding a radio handset to his face, the green glow of a round radar screen beside him, snow streaking past the dark front windows, wooden and steel consoles with dials. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 15
  },
  {
   "sec": 1,
@@ -26,7 +26,8 @@
   "cue": "we are holding our own",
   "desc": "Quote card: \"We are holding our own.\" 7:10 p.m., 10 November 1975",
   "optional": false,
-  "gid": "G01"
+  "gid": "G01",
+  "word": 30
  },
  {
   "sec": 1,
@@ -36,7 +37,7 @@
   "desc": "A round 1970s radar screen glowing green, the sweep showing nothing",
   "optional": false,
   "img": 3,
-  "prompt": "Close shot of a round 1970s ship's radar screen glowing green in a dark pilothouse, the sweep line passing over an empty screen with only faint speckles of sea clutter, the rest of the room in shadow. Shallow depth of field. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 35
  },
  {
   "sec": 1,
@@ -46,7 +47,7 @@
   "desc": "Empty storm-tossed lake at night in snow, no ship anywhere",
   "optional": false,
   "img": 4,
-  "prompt": "Wide shot at night of an empty, storm-tossed lake, rows of huge dark waves with white crests, snow driving sideways, no ship and no land anywhere, only darkness and spray. Low angle near the water. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 42
  },
  {
   "sec": 1,
@@ -55,7 +56,8 @@
   "cue": "twenty nine men and",
   "desc": "Number card: 29 men",
   "optional": false,
-  "gid": "G02"
+  "gid": "G02",
+  "word": 47
  },
  {
   "sec": 1,
@@ -64,7 +66,8 @@
   "cue": "vanished from the radar",
   "desc": "Map: Lake Superior, the wreck marked near Whitefish Bay",
   "optional": false,
-  "gid": "G03"
+  "gid": "G03",
+  "word": 60
  },
  {
   "sec": 1,
@@ -73,7 +76,8 @@
   "cue": "now more than a hundred",
   "desc": "Map: a line from the wreck northwest to the middle of the lake, the shoal marked",
   "optional": false,
-  "gid": "G04"
+  "gid": "G04",
+  "word": 70
  },
  {
   "sec": 1,
@@ -83,7 +87,7 @@
   "desc": "Looking down into deep blue-green lake water, the light fading into darkness",
   "optional": false,
   "img": 5,
-  "prompt": "Looking straight down into very deep, clear blue-green lake water from just below the surface, the light fading quickly into a dark blue void below, a few particles drifting in the beams of light. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 85
  },
  {
   "sec": 1,
@@ -92,7 +96,8 @@
   "cue": "there is a mountain",
   "desc": "Cutaway: the lake in cross-section, a mountain rising from the floor",
   "optional": false,
-  "gid": "G05"
+  "gid": "G05",
+  "word": 94
  },
  {
   "sec": 1,
@@ -101,7 +106,8 @@
   "cue": "its highest peak stops",
   "desc": "Cutaway zoom: the peak, 21 FT below the surface",
   "optional": false,
-  "gid": "G06"
+  "gid": "G06",
+  "word": 98
  },
  {
   "sec": 1,
@@ -110,7 +116,8 @@
   "cue": "fully loaded the edmund",
   "desc": "Cutaway: a freighter hull above the peak, 25 FT draft",
   "optional": false,
-  "gid": "G07"
+  "gid": "G07",
+  "word": 109
  },
  {
   "sec": 1,
@@ -120,7 +127,7 @@
   "desc": "An engineer's desk with a lake chart, dividers and a ship model under a lamp",
   "optional": false,
   "img": 6,
-  "prompt": "Medium shot of a wooden desk under a warm lamp, a large paper lake chart spread out with brass dividers and a pencil on it, a detailed model of a long lake freighter beside it, the room dark around the pool of light, the chart's markings too small and soft to read. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 123
  },
  {
   "sec": 1,
@@ -130,7 +137,7 @@
   "desc": "Underwater, looking up at the dark hull of a huge ship passing just over a jagged rock peak",
   "optional": false,
   "img": 7,
-  "prompt": "Underwater shot looking up from the lake bed at the dark hull of a huge ship passing just above a jagged peak of black rock that rises almost to its keel, the bright surface rippling above, beams of light around the silhouette. Wide-angle lens. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 130
  },
  {
   "sec": 1,
@@ -140,7 +147,7 @@
   "desc": "An early 1900s steamer in a snowstorm at night, lamps glowing",
   "optional": false,
   "img": 8,
-  "prompt": "Wide shot at night of an early 1900s Great Lakes steel freighter with a straight black hull, a small wooden pilothouse at the front, a single tall funnel at the back and a few masts, rolling in big waves in a heavy snowstorm on Lake Superior, its oil lamps glowing orange, snow blowing across the frame. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s during a November storm, cold deep blue-green light, snow and spray in the air, the warm orange glow of oil lamps on the ships, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1918. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 154
  },
  {
   "sec": 1,
@@ -150,7 +157,7 @@
   "desc": "Shafts of light falling on a jagged dark lava ridge in deep water",
   "optional": false,
   "img": 9,
-  "prompt": "Underwater wide shot of soft shafts of light falling from the surface onto a jagged ridge of dark volcanic rock in deep blue-green water, the ridge disappearing into darkness on both sides. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 161
  },
  {
   "sec": 1,
@@ -160,7 +167,7 @@
   "desc": "The rusted bow of a huge ship upright in mud at the bottom of a lake, lit by a submersible's lights",
   "optional": false,
   "img": 10,
-  "prompt": "Underwater shot of the rusted bow of a huge ship standing upright in grey mud at the bottom of a deep lake, lit by the bright white lights of a small submersible, the rest of the wreck fading into darkness, fine silt in the water. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 181
  },
  {
   "sec": 1,
@@ -169,7 +176,8 @@
   "cue": "this is great lakes files",
   "desc": "Channel title card",
   "optional": false,
-  "gid": "G08"
+  "gid": "G08",
+  "word": 202
  },
  {
   "sec": 1,
@@ -178,7 +186,8 @@
   "cue": "tap subscribe right now",
   "desc": "Animated Subscribe button and bell, a cursor clicking it",
   "optional": false,
-  "gid": "G09"
+  "gid": "G09",
+  "word": 239
  },
  {
   "sec": 2,
@@ -187,7 +196,8 @@
   "cue": "it's called superior shoal",
   "desc": "Title card: Superior Shoal",
   "optional": false,
-  "gid": "G10"
+  "gid": "G10",
+  "word": 0
  },
  {
   "sec": 2,
@@ -196,7 +206,8 @@
   "cue": "it sits about fifty miles",
   "desc": "Map: the Keweenaw Peninsula, Copper Harbor, the shoal 50 miles north",
   "optional": false,
-  "gid": "G11"
+  "gid": "G11",
+  "word": 4
  },
  {
   "sec": 2,
@@ -206,7 +217,7 @@
   "desc": "Open Lake Superior with no land in sight, deep blue water",
   "optional": false,
   "img": 11,
-  "prompt": "Wide shot of open Lake Superior on a clear day with no land in sight in any direction, deep blue water with small whitecaps all the way to a flat horizon, a few white clouds. 24mm wide-angle lens at water level. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 20
  },
  {
   "sec": 2,
@@ -215,7 +226,8 @@
   "cue": "it covers about twenty",
   "desc": "Map: the outline of the shoal, about 20 square miles",
   "optional": false,
-  "gid": "G12"
+  "gid": "G12",
+  "word": 24
  },
  {
   "sec": 2,
@@ -225,7 +237,7 @@
   "desc": "Close-up underwater of dark basalt rock pitted with old gas bubbles",
   "optional": false,
   "img": 12,
-  "prompt": "Underwater close-up of dark grey-black volcanic basalt rock pitted with small round holes left by ancient gas bubbles, some filled with pale minerals, in cold clear blue-green water, soft light from above. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 30
  },
  {
   "sec": 2,
@@ -234,7 +246,8 @@
   "cue": "when this part of north",
   "desc": "Map: the rift across Lake Superior, about 1.1 billion years ago",
   "optional": false,
-  "gid": "G13"
+  "gid": "G13",
+  "word": 44
  },
  {
   "sec": 2,
@@ -243,7 +256,8 @@
   "cue": "four ridges run across",
   "desc": "Relief view of the shoal: four ridges and the gorge",
   "optional": false,
-  "gid": "G14"
+  "gid": "G14",
+  "word": 54
  },
  {
   "sec": 2,
@@ -253,7 +267,7 @@
   "desc": "An underwater rock slope falling away into darkness",
   "optional": false,
   "img": 13,
-  "prompt": "Underwater wide shot down a steep slope of dark boulders and rock ledges falling away into deep darkness, cold blue-green water, a faint beam of light from above. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 66
  },
  {
   "sec": 2,
@@ -263,7 +277,7 @@
   "desc": "Underwater, looking up at a sharp rock peak almost touching the bright surface",
   "optional": false,
   "img": 14,
-  "prompt": "Underwater shot from below looking up at a sharp peak of dark rock rising almost to the bright, rippling surface of the lake, sunlight sparkling through the water just above the tip, deep blue all around. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 76
  },
  {
   "sec": 2,
@@ -273,7 +287,7 @@
   "desc": "An early 1900s fishing tug on Lake Superior, men hauling nets",
   "optional": false,
   "img": 15,
-  "prompt": "Wide shot of an early 1900s wooden fishing tug on Lake Superior, a small boat with a boxy cabin and a short funnel, two fishermen in oilskins at the open side hauling a long gill net over a wooden roller, grey water and sky, seen from a distance. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 86
  },
  {
   "sec": 2,
@@ -283,7 +297,7 @@
   "desc": "Lake trout swimming along a rocky underwater slope",
   "optional": false,
   "img": 16,
-  "prompt": "Underwater shot of several large grey-green lake trout swimming slowly along a rocky underwater slope covered in boulders, cold clear blue-green water, soft light from above. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 92
  },
  {
   "sec": 2,
@@ -292,7 +306,8 @@
   "cue": "but for a long time",
   "desc": "Chart: the middle of the lake blank, \"hundreds of feet\"",
   "optional": false,
-  "gid": "G15"
+  "gid": "G15",
+  "word": 103
  },
  {
   "sec": 2,
@@ -302,7 +317,7 @@
   "desc": "An early 1900s steel steamer crossing calm open water",
   "optional": false,
   "img": 17,
-  "prompt": "Wide shot of an early 1900s Great Lakes steel freighter with a straight black hull, a small wooden pilothouse at the front, a single tall funnel at the back and a few masts, steaming across calm open water on a grey day, a thin trail of smoke from its funnel, nothing but water to the horizon. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 114
  },
  {
   "sec": 2,
@@ -312,7 +327,7 @@
   "desc": "A 1920s survey launch, men lowering a lead line over the side",
   "optional": false,
   "img": 18,
-  "prompt": "Medium shot of a small 1920s motor survey launch on a grey lake, two men in coats and caps leaning over the side lowering a weighted line into the water, a third man writing in a notebook, calm grey water. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 131
  },
  {
   "sec": 2,
@@ -321,7 +336,8 @@
   "cue": "didn't chart it until",
   "desc": "Date card: charted in 1929",
   "optional": false,
-  "gid": "G16"
+  "gid": "G16",
+  "word": 136
  },
  {
   "sec": 2,
@@ -331,7 +347,7 @@
   "desc": "A ship's light vanishing into snow on a dark lake",
   "optional": false,
   "img": 19,
-  "prompt": "Wide shot at night of a dark lake in falling snow, a single small orange ship's light far away fading into the snow and darkness, the waves black. Telephoto lens. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s during a November storm, cold deep blue-green light, snow and spray in the air, the warm orange glow of oil lamps on the ships, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1918. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 146
  },
  {
   "sec": 3,
@@ -340,7 +356,8 @@
   "cue": "november the twenty first",
   "desc": "Date card: 21 November 1902",
   "optional": false,
-  "gid": "G17"
+  "gid": "G17",
+  "word": 0
  },
  {
   "sec": 3,
@@ -350,7 +367,7 @@
   "desc": "An early 1900s steel freighter steaming across a grey lake",
   "optional": false,
   "img": 20,
-  "prompt": "Wide shot of an early 1900s Great Lakes steel freighter with a straight black hull, a small wooden pilothouse at the front, a single tall funnel at the back and a few masts, deeply loaded and low in the water, steaming across a grey lake on a cold November day, white water at its bow. Telephoto lens. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 7
  },
  {
   "sec": 3,
@@ -359,7 +376,8 @@
   "cue": "with eighty five thousand",
   "desc": "Number card: 85,000 bushels of wheat",
   "optional": false,
-  "gid": "G18"
+  "gid": "G18",
+  "word": 19
  },
  {
   "sec": 3,
@@ -369,7 +387,7 @@
   "desc": "A ship's captain in an early 1900s coat and cap at a wheelhouse window, from behind",
   "optional": false,
   "img": 21,
-  "prompt": "Medium shot from behind of a ship's captain in an early 1900s dark wool coat and peaked cap standing at the window of a small wooden pilothouse, looking out at a grey lake, his hand on the window frame. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 26
  },
  {
   "sec": 3,
@@ -378,7 +396,8 @@
   "cue": "most of his crew were",
   "desc": "Card: crew aged 17 to 20; a wheelsman of 16",
   "optional": false,
-  "gid": "G19"
+  "gid": "G19",
+  "word": 41
  },
  {
   "sec": 3,
@@ -388,7 +407,7 @@
   "desc": "A young man at a ship's wooden wheel, from behind",
   "optional": false,
   "img": 22,
-  "prompt": "Medium shot from behind of a young man in a wool sweater and cap at a large wooden ship's wheel inside a small pilothouse, grey light through the windows, the lake beyond. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 49
  },
  {
   "sec": 3,
@@ -398,7 +417,7 @@
   "desc": "A captain on a freighter's deck looking through binoculars, from behind, hazy lake",
   "optional": false,
   "img": 23,
-  "prompt": "Medium shot from behind of a ship's captain in an early 1900s wool coat and cap standing on the deck of a freighter, holding binoculars to his eyes, looking out over a hazy grey lake toward the horizon. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 58
  },
  {
   "sec": 3,
@@ -407,7 +426,8 @@
   "cue": "about seven miles away",
   "desc": "Map: the Algonquin and the Bannockburn, 7 miles apart, 40 miles from Isle Royale",
   "optional": false,
-  "gid": "G20"
+  "gid": "G20",
+  "word": 73
  },
  {
   "sec": 3,
@@ -417,7 +437,7 @@
   "desc": "Binocular view: a distant steamer on hazy water",
   "optional": false,
   "img": 24,
-  "prompt": "Point-of-view shot through binoculars, a circular black frame around the image, a distant early 1900s steel steamer with a single funnel small on the hazy grey horizon of a calm lake. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 88
  },
  {
   "sec": 3,
@@ -427,7 +447,7 @@
   "desc": "Binocular view: only grey haze on the water",
   "optional": false,
   "img": 25,
-  "prompt": "Point-of-view shot through binoculars, a circular black frame around the image, only grey haze and flat grey water, the horizon lost in mist, nothing there. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 109
  },
  {
   "sec": 3,
@@ -437,7 +457,7 @@
   "desc": "Grey haze lying over the lake",
   "optional": false,
   "img": 26,
-  "prompt": "Wide shot of thick grey haze lying low over a calm grey lake, the horizon completely lost, a cold and silent November day. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 119
  },
  {
   "sec": 3,
@@ -447,7 +467,7 @@
   "desc": "Night storm with snow and huge waves on Lake Superior",
   "optional": false,
   "img": 27,
-  "prompt": "Wide shot at night of a violent storm on Lake Superior, huge waves with white crests, heavy snow blowing sideways, moonlight breaking briefly through black clouds. Low angle near the water. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s during a November storm, cold deep blue-green light, snow and spray in the air, the warm orange glow of oil lamps on the ships, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1918. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 132
  },
  {
   "sec": 3,
@@ -456,7 +476,8 @@
   "cue": "the bannockburn never reached",
   "desc": "Map: her route to Sault Ste. Marie, broken off",
   "optional": false,
-  "gid": "G21"
+  "gid": "G21",
+  "word": 139
  },
  {
   "sec": 3,
@@ -466,7 +487,7 @@
   "desc": "An early 1900s passenger steamer at night in a storm, distant ship lights ahead",
   "optional": false,
   "img": 28,
-  "prompt": "Wide shot at night of an early 1900s white passenger steamer with rows of lit cabin windows rolling in a storm, snow blowing, and far ahead in the darkness the faint orange lights of another ship. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s during a November storm, cold deep blue-green light, snow and spray in the air, the warm orange glow of oil lamps on the ships, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1918. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 149
  },
  {
   "sec": 3,
@@ -476,7 +497,7 @@
   "desc": "Families in early 1900s coats waiting on a wooden dock, from behind",
   "optional": false,
   "img": 29,
-  "prompt": "Wide shot from behind of families in early 1900s winter coats, hats and shawls waiting on a wooden dock on a grey day, looking out at an empty lake, small in the frame. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 183
  },
  {
   "sec": 3,
@@ -485,7 +506,8 @@
   "cue": "one manager even told",
   "desc": "Quote card: \"Crew safe.\" It wasn't true",
   "optional": false,
-  "gid": "G22"
+  "gid": "G22",
+  "word": 187
  },
  {
   "sec": 3,
@@ -495,7 +517,7 @@
   "desc": "An old cork life jacket lying on a snowy sand beach",
   "optional": false,
   "img": 30,
-  "prompt": "Close shot of an old cork life jacket with worn canvas straps lying on a sand beach dusted with snow, small waves washing up behind it, grey winter light. Shallow depth of field. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 201
  },
  {
   "sec": 3,
@@ -504,7 +526,8 @@
   "cue": "no wreck no bodies",
   "desc": "Text: no wreck, no bodies",
   "optional": false,
-  "gid": "G23"
+  "gid": "G23",
+  "word": 228
  },
  {
   "sec": 3,
@@ -514,7 +537,7 @@
   "desc": "A ghostly steamer in snowy mist at night",
   "optional": false,
   "img": 31,
-  "prompt": "Wide shot at night of the faint shape of an early 1900s Great Lakes steel freighter with a straight black hull, a small wooden pilothouse at the front, a single tall funnel at the back and a few masts, half hidden in swirling snow and mist on a dark lake, ghostly and pale, its lamps barely glowing. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s during a November storm, cold deep blue-green light, snow and spray in the air, the warm orange glow of oil lamps on the ships, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1918. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 232
  },
  {
   "sec": 3,
@@ -523,7 +546,8 @@
   "cue": "there are plenty of",
   "desc": "Card: the theories: boiler explosion, Caribou Island reef, Superior Shoal",
   "optional": false,
-  "gid": "G24"
+  "gid": "G24",
+  "word": 249
  },
  {
   "sec": 3,
@@ -532,7 +556,8 @@
   "cue": "but one theory points",
   "desc": "Map: the last sighting and the shoal",
   "optional": false,
-  "gid": "G25"
+  "gid": "G25",
+  "word": 262
  },
  {
   "sec": 4,
@@ -542,7 +567,7 @@
   "desc": "A small grey 1918 warship on a grey lake",
   "optional": false,
   "img": 32,
-  "prompt": "Wide shot of a small grey steel warship of 1918 with a single funnel, a short mast and a deck gun at the front, steaming across a grey lake on a cold day. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 4,
@@ -552,7 +577,7 @@
   "desc": "A 1918 shipyard in winter, small hulls on the slipways",
   "optional": false,
   "img": 33,
-  "prompt": "Wide shot of a 1918 shipyard beside a lake in winter, several small ships under construction on slipways, wooden hulls on steel frames, cranes and wooden scaffolding, workers in heavy coats small in the frame, snow on the ground. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 9
  },
  {
   "sec": 4,
@@ -561,7 +586,8 @@
   "cue": "each was a hundred",
   "desc": "Card: 135 feet, two deck guns",
   "optional": false,
-  "gid": "G26"
+  "gid": "G26",
+  "word": 30
  },
  {
   "sec": 4,
@@ -571,7 +597,7 @@
   "desc": "Small grey minesweepers at sea off a rocky coast",
   "optional": false,
   "img": 34,
-  "prompt": "Wide shot of three small grey minesweepers of 1918 at sea in a line off a rocky coast, each with a single funnel and a deck gun, grey choppy water and an overcast sky. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 43
  },
  {
   "sec": 4,
@@ -580,7 +606,8 @@
   "cue": "by the time they were",
   "desc": "Date card: the war ends, 11 November 1918",
   "optional": false,
-  "gid": "G27"
+  "gid": "G27",
+  "word": 54
  },
  {
   "sec": 4,
@@ -590,7 +617,7 @@
   "desc": "Three small grey warships leaving a harbour in a line, a long mesa-like headland behind",
   "optional": false,
   "img": 35,
-  "prompt": "Wide shot of three small grey warships of 1918 steaming out of a harbour one behind another on a grey November day, a long flat-topped headland of dark cliffs across the bay behind them. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s, soft cold northern daylight, grey-blue water, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1929. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 75
  },
  {
   "sec": 4,
@@ -599,7 +626,8 @@
   "cue": "the sebastopol the inkerman",
   "desc": "Card: the three names",
   "optional": false,
-  "gid": "G28"
+  "gid": "G28",
+  "word": 88
  },
  {
   "sec": 4,
@@ -609,7 +637,7 @@
   "desc": "Two small warships in huge storm waves at night, snow",
   "optional": false,
   "img": 36,
-  "prompt": "Wide shot at night of two small grey warships of 1918 caught in huge storm waves on an open lake, one climbing a wave and one half hidden behind it, snow blowing, a faint lamp on each. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s during a November storm, cold deep blue-green light, snow and spray in the air, the warm orange glow of oil lamps on the ships, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1918. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 95
  },
  {
   "sec": 4,
@@ -619,7 +647,7 @@
   "desc": "One small warship arriving battered at a harbour on a grey morning",
   "optional": false,
   "img": 37,
-  "prompt": "Wide shot on a grey morning of a small grey warship of 1918 arriving at a harbour, its railings bent and ice coating its deck and mast, men on the dock watching from a distance. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s during a November storm, cold deep blue-green light, snow and spray in the air, the warm orange glow of oil lamps on the ships, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1918. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 107
  },
  {
   "sec": 4,
@@ -629,7 +657,7 @@
   "desc": "The empty stormy lake, snow blowing",
   "optional": false,
   "img": 38,
-  "prompt": "Wide shot of an empty, stormy grey lake under heavy clouds, snow blowing across the waves, nothing on the water. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s during a November storm, cold deep blue-green light, snow and spray in the air, the warm orange glow of oil lamps on the ships, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1918. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 112
  },
  {
   "sec": 4,
@@ -638,7 +666,8 @@
   "cue": "seventy eight men were lost",
   "desc": "Number card: 78 men",
   "optional": false,
-  "gid": "G29"
+  "gid": "G29",
+  "word": 123
  },
  {
   "sec": 4,
@@ -647,7 +676,8 @@
   "cue": "and they were the last",
   "desc": "Card: the last warships lost on the Great Lakes",
   "optional": false,
-  "gid": "G30"
+  "gid": "G30",
+  "word": 138
  },
  {
   "sec": 4,
@@ -657,7 +687,7 @@
   "desc": "The dark lake bed in a searchlight, nothing there",
   "optional": false,
   "img": 39,
-  "prompt": "Underwater wide shot of a dark, empty lake bed of grey mud and scattered stones lit by a single searchlight beam, nothing else in sight, deep darkness beyond. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 151
  },
  {
   "sec": 4,
@@ -666,7 +696,8 @@
   "cue": "their route to the locks",
   "desc": "Map: their route to the Soo and the shoal near it",
   "optional": false,
-  "gid": "G31"
+  "gid": "G31",
+  "word": 169
  },
  {
   "sec": 4,
@@ -675,7 +706,8 @@
   "cue": "eleven years later in",
   "desc": "Chart: the shoal appears in 1929, the route moves",
   "optional": false,
-  "gid": "G32"
+  "gid": "G32",
+  "word": 201
  },
  {
   "sec": 4,
@@ -685,7 +717,7 @@
   "desc": "A huge 1970s ore freighter emerging from fog",
   "optional": false,
   "img": 40,
-  "prompt": "Wide shot of a very long Great Lakes ore freighter of the 1970s with a dark hull and white cabins, its pilothouse at the very front, its engine house and single funnel at the very back, and a long flat deck of hatch covers between them, emerging slowly out of thick grey fog on a calm lake, its bow coming toward the camera. Telephoto lens. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 229
  },
  {
   "sec": 5,
@@ -695,7 +727,7 @@
   "desc": "A huge freighter sliding sideways into the water at its launch, crowds watching, 1958",
   "optional": false,
   "img": 41,
-  "prompt": "Wide shot of the sideways launch of a very long Great Lakes ore freighter of the 1970s with a dark hull and white cabins, its pilothouse at the very front, its engine house and single funnel at the very back, and a long flat deck of hatch covers between them, sliding sideways off the slipway into a river with a huge splash and wave, crowds of spectators small in the distance watching from the shore, a bright day. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 5,
@@ -704,7 +736,8 @@
   "cue": "seven hundred and twenty",
   "desc": "Scale card: 729 feet",
   "optional": false,
-  "gid": "G33"
+  "gid": "G33",
+  "word": 19
  },
  {
   "sec": 5,
@@ -714,7 +747,7 @@
   "desc": "A freighter loading at an ore dock, chutes pouring pellets into the holds",
   "optional": false,
   "img": 42,
-  "prompt": "Wide shot of a very long Great Lakes ore freighter of the 1970s with a dark hull and white cabins, its pilothouse at the very front, its engine house and single funnel at the very back, and a long flat deck of hatch covers between them, moored at a tall ore dock in the afternoon, long steel chutes pouring dark iron ore pellets into its open hatches, a grey sky. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 26
  },
  {
   "sec": 5,
@@ -723,7 +756,8 @@
   "cue": "loaded with more than",
   "desc": "Card: 26,116 tons of taconite",
   "optional": false,
-  "gid": "G34"
+  "gid": "G34",
+  "word": 45
  },
  {
   "sec": 5,
@@ -733,7 +767,7 @@
   "desc": "Close-up of dark round taconite pellets",
   "optional": false,
   "img": 43,
-  "prompt": "Close-up of a pile of dark grey round iron ore pellets, each about the size of a marble, filling the frame, soft daylight. Macro lens. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 55
  },
  {
   "sec": 5,
@@ -743,7 +777,7 @@
   "desc": "A captain in a 1970s pilothouse, from behind, grey afternoon light",
   "optional": false,
   "img": 44,
-  "prompt": "Medium shot from behind of a ship's captain in a dark 1970s jacket and cap standing in a pilothouse looking out of the front windows at a grey afternoon lake, the long deck of the ship stretching ahead. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 61
  },
  {
   "sec": 5,
@@ -753,7 +787,7 @@
   "desc": "Two freighters on Lake Superior at dusk, one following the other",
   "optional": false,
   "img": 45,
-  "prompt": "Wide shot at dusk of two long Great Lakes ore freighters of the 1970s on Lake Superior, one following the other several miles behind, their deck lights coming on, a dark cloudy sky. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 69
  },
  {
   "sec": 5,
@@ -762,7 +796,8 @@
   "cue": "the forecast wasn't unusual",
   "desc": "Map: the storm moving in, gale warnings for the whole lake",
   "optional": false,
-  "gid": "G35"
+  "gid": "G35",
+  "word": 84
  },
  {
   "sec": 5,
@@ -772,7 +807,7 @@
   "desc": "A freighter pushing through rising waves at night",
   "optional": false,
   "img": 46,
-  "prompt": "Wide shot at night of a very long Great Lakes ore freighter of the 1970s with a dark hull and white cabins, its pilothouse at the very front, its engine house and single funnel at the very back, and a long flat deck of hatch covers between them, pushing through rising waves, spray bursting over the bow, the deck lights glowing orange, a dark sky. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 105
  },
  {
   "sec": 5,
@@ -781,7 +816,8 @@
   "cue": "another captain heard him",
   "desc": "Quote card: \"We're going to try for some lee from Isle Royale.\"",
   "optional": false,
-  "gid": "G36"
+  "gid": "G36",
+  "word": 120
  },
  {
   "sec": 5,
@@ -790,7 +826,8 @@
   "cue": "isle royale the bannockburn",
   "desc": "Map: Isle Royale, the Bannockburn's last sighting, the Fitzgerald's course",
   "optional": false,
-  "gid": "G37"
+  "gid": "G37",
+  "word": 138
  },
  {
   "sec": 5,
@@ -799,7 +836,8 @@
   "cue": "toward the mountain",
   "desc": "Map: the course line reaching the shoal",
   "optional": false,
-  "gid": "G38"
+  "gid": "G38",
+  "word": 168
  },
  {
   "sec": 6,
@@ -809,7 +847,7 @@
   "desc": "The wreck of a huge ship on the lake bed in a submersible's lights",
   "optional": false,
   "img": 47,
-  "prompt": "Underwater wide shot of the wreck of a huge ship lying on the bottom of a deep lake, rusted steel in grey mud, lit by the lights of a submersible, fading into darkness. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 6,
@@ -818,7 +856,8 @@
   "cue": "there are four main",
   "desc": "Card: four answers",
   "optional": false,
-  "gid": "G39"
+  "gid": "G39",
+  "word": 16
  },
  {
   "sec": 6,
@@ -827,7 +866,8 @@
   "cue": "the coast guard said",
   "desc": "Diagram: water seeping in past the hatch covers",
   "optional": false,
-  "gid": "G40"
+  "gid": "G40",
+  "word": 21
  },
  {
   "sec": 6,
@@ -837,7 +877,7 @@
   "desc": "A giant wave crashing over a freighter's hatch covers at night",
   "optional": false,
   "img": 48,
-  "prompt": "Wide shot at night of a giant wave crashing over the long deck of a 1970s Great Lakes ore freighter, white water burying the hatch covers, the deck lights glowing through the spray. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 43
  },
  {
   "sec": 6,
@@ -846,7 +886,8 @@
   "cue": "the shipping companies said",
   "desc": "Map: Caribou Island and the shoal near it",
   "optional": false,
-  "gid": "G41"
+  "gid": "G41",
+  "word": 61
  },
  {
   "sec": 6,
@@ -856,7 +897,7 @@
   "desc": "Three giant waves in a row at night bearing down on a freighter",
   "optional": false,
   "img": 49,
-  "prompt": "Wide shot at night of three giant waves in a row rolling toward a long 1970s Great Lakes ore freighter, the first breaking over its deck, the deck lights glowing orange in the spray. Low angle. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 84
  },
  {
   "sec": 6,
@@ -865,7 +906,8 @@
   "cue": "and then there's the",
   "desc": "Cutaway: the mountain",
   "optional": false,
-  "gid": "G42"
+  "gid": "G42",
+  "word": 111
  },
  {
   "sec": 6,
@@ -874,7 +916,8 @@
   "cue": "before you hear the",
   "desc": "Comment prompt: three big cards, WAVES / HATCHES / MOUNTAIN, then a comment icon",
   "optional": false,
-  "gid": "G43"
+  "gid": "G43",
+  "word": 116
  },
  {
   "sec": 6,
@@ -883,7 +926,8 @@
   "cue": "and stay with me",
   "desc": "The wreck again",
   "optional": false,
-  "img": 47
+  "img": 47,
+  "word": 152
  },
  {
   "sec": 7,
@@ -893,7 +937,7 @@
   "desc": "A brick university campus beside a waterway in snowy northern Michigan",
   "optional": false,
   "img": 50,
-  "prompt": "Wide shot of a university campus of brick buildings beside a frozen waterway in a snowy northern Michigan town, bare trees, a grey winter sky. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 7,
@@ -902,7 +946,8 @@
   "cue": "paul hainault a retired",
   "desc": "Name card: Paul Hainault, retired professor of mechanical engineering, Michigan Tech",
   "optional": false,
-  "gid": "G44"
+  "gid": "G44",
+  "word": 4
  },
  {
   "sec": 7,
@@ -912,7 +957,7 @@
   "desc": "Students around a table with a ship model and charts, from behind",
   "optional": false,
   "img": 51,
-  "prompt": "Medium shot from behind of engineering students gathered around a table with a long ship model and rolled paper charts, a teacher pointing at the model, a plain classroom with soft window light. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 16
  },
  {
   "sec": 7,
@@ -921,7 +966,8 @@
   "cue": "hainault believes that at",
   "desc": "Time card: 9:30 a.m., 10 November 1975",
   "optional": false,
-  "gid": "G45"
+  "gid": "G45",
+  "word": 26
  },
  {
   "sec": 7,
@@ -931,7 +977,7 @@
   "desc": "A freighter on a grey morning lake in rough water, low angle",
   "optional": false,
   "img": 52,
-  "prompt": "Wide shot on a grey morning of a very long Great Lakes ore freighter of the 1970s with a dark hull and white cabins, its pilothouse at the very front, its engine house and single funnel at the very back, and a long flat deck of hatch covers between them, steaming through rough grey water on Lake Superior, waves breaking along its side. Low angle near the water. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 40
  },
  {
   "sec": 7,
@@ -940,7 +986,8 @@
   "cue": "remember the numbers",
   "desc": "Cutaway: 21 FT against 25 FT",
   "optional": false,
-  "gid": "G46"
+  "gid": "G46",
+  "word": 46
  },
  {
   "sec": 7,
@@ -950,7 +997,7 @@
   "desc": "A huge daytime storm across Lake Superior",
   "optional": false,
   "img": 53,
-  "prompt": "Wide shot of a huge daytime storm across Lake Superior, rows of big grey waves with white crests, dark low clouds, rain sweeping across the water, no land in sight. Shot as a cinematic still from a historical drama set on Lake Superior in the early 1900s during a November storm, cold deep blue-green light, snow and spray in the air, the warm orange glow of oil lamps on the ships, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1900 to 1918. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 64
  },
  {
   "sec": 7,
@@ -959,7 +1006,8 @@
   "cue": "it was a saysh",
   "desc": "Side view: the lake rocking from end to end",
   "optional": false,
-  "gid": "G47"
+  "gid": "G47",
+  "word": 85
  },
  {
   "sec": 7,
@@ -969,7 +1017,7 @@
   "desc": "Lock gates with storm water pouring over the top",
   "optional": false,
   "img": 54,
-  "prompt": "Wide shot in a 1970s storm of a canal lock with tall steel gates, storm water pouring over the top of the gates in a white sheet, dark sky and spray. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 102
  },
  {
   "sec": 7,
@@ -979,7 +1027,7 @@
   "desc": "A 1970s town street flooded a foot deep, cars in the water",
   "optional": false,
   "img": 55,
-  "prompt": "Wide shot of a 1970s town street flooded about a foot deep with lake water, 1970s cars parked with water around their wheels, low buildings, a grey stormy sky. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 121
  },
  {
   "sec": 7,
@@ -988,7 +1036,8 @@
   "cue": "hainault believes that slosh",
   "desc": "Cutaway: a wave trough drops the ship onto the peak",
   "optional": false,
-  "gid": "G48"
+  "gid": "G48",
+  "word": 128
  },
  {
   "sec": 7,
@@ -997,7 +1046,8 @@
   "cue": "in his version the",
   "desc": "Cutaway: 200 feet of hull scraping the rock",
   "optional": false,
-  "gid": "G49"
+  "gid": "G49",
+  "word": 148
  },
  {
   "sec": 7,
@@ -1006,7 +1056,8 @@
   "cue": "remember that number too",
   "desc": "Number card: 200 feet",
   "optional": false,
-  "gid": "G50"
+  "gid": "G50",
+  "word": 164
  },
  {
   "sec": 7,
@@ -1016,7 +1067,7 @@
   "desc": "Close-up underwater of torn steel plate grinding on rock",
   "optional": false,
   "img": 56,
-  "prompt": "Underwater close-up of a torn and bent steel hull plate grinding against dark jagged rock, rust and paint scraped away, bubbles and silt in the water. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 171
  },
  {
   "sec": 7,
@@ -1026,7 +1077,7 @@
   "desc": "Inside a huge cargo hold, water sloshing among ore pellets",
   "optional": false,
   "img": 57,
-  "prompt": "Interior of the huge, dim cargo hold of a 1970s ore freighter, a long steel cavern filled with dark ore pellets, cold water sloshing across the pellets and running down the steel walls, light from a single lamp. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 180
  },
  {
   "sec": 7,
@@ -1035,7 +1086,8 @@
   "cue": "if that number twenty",
   "desc": "Animated Like then Subscribe buttons, a cursor clicking them",
   "optional": false,
-  "gid": "G51"
+  "gid": "G51",
+  "word": 191
  },
  {
   "sec": 8,
@@ -1044,7 +1096,8 @@
   "cue": "here is what we",
   "desc": "Timeline card: the afternoon of 10 November",
   "optional": false,
-  "gid": "G52"
+  "gid": "G52",
+  "word": 0
  },
  {
   "sec": 8,
@@ -1054,7 +1107,7 @@
   "desc": "A snow squall swallowing a ship ahead",
   "optional": false,
   "img": 58,
-  "prompt": "Wide shot of a heavy snow squall sweeping across Lake Superior in the afternoon, the shape of a long freighter ahead fading into the white. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 13
  },
  {
   "sec": 8,
@@ -1064,7 +1117,7 @@
   "desc": "From a pilothouse window: snow, nothing visible ahead",
   "optional": false,
   "img": 59,
-  "prompt": "View from inside a 1970s pilothouse looking out of the front windows at heavy snow and grey sea, nothing visible ahead, the wipers and window frames in the foreground. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 28
  },
  {
   "sec": 8,
@@ -1073,7 +1126,8 @@
   "cue": "just after three thirty",
   "desc": "Quote card: a fence rail down, two vents lost, a list",
   "optional": false,
-  "gid": "G53"
+  "gid": "G53",
+  "word": 39
  },
  {
   "sec": 8,
@@ -1083,7 +1137,7 @@
   "desc": "A freighter listing in heavy seas",
   "optional": false,
   "img": 60,
-  "prompt": "Wide shot of a very long Great Lakes ore freighter of the 1970s with a dark hull and white cabins, its pilothouse at the very front, its engine house and single funnel at the very back, and a long flat deck of hatch covers between them, listing to one side in heavy grey seas, water washing along its lower rail, snow falling. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 65
  },
  {
   "sec": 8,
@@ -1093,7 +1147,7 @@
   "desc": "A 1970s engine room, pumps running, a man from behind",
   "optional": false,
   "img": 61,
-  "prompt": "Interior of a 1970s ship's engine room, large green-painted pumps and pipes, gauges, a man in overalls seen from behind checking a valve, warm work lights. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 71
  },
  {
   "sec": 8,
@@ -1102,7 +1156,8 @@
   "cue": "those details matter the",
   "desc": "Diagram: a hull bending over a rock, the rail pulled tight",
   "optional": false,
-  "gid": "G54"
+  "gid": "G54",
+  "word": 79
  },
  {
   "sec": 8,
@@ -1111,7 +1166,8 @@
   "cue": "they meant the shoal",
   "desc": "Map: Caribou Island, the shoal, the Fitzgerald's track",
   "optional": false,
-  "gid": "G55"
+  "gid": "G55",
+  "word": 119
  },
  {
   "sec": 8,
@@ -1121,7 +1177,7 @@
   "desc": "A dead radar screen in a dark pilothouse",
   "optional": false,
   "img": 62,
-  "prompt": "Close shot of a dark, dead radar screen in a dark 1970s pilothouse, the screen black and lifeless, a reflection of snow on the window behind. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 141
  },
  {
   "sec": 8,
@@ -1131,7 +1187,7 @@
   "desc": "A lighthouse on a point in a night storm",
   "optional": false,
   "img": 63,
-  "prompt": "Wide shot at night of a lighthouse on a low point of land in a violent snowstorm, its beam cutting through the snow over huge waves, the shore covered in ice. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 150
  },
  {
   "sec": 8,
@@ -1140,7 +1196,8 @@
   "cue": "another captain overheard mcsorley",
   "desc": "Quote card: \"Don't allow nobody on deck.\"",
   "optional": false,
-  "gid": "G56"
+  "gid": "G56",
+  "word": 167
  },
  {
   "sec": 8,
@@ -1150,7 +1207,7 @@
   "desc": "Waves pouring over a freighter's deck at night",
   "optional": false,
   "img": 64,
-  "prompt": "Wide shot at night of white water pouring over the deck of a long 1970s Great Lakes ore freighter, the waves taller than the cabins, the deck lights glowing orange. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 177
  },
  {
   "sec": 8,
@@ -1160,7 +1217,7 @@
   "desc": "Huge waves in darkness, lit by deck lights",
   "optional": false,
   "img": 65,
-  "prompt": "Wide shot at night of huge waves in darkness on Lake Superior, lit only by the orange deck lights of a ship, spray in the air, snow falling. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 193
  },
  {
   "sec": 8,
@@ -1170,7 +1227,7 @@
   "desc": "A huge sea burying the stern cabins of a freighter",
   "optional": false,
   "img": 66,
-  "prompt": "Wide shot at night of an enormous wave breaking over the stern cabins of a long 1970s Great Lakes ore freighter, burying them in white water, a lifeboat on the cabin roof. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 202
  },
  {
   "sec": 8,
@@ -1180,7 +1237,7 @@
   "desc": "Waves rolling away into darkness",
   "optional": false,
   "img": 67,
-  "prompt": "Wide shot at night of huge waves rolling away from the camera into total darkness on Lake Superior, snow falling, no light ahead. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 231
  },
  {
   "sec": 8,
@@ -1189,16 +1246,18 @@
   "cue": "at ten past seven came",
   "desc": "Quote card: \"We are holding our own.\"",
   "optional": false,
-  "gid": "G57"
+  "gid": "G57",
+  "word": 234
  },
  {
   "sec": 8,
   "kind": "R",
   "style": "-",
   "cue": "then nothing",
-  "desc": "The empty lake again",
+  "desc": "A single light fading into the snow (image 004 shows a man on deck, not an empty lake)",
   "optional": false,
-  "img": 4
+  "img": 19,
+  "word": 247
  },
  {
   "sec": 9,
@@ -1207,7 +1266,8 @@
   "cue": "now the case against",
   "desc": "Title card: The case against the mountain",
   "optional": false,
-  "gid": "G58"
+  "gid": "G58",
+  "word": 0
  },
  {
   "sec": 9,
@@ -1216,7 +1276,8 @@
   "cue": "first the timing if",
   "desc": "Timeline: 9:30 a.m. to 3:30 p.m., six hours",
   "optional": false,
-  "gid": "G59"
+  "gid": "G59",
+  "word": 11
  },
  {
   "sec": 9,
@@ -1226,7 +1287,7 @@
   "desc": "A 1970s ship's mess room, sailors from behind",
   "optional": false,
   "img": 68,
-  "prompt": "Interior of a 1970s ship's mess room, sailors in work shirts and jackets sitting at tables with coffee mugs, seen from behind, a porthole showing the dark storm outside, warm light. Shot as a cinematic still from a drama set on Lake Superior in November 1975, cold steel-blue and blue-green storm light with the warm orange glow of the ship's deck lights, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the 1970s. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 37
  },
  {
   "sec": 9,
@@ -1235,7 +1296,8 @@
   "cue": "second the official investigations",
   "desc": "Cards: Coast Guard 1977 and NTSB 1978: the hatch covers",
   "optional": false,
-  "gid": "G60"
+  "gid": "G60",
+  "word": 49
  },
  {
   "sec": 9,
@@ -1245,7 +1307,7 @@
   "desc": "The upturned stern of a huge ship on the lake bed, in lights",
   "optional": false,
   "img": 69,
-  "prompt": "Underwater shot of the upturned stern of a huge ship lying on the lake bed, its rudder and propeller pointing upward, rusted steel in grey mud, lit by submersible lights. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 76
  },
  {
   "sec": 9,
@@ -1254,7 +1316,8 @@
   "cue": "in two pieces",
   "desc": "Diagram: the wreck on the bottom, bow, stern and debris",
   "optional": false,
-  "gid": "G61"
+  "gid": "G61",
+  "word": 89
  },
  {
   "sec": 9,
@@ -1264,7 +1327,7 @@
   "desc": "A small submersible with bright lights over a wreck in deep water",
   "optional": false,
   "img": 70,
-  "prompt": "Underwater wide shot of a small yellow submersible with bright lights hovering over a dark shipwreck in deep blue-green water, its lights picking out rusted steel. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 92
  },
  {
   "sec": 9,
@@ -1274,7 +1337,7 @@
   "desc": "Close-up of a huge propeller and rudder in a submersible's lights",
   "optional": false,
   "img": 71,
-  "prompt": "Underwater close shot of a huge ship's propeller and rudder, rusted and coated in silt, lit by the bright white lights of a submersible, deep darkness behind. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 104
  },
  {
   "sec": 9,
@@ -1284,7 +1347,7 @@
   "desc": "Divers with lights over a rocky reef",
   "optional": false,
   "img": 72,
-  "prompt": "Underwater wide shot of two scuba divers with lights swimming over a shallow rocky reef of boulders and ledges, clear blue-green water, light from the surface. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 128
  },
  {
   "sec": 9,
@@ -1293,7 +1356,8 @@
   "cue": "but hainault's theory says",
   "desc": "Hull diagram, the middle highlighted",
   "optional": false,
-  "gid": "G62"
+  "gid": "G62",
+  "word": 141
  },
  {
   "sec": 9,
@@ -1303,7 +1367,7 @@
   "desc": "A heap of ore pellets and torn steel plating on the lake bed",
   "optional": false,
   "img": 73,
-  "prompt": "Underwater wide shot of a heap of dark round ore pellets and torn, twisted steel plating on the bottom of a deep lake, lit by a single beam of white light, darkness all around. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 156
  },
  {
   "sec": 9,
@@ -1312,7 +1376,8 @@
   "cue": "when the navy surveyed",
   "desc": "Diagram: bow 276 ft, stern 253 ft, ship 729 ft",
   "optional": false,
-  "gid": "G63"
+  "gid": "G63",
+  "word": 173
  },
  {
   "sec": 9,
@@ -1321,7 +1386,8 @@
   "cue": "do the sum and",
   "desc": "Diagram: the 200 ft gap highlighted",
   "optional": false,
-  "gid": "G64"
+  "gid": "G64",
+  "word": 209
  },
  {
   "sec": 9,
@@ -1330,7 +1396,8 @@
   "cue": "two hundred feet the",
   "desc": "Side by side: 200 ft scraped, 200 ft missing",
   "optional": false,
-  "gid": "G65"
+  "gid": "G65",
+  "word": 222
  },
  {
   "sec": 9,
@@ -1339,7 +1406,8 @@
   "cue": "but between the bow",
   "desc": "The torn middle again",
   "optional": false,
-  "img": 73
+  "img": 73,
+  "word": 251
  },
  {
   "sec": 9,
@@ -1349,7 +1417,7 @@
   "desc": "Twisted steel in the dark under a single light",
   "optional": false,
   "img": 74,
-  "prompt": "Underwater close shot of a mass of twisted, torn steel plates and bent beams on a dark lake bed under a single beam of light, silt drifting in the water. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 270
  },
  {
   "sec": 10,
@@ -1359,7 +1427,7 @@
   "desc": "A modern freighter passing on a calm lake",
   "optional": false,
   "img": 75,
-  "prompt": "Wide shot of a modern Great Lakes freighter passing on a calm Lake Superior on a clear day, the long ship small in the frame, deep blue water. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 10,
@@ -1368,7 +1436,8 @@
   "cue": "lake trout still climb",
   "desc": "Lake trout again",
   "optional": false,
-  "img": 16
+  "img": 16,
+  "word": 15
  },
  {
   "sec": 10,
@@ -1377,7 +1446,8 @@
   "cue": "the inkerman and the",
   "desc": "Card: never found, \"the Holy Grail of Lake Superior\"",
   "optional": false,
-  "gid": "G66"
+  "gid": "G66",
+  "word": 21
  },
  {
   "sec": 10,
@@ -1387,7 +1457,7 @@
   "desc": "A snowy Lake Superior shore in winter",
   "optional": false,
   "img": 76,
-  "prompt": "Wide shot of a snowy Lake Superior shore in winter, ice along the edge of the water, snow-covered pine trees and sand dunes, a grey sky. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 40
  },
  {
   "sec": 10,
@@ -1397,7 +1467,7 @@
   "desc": "Calm Lake Superior at dusk, empty water",
   "optional": false,
   "img": 77,
-  "prompt": "Wide shot of calm Lake Superior at dusk, empty water stretching to the horizon, soft pink and blue light, a still and quiet scene. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 47
  },
  {
   "sec": 10,
@@ -1406,7 +1476,8 @@
   "cue": "and no one can dive",
   "desc": "Card: licence from Ontario, fines up to CA$1 million",
   "optional": false,
-  "gid": "G67"
+  "gid": "G67",
+  "word": 52
  },
  {
   "sec": 10,
@@ -1416,7 +1487,7 @@
   "desc": "A wreath of flowers floating on calm water",
   "optional": false,
   "img": 78,
-  "prompt": "Close shot of a wreath of white flowers floating on calm, dark lake water at dusk, soft light, ripples around it. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 77
  },
  {
   "sec": 10,
@@ -1426,7 +1497,7 @@
   "desc": "A polished bronze ship's bell in a museum display under a spotlight",
   "optional": false,
   "img": 79,
-  "prompt": "Close shot of a polished bronze ship's bell hanging in a dark museum display, lit by a single warm spotlight, the background black. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 80
  },
  {
   "sec": 10,
@@ -1436,7 +1507,7 @@
   "desc": "A church interior with a bell rope, candles burning",
   "optional": false,
   "img": 80,
-  "prompt": "Interior of a small old stone church at evening, candles burning on a table, a thick bell rope hanging down from the ceiling, warm light and deep shadows, no people. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 115
  },
  {
   "sec": 10,
@@ -1445,7 +1516,8 @@
   "cue": "once for each man",
   "desc": "Counter: 29 bell strokes",
   "optional": false,
-  "gid": "G68"
+  "gid": "G68",
+  "word": 131
  },
  {
   "sec": 10,
@@ -1455,7 +1527,7 @@
   "desc": "A small fishing boat on Lake Superior at sunrise",
   "optional": false,
   "img": 81,
-  "prompt": "Wide shot of a small fishing boat on Lake Superior at sunrise, calm water, a rocky wooded shore behind it, golden light on the water. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 135
  },
  {
   "sec": 10,
@@ -1464,7 +1536,8 @@
   "cue": "tell me in the comments",
   "desc": "Comment prompt: \"Tell me in the comments\"",
   "optional": false,
-  "gid": "G69"
+  "gid": "G69",
+  "word": 164
  },
  {
   "sec": 11,
@@ -1473,7 +1546,8 @@
   "cue": "so did a hidden",
   "desc": "Title echo: Did a hidden mountain sink the Edmund Fitzgerald?",
   "optional": false,
-  "gid": "G70"
+  "gid": "G70",
+  "word": 0
  },
  {
   "sec": 11,
@@ -1482,7 +1556,8 @@
   "cue": "for the two french",
   "desc": "Verdict card, row by row: warships, Bannockburn, Fitzgerald",
   "optional": false,
-  "gid": "G71"
+  "gid": "G71",
+  "word": 13
  },
  {
   "sec": 11,
@@ -1491,7 +1566,8 @@
   "cue": "the twisted middle of",
   "desc": "The torn middle again",
   "optional": false,
-  "img": 73
+  "img": 73,
+  "word": 74
  },
  {
   "sec": 11,
@@ -1501,7 +1577,7 @@
   "desc": "Aerial view of vast open Lake Superior",
   "optional": false,
   "img": 82,
-  "prompt": "Aerial photograph of vast open Lake Superior stretching to the horizon, deep blue water, a few clouds casting shadows, no land in sight. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 87
  },
  {
   "sec": 11,
@@ -1510,7 +1586,8 @@
   "cue": "there's a mountain that",
   "desc": "Cutaway: the mountain, 21 FT",
   "optional": false,
-  "gid": "G72"
+  "gid": "G72",
+  "word": 102
  },
  {
   "sec": 11,
@@ -1520,7 +1597,7 @@
   "desc": "Underwater: a lone peak with light coming down from the surface",
   "optional": false,
   "img": 83,
-  "prompt": "Underwater shot of a lone dark rock peak rising out of deep blue-green water, soft beams of light coming down from the surface onto its tip. Shot as an underwater documentary still in the cold, clear fresh water of Lake Superior, deep blue-green water, light fading with depth, soft beams of light and fine particles floating in the water, realistic detail, no fish unless described. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 115
  },
  {
   "sec": 11,
@@ -1529,7 +1606,8 @@
   "cue": "so now you've heard",
   "desc": "Verdict prompt: YOUR VERDICT? and a comment icon",
   "optional": false,
-  "gid": "G73"
+  "gid": "G73",
+  "word": 125
  },
  {
   "sec": 11,
@@ -1538,7 +1616,8 @@
   "cue": "and if you've watched",
   "desc": "Animated Subscribe button and bell",
   "optional": false,
-  "gid": "G74"
+  "gid": "G74",
+  "word": 153
  },
  {
   "sec": 11,
@@ -1548,6 +1627,6 @@
   "desc": "Lake Superior shore at sunset, end card background",
   "optional": false,
   "img": 84,
-  "prompt": "Wide shot of the rocky Lake Superior shore at sunset, the sun low over the water, waves washing over dark rocks, deep orange and blue light, the right half of the frame calm water and sky. Shot as a modern colour documentary photograph on the shores of Lake Superior, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls and surfaces and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 190
  }
 ]
