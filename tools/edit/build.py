@@ -189,6 +189,23 @@ def watermark_png(path):
     s.write_to_png(path)
 
 
+def watermark_casefile(path):
+    """Video 3: the channel name top right in mono, with a small sonar ring."""
+    import cairo, math
+    s = cairo.ImageSurface(cairo.FORMAT_ARGB32, W, H); cr = cairo.Context(s)
+    cr.select_font_face('JetBrains Mono', 0, 1); cr.set_font_size(22)
+    label = CHANNEL.upper(); w = cr.text_extents(label).x_advance + 2 * len(label)
+    x = W - 128 - w; y = H - 70
+    cr.set_source_rgba(0, 0, 0, 0.45); cr.move_to(x + 2, y + 2); cr.show_text(label)
+    cr.set_source_rgba(1, 1, 1, 0.78)
+    for ch in label:
+        cr.move_to(x, y); cr.show_text(ch); x += cr.text_extents(ch).x_advance + 2
+    cx = W - 128 - w - 26
+    cr.set_source_rgba(1.0, 0.54, 0.24, 0.9); cr.arc(cx, y - 8, 6, 0, 2 * math.pi); cr.fill()
+    cr.set_line_width(2); cr.arc(cx, y - 8, 12, 0, 2 * math.pi); cr.stroke()
+    s.write_to_png(path)
+
+
 def lower_third(title, sub):
     from style import font, text, INK, MUTED, AMBER, BG, DISPLAY, TEXT
     def draw(cr):
@@ -197,6 +214,49 @@ def lower_third(title, sub):
         font(cr, DISPLAY, 56, bold=True); text(cr, title, 70, H - 172, INK, 1)
         font(cr, TEXT, 34); text(cr, sub, 72, H - 124, MUTED, 1)
     return overlay(draw)
+
+
+def lower_third_casefile(title, sub):
+    import cairo
+    def draw(cr):
+        g = cairo.LinearGradient(0, H - 330, 0, H); g.add_color_stop_rgba(0, 0, 0, 0, 0); g.add_color_stop_rgba(1, 0, 0.02, 0.03, 0.75)
+        cr.set_source(g); cr.rectangle(0, H - 330, 1100, 330); cr.fill()
+        cr.select_font_face('JetBrains Mono', 0, 1); cr.set_font_size(24); cr.set_source_rgba(0.37, 0.83, 0.82, 0.95)
+        cr.move_to(92, H - 214); cr.show_text(sub.upper())
+        cr.select_font_face('Inter Display Black', 0, 0); cr.set_font_size(58); cr.set_source_rgba(0.95, 0.97, 0.96, 1)
+        cr.move_to(88, H - 150); cr.show_text(title)
+        cr.set_source_rgba(1.0, 0.54, 0.24, 1); cr.rectangle(92, H - 128, 140, 6); cr.fill()
+    return overlay(draw)
+
+
+def chapter_overlay(sec, title):
+    import cairo
+    def draw(cr):
+        g = cairo.LinearGradient(0, 0, 0, 330); g.add_color_stop_rgba(0, 0, 0.02, 0.03, 0.7); g.add_color_stop_rgba(1, 0, 0, 0, 0)
+        cr.set_source(g); cr.rectangle(0, 0, W, 330); cr.fill()
+        cr.select_font_face('JetBrains Mono', 0, 1); cr.set_font_size(26); cr.set_source_rgba(1.0, 0.54, 0.24, 1)
+        cr.move_to(96, 128); cr.show_text('PART %02d' % sec)
+        cr.set_source_rgba(0.37, 0.83, 0.82, 0.8); cr.rectangle(96, 146, 60, 3); cr.fill()
+        cr.select_font_face('Inter Display Black', 0, 0); cr.set_font_size(76); cr.set_source_rgba(0.95, 0.97, 0.96, 1)
+        cr.move_to(92, 228); cr.show_text(title.upper())
+    return overlay(draw)
+
+
+_GRAIN_IMG = None
+
+
+def grade(a, i):
+    """Video 3 look: cool blue-green shadows, warm highlights, gentle contrast, moving film grain."""
+    global _GRAIN_IMG
+    x = a / 255.0
+    lum = (x[..., :1] * 0.3 + x[..., 1:2] * 0.59 + x[..., 2:] * 0.11)
+    sh = np.clip(1 - lum * 1.8, 0, 1); hi = np.clip((lum - 0.55) * 2.2, 0, 1)
+    x = x + sh * np.array([-0.018, 0.010, 0.022], np.float32) + hi * np.array([0.03, 0.012, -0.02], np.float32)
+    x = np.clip((x - 0.5) * 1.06 + 0.5, 0, 1)
+    if _GRAIN_IMG is None:
+        rng = np.random.default_rng(11)
+        _GRAIN_IMG = [rng.normal(0, 1, (H, W, 1)).astype(np.float32) for _ in range(6)]
+    return np.clip(x * 255 + _GRAIN_IMG[i % 6] * 3.5, 0, 255)
 
 
 def motion(g):
@@ -225,34 +285,76 @@ def load_image(n, src=None):
     return im
 
 
-def render_image_shot(g):
-    out = os.path.join(BUILD, 'clips', 'S%04d.mp4' % g['F0'])
-    if os.path.exists(out) and os.path.getsize(out) > 1000: return out
+def image_producer(g):
+    """f(i) -> frame i of an image shot (float RGB array), i may run past the shot for dissolves."""
     im = load_image(g['img'], V1 if g['kind'] == 'V1' else None); sw, sh = im.size
     fx, fy, z0, z1 = motion(g)
-    lt = None
-    if g['kind'] == 'F' and g['img'] in LOWER_THIRDS: lt = lower_third(*LOWER_THIRDS[g['img']])
     vig = vignette(); n = g['n']
-    if lt is not None: lt = (lt[0][H - 260:H - 90, :920], lt[1][H - 260:H - 90, :920])
-    p = subprocess.Popen(['ffmpeg', '-v', 'error', '-y', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', str(FPS),
-                          '-i', '-', '-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-pix_fmt', 'yuv420p', out],
-                         stdin=subprocess.PIPE)
-    for i in range(n):
-        f = i / max(n - 1, 1); f = f * f * (3 - 2 * f) * 0.5 + f * 0.5
-        z = z0 + (z1 - z0) * f
+    def f(i):
+        fl = i / max(n - 1, 1)
+        fs = fl * fl * (3 - 2 * fl) * 0.5 + fl * 0.5 if fl <= 1 else fl
+        z = z0 + (z1 - z0) * fs
         cw, ch = sw / z, sh / z
         cx = min(max(fx * sw, cw / 2), sw - cw / 2); cy = min(max(fy * sh, ch / 2), sh - ch / 2)
         fr = im.transform((W, H), Image.EXTENT, (cx - cw / 2, cy - ch / 2, cx + cw / 2, cy + ch / 2), Image.BILINEAR)
         a = np.asarray(fr, np.float32) * vig
+        if FORMAT == 'casefile': a = grade(a, i)
+        return a
+    return f
+
+
+def graphic_producer(g):
+    import render as R
+    d = g['dur_final']
+    return lambda i: R.frame(g['gid'], i / FPS, d, i).astype(np.float32)
+
+
+def producer(g):
+    return graphic_producer(g) if g['kind'] == 'G' else image_producer(g)
+
+
+def render_shot(job):
+    g, prev = job
+    out = os.path.join(BUILD, 'clips', 'S%04d.mp4' % g['F0'])
+    if os.path.exists(out) and os.path.getsize(out) > 1000: return out
+    cur = producer(g); n = g['n']
+    pf = producer(prev) if (prev is not None and XFADE > 0) else None
+    k = int(XFADE * FPS) if pf else 0
+    lt = None
+    if g['kind'] == 'F' and g['img'] in LOWER_THIRDS:
+        lt = (lower_third_casefile if FORMAT == 'casefile' else lower_third)(*LOWER_THIRDS[g['img']])
+        lt = (lt[0][H - 340:H - 90, :1120], lt[1][H - 340:H - 90, :1120])
+    ch = None
+    if g.get('chapter'):
+        ch = chapter_overlay(g['sec'], g['chapter']); ch = (ch[0][:340], ch[1][:340])
+    p = subprocess.Popen(['ffmpeg', '-v', 'error', '-y', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', str(FPS),
+                          '-i', '-', '-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-pix_fmt', 'yuv420p', out],
+                         stdin=subprocess.PIPE)
+    for i in range(n):
+        a = cur(i)
+        t = i / FPS
         if lt is not None:
-            t = i / FPS; al = min(1, max(0, (t - 0.6) / 0.4)) * min(1, max(0, (min(g['dur_final'], 5.5) - t) / 0.4))
+            al = min(1, max(0, (t - 0.6) / 0.4)) * min(1, max(0, (min(g['dur_final'], 5.5) - t) / 0.4))
             if al > 0:
-                r = a[H - 260:H - 90, :920] / 255
-                a[H - 260:H - 90, :920] = (r * (1 - lt[1] * al) + lt[0] * al) * 255
-        if g['F0'] == 0: a *= min(1, i / (0.5 * FPS))
+                r = a[H - 340:H - 90, :1120] / 255
+                a[H - 340:H - 90, :1120] = (r * (1 - lt[1] * al) + lt[0] * al) * 255
+        if ch is not None:
+            al = min(1, max(0, (t - 0.35) / 0.4)) * min(1, max(0, (min(g['dur_final'] - 0.3, 3.6) - t) / 0.4))
+            if al > 0:
+                r = a[:340] / 255
+                a[:340] = (r * (1 - ch[1] * al) + ch[0] * al) * 255
+        if i < k:
+            w = (i + 1) / (k + 1); w = w * w * (3 - 2 * w)
+            a = pf(prev['n'] + i) * (1 - w) + a * w
+        if g['F0'] == 0: a = a * min(1, i / (0.5 * FPS))
+        if g.get('last'): a = a * min(1, (n - 1 - i) / (1.2 * FPS))
         p.stdin.write(np.clip(a, 0, 255).astype(np.uint8).tobytes())
     p.stdin.close(); p.wait()
     return out
+
+
+def render_image_shot(g):
+    return render_shot((g, None))
 
 
 def images(only=None):
@@ -265,6 +367,29 @@ def images(only=None):
     with Pool(4) as pool:
         for k, out in enumerate(pool.imap_unordered(render_image_shot, jobs)):
             if k % 10 == 0: print('image clips', k + 1, '/', len(jobs), flush=True)
+
+
+def shots(only=None):
+    """Render every shot (images and graphics) with dissolves from the shot before."""
+    tl = timeline(); os.makedirs(os.path.join(BUILD, 'clips'), exist_ok=True)
+    seq = tl['shots']
+    first = {}
+    for g in seq: first.setdefault(g['sec'], g['F0'])
+    jobs = []
+    for k, g in enumerate(seq):
+        g = dict(g)
+        if first[g['sec']] == g['F0'] and g['sec'] in CHAPTERS and g['sec'] not in CHAPTER_SKIP and g['kind'] != 'G':
+            g['chapter'] = CHAPTERS[g['sec']]
+        g['last'] = k == len(seq) - 1
+        prev = seq[k - 1] if k > 0 else None
+        if only and g['F0'] not in only and g.get('gid') not in only and g.get('img') not in only: continue
+        if only:
+            out = os.path.join(BUILD, 'clips', 'S%04d.mp4' % g['F0'])
+            if os.path.exists(out): os.remove(out)
+        jobs.append((g, prev))
+    with Pool(int(os.environ.get('JOBS', '4'))) as pool:
+        for k, out in enumerate(pool.imap_unordered(render_shot, jobs)):
+            if k % 10 == 0: print('shots', k + 1, '/', len(jobs), flush=True)
 
 
 # ---------------------------------------------------------------------------- graphics
@@ -337,6 +462,10 @@ DISPLAY = [
 # per-video settings override the video 1 defaults above
 GFX_SET = 'video1'
 PALETTE = None
+FORMAT = 'classic'      # 'casefile' (video 3): dissolves, chapter titles, new captions, grade, grain, sound bed
+XFADE = 0.0             # seconds of dissolve between shots
+CHAPTERS = {}           # section -> chapter title shown over its first picture
+CHAPTER_SKIP = set()
 _cfg = os.path.join(V, 'edit_config.py')
 if os.path.exists(_cfg):
     exec(open(_cfg).read())
@@ -394,9 +523,10 @@ def video(out, to=None):
             f.write("file '%s'\n" % os.path.join(BUILD, 'clips', 'S%04d.mp4' % g['F0']))
     vid = os.path.join(BUILD, 'video-only.mp4')
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', lst, '-c', 'copy', vid], check=True)
-    wm = os.path.join(BUILD, 'watermark.png'); watermark_png(wm)
+    wm = os.path.join(BUILD, 'watermark.png'); (watermark_casefile if FORMAT == 'casefile' else watermark_png)(wm)
+    aud = os.path.join(BUILD, 'mix.wav') if os.path.exists(os.path.join(BUILD, 'mix.wav')) else os.path.join(BUILD, 'voice.wav')
     end_card_start = tl['shots'][-1]['T']
-    cmd = ['ffmpeg', '-v', 'error', '-y', '-i', vid, '-i', wm, '-i', os.path.join(BUILD, 'voice.wav'),
+    cmd = ['ffmpeg', '-v', 'error', '-y', '-i', vid, '-i', wm, '-i', aud,
            '-filter_complex', "[0:v][1:v]overlay=0:0:enable='lt(t,%.2f)'[v]" % end_card_start,
            '-map', '[v]', '-map', '2:a', '-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-pix_fmt', 'yuv420p',
            '-c:a', 'aac', '-b:a', '192k', '-shortest', '-movflags', '+faststart']
@@ -410,6 +540,9 @@ if __name__ == '__main__':
     if m == 'plan': plan()
     elif m == 'images': images([int(x) for x in sys.argv[2:]] or None)
     elif m == 'graphics': graphics()
+    elif m == 'shots': shots(set(x if x.startswith('G') else int(x) for x in sys.argv[2:]) or None)
+    elif m == 'sound':
+        import sound; sound.make(timeline(), V, BUILD)
     elif m == 'audio': audio()
     elif m == 'subs': subs()
     elif m == 'video':

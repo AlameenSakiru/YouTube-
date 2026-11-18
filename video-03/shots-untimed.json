@@ -94,7 +94,7 @@
   "kind": "G",
   "style": "-",
   "cue": "there is a mountain",
-  "desc": "Cutaway: the lake in cross-section, a mountain rising from the floor",
+  "desc": "Cutaway: the lake in cross-section, a mountain rising from the floor, zooming to the peak 21 FT below the surface",
   "optional": false,
   "gid": "G05",
   "word": 94
@@ -103,20 +103,10 @@
   "sec": 1,
   "kind": "G",
   "style": "-",
-  "cue": "its highest peak stops",
-  "desc": "Cutaway zoom: the peak, 21 FT below the surface",
-  "optional": false,
-  "gid": "G06",
-  "word": 98
- },
- {
-  "sec": 1,
-  "kind": "G",
-  "style": "-",
   "cue": "fully loaded the edmund",
   "desc": "Cutaway: a freighter hull above the peak, 25 FT draft",
   "optional": false,
-  "gid": "G07",
+  "gid": "G06",
   "word": 109
  },
  {
@@ -174,10 +164,30 @@
   "kind": "G",
   "style": "-",
   "cue": "this is great lakes files",
-  "desc": "Channel title card",
+  "desc": "Channel title stinger",
   "optional": false,
-  "gid": "G08",
+  "gid": "G07",
   "word": 202
+ },
+ {
+  "sec": 1,
+  "kind": "R",
+  "style": "-",
+  "cue": "we go looking for",
+  "desc": "The lava ridge again",
+  "optional": false,
+  "img": 9,
+  "word": 207
+ },
+ {
+  "sec": 1,
+  "kind": "R",
+  "style": "-",
+  "cue": "and here's the thing",
+  "desc": "The freighter in the storm again",
+  "optional": false,
+  "img": 1,
+  "word": 219
  },
  {
   "sec": 1,
@@ -186,7 +196,7 @@
   "cue": "tap subscribe right now",
   "desc": "Animated Subscribe button and bell, a cursor clicking it",
   "optional": false,
-  "gid": "G09",
+  "gid": "G08",
   "word": 239
  },
  {
@@ -194,20 +204,10 @@
   "kind": "G",
   "style": "-",
   "cue": "it's called superior shoal",
-  "desc": "Title card: Superior Shoal",
+  "desc": "Map: SUPERIOR SHOAL title, then the Keweenaw Peninsula, Copper Harbor, the shoal 50 miles north",
   "optional": false,
-  "gid": "G10",
+  "gid": "G09",
   "word": 0
- },
- {
-  "sec": 2,
-  "kind": "G",
-  "style": "-",
-  "cue": "it sits about fifty miles",
-  "desc": "Map: the Keweenaw Peninsula, Copper Harbor, the shoal 50 miles north",
-  "optional": false,
-  "gid": "G11",
-  "word": 4
  },
  {
   "sec": 2,
@@ -226,7 +226,7 @@
   "cue": "it covers about twenty",
   "desc": "Map: the outline of the shoal, about 20 square miles",
   "optional": false,
-  "gid": "G12",
+  "gid": "G10",
   "word": 24
  },
  {
@@ -246,7 +246,7 @@
   "cue": "when this part of north",
   "desc": "Map: the rift across Lake Superior, about 1.1 billion years ago",
   "optional": false,
-  "gid": "G13",
+  "gid": "G11",
   "word": 44
  },
  {
@@ -256,7 +256,7 @@
   "cue": "four ridges run across",
   "desc": "Relief view of the shoal: four ridges and the gorge",
   "optional": false,
-  "gid": "G14",
+  "gid": "G12",
   "word": 54
  },
  {
@@ -306,7 +306,7 @@
   "cue": "but for a long time",
   "desc": "Chart: the middle of the lake blank, \"hundreds of feet\"",
   "optional": false,
-  "gid": "G15",
+  "gid": "G13",
   "word": 103
  },
  {
@@ -331,16 +331,6 @@
  },
  {
   "sec": 2,
-  "kind": "G",
-  "style": "-",
-  "cue": "didn't chart it until",
-  "desc": "Date card: charted in 1929",
-  "optional": false,
-  "gid": "G16",
-  "word": 136
- },
- {
-  "sec": 2,
   "kind": "F",
   "style": "S",
   "cue": "two of the strangest",
@@ -356,7 +346,7 @@
   "cue": "november the twenty first",
   "desc": "Date card: 21 November 1902",
   "optional": false,
-  "gid": "G17",
+  "gid": "G14",
   "word": 0
  },
  {
@@ -376,7 +366,7 @@
   "cue": "with eighty five thousand",
   "desc": "Number card: 85,000 bushels of wheat",
   "optional": false,
-  "gid": "G18",
+  "gid": "G15",
   "word": 19
  },
  {
@@ -396,7 +386,7 @@
   "cue": "most of his crew were",
   "desc": "Card: crew aged 17 to 20; a wheelsman of 16",
   "optional": false,
-  "gid": "G19",
+  "gid": "G16",
   "word": 41
  },
  {
@@ -426,7 +416,7 @@
   "cue": "about seven miles away",
   "desc": "Map: the Algonquin and the Bannockburn, 7 miles apart, 40 miles from Isle Royale",
   "optional": false,
-  "gid": "G20",
+  "gid": "G17",
   "word": 73
  },
  {
@@ -476,7 +466,7 @@
   "cue": "the bannockburn never reached",
   "desc": "Map: her route to Sault Ste. Marie, broken off",
   "optional": false,
-  "gid": "G21",
+  "gid": "G18",
   "word": 139
  },
  {
@@ -488,6 +478,16 @@
   "optional": false,
   "img": 28,
   "word": 149
+ },
+ {
+  "sec": 3,
+  "kind": "R",
+  "style": "-",
+  "cue": "if it was her",
+  "desc": "Closer on the storm",
+  "optional": false,
+  "img": 27,
+  "word": 171
  },
  {
   "sec": 3,
@@ -506,7 +506,7 @@
   "cue": "one manager even told",
   "desc": "Quote card: \"Crew safe.\" It wasn't true",
   "optional": false,
-  "gid": "G22",
+  "gid": "G19",
   "word": 187
  },
  {
@@ -521,12 +521,22 @@
  },
  {
   "sec": 3,
+  "kind": "R",
+  "style": "-",
+  "cue": "it's the only piece",
+  "desc": "Closer on the life jacket",
+  "optional": false,
+  "img": 30,
+  "word": 220
+ },
+ {
+  "sec": 3,
   "kind": "G",
   "style": "-",
   "cue": "no wreck no bodies",
   "desc": "Text: no wreck, no bodies",
   "optional": false,
-  "gid": "G23",
+  "gid": "G20",
   "word": 228
  },
  {
@@ -546,7 +556,7 @@
   "cue": "there are plenty of",
   "desc": "Card: the theories: boiler explosion, Caribou Island reef, Superior Shoal",
   "optional": false,
-  "gid": "G24",
+  "gid": "G21",
   "word": 249
  },
  {
@@ -556,7 +566,7 @@
   "cue": "but one theory points",
   "desc": "Map: the last sighting and the shoal",
   "optional": false,
-  "gid": "G25",
+  "gid": "G22",
   "word": 262
  },
  {
@@ -586,7 +596,7 @@
   "cue": "each was a hundred",
   "desc": "Card: 135 feet, two deck guns",
   "optional": false,
-  "gid": "G26",
+  "gid": "G23",
   "word": 30
  },
  {
@@ -606,7 +616,7 @@
   "cue": "by the time they were",
   "desc": "Date card: the war ends, 11 November 1918",
   "optional": false,
-  "gid": "G27",
+  "gid": "G24",
   "word": 54
  },
  {
@@ -626,7 +636,7 @@
   "cue": "the sebastopol the inkerman",
   "desc": "Card: the three names",
   "optional": false,
-  "gid": "G28",
+  "gid": "G25",
   "word": 88
  },
  {
@@ -666,7 +676,7 @@
   "cue": "seventy eight men were lost",
   "desc": "Number card: 78 men",
   "optional": false,
-  "gid": "G29",
+  "gid": "G26",
   "word": 123
  },
  {
@@ -676,7 +686,7 @@
   "cue": "and they were the last",
   "desc": "Card: the last warships lost on the Great Lakes",
   "optional": false,
-  "gid": "G30",
+  "gid": "G27",
   "word": 138
  },
  {
@@ -696,7 +706,7 @@
   "cue": "their route to the locks",
   "desc": "Map: their route to the Soo and the shoal near it",
   "optional": false,
-  "gid": "G31",
+  "gid": "G28",
   "word": 169
  },
  {
@@ -706,7 +716,7 @@
   "cue": "eleven years later in",
   "desc": "Chart: the shoal appears in 1929, the route moves",
   "optional": false,
-  "gid": "G32",
+  "gid": "G29",
   "word": 201
  },
  {
@@ -736,7 +746,7 @@
   "cue": "seven hundred and twenty",
   "desc": "Scale card: 729 feet",
   "optional": false,
-  "gid": "G33",
+  "gid": "G30",
   "word": 19
  },
  {
@@ -756,7 +766,7 @@
   "cue": "loaded with more than",
   "desc": "Card: 26,116 tons of taconite",
   "optional": false,
-  "gid": "G34",
+  "gid": "G31",
   "word": 45
  },
  {
@@ -796,7 +806,7 @@
   "cue": "the forecast wasn't unusual",
   "desc": "Map: the storm moving in, gale warnings for the whole lake",
   "optional": false,
-  "gid": "G35",
+  "gid": "G32",
   "word": 84
  },
  {
@@ -816,7 +826,7 @@
   "cue": "another captain heard him",
   "desc": "Quote card: \"We're going to try for some lee from Isle Royale.\"",
   "optional": false,
-  "gid": "G36",
+  "gid": "G33",
   "word": 120
  },
  {
@@ -826,18 +836,8 @@
   "cue": "isle royale the bannockburn",
   "desc": "Map: Isle Royale, the Bannockburn's last sighting, the Fitzgerald's course",
   "optional": false,
-  "gid": "G37",
+  "gid": "G34",
   "word": 138
- },
- {
-  "sec": 5,
-  "kind": "G",
-  "style": "-",
-  "cue": "toward the mountain",
-  "desc": "Map: the course line reaching the shoal",
-  "optional": false,
-  "gid": "G38",
-  "word": 168
  },
  {
   "sec": 6,
@@ -856,7 +856,7 @@
   "cue": "there are four main",
   "desc": "Card: four answers",
   "optional": false,
-  "gid": "G39",
+  "gid": "G35",
   "word": 16
  },
  {
@@ -866,7 +866,7 @@
   "cue": "the coast guard said",
   "desc": "Diagram: water seeping in past the hatch covers",
   "optional": false,
-  "gid": "G40",
+  "gid": "G36",
   "word": 21
  },
  {
@@ -886,7 +886,7 @@
   "cue": "the shipping companies said",
   "desc": "Map: Caribou Island and the shoal near it",
   "optional": false,
-  "gid": "G41",
+  "gid": "G37",
   "word": 61
  },
  {
@@ -901,12 +901,22 @@
  },
  {
   "sec": 6,
+  "kind": "R",
+  "style": "-",
+  "cue": "burying her deck",
+  "desc": "The wave over the hatches again",
+  "optional": false,
+  "img": 48,
+  "word": 105
+ },
+ {
+  "sec": 6,
   "kind": "G",
   "style": "-",
   "cue": "and then there's the",
   "desc": "Cutaway: the mountain",
   "optional": false,
-  "gid": "G42",
+  "gid": "G38",
   "word": 111
  },
  {
@@ -914,19 +924,39 @@
   "kind": "G",
   "style": "-",
   "cue": "before you hear the",
-  "desc": "Comment prompt: three big cards, WAVES / HATCHES / MOUNTAIN, then a comment icon",
+  "desc": "Comment prompt: three big cards, WAVES / HATCHES / MOUNTAIN",
   "optional": false,
-  "gid": "G43",
+  "gid": "G39",
   "word": 116
+ },
+ {
+  "sec": 6,
+  "kind": "G",
+  "style": "-",
+  "cue": "put it in the comments",
+  "desc": "Comment box: a comment being typed, ONE WORD IS ENOUGH",
+  "optional": false,
+  "gid": "G40",
+  "word": 131
+ },
+ {
+  "sec": 6,
+  "kind": "R",
+  "style": "-",
+  "cue": "then at the end see",
+  "desc": "The wreck again",
+  "optional": false,
+  "img": 47,
+  "word": 142
  },
  {
   "sec": 6,
   "kind": "R",
   "style": "-",
   "cue": "and stay with me",
-  "desc": "The wreck again",
+  "desc": "The bow in the dark again",
   "optional": false,
-  "img": 47,
+  "img": 10,
   "word": 152
  },
  {
@@ -938,16 +968,6 @@
   "optional": false,
   "img": 50,
   "word": 0
- },
- {
-  "sec": 7,
-  "kind": "G",
-  "style": "-",
-  "cue": "paul hainault a retired",
-  "desc": "Name card: Paul Hainault, retired professor of mechanical engineering, Michigan Tech",
-  "optional": false,
-  "gid": "G44",
-  "word": 4
  },
  {
   "sec": 7,
@@ -966,7 +986,7 @@
   "cue": "hainault believes that at",
   "desc": "Time card: 9:30 a.m., 10 November 1975",
   "optional": false,
-  "gid": "G45",
+  "gid": "G41",
   "word": 26
  },
  {
@@ -986,7 +1006,7 @@
   "cue": "remember the numbers",
   "desc": "Cutaway: 21 FT against 25 FT",
   "optional": false,
-  "gid": "G46",
+  "gid": "G42",
   "word": 46
  },
  {
@@ -1006,7 +1026,7 @@
   "cue": "it was a saysh",
   "desc": "Side view: the lake rocking from end to end",
   "optional": false,
-  "gid": "G47",
+  "gid": "G43",
   "word": 85
  },
  {
@@ -1036,7 +1056,7 @@
   "cue": "hainault believes that slosh",
   "desc": "Cutaway: a wave trough drops the ship onto the peak",
   "optional": false,
-  "gid": "G48",
+  "gid": "G44",
   "word": 128
  },
  {
@@ -1046,7 +1066,7 @@
   "cue": "in his version the",
   "desc": "Cutaway: 200 feet of hull scraping the rock",
   "optional": false,
-  "gid": "G49",
+  "gid": "G45",
   "word": 148
  },
  {
@@ -1056,7 +1076,7 @@
   "cue": "remember that number too",
   "desc": "Number card: 200 feet",
   "optional": false,
-  "gid": "G50",
+  "gid": "G46",
   "word": 164
  },
  {
@@ -1081,13 +1101,33 @@
  },
  {
   "sec": 7,
-  "kind": "G",
+  "kind": "R",
   "style": "-",
   "cue": "if that number twenty",
+  "desc": "The ship over the peak again",
+  "optional": false,
+  "img": 7,
+  "word": 191
+ },
+ {
+  "sec": 7,
+  "kind": "G",
+  "style": "-",
+  "cue": "do two things for me",
   "desc": "Animated Like then Subscribe buttons, a cursor clicking them",
   "optional": false,
-  "gid": "G51",
-  "word": 191
+  "gid": "G47",
+  "word": 205
+ },
+ {
+  "sec": 7,
+  "kind": "R",
+  "style": "-",
+  "cue": "for a small channel",
+  "desc": "Open Lake Superior again",
+  "optional": false,
+  "img": 11,
+  "word": 222
  },
  {
   "sec": 8,
@@ -1096,7 +1136,7 @@
   "cue": "here is what we",
   "desc": "Timeline card: the afternoon of 10 November",
   "optional": false,
-  "gid": "G52",
+  "gid": "G48",
   "word": 0
  },
  {
@@ -1126,7 +1166,7 @@
   "cue": "just after three thirty",
   "desc": "Quote card: a fence rail down, two vents lost, a list",
   "optional": false,
-  "gid": "G53",
+  "gid": "G49",
   "word": 39
  },
  {
@@ -1151,13 +1191,23 @@
  },
  {
   "sec": 8,
+  "kind": "R",
+  "style": "-",
+  "cue": "those details matter",
+  "desc": "The listing freighter again",
+  "optional": false,
+  "img": 60,
+  "word": 79
+ },
+ {
+  "sec": 8,
   "kind": "G",
   "style": "-",
-  "cue": "those details matter the",
+  "cue": "the shipping companies argued",
   "desc": "Diagram: a hull bending over a rock, the rail pulled tight",
   "optional": false,
-  "gid": "G54",
-  "word": 79
+  "gid": "G50",
+  "word": 82
  },
  {
   "sec": 8,
@@ -1166,7 +1216,7 @@
   "cue": "they meant the shoal",
   "desc": "Map: Caribou Island, the shoal, the Fitzgerald's track",
   "optional": false,
-  "gid": "G55",
+  "gid": "G51",
   "word": 119
  },
  {
@@ -1196,7 +1246,7 @@
   "cue": "another captain overheard mcsorley",
   "desc": "Quote card: \"Don't allow nobody on deck.\"",
   "optional": false,
-  "gid": "G56",
+  "gid": "G52",
   "word": 167
  },
  {
@@ -1233,11 +1283,11 @@
   "sec": 8,
   "kind": "F",
   "style": "F",
-  "cue": "toward the fitzgerald",
+  "cue": "her captain said those",
   "desc": "Waves rolling away into darkness",
   "optional": false,
   "img": 67,
-  "word": 231
+  "word": 223
  },
  {
   "sec": 8,
@@ -1246,7 +1296,7 @@
   "cue": "at ten past seven came",
   "desc": "Quote card: \"We are holding our own.\"",
   "optional": false,
-  "gid": "G57",
+  "gid": "G53",
   "word": 234
  },
  {
@@ -1266,7 +1316,7 @@
   "cue": "now the case against",
   "desc": "Title card: The case against the mountain",
   "optional": false,
-  "gid": "G58",
+  "gid": "G54",
   "word": 0
  },
  {
@@ -1276,7 +1326,7 @@
   "cue": "first the timing if",
   "desc": "Timeline: 9:30 a.m. to 3:30 p.m., six hours",
   "optional": false,
-  "gid": "G59",
+  "gid": "G55",
   "word": 11
  },
  {
@@ -1296,7 +1346,7 @@
   "cue": "second the official investigations",
   "desc": "Cards: Coast Guard 1977 and NTSB 1978: the hatch covers",
   "optional": false,
-  "gid": "G60",
+  "gid": "G56",
   "word": 49
  },
  {
@@ -1308,16 +1358,6 @@
   "optional": false,
   "img": 69,
   "word": 76
- },
- {
-  "sec": 9,
-  "kind": "G",
-  "style": "-",
-  "cue": "in two pieces",
-  "desc": "Diagram: the wreck on the bottom, bow, stern and debris",
-  "optional": false,
-  "gid": "G61",
-  "word": 89
  },
  {
   "sec": 9,
@@ -1356,7 +1396,7 @@
   "cue": "but hainault's theory says",
   "desc": "Hull diagram, the middle highlighted",
   "optional": false,
-  "gid": "G62",
+  "gid": "G57",
   "word": 141
  },
  {
@@ -1376,7 +1416,7 @@
   "cue": "when the navy surveyed",
   "desc": "Diagram: bow 276 ft, stern 253 ft, ship 729 ft",
   "optional": false,
-  "gid": "G63",
+  "gid": "G58",
   "word": 173
  },
  {
@@ -1386,7 +1426,7 @@
   "cue": "do the sum and",
   "desc": "Diagram: the 200 ft gap highlighted",
   "optional": false,
-  "gid": "G64",
+  "gid": "G59",
   "word": 209
  },
  {
@@ -1396,7 +1436,7 @@
   "cue": "two hundred feet the",
   "desc": "Side by side: 200 ft scraped, 200 ft missing",
   "optional": false,
-  "gid": "G65",
+  "gid": "G60",
   "word": 222
  },
  {
@@ -1446,7 +1486,7 @@
   "cue": "the inkerman and the",
   "desc": "Card: never found, \"the Holy Grail of Lake Superior\"",
   "optional": false,
-  "gid": "G66",
+  "gid": "G61",
   "word": 21
  },
  {
@@ -1476,7 +1516,7 @@
   "cue": "and no one can dive",
   "desc": "Card: licence from Ontario, fines up to CA$1 million",
   "optional": false,
-  "gid": "G67",
+  "gid": "G62",
   "word": 52
  },
  {
@@ -1501,6 +1541,16 @@
  },
  {
   "sec": 10,
+  "kind": "R",
+  "style": "-",
+  "cue": "the real bell is now",
+  "desc": "Closer on the bell",
+  "optional": false,
+  "img": 79,
+  "word": 103
+ },
+ {
+  "sec": 10,
   "kind": "F",
   "style": "B",
   "cue": "the day after she sank",
@@ -1516,7 +1566,7 @@
   "cue": "once for each man",
   "desc": "Counter: 29 bell strokes",
   "optional": false,
-  "gid": "G68",
+  "gid": "G63",
   "word": 131
  },
  {
@@ -1536,7 +1586,7 @@
   "cue": "tell me in the comments",
   "desc": "Comment prompt: \"Tell me in the comments\"",
   "optional": false,
-  "gid": "G69",
+  "gid": "G64",
   "word": 164
  },
  {
@@ -1546,7 +1596,7 @@
   "cue": "so did a hidden",
   "desc": "Title echo: Did a hidden mountain sink the Edmund Fitzgerald?",
   "optional": false,
-  "gid": "G70",
+  "gid": "G65",
   "word": 0
  },
  {
@@ -1554,10 +1604,30 @@
   "kind": "G",
   "style": "-",
   "cue": "for the two french",
-  "desc": "Verdict card, row by row: warships, Bannockburn, Fitzgerald",
+  "desc": "Verdict: the warships, ONE OF THE STRONGEST SUSPECTS",
   "optional": false,
-  "gid": "G71",
+  "gid": "G66",
   "word": 13
+ },
+ {
+  "sec": 11,
+  "kind": "G",
+  "style": "-",
+  "cue": "for the bannockburn it's",
+  "desc": "Verdict: the Bannockburn, ONE POSSIBILITY",
+  "optional": false,
+  "gid": "G67",
+  "word": 38
+ },
+ {
+  "sec": 11,
+  "kind": "G",
+  "style": "-",
+  "cue": "for the fitzgerald the official",
+  "desc": "Verdict: the Fitzgerald, OFFICIAL ANSWER: THE HATCH COVERS. THE MOUNTAIN: A THEORY",
+  "optional": false,
+  "gid": "G68",
+  "word": 46
  },
  {
   "sec": 11,
@@ -1586,7 +1656,7 @@
   "cue": "there's a mountain that",
   "desc": "Cutaway: the mountain, 21 FT",
   "optional": false,
-  "gid": "G72",
+  "gid": "G69",
   "word": 102
  },
  {
@@ -1606,18 +1676,28 @@
   "cue": "so now you've heard",
   "desc": "Verdict prompt: YOUR VERDICT? and a comment icon",
   "optional": false,
-  "gid": "G73",
+  "gid": "G70",
   "word": 125
+ },
+ {
+  "sec": 11,
+  "kind": "R",
+  "style": "-",
+  "cue": "and if you've watched",
+  "desc": "Aerial lake again",
+  "optional": false,
+  "img": 82,
+  "word": 153
  },
  {
   "sec": 11,
   "kind": "G",
   "style": "-",
-  "cue": "and if you've watched",
+  "cue": "so if you haven't subscribed",
   "desc": "Animated Subscribe button and bell",
   "optional": false,
-  "gid": "G74",
-  "word": 153
+  "gid": "G71",
+  "word": 170
  },
  {
   "sec": 11,
@@ -1628,5 +1708,15 @@
   "optional": false,
   "img": 84,
   "word": 190
+ },
+ {
+  "sec": 11,
+  "kind": "G",
+  "style": "-",
+  "cue": "thanks for watching",
+  "desc": "End card: next video and subscribe, on the sunset",
+  "optional": false,
+  "gid": "G72",
+  "word": 213
  }
 ]

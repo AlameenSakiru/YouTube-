@@ -23,6 +23,9 @@ GFX_SET = os.environ.get('GFX_SET', 'video1')
 if GFX_SET == 'video2':
     import video2
     REG = video2.G
+elif GFX_SET == 'video3':
+    import video3
+    REG = video3.G
 else:
     REG = graphics.G
 
