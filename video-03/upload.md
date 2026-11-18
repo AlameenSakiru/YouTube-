@@ -14,9 +14,9 @@ Backups if the click rate is under 4% after 48 hours:
 ## Description
 
 ```
-In the middle of Lake Superior, a mountain rises to just 21 feet below the surface. Fully loaded, the Edmund Fitzgerald sat about 25 feet deep. Did it hit that mountain on the morning she sank?
+Did a hidden mountain sink the Edmund Fitzgerald? In the middle of Lake Superior, Superior Shoal rises to just 21 feet below the surface. Fully loaded, the Fitzgerald sat about 25 feet deep.
 
-This documentary follows every ship linked to Superior Shoal: the Bannockburn, which vanished in minutes in 1902; the French minesweepers Inkerman and Cerisoles, lost with 78 men in 1918 and never found; and the Edmund Fitzgerald in November 1975. We look at Paul Hainault's theory that the Fitzgerald grounded on the shoal, the evidence against it, the other answers (the hatch covers, the rogue waves called the three sisters, and Six Fathom Shoal near Caribou Island), and the one place where the proof could still be.
+This Edmund Fitzgerald documentary follows every ship linked to the mountain: the SS Bannockburn, which vanished in minutes in 1902; the French minesweepers Inkerman and Cerisoles, lost with 78 men in 1918 and never found; and the wreck of the Edmund Fitzgerald in November 1975. We look at Paul Hainault's theory that she grounded on the shoal, the evidence against it, the other answers to what sank the Edmund Fitzgerald (the hatch covers, the rogue waves Lake Superior sailors call the three sisters, and Six Fathom Shoal near Caribou Island), and why Lake Superior is so dangerous for ships.
 
 All the images in this video are AI illustrations, not photographs. Maps and diagrams are approximate.
 
@@ -46,11 +46,13 @@ National Transportation Safety Board, Marine Accident Report: SS Edmund Fitzgera
 
 ## Tags
 
-Paste this into the Tags box. It is 463 characters, inside YouTube's 500 limit:
+Paste this into the Tags box. It is 472 characters, inside YouTube's 500 limit. Rechecked on 18 November: every tag except the channel name is a phrase YouTube suggests while typing, ordered from most to least searched.
 
 ```
-Edmund Fitzgerald, what sank the Edmund Fitzgerald, Edmund Fitzgerald sinking, Edmund Fitzgerald mystery, Edmund Fitzgerald theory, Superior Shoal, Lake Superior underwater mountain, Lake Superior mountain, why is Lake Superior so dangerous, Lake Superior shipwrecks, bottom of Lake Superior, Inkerman and Cerisoles, SS Bannockburn, Six Fathom Shoal, Lake Superior documentary, Great Lakes shipwrecks, shipwreck documentary, Great Lakes history, Great Lakes Files
+Edmund Fitzgerald, what sank the Edmund Fitzgerald, Edmund Fitzgerald documentary, Edmund Fitzgerald sinking, Edmund Fitzgerald wreck, Superior Shoal, Lake Superior underwater mountain, Lake Superior shipwrecks, Great Lakes shipwrecks, why is Lake Superior so dangerous, bottom of Lake Superior, Six Fathom Shoal, SS Bannockburn, Inkerman and Cerisoles, rogue wave Lake Superior, shipwreck documentary, Lake Superior documentary, Lake Superior mysteries, Great Lakes Files
 ```
+
+Changed from the first version: added "Edmund Fitzgerald documentary" (suggested after 8 letters), "Edmund Fitzgerald wreck" (8 letters) and "rogue wave Lake Superior"; dropped "Edmund Fitzgerald theory" and "mystery" (barely suggested) and "Lake Superior mountain" (covered by the underwater-mountain tag). Left out on purpose: "Gordon Lightfoot" and the song. They are searched a lot, but the video is not about them, and misleading tags break YouTube's spam rules.
 
 ## Settings
 
@@ -64,6 +66,15 @@ Edmund Fitzgerald, what sank the Edmund Fitzgerald, Edmund Fitzgerald sinking, E
 - **Playlist:** "Great Lakes Mysteries and Disasters", with videos 1 and 2
 - **End screen:** the last 16 seconds show "Thanks for watching" on the left. Put a **Video** element (video 2, the Lake Erie seiche, because both stories have a seiche) and a **Subscribe** element on the right
 - **Visibility:** upload, then **Schedule** so YouTube finishes the HD version first. Suggested: 20:00 GMT, the same slot as video 2
+
+## After it goes live: point the other videos at it
+
+These matter more than tags. YouTube pushes a video harder when people arrive from other videos and keep watching.
+
+- **Video 2's end screen:** change its Video element to this video (both have a seiche in them).
+- **Video 1's end screen:** change its Video element to this video too.
+- **Playlist:** put this video first in "Great Lakes Mysteries and Disasters".
+- **Community tab** (if your channel has it): post the poll "What sank the Edmund Fitzgerald? The waves / The hatch covers / A hidden mountain" with the video linked.
 
 ## Pinned comment (post it the moment the video is live)
 
