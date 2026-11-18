@@ -577,7 +577,7 @@ def g09(cr, t, d):
 def g10(cr, t, d):
     map_base(cr, SHOALV, t, 'FILE 03 · SUPERIOR SHOAL')
     x, y = SHOALV.xy(*PLACES['Superior Shoal'])
-    k = ease_out(t / 1.2)
+    k = max(0.02, ease_out(t / 1.2))
     cr.save(); cr.translate(x, y); cr.scale(k, k)
     cr.move_to(-120, -10)
     for ang in np.linspace(0, 2 * math.pi, 40):
