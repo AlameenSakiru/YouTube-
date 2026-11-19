@@ -11,6 +11,23 @@ Backups if the click rate is under 4% after 48 hours:
 - The Mountain Hidden in Lake Superior That May Have Sunk the Edmund Fitzgerald
 - There's a Mountain 21 Feet Below Lake Superior. Did It Sink the Fitzgerald?
 
+## The videos this one is based on
+
+These are the videos whose results decided the topic, the angle and the title. Watch them to see what is working in the niche.
+
+| Video | Channel | Views | Why it mattered |
+|---|---|---|---|
+| [The Terrifying Mountain Hidden Beneath Lake Superior](https://www.youtube.com/watch?v=A8dLpND37lM) | HiddenHistoryForSleep | 200,034 in 2 months | Proved people want the mountain itself |
+| [Did Superior Shoal Sink the Fitzgerald? (Hainault theory)](https://www.youtube.com/watch?v=RXVugPFEMgo) | History Mystery Man | 75,308 in 4 weeks | The exact theory, in a talk-show format with a messy title. Room for a clean, visual version |
+| [P2: Hainault Theory Uncovered](https://www.youtube.com/watch?v=axZdkbR9-qA) | History Mystery Man | 27,108 in 3 weeks | Follow-up demand for the same theory |
+| [The Edmund Fitzgerald: What Really Happened That Night?](https://www.youtube.com/watch?v=jPwU4ZGlH1g) | FORGOTTEN HISTORY | 296,051 in 2 weeks | Fitzgerald demand this November |
+| [Divers Entered the Edmund Fitzgerald](https://www.youtube.com/watch?v=vKEymb73-mU) | Funeral Report | 1,142,731 in 2 months | The size of the Fitzgerald audience |
+| [What Sank the Edmund Fitzgerald?](https://www.youtube.com/watch?v=QQO5-TSKEdA) | June First | 1,825,931 in a year | Proof that a question title works for this ship |
+| [The Horrifying SS Bannockburn Mystery](https://www.youtube.com/watch?v=Bqb71vmToWg) | Big Old Boats | 240,626 in 11 days | Demand for the Bannockburn, one of our three ships |
+| [Lake Superior Is WAY More Dangerous Than People Think](https://www.youtube.com/watch?v=chcobUZcOF0) | Odd Atlas Files | 252,458 in a month | "Danger in a real place" packaging |
+
+Full research: [research/video-03-topic-2026-11-14.md](../research/video-03-topic-2026-11-14.md). Publish timing: [research/publish-timing-2026-11-19.md](../research/publish-timing-2026-11-19.md).
+
 ## Description
 
 ```
