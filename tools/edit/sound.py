@@ -91,6 +91,10 @@ INSIDE = ('pilothouse', 'engine room', 'mess', 'hold', 'desk', 'classroom', 'chu
 def amb(style, desc):
     d = desc.lower()
     if style == 'U': return (0.0, 0.05, 1.0)
+    if style == 'X' and any(w in d for w in ('flooding', 'pouring back', 'rising', 'covering')): return (0.2, 0.95, 0.35)
+    if style == 'X': return (0.38, 0.10, 0.30)       # the drained Straits: wind over an empty lake bed
+    if style == 'P': return (0.30, 0.40, 0.0)
+    if style == 'A' and ('waterfall' in d or 'river' in d): return (0.15, 0.9, 0.1)
     if any(w in d for w in INSIDE): return (0.25, 0.1, 0.12)
     if style in ('S', 'F') and any(w in d for w in STORM): return (1.0, 0.9, 0.0)
     if style in ('S', 'F'): return (0.4, 0.5, 0.0)
@@ -98,10 +102,17 @@ def amb(style, desc):
     return (0.18, 0.5, 0.0)
 
 
-def events(g):
+def events(g, cfg=None):
     """Effects for a graphic: list of (seconds after its start, kind)."""
     gid, d, desc = g['gid'], g['dur_final'], g['desc'].lower()
     ev = []
+    if cfg:
+        if any(w in desc for w in ('map', 'cross-section', 'diagram')): ev.append((0.25, 'ping'))
+        for kind, table in cfg.items():
+            for x in table.get(gid, []):
+                if isinstance(x, str): x = d * 0.5 + (0.5 if x.endswith('+0.5') else 0)
+                ev.append((x, kind))
+        return ev
     if any(w in desc for w in ('map', 'chart', 'cutaway', 'relief')): ev.append((0.25, 'ping'))
     hits = {'G02': [0.1], 'G20': [0.0, 0.6], 'G26': [0.1, 2.4], 'G46': [0.2], 'G59': [0.8], 'G42': [3.2], 'G55': [3.4],
             'G18': [2.4], 'G19': [3.0], 'G56': [4.0], 'G61': [1.2, 5.4], 'G32': [2.2], 'G50': [5.6], 'G60': [3.6],
@@ -116,7 +127,18 @@ def events(g):
     return ev
 
 
-def make(tl, V, BUILD):
+def drain(dur=2.6):
+    """A low draining rush: filtered noise with a falling tone under it."""
+    n = int(dur * SR); t = np.arange(n) / SR
+    env = np.sin(np.pi * np.minimum(1, t / dur)) ** 1.5
+    rng = np.random.default_rng(21)
+    w = np.cumsum(rng.normal(0, 1, n)); w -= np.convolve(w, np.ones(400) / 400, 'same'); w /= np.abs(w).max() + 1e-9
+    f = 90 * np.exp(-t * 0.6) + 40
+    s = 0.7 * w * env + 0.5 * np.sin(2 * np.pi * np.cumsum(f) / SR) * env
+    return s.astype(np.float32)
+
+
+def make(tl, V, BUILD, cfg=None, depth_T=()):
     T = tl['end']; n = int(T * SR) + SR; nc = int(T * CR) + CR
     shots = tl['shots']
     styles = {s['img']: s['style'] for s in shots if s['kind'] == 'F'}
@@ -143,14 +165,19 @@ def make(tl, V, BUILD):
     swell = up((0.5 + 0.5 * np.sin(2 * np.pi * tt / 6.3)) ** 2 * 0.8 + 0.2, n)
     rumble = noise('brown', dur, 'lowpass=f=140,highpass=f=25', 5)
 
+    fit = lambda x: np.pad(x[:n], (0, max(0, n - len(x))))
+    wind, waves, rumble = fit(wind), fit(waves), fit(rumble)
     bed = (wind[:n] * up(c_w, n) * gust * 0.05 + waves[:n] * up(c_a, n) * swell * 0.07 + rumble[:n] * up(c_r, n) * 0.08)
     bed += drone(n) * 0.022
 
     fx = np.zeros(n, np.float32)
     P, B, BL, C, TK = ping(), boom(), bell_tone(), click(), tick()
+    DR = drain()
+    for T in depth_T:
+        place(fx, DR, T - 0.2, 0.05); place(fx, TK, T, 0.025)
     for g in shots:
         if g['kind'] == 'G':
-            for dt, kind in events(g):
+            for dt, kind in events(g, cfg):
                 place(fx, {'ping': P, 'boom': B, 'bell': BL, 'click': C, 'tick': TK}[kind], g['T'] + dt,
                       {'ping': 0.05, 'boom': 0.16, 'bell': 0.08, 'click': 0.12, 'tick': 0.03}[kind])
         elif g['kind'] == 'F' and 'church' in g['desc'].lower():

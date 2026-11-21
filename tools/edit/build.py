@@ -159,7 +159,7 @@ def vignette():
     if _VIG is None:
         y, x = np.mgrid[0:H, 0:W]
         r = np.sqrt(((x - W / 2) / (W / 2)) ** 2 + ((y - H / 2) / (H / 2)) ** 2)
-        _VIG = (1 - 0.28 * np.clip(r - 0.55, 0, 1) ** 1.5)[..., None].astype(np.float32)
+        _VIG = (1 - (0.16 if GRADE == 'bright' else 0.28) * np.clip(r - 0.55, 0, 1) ** 1.5)[..., None].astype(np.float32)
     return _VIG
 
 
@@ -195,13 +195,13 @@ def watermark_casefile(path):
     s = cairo.ImageSurface(cairo.FORMAT_ARGB32, W, H); cr = cairo.Context(s)
     cr.select_font_face('JetBrains Mono', 0, 1); cr.set_font_size(22)
     label = CHANNEL.upper(); w = cr.text_extents(label).x_advance + 2 * len(label)
-    x = W - 128 - w; y = H - 70
+    x = W - 128 - w; y = 92 if WM_POS == 'top' else H - 70
     cr.set_source_rgba(0, 0, 0, 0.45); cr.move_to(x + 2, y + 2); cr.show_text(label)
     cr.set_source_rgba(1, 1, 1, 0.78)
     for ch in label:
         cr.move_to(x, y); cr.show_text(ch); x += cr.text_extents(ch).x_advance + 2
     cx = W - 128 - w - 26
-    cr.set_source_rgba(1.0, 0.54, 0.24, 0.9); cr.arc(cx, y - 8, 6, 0, 2 * math.pi); cr.fill()
+    cr.set_source_rgba(*ACC, 0.9); cr.arc(cx, y - 8, 6, 0, 2 * math.pi); cr.fill()
     cr.set_line_width(2); cr.arc(cx, y - 8, 12, 0, 2 * math.pi); cr.stroke()
     s.write_to_png(path)
 
@@ -229,14 +229,27 @@ def lower_third_casefile(title, sub):
     return overlay(draw)
 
 
+def lower_third_top(title, sub):
+    import cairo
+    def draw(cr):
+        g = cairo.LinearGradient(0, 0, 1100, 0); g.add_color_stop_rgba(0, 0, 0.02, 0.03, 0.72); g.add_color_stop_rgba(1, 0, 0.02, 0.03, 0)
+        cr.set_source(g); cr.rectangle(0, 92, 1100, 170); cr.fill()
+        cr.select_font_face('JetBrains Mono', 0, 1); cr.set_font_size(24); cr.set_source_rgba(*ACC2, 0.95)
+        cr.move_to(92, 146); cr.show_text(sub.upper())
+        cr.select_font_face('Inter Display Black', 0, 0); cr.set_font_size(58); cr.set_source_rgba(0.96, 0.97, 0.97, 1)
+        cr.move_to(88, 212); cr.show_text(title)
+        cr.set_source_rgba(*ACC, 1); cr.rectangle(92, 232, 140, 6); cr.fill()
+    return overlay(draw)
+
+
 def chapter_overlay(sec, title):
     import cairo
     def draw(cr):
         g = cairo.LinearGradient(0, 0, 0, 330); g.add_color_stop_rgba(0, 0, 0.02, 0.03, 0.7); g.add_color_stop_rgba(1, 0, 0, 0, 0)
         cr.set_source(g); cr.rectangle(0, 0, W, 330); cr.fill()
-        cr.select_font_face('JetBrains Mono', 0, 1); cr.set_font_size(26); cr.set_source_rgba(1.0, 0.54, 0.24, 1)
+        cr.select_font_face('JetBrains Mono', 0, 1); cr.set_font_size(26); cr.set_source_rgba(*ACC, 1)
         cr.move_to(96, 128); cr.show_text('PART %02d' % sec)
-        cr.set_source_rgba(0.37, 0.83, 0.82, 0.8); cr.rectangle(96, 146, 60, 3); cr.fill()
+        cr.set_source_rgba(*ACC2, 0.8); cr.rectangle(96, 146, 60, 3); cr.fill()
         cr.select_font_face('Inter Display Black', 0, 0); cr.set_font_size(76); cr.set_source_rgba(0.95, 0.97, 0.96, 1)
         cr.move_to(92, 228); cr.show_text(title.upper())
     return overlay(draw)
@@ -259,6 +272,26 @@ def grade(a, i):
     return np.clip(x * 255 + _GRAIN_IMG[i % 6] * 3.5, 0, 255)
 
 
+_LUT = None
+
+
+def grade_bright(a, i):
+    """Video 4 look: lighter mid-tones, a little more colour and contrast, fine grain."""
+    global _LUT, _GRAIN_IMG
+    if _LUT is None:
+        x = np.arange(256, dtype=np.float32) / 255
+        y = x ** 0.92
+        y = y + 0.06 * np.sin(np.pi * (y - 0.5)) * (1 - np.abs(2 * y - 1))   # gentle S-curve
+        _LUT = np.clip(y * 255, 0, 255).astype(np.float32)
+    lum = a[..., :1] * 0.3 + a[..., 1:2] * 0.59 + a[..., 2:] * 0.11
+    a = lum + (a - lum) * 1.14
+    a = _LUT[np.clip(a, 0, 255).astype(np.uint8)]
+    if _GRAIN_IMG is None:
+        rng = np.random.default_rng(11)
+        _GRAIN_IMG = [rng.normal(0, 1, (H, W, 1)).astype(np.float32) for _ in range(6)]
+    return np.clip(a + _GRAIN_IMG[i % 6] * 2.0, 0, 255)
+
+
 def motion(g):
     """(focus x, focus y, zoom0, zoom1) for a shot."""
     if g['kind'] in ('R', 'V1'):
@@ -267,7 +300,7 @@ def motion(g):
         return (0.5, 0.5, 1.30, 1.40)
     h = int(hashlib.md5(str(g['img']).encode()).hexdigest(), 16)
     zin = h % 2 == 0
-    z = 0.06 + min(g['dur_final'], 12) * 0.006
+    z = (0.08 + min(g['dur_final'], 12) * 0.008) if GRADE == 'bright' else (0.06 + min(g['dur_final'], 12) * 0.006)
     fx = 0.5 + ((h >> 3) % 7 - 3) * 0.015; fy = 0.5 + ((h >> 6) % 5 - 2) * 0.012
     return (fx, fy, 1.0 if zin else 1.0 + z, 1.0 + z if zin else 1.0)
 
@@ -298,7 +331,8 @@ def image_producer(g):
         cx = min(max(fx * sw, cw / 2), sw - cw / 2); cy = min(max(fy * sh, ch / 2), sh - ch / 2)
         fr = im.transform((W, H), Image.EXTENT, (cx - cw / 2, cy - ch / 2, cx + cw / 2, cy + ch / 2), Image.BILINEAR)
         a = np.asarray(fr, np.float32) * vig
-        if FORMAT == 'casefile': a = grade(a, i)
+        if GRADE == 'bright': a = grade_bright(a, i)
+        elif FORMAT == 'casefile': a = grade(a, i)
         return a
     return f
 
@@ -313,6 +347,43 @@ def producer(g):
     return graphic_producer(g) if g['kind'] == 'G' else image_producer(g)
 
 
+_OVL = None
+
+
+def phrase_time(tl, al, sec, phrase):
+    w = al[str(sec)]['words']; p = toks(phrase)
+    for k in range(len(w) - len(p) + 1):
+        if w[k:k + len(p)] == p:
+            return shift(tl['sections'], sec, al[str(sec)]['start'][k], k)
+    raise KeyError((sec, phrase))
+
+
+def overlays_for():
+    """(captions, depth meter) for this video, or None where switched off."""
+    global _OVL
+    if _OVL is not None: return _OVL
+    import overlays as O
+    tl = timeline(); al = json.load(open(os.path.join(V, 'voice', 'word-timings.json')))
+    cap = dep = None
+    end_T = tl['shots'][-1]['T']
+    if CAPTIONS:
+        secs = json.load(open(os.path.join(V, 'voiceover-sections.json')))
+        secs = secs['sections'] if isinstance(secs, dict) else secs
+        words = O.caption_words(tl, secs, al, shift, DISPLAY)
+        cap = O.Captions(O.caption_chunks(words), hide=[(end_T - 0.1, 1e9)])
+    if DEPTH_KEYS:
+        keys = [(phrase_time(tl, al, s_, ph), d_, r_) for s_, ph, d_, r_ in DEPTH_KEYS]
+        a = phrase_time(tl, al, *DEPTH_SHOW[0]) - 0.2; b = phrase_time(tl, al, *DEPTH_SHOW[1])
+        hide = []
+        seq = tl['shots']
+        for k, g in enumerate(seq):
+            if g.get('gid') in DEPTH_HIDE:
+                hide.append((g['T'], seq[k + 1]['T'] if k + 1 < len(seq) else 1e9))
+        dep = O.Depth(keys, a, b, hide=hide)
+    _OVL = (cap, dep)
+    return _OVL
+
+
 def render_shot(job):
     g, prev = job
     out = os.path.join(BUILD, 'clips', 'S%04d.mp4' % g['F0'])
@@ -321,9 +392,14 @@ def render_shot(job):
     pf = producer(prev) if (prev is not None and XFADE > 0) else None
     k = int(XFADE * FPS) if pf else 0
     lt = None
-    if g['kind'] == 'F' and g['img'] in LOWER_THIRDS:
-        lt = (lower_third_casefile if FORMAT == 'casefile' else lower_third)(*LOWER_THIRDS[g['img']])
-        lt = (lt[0][H - 340:H - 90, :1120], lt[1][H - 340:H - 90, :1120])
+    key = g['img'] if g['kind'] == 'F' and g.get('img') in LOWER_THIRDS else g.get('cue') if g.get('cue') in LOWER_THIRDS else None
+    LT_Y = (40, 300) if LT_POS == 'top' else (H - 340, H - 90)
+    if key is not None and g['kind'] != 'G':
+        lt = (lower_third_top if LT_POS == 'top' else lower_third_casefile if FORMAT == 'casefile' else lower_third)(*LOWER_THIRDS[key])
+        lt = (lt[0][LT_Y[0]:LT_Y[1], :1120], lt[1][LT_Y[0]:LT_Y[1], :1120])
+    lt0 = 4.0 if (g.get('chapter') and LT_POS == 'top') else 0.6
+    cap, dep = overlays_for() if (CAPTIONS or DEPTH_KEYS) else (None, None)
+    T0 = g['F0'] / FPS
     ch = None
     if g.get('chapter'):
         ch = chapter_overlay(g['sec'], g['chapter']); ch = (ch[0][:340], ch[1][:340])
@@ -334,10 +410,10 @@ def render_shot(job):
         a = cur(i)
         t = i / FPS
         if lt is not None:
-            al = min(1, max(0, (t - 0.6) / 0.4)) * min(1, max(0, (min(g['dur_final'], 5.5) - t) / 0.4))
+            al = min(1, max(0, (t - lt0) / 0.4)) * min(1, max(0, (min(g['dur_final'], lt0 + 4.9) - t) / 0.4))
             if al > 0:
-                r = a[H - 340:H - 90, :1120] / 255
-                a[H - 340:H - 90, :1120] = (r * (1 - lt[1] * al) + lt[0] * al) * 255
+                r = a[LT_Y[0]:LT_Y[1], :1120] / 255
+                a[LT_Y[0]:LT_Y[1], :1120] = (r * (1 - lt[1] * al) + lt[0] * al) * 255
         if ch is not None:
             al = min(1, max(0, (t - 0.35) / 0.4)) * min(1, max(0, (min(g['dur_final'] - 0.3, 3.6) - t) / 0.4))
             if al > 0:
@@ -346,6 +422,13 @@ def render_shot(job):
         if i < k:
             w = (i + 1) / (k + 1); w = w * w * (3 - 2 * w)
             a = pf(prev['n'] + i) * (1 - w) + a * w
+        if cap is not None or dep is not None:
+            import overlays as O
+            T = T0 + t
+            if cap is not None and cap.at(T) is not None:
+                a = O.composite(a, [cap.draw], T, (0, H - 262, W, H))
+            if dep is not None and dep.alpha(T) > 0:
+                a = O.composite(a, [dep.draw], T, (W - 230, 190, W - 20, 810))
         if g['F0'] == 0: a = a * min(1, i / (0.5 * FPS))
         if g.get('last'): a = a * min(1, (n - 1 - i) / (1.2 * FPS))
         p.stdin.write(np.clip(a, 0, 255).astype(np.uint8).tobytes())
@@ -374,11 +457,12 @@ def shots(only=None):
     tl = timeline(); os.makedirs(os.path.join(BUILD, 'clips'), exist_ok=True)
     seq = tl['shots']
     first = {}
-    for g in seq: first.setdefault(g['sec'], g['F0'])
+    for g in seq:
+        if g['kind'] != 'G': first.setdefault(g['sec'], g['F0'])
     jobs = []
     for k, g in enumerate(seq):
         g = dict(g)
-        if first[g['sec']] == g['F0'] and g['sec'] in CHAPTERS and g['sec'] not in CHAPTER_SKIP and g['kind'] != 'G':
+        if first.get(g['sec']) == g['F0'] and g['sec'] in CHAPTERS and g['sec'] not in CHAPTER_SKIP and g['kind'] != 'G':
             g['chapter'] = CHAPTERS[g['sec']]
         g['last'] = k == len(seq) - 1
         prev = seq[k - 1] if k > 0 else None
@@ -466,6 +550,15 @@ FORMAT = 'classic'      # 'casefile' (video 3): dissolves, chapter titles, new c
 XFADE = 0.0             # seconds of dissolve between shots
 CHAPTERS = {}           # section -> chapter title shown over its first picture
 CHAPTER_SKIP = set()
+GRADE = 'moody'         # 'bright' (video 4): lighter, cleaner, more colour
+CAPTIONS = False        # burned-in word-by-word captions
+LT_POS = 'bottom'       # where name captions go: 'bottom' or 'top'
+WM_POS = 'bottom'       # where the channel name goes
+ACC, ACC2 = (1.0, 0.54, 0.24), (0.37, 0.83, 0.82)
+DEPTH_KEYS = []         # depth meter: (section, phrase, feet, seconds)
+DEPTH_SHOW = None
+DEPTH_HIDE = set()
+SOUND = None
 _cfg = os.path.join(V, 'edit_config.py')
 if os.path.exists(_cfg):
     exec(open(_cfg).read())
@@ -497,7 +590,8 @@ def subs():
         ms = int(round(x * 1000)); return '%02d:%02d:%02d,%03d' % (ms // 3600000, ms // 60000 % 60, ms // 1000 % 60, ms % 1000)
     lines = []; idx = 1
     for T0, s, sec, T1 in cues:
-        for a, b in DISPLAY: s = s.replace(a, b)
+        for a, b in sorted(DISPLAY, key=lambda r: -len(r[0])):
+            s = re.sub(r'(?<![\w-])' + re.escape(a) + r'(?![\w-])', b, s, flags=re.I)
         s = s.replace('...', '…')
         chunks = [s]
         if len(s) > 84:
@@ -542,7 +636,10 @@ if __name__ == '__main__':
     elif m == 'graphics': graphics()
     elif m == 'shots': shots(set(x if x.startswith('G') else int(x) for x in sys.argv[2:]) or None)
     elif m == 'sound':
-        import sound; sound.make(timeline(), V, BUILD)
+        import sound
+        tl_ = timeline(); al_ = json.load(open(os.path.join(V, 'voice', 'word-timings.json')))
+        depth_T = [phrase_time(tl_, al_, s_, ph) for s_, ph, _, _ in DEPTH_KEYS]
+        sound.make(tl_, V, BUILD, SOUND, depth_T)
     elif m == 'audio': audio()
     elif m == 'subs': subs()
     elif m == 'video':
