@@ -1,0 +1,14 @@
+{
+  "video": 4,
+  "title": "We Drained the Water Under the Mackinac Bridge. Here's What Was Hidden.",
+  "styleNames": {"X": "drained Straits", "B": "present day", "H": "1965, fog", "C": "1950s construction", "P": "1978, fog", "U": "underwater", "A": "9,000 years ago"},
+  "checks": [
+    "Any readable text, letters, numbers, ship names, road signs or licence plates.",
+    "A bridge that doesn't look like the Mackinac Bridge: it must be a suspension bridge with TWO tall towers in the middle and long, low approach spans to each shore.",
+    "1960s freighters with the pilothouse anywhere but the very front, or the funnel anywhere but the very back.",
+    "Modern things in the 1950s, 1965 or 1978 pictures, or anything man-made in the 9,000-years-ago pictures.",
+    "Faces shown close up. People should be small, far away or seen from behind.",
+    "Anyone shown injured or dead, or any human remains near the wrecks or the bridge."
+  ],
+  "thumbText": "Make all three, two or three versions each. I will add the text and pick the one that reads best at phone size. Thumbnail 1 leaves the left third dark for text."
+}

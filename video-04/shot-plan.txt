@@ -1,0 +1,136 @@
+# kind | style | cue (first words of the line it starts on) | description
+# kind: F = Flow image, G = graphic I make, R:<cue> = reuse the Flow image that starts at <cue>
+# style: X = the Straits drained (hypothetical), B = present day, H = 1965, C = 1950s construction,
+#        P = 1978 fog, U = underwater, A = about 9,000 years ago
+== 1
+F|B|under the mackinaw bridge|The Mackinac Bridge at dawn over dark water, seen from low on the water
+F|U|there's a shipwreck that took|Underwater: the dark hull of a sunken freighter on the lake bed
+F|U|two oil pipelines carrying|Underwater: two parallel pipelines on the lake bed fading into darkness
+F|C|a bridge worker who never|A 1950s bridge worker on a high catwalk above the water, from behind
+F|A|and a waterfall that no|A waterfall pouring over a rock cliff into a river canyon, wild forest
+G|-|all of it hidden in|Depth card: up to 295 FT
+F|B|millions of people have driven|Cars crossing the bridge, seen along the deck
+F|X|so let's drain it|THE SIGNATURE IMAGE: the bridge standing over a drained, empty canyon of lake bed
+G|-|but lake bed maps sonar|Sonar-style depth map of the Straits drawing itself
+F|X|so we're going to lower|Water draining away from around a bridge pier, wet lake bed appearing
+F|X|and at the very bottom|Two pipelines on a dry, cracked lake bed in ominous light
+G|-|this is great lakes files|Channel title stinger
+G|-|tap subscribe right now|Animated Subscribe button and bell
+== 2
+G|-|let's start the drain|Cross-section of the Straits, the water level starting to fall; depth meter at 0 FT
+F|X|ten feet off mackinaw island|The Rock Maze: broken rock breaking the surface off an island's limestone cliffs
+F|X|twenty feet the shoreline creeps|A wide band of wet exposed lake bed around a forested island
+G|-|the five mile gap between|Map: the Straits narrowing as the water drops
+F|X|thirty feet between the bridge|The bridge towers with the water lowered, still deep and dark between them
+F|X|but a few miles to|The long dark shape of a hull just under calm, lowered water
+== 3
+F|X|at thirty five feet a|The top of a freighter's hull breaking the surface of the lowered water
+G|-|her name is the cedarville|Name card: CEDARVILLE · 588 FT · 7 MAY 1965
+F|H|on the morning of may|A 1960s self-unloading lake freighter loaded with limestone, morning fog
+G|-|with thirty five men on|Number card: 35 men
+F|H|the fog that morning was|Thick fog over the Straits, a lighthouse dimly visible
+F|H|the cedarville kept going at|A freighter's bow cutting fast through fog
+F|H|on the radar her officers|A 1960s pilothouse, officers from behind watching a radar screen, fog outside
+G|-|a norwegian freighter the topdalsfjord|Map: two ship tracks converging east of the bridge
+F|H|each captain thought the other|A captain in a 1960s pilothouse with a radio handset, fog outside
+F|H|the lookout shouted there she|A lookout on a bow from behind, a huge dark bow looming out of the fog
+F|H|came out of the fog|An ice-strengthened bow striking the side of a freighter in fog
+F|H|the crew tried to cover|Crewmen from behind struggling with a large tarp over the ship's side
+G|-|the captain turned toward a|Map: the course toward a beach about 4 miles away, dashed
+F|H|she didn't make it at|A freighter rolling onto her side in grey water and fog
+G|-|ten of the thirty five|Number card: 10 of 35 died
+F|X|with the water gone you'd|The wreck in two halves on a drained lake bed
+G|-|since then three divers have|Card: 3 divers have died exploring her
+== 4
+F|X|at sixty five feet just|Two dark pipelines coming out of the lake bed on a drained floor, the bridge in the distance
+G|-|they're oil pipelines together they're|Title card: LINE 5 · 1953
+F|C|they were laid across the|A 1953 pipe-laying barge with a crane lowering pipe into the water
+G|-|each pipe is twenty inches|Map: two 20-inch lines, 4.5 miles across the Straits, just west of the bridge
+G|-|every day they carry nearly|Number card: nearly 23 million gallons a day
+F|X|close to shore the pipes|A pipeline trench near shore, half buried, on the drained lake bed
+F|U|but out here past sixty|Underwater: a pipeline resting on metal supports above the lake bed
+F|X|remember them because the deeper|The two pipelines running away across the drained canyon, ominous light
+== 5
+F|X|as the water keeps falling off|An island's limestone shore with a natural rock arch, the water far lower than normal
+F|X|a cliff a wall of|A 100-foot rock cliff standing on the drained lake bed
+G|-|it was discovered in august|Card: MACKINAC FALLS · discovered August 2007
+F|U|except no water has poured|Underwater: the edge of a submerged cliff, silt and darkness
+F|X|so how does a waterfall|A dry waterfall cliff on the lake bed with a dry channel above it, eerie light
+== 6
+F|X|as the water keeps falling the|The wide drained Straits with several shipwrecks scattered on the floor
+F|H|thick fog and crowded shipping|Old steamships and schooners in fog in a narrow passage
+F|B|half a dozen lighthouses stand|A white lighthouse on a point at the Straits at dusk
+G|-|today this water is a|Map: the 148 square mile preserve, 22+ wreck dots appearing
+F|X|the sandusky at around eighty|A 19th-century wooden sailing ship's wreck on the drained lake bed
+F|X|the m stalker at eighty|A wooden schooner wreck, broken open, on the lake bed
+F|U|the william young at a|Underwater: the wreck of an old steamer in clear green water
+F|X|the minneapolis at a hundred|An old steamship wreck on the drained floor
+F|U|the eber ward between a|Underwater: the bow of a wooden steamer in a diver's light
+R:with the water gone you'd|-|now the whole of the|The Cedarville's two halves again
+G|-|before we go any deeper|Comment prompt: three cards, A SHIP / THE PIPELINES / SOMETHING OLDER
+G|-|put your guess in the|Comment box: a guess being typed
+R:remember them because the deeper|-|and stay with me the|The pipelines across the canyon again
+== 7
+F|X|as the water falls toward|A bridge tower exposed down to its foundation on the drained canyon floor, enormous
+G|-|it opened on november the|Date card: opened 1 November 1957 · 5 miles long
+G|-|but they don't stop at|Diagram: tower 552 ft above water plus 210 ft below = over 760 ft
+F|X|drivers only ever see part|Looking straight up a bridge tower from its base on the dry lake bed
+F|C|building them took four summers|1950s construction: huge steel caissons and cranes in the Straits
+G|-|at a cost of a|Card: $100 million · and five men
+F|C|in september nineteen fifty four|A 1950s hard-hat diver being lowered from a barge
+F|C|he died of the bends|An empty brass diving helmet on a barge deck, quiet
+F|C|a month later james lesarge|Looking down inside a huge steel caisson, criss-crossing beams
+F|C|two weeks after that albert|A narrow steel beam over the water, a worker from behind
+F|C|on june the sixth nineteen|A high catwalk near a bridge tower under construction, wind
+G|-|jack baker and robert koppen|In memoriam card: Jack Baker and Robert Koppen, 28
+F|B|people like to say there|The bridge from below, quiet dawn water
+G|-|but one of them was|Card: never found
+F|P|in september nineteen seventy eight|A small plane flying in heavy fog near suspension cables
+F|P|the wings tore off and|Fog over dark water at the foot of the bridge
+== 8
+F|X|under the middle of the|The centre span seen from below, the canyon floor 250 feet beneath it
+G|-|and here at about two|Cross-section: the pipelines dipping to 270 ft
+F|U|remember i said there was|Underwater close-up of an old pipeline with worn coating and mussels
+G|-|in two thousand fourteen enbridge|Diagram: supports required at least every 75 ft
+F|U|their outer coating has worn|Close-up of worn, peeling coating on an underwater pipe
+F|B|then in two thousand eighteen|A tugboat working in the Straits
+F|U|a tugboat's anchor hit the|A ship's anchor and chain lying on the lake bed right beside a pipeline
+G|-|the dent was less than|Card: the dent was less than 1 inch · the pipe held
+F|B|but it showed what could|A clean, rocky Lake Huron shoreline at dawn, clear water
+G|-|lake michigan and lake huron|Map: Lake Michigan and Lake Huron joining into one lake
+G|-|and that water surges through|Map: currents surging east and west through the Straits
+G|-|a study by the university|Map: about 700 miles of shoreline highlighted, up to 60% of Lake Huron
+F|U|enbridge says the pipes under|An underwater robot with lights inspecting a pipeline
+G|-|michigan sued in two thousand|Timeline: 2018 tunnel planned · 2019 Michigan sues · 2021 Canada steps in
+F|X|for now the two pipes|The pipelines on the dry canyon floor under the bridge at dusk
+== 9
+F|X|now the very bottom two|The deepest point: the drained canyon floor, the bridge far above
+G|-|it's a canyon|Cross-section: the canyon revealed under the bridge
+F|A|about nine thousand years ago|An ice-age landscape: a retreating glacier, low lakes, tundra
+G|-|where lake michigan is now|Map: Lake Chippewa (smaller) inside today's Lake Michigan
+F|A|and its water poured out|A river rushing through a narrow rock canyon, spruce forest
+F|A|there was a river under|The river in the canyon at dusk, mist
+F|A|and on its way east|The waterfall: the river pouring over a 100-foot cliff
+G|-|mackinaw falls|Title card: MACKINAC FALLS · about 9,000 years ago
+F|A|then the water rose and|A rising lake flooding the canyon
+F|U|in lake huron archaeologists have|Underwater: rows of stones on a submerged ridge in a diver's light
+F|A|they appear to be hunting|A caribou herd crossing a tundra ridge, a stone hunting blind in the foreground
+F|A|the world under these lakes|An ancient hunters' camp at dusk on dry land, small figures far away
+G|-|if that just changed the|Animated Like then Subscribe buttons
+== 10
+F|X|now let the water back|Water flooding back into the drained canyon
+F|X|then the waterfall disappears then|Water pouring back over the dry waterfall cliff and the pipelines on the canyon floor
+F|X|the water climbs the bridge|Water rising up the bridge towers
+F|X|the cedarville slips under then|Water covering the wreck in two halves
+F|B|then the rock maze and|Calm water at sunrise under the bridge
+F|B|tomorrow thousands of cars will|Cars on the bridge at dusk with headlights
+F|B|freighters will pass under it|A modern lake freighter passing under the bridge
+F|B|and almost nobody will think|Dark water under the bridge at night, the deck lights reflected above
+G|-|if you live near the|Comment prompt: tell me in the comments
+== 11
+G|-|so here's my question for|Question cards: STAY / TUNNEL / SHUT DOWN
+G|-|tell me what you think|Comment box
+G|-|and if you've watched all|Animated Subscribe button and bell
+F|B|because next we're going to|A lighthouse on a point on a stormy Lake Superior coast
+F|B|i'd like you to be|The Mackinac Bridge at sunset, end card background
+G|-|thanks for watching|End card on the sunset bridge
