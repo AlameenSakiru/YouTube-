@@ -11,6 +11,22 @@ Backups if the click rate is under 4% after 48 hours:
 - The Mountain Hidden in Lake Superior That May Have Sunk the Edmund Fitzgerald
 - There's a Mountain 21 Feet Below Lake Superior. Did It Sink the Fitzgerald?
 
+## Retitle options, 21 November (after a slow first 2.5 days)
+
+Each title below is rebuilt from a title that is working right now, kept true to what the video shows. All are under 70 characters, so they show in full on a phone, and they complement the "21 FEET" thumbnail rather than repeat it.
+
+| New title | Rebuilt from | Its result |
+|---|---|---|
+| **Something About the Edmund Fitzgerald's Wreck No Longer Makes Sense** (recommended) | [Something About Ohio's Salt Mine Under Lake Erie No Longer Makes Sense](https://www.youtube.com/watch?v=qBCULcqLP3M) | 372,427 views, 1,190-subscriber channel |
+| What Really Happened to the Edmund Fitzgerald 10 Hours Before She Sank | [The Edmund Fitzgerald: What Really Happened That Night?](https://www.youtube.com/watch?v=jPwU4ZGlH1g) | 296,051 views in 2 weeks |
+| Lake Superior Is Hiding a Mountain Nobody Talks About | [Lake Superior Is Hiding Something Nobody Talks About](https://www.youtube.com/watch?v=chcobUZcOF0) style; [Colorado Is Hiding Something Nobody Talks About](https://www.youtube.com/watch?v=XWHNIKa45zM) | 102,130 views on 249 subscribers, 4 days |
+| An Engineer Believes He Figured Out What Really Sank the Edmund Fitzgerald | [Geologists Finally Figured Out What Niagara Falls Actually Is](https://www.youtube.com/watch?v=PBklmTg5xDk) | 186,956 views on 497 subscribers, 9 days |
+| The Fitzgerald Sat 25 Feet Deep. The Mountain Below Was 21 Feet Down. | [Norwegian Sailors Called Lake Superior a POND – Then Detroit Rang a Church Bell 29 Times](https://www.youtube.com/watch?v=F6CYBJwW2g8) and "Inspected 4 Times. Then the Water Came" | 68,065 views on 1,450 subscribers, 5 days |
+
+Why the recommended one: it is the exact wording of the biggest small-channel win in our niche this month, it starts with the name people search ("Edmund Fitzgerald"), and the video really delivers it: six hours of silence after the 9:30 a.m. grounding, and about 200 feet of the wreck's middle unaccounted for (276 + 253 of 729 feet).
+
+How to change it: Studio → Content → video 3 → Details → Title → Save. Change the title only, not the thumbnail, so we know which change worked. Judge it 48 hours later. If it is still flat, try the second title.
+
 ## The videos this one is based on
 
 These are the videos whose results decided the topic, the angle and the title. Watch them to see what is working in the niche.
