@@ -61,7 +61,9 @@ def _bg_png(n, blur=16, dark=0.42):
         im = ImageEnhance.Brightness(im).enhance(dark)
         a = np.asarray(im, np.float32)
         a = a * np.array([0.82, 0.97, 1.05]) + np.array([0, 4, 8])     # pull toward deep blue-green
-        Image.fromarray(np.clip(a, 0, 255).astype(np.uint8)).save(out)
+        tmp = out + '.%d.tmp.png' % os.getpid()
+        Image.fromarray(np.clip(a, 0, 255).astype(np.uint8)).save(tmp)
+        os.replace(tmp, out)
     return out
 
 

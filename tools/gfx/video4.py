@@ -59,7 +59,9 @@ def _bg4(n, blur, dark):
         im = ImageEnhance.Brightness(im).enhance(dark)
         im = ImageEnhance.Color(im).enhance(1.15)
         a = np.asarray(im, np.float32) * np.array([0.95, 0.99, 1.03])
-        Image.fromarray(np.clip(a, 0, 255).astype(np.uint8)).save(out)
+        tmp = out + '.%d.tmp.png' % os.getpid()          # write then rename, so a parallel worker never reads half a file
+        Image.fromarray(np.clip(a, 0, 255).astype(np.uint8)).save(tmp)
+        os.replace(tmp, out)
     return out
 
 
