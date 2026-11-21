@@ -20,7 +20,7 @@ Method: 40 YouTube searches (Great Lakes places, shipwrecks, Midwest history, an
 | [Ohio’s Creepiest Places: Which Legends Are Actually True?](https://www.youtube.com/watch?v=lgESmMh3ZPo) | ECHOES OF OHIO | 673 | 86,793 | 11 days | 129× |
 | [15 Northern Minnesota Towns That Are Slowly Dying (And Why)](https://www.youtube.com/watch?v=jfmtG83mMU8) | Adam Minnesota | 889 | 89,672 | 14 days | 101× |
 | [How Lighthouse Keepers Survived Winter Storms in the Middle of the Ocean](https://www.youtube.com/watch?v=cQSIx7gXZsA) | Life at Sea | 8,920 | 731,379 | 14 days | 82× |
-| [Hungary Is Hiding Something Nobody Talks About](https://www.youtube.com/watch?v=kX7RF6jbXqE) | The Geography Vault | 2,009.9999999999998 | 159,651 | 21 days | 79× |
+| [Hungary Is Hiding Something Nobody Talks About](https://www.youtube.com/watch?v=kX7RF6jbXqE) | The Geography Vault | 2,010 | 159,651 | 21 days | 79× |
 | [America Just Found Something In Ohio's Salt Mine Under Lake Erie That Shouldn't Exist](https://www.youtube.com/watch?v=8S8aMyzVwEY) | Dale Hargrove | 1,780 | 137,065 | 8 days | 77× |
 | [The Cleveland Salt Mine Under Lake Erie Keeps Getting Bigger](https://www.youtube.com/watch?v=nBJqzlzBWcM) | Ground Truth | 1,190 | 82,552 | 14 days | 69× |
 | [14 Cleveland TV Legends the Rest of America Forgot](https://www.youtube.com/watch?v=50oEfRBIKJM) | Strata | 2,100 | 142,471 | 21 days | 68× |
