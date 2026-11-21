@@ -61,8 +61,8 @@
       "title": "Five miles of water",
       "dir": "Quiet and gripping, like the start of a true mystery. Pause after each item in the first paragraph. \"So let's drain it.\" is said plainly, with a small pause before it. The last paragraph is warmer and direct.",
       "paras": [
-        "Under the Mackinaw Bridge, in water up to two hundred and ninety-five feet deep, there's a shipwreck that took ten men. There are two oil pipelines carrying millions of gallons a day. There's a bridge worker who never came home. And there's a waterfall that no one saw for thousands of years.",
-        "Millions of people have driven across this bridge. Almost none of them know what's underneath it.",
+        "Under the Mackinaw Bridge, there's a shipwreck that took ten men. Two oil pipelines carrying millions of gallons a day. A bridge worker who never came home. And a waterfall that no one saw for thousands of years.",
+        "All of it hidden in water up to two hundred and ninety-five feet deep. Millions of people have driven across this bridge. Almost none of them know what's underneath it.",
         "So let's drain it.",
         "We can't really, of course. But lake-bed maps, sonar and divers have shown us what's down there. So we're going to lower the water, a few feet at a time, and watch what appears.",
         "And at the very bottom is something that, if it ever broke, could spread oil along hundreds of miles of shoreline.",
@@ -70,15 +70,13 @@
       ]
     },
     {
-      "title": "The first ten feet",
-      "dir": "Clear and curious, a little brighter. Let \"they aren't really two lakes\" land as a surprise.",
+      "title": "The drain begins",
+      "dir": "Brisk and vivid, like a countdown. A short pause after each depth (\"Ten feet.\" \"Twenty feet.\"). The last line drops lower, with suspense.",
       "paras": [
-        "First, where we are. The Straits of Mackinaw are the narrow gap between Michigan's two peninsulas, about five miles wide where the bridge crosses.",
-        "On one side is Lake Michigan. On the other, Lake Huron. But here's the first surprise: they aren't really two lakes. The water flowing through this gap keeps them at the same level, so scientists count them as one, Lake Michigan-Huron, the largest freshwater lake on Earth by area.",
-        "And the water here doesn't sit still. Pushed by wind and weather, it surges through the Straits, sometimes east, sometimes west, at times more than two and a half million cubic feet every second, for hours on end.",
-        "Above it all stands the bridge. It opened on November the first, nineteen fifty-seven. It's five miles long. Its two towers rise five hundred and fifty-two feet above the water, and its cables hold forty-two thousand miles of wire.",
-        "Now, let's start the drain.",
-        "In the first ten feet, the shoreline starts to grow. Off Mackinaw Island, a jumble of ancient broken rock begins to break the surface. Divers call it the Rock Maze."
+        "Let's start the drain.",
+        "Ten feet. Off Mackinaw Island, a jumble of ancient broken rock starts to break the surface. Divers call it the Rock Maze.",
+        "Twenty feet. The shoreline creeps outward on both sides. The islands grow. The five-mile gap between Michigan's two peninsulas starts to narrow.",
+        "Thirty feet. Between the bridge towers, the water is still deep and dark. But a few miles to the east, just under the surface, something long is waiting."
       ]
     },
     {
@@ -135,7 +133,7 @@
       "title": "Two hundred and ten feet",
       "dir": "Respectful and serious. Read each worker's story simply, without drama. A real pause after \"Koppen's body was never recovered.\"",
       "paras": [
-        "As the water falls toward two hundred feet, the bridge itself starts to look different. Its two great towers don't stop at the waterline. Their foundations go down two hundred and ten feet below the surface.",
+        "As the water falls toward two hundred feet, the bridge itself starts to look different. It opened on November the first, nineteen fifty-seven. It's five miles long, and its two towers rise five hundred and fifty-two feet above the water. But they don't stop at the waterline. Their foundations go down another two hundred and ten feet. Each tower stands more than seven hundred and sixty feet from its base to its top. Drivers only ever see part of it.",
         "Building them took four summers, with no work in the winter, at a cost of a hundred million dollars. And five men.",
         "In September, nineteen fifty-four, a diver named Frank Pepper came up too fast from a hundred and forty feet down. He died of the bends.",
         "A month later, James LeSarge lost his balance and fell forty feet into one of the foundations. Two weeks after that, Albert Abbott fell from a narrow beam into the water.",
@@ -146,13 +144,14 @@
     },
     {
       "title": "Two hundred and seventy feet",
-      "dir": "Measured and fair, like a careful reporter. Slow down for the shoreline numbers. Give Enbridge's side the same calm weight.",
+      "dir": "Measured and fair, like a careful reporter. Slow down for \"aren't really two lakes\" and for the shoreline numbers. Give Enbridge's side the same calm weight.",
       "paras": [
         "Under the middle of the bridge, the water was two hundred and fifty feet deep. Now it's gone. And here, at about two hundred and seventy feet, the two pipelines reach their lowest point, lying across the floor of the Straits.",
-        "Remember I said there was more to say about them. They're more than seventy years old. In two thousand fourteen, the company that runs them, Enbridge, was found not to be keeping the supports as close together as its permit required: at least one every seventy-five feet. The company says the pipes are in good condition, even though their outer coating has worn away in places.",
+        "Remember I said there was more to say about them. They're more than seventy years old. In two thousand fourteen, Enbridge, the company that runs them, was found not to be keeping the pipe supports as close together as required. And the company says that, although the pipes are in good condition, their outer coating has worn away in places.",
         "Then, in two thousand eighteen, a tugboat's anchor hit the pipeline and dented it.",
         "The dent was less than an inch deep. The pipe held.",
-        "But it showed what could happen. A study by the University of Michigan found that a leak here could reach about seven hundred miles of shoreline, and up to sixty percent of Lake Huron's open water. The same fast, shifting currents that make these two lakes one could carry oil into both of them.",
+        "But it showed what could happen. And here's why that matters so much. Lake Michigan and Lake Huron aren't really two lakes. The water through the Straits keeps them at the same level, so scientists count them as one, the largest freshwater lake on Earth by area. And that water surges through here, sometimes east, sometimes west, at times more than two and a half million cubic feet every second.",
+        "A study by the University of Michigan found that a leak here could reach about seven hundred miles of shoreline, and up to sixty percent of Lake Huron's open water.",
         "Enbridge says the pipes under the Straits have never leaked, and that they're watched around the clock and inspected by underwater robots. Michigan sued in two thousand nineteen to shut this section down. Canada has stepped in to defend the pipeline. And a tunnel to carry it through the rock beneath the Straits has been planned since two thousand eighteen.",
         "For now, the two pipes are still here, lying on the bottom."
       ]
@@ -176,7 +175,7 @@
       "dir": "Gentle and reflective, slower. Pause between the things disappearing. The last paragraph is direct and friendly.",
       "paras": [
         "Now let the water back in.",
-        "The river canyon fills first. Then the waterfall disappears. Then the pipelines. The bridge towers sink back into the lake, until only the part we know is left. The Cedarville slips under, then the top of her hull, thirty-five feet down. Then the Rock Maze, and the lake is calm again.",
+        "The river canyon fills first. Then the waterfall disappears. Then the pipelines. The water climbs the bridge towers until only the part we know is left above it. The Cedarville slips under, then the top of her hull, thirty-five feet down. Then the Rock Maze, and the lake is calm again.",
         "Tomorrow, thousands of cars will cross this bridge. Freighters will pass under it. And almost nobody will think about what's lying in the dark below them.",
         "If you live near the Straits, or you've crossed the bridge, dived these wrecks, or worked on the boats here, I'd really like to hear from you. What do you know about what's down there? Tell me in the comments. Some of the best parts of these stories come from people like you, and the best ones might end up in a future video."
       ]
