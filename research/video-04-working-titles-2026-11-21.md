@@ -59,3 +59,20 @@ Method: 40 YouTube searches (Great Lakes places, shipwrecks, Midwest history, an
 Backups (same proven patterns):
 - Something About the Straits of Mackinac No Longer Makes Sense
 - The Straits of Mackinac Are Hiding Something Most of Michigan Never Sees
+
+## Title recheck, 21 November: use the bridge's name
+
+People search the bridge, not the strait. YouTube's suggestions for "mackinac bridge" include "accident", "crash", "jumper" and "wind car blown off", and for "under the mackinac bridge" they include "diving under" and "swimming under". "Straits of mackinac" only suggests "shipwreck" and a state park.
+
+The bridge already pulls big views: "The Bridge Built to Survive What Shouldn't Be Survivable" (Beyond The Exit) 884,302; "America's Most Impossible Bridge Has a Problem No One Can Solve" (MegaBuilds) 881,054; "15 Unbelievable Facts You Didn't Know About the Mackinac Bridge" (MegaBuilds) 283,885 in 2 months; "The Insane Plan to Tunnel Under the Mackinac Bridge" (MegaBuilds) 94,179 in 12 days. Nobody has made a "We Drained" video about it.
+
+Other working patterns on the same place:
+
+| Title | Pattern from | Verdict |
+|---|---|---|
+| **We Drained the Water Under the Mackinac Bridge. Here's What Was Hidden.** | We Drained Pearl Harbor (896K), San Francisco Bay (152K), All Five Great Lakes (128K) | **Chosen.** The month's strongest pattern plus the bridge's proven pull; nobody has done it |
+| Something About the Mackinac Bridge No Longer Makes Sense | Ohio's Salt Mine (372K) | Already tried on this bridge: "Something About the Mackinac Bridge Still Doesn't Make Sense" (Mapless) got 1,018 views in a month |
+| The Mackinac Bridge Is Hiding Something Most of Michigan Never Sees | Colorado / Hungary Is Hiding Something (102K, 160K) | Backup |
+| We Drained the Straits of Mackinac. Here's What Was Hidden at the Bottom. | We Drained | Weaker: fewer people know the name |
+
+Thumbnail idea: the Mackinac Bridge standing over an empty, dry canyon of lake bed, with the two pipelines and a shipwreck visible on the bottom.
