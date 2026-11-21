@@ -7,7 +7,7 @@
   "desc": "The Mackinac Bridge at dawn over dark water, seen from low on the water",
   "optional": false,
   "img": 1,
-  "prompt": "Low-angle wide shot from just above the water of the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore, at dawn, the dark water stretching toward it, pale pink and blue sky, the towers catching the first light. 24mm lens. Shot as a modern colour documentary photograph in northern Michigan, natural light, true-to-life colour, sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 1,
@@ -17,7 +17,7 @@
   "desc": "Underwater: the dark hull of a sunken freighter on the lake bed",
   "optional": false,
   "img": 2,
-  "prompt": "Underwater wide shot of the dark hull of a large sunken freighter lying on its side on a silty lake bed, rust and mussels on the steel, a diver's light beam sweeping across it, the rest fading into green darkness. Shot as an underwater documentary still in the cold, fresh water of the Great Lakes, deep green-blue water, limited visibility, fine particles floating, the bright white beams of diver or robot lights, realistic detail. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 4
  },
  {
   "sec": 1,
@@ -27,7 +27,7 @@
   "desc": "Underwater: two parallel pipelines on the lake bed fading into darkness",
   "optional": false,
   "img": 3,
-  "prompt": "Underwater wide shot of two parallel steel pipelines lying side by side on a silty, rocky lake bed, running away from the camera and fading into dark green water, a beam of light from above. Shot as an underwater documentary still in the cold, fresh water of the Great Lakes, deep green-blue water, limited visibility, fine particles floating, the bright white beams of diver or robot lights, realistic detail. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 11
  },
  {
   "sec": 1,
@@ -37,7 +37,7 @@
   "desc": "A 1950s bridge worker on a high catwalk above the water, from behind",
   "optional": false,
   "img": 4,
-  "prompt": "Wide shot from behind of a lone 1950s bridge worker in a hard hat and work jacket standing on a narrow catwalk high above open water, steel cables beside him, wind and grey sky, the water far below. Shot as a cinematic still from a drama set in northern Michigan in the 1950s, warm amber 1950s colour film with fine grain, steel and water, workers in 1950s work clothes and hard hats seen from behind or small in the frame. Every piece of equipment and clothing is accurate for the 1950s. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 20
  },
  {
   "sec": 1,
@@ -47,7 +47,7 @@
   "desc": "A waterfall pouring over a rock cliff into a river canyon, wild forest",
   "optional": false,
   "img": 5,
-  "prompt": "Wide shot of a river pouring over a rock cliff about a hundred feet high into a narrow canyon, white spray, spruce forest on both rims, cold morning light. Shot as a photorealistic documentary-style reconstruction of northern Michigan about nine thousand years ago at the end of the last ice age: cold wilderness, spruce and pine forest, bare rock, cool blue-green colour, nothing modern anywhere. People, if any, are tiny in the distance and wear simple hide clothing. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 27
  },
  {
   "sec": 1,
@@ -56,7 +56,8 @@
   "cue": "all of it hidden in",
   "desc": "Depth card: up to 295 FT",
   "optional": false,
-  "gid": "G01"
+  "gid": "G01",
+  "word": 38
  },
  {
   "sec": 1,
@@ -66,7 +67,7 @@
   "desc": "Cars crossing the bridge, seen along the deck",
   "optional": false,
   "img": 6,
-  "prompt": "Medium-wide shot along the roadway of a long suspension bridge high above open water, cars and a truck driving across in daylight, the tall steel tower ahead and cables rising from it, seen from the side of the road. Telephoto lens. Shot as a modern colour documentary photograph in northern Michigan, natural light, true-to-life colour, sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 53
  },
  {
   "sec": 1,
@@ -76,7 +77,7 @@
   "desc": "THE SIGNATURE IMAGE: the bridge standing over a drained, empty canyon of lake bed",
   "optional": false,
   "img": 7,
-  "prompt": "Epic wide shot looking up from the exposed lake bed at the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore, now standing over a vast, empty canyon where the water used to be, its tower foundations rising from the dry floor, wet silt, puddles and scattered rocks in the foreground, a thin line of remaining water far away, dramatic clouds with gold light breaking through. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 69
  },
  {
   "sec": 1,
@@ -85,7 +86,8 @@
   "cue": "but lake bed maps sonar",
   "desc": "Sonar-style depth map of the Straits drawing itself",
   "optional": false,
-  "gid": "G02"
+  "gid": "G02",
+  "word": 78
  },
  {
   "sec": 1,
@@ -95,7 +97,7 @@
   "desc": "Water draining away from around a bridge pier, wet lake bed appearing",
   "optional": false,
   "img": 8,
-  "prompt": "Wide shot of water draining away from around the huge concrete base of a bridge pier, the water level visibly dropping, a dark wet band on the concrete, exposed silt and rocks appearing around it. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 91
  },
  {
   "sec": 1,
@@ -105,7 +107,7 @@
   "desc": "Two pipelines on a dry, cracked lake bed in ominous light",
   "optional": false,
   "img": 9,
-  "prompt": "Wide low-angle shot of two dark steel pipelines lying side by side across a dry, cracked lake bed, running into the distance, grey silt and puddles, a heavy dark sky with a single shaft of gold light. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 108
  },
  {
   "sec": 1,
@@ -114,7 +116,18 @@
   "cue": "this is great lakes files",
   "desc": "Channel title stinger",
   "optional": false,
-  "gid": "G03"
+  "gid": "G03",
+  "word": 129
+ },
+ {
+  "sec": 1,
+  "kind": "R",
+  "style": "-",
+  "cue": "we go looking for",
+  "desc": "The bridge over the dry canyon again",
+  "optional": false,
+  "img": 7,
+  "word": 134
  },
  {
   "sec": 1,
@@ -123,7 +136,8 @@
   "cue": "tap subscribe right now",
   "desc": "Animated Subscribe button and bell",
   "optional": false,
-  "gid": "G04"
+  "gid": "G04",
+  "word": 164
  },
  {
   "sec": 2,
@@ -132,7 +146,8 @@
   "cue": "let's start the drain",
   "desc": "Cross-section of the Straits, the water level starting to fall; depth meter at 0 FT",
   "optional": false,
-  "gid": "G05"
+  "gid": "G05",
+  "word": 0
  },
  {
   "sec": 2,
@@ -142,7 +157,17 @@
   "desc": "The Rock Maze: broken rock breaking the surface off an island's limestone cliffs",
   "optional": false,
   "img": 10,
-  "prompt": "Wide shot of a jumble of large broken limestone blocks and boulders emerging from shallow, lowered water beneath tall forested limestone cliffs of an island, wet rocks shining, calm water around them. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 4
+ },
+ {
+  "sec": 2,
+  "kind": "R",
+  "style": "-",
+  "cue": "divers call it the",
+  "desc": "Closer on the Rock Maze",
+  "optional": false,
+  "img": 10,
+  "word": 20
  },
  {
   "sec": 2,
@@ -152,7 +177,7 @@
   "desc": "A wide band of wet exposed lake bed around a forested island",
   "optional": false,
   "img": 11,
-  "prompt": "Aerial wide shot of a forested island surrounded by a wide band of newly exposed wet grey lake bed where the water has dropped, the shoreline far out from the trees, puddles and stones, calm water beyond. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 26
  },
  {
   "sec": 2,
@@ -161,7 +186,8 @@
   "cue": "the five mile gap between",
   "desc": "Map: the Straits narrowing as the water drops",
   "optional": false,
-  "gid": "G06"
+  "gid": "G06",
+  "word": 38
  },
  {
   "sec": 2,
@@ -171,7 +197,7 @@
   "desc": "The bridge towers with the water lowered, still deep and dark between them",
   "optional": false,
   "img": 12,
-  "prompt": "Wide shot of the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore, with the lake level lowered so that a band of wet, dark concrete shows on the tower bases, the water between the towers still deep and dark, overcast sky. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 49
  },
  {
   "sec": 2,
@@ -181,7 +207,7 @@
   "desc": "The long dark shape of a hull just under calm, lowered water",
   "optional": false,
   "img": 13,
-  "prompt": "Aerial shot of calm, lowered lake water with the long dark shape of a large ship's hull lying just beneath the surface, visible through the water, open lake around it, grey morning light. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 62
  },
  {
   "sec": 3,
@@ -191,7 +217,7 @@
   "desc": "The top of a freighter's hull breaking the surface of the lowered water",
   "optional": false,
   "img": 14,
-  "prompt": "Wide shot of the top of a long steel freighter hull breaking the surface of calm, lowered lake water, water running off the rusted steel, mussels on the plates, the rest of the ship still underwater. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 3,
@@ -200,7 +226,8 @@
   "cue": "her name is the cedarville",
   "desc": "Name card: CEDARVILLE \u00b7 588 FT \u00b7 7 MAY 1965",
   "optional": false,
-  "gid": "G07"
+  "gid": "G07",
+  "word": 24
  },
  {
   "sec": 3,
@@ -210,7 +237,7 @@
   "desc": "A 1960s self-unloading lake freighter loaded with limestone, morning fog",
   "optional": false,
   "img": 15,
-  "prompt": "Wide shot of a 1960s Great Lakes self-unloading freighter with its pilothouse at the very front, its engine house and funnel at the very back, and a long unloading boom lying along its deck, steaming through a calm lake in thick morning fog, piles of pale grey limestone in its holds, its outline soft in the mist. Shot as a cinematic still from a drama set on the Great Lakes in May 1965, muted 1960s colour film with fine grain, cold grey fog, soft diffused light. Every ship, piece of equipment and item of clothing is accurate for the mid-1960s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 36
  },
  {
   "sec": 3,
@@ -219,7 +246,8 @@
   "cue": "with thirty five men on",
   "desc": "Number card: 35 men",
   "optional": false,
-  "gid": "G08"
+  "gid": "G08",
+  "word": 59
  },
  {
   "sec": 3,
@@ -229,7 +257,7 @@
   "desc": "Thick fog over the Straits, a lighthouse dimly visible",
   "optional": false,
   "img": 16,
-  "prompt": "Wide shot of thick grey fog lying over a narrow stretch of lake, the faint shape of a lighthouse on a distant point barely visible, flat calm water, a silent morning. Shot as a cinematic still from a drama set on the Great Lakes in May 1965, muted 1960s colour film with fine grain, cold grey fog, soft diffused light. Every ship, piece of equipment and item of clothing is accurate for the mid-1960s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 65
  },
  {
   "sec": 3,
@@ -239,7 +267,7 @@
   "desc": "A freighter's bow cutting fast through fog",
   "optional": false,
   "img": 17,
-  "prompt": "Low-angle close shot of the bow of a large 1960s lake freighter cutting fast through flat water in thick fog, a white bow wave, the rest of the ship lost in the mist. Shot as a cinematic still from a drama set on the Great Lakes in May 1965, muted 1960s colour film with fine grain, cold grey fog, soft diffused light. Every ship, piece of equipment and item of clothing is accurate for the mid-1960s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 89
  },
  {
   "sec": 3,
@@ -249,7 +277,7 @@
   "desc": "A 1960s pilothouse, officers from behind watching a radar screen, fog outside",
   "optional": false,
   "img": 18,
-  "prompt": "Interior of a 1960s freighter pilothouse, two officers seen from behind watching a round radar screen with glowing blips, the windows white with fog, wooden wheel and brass instruments. Shot as a cinematic still from a drama set on the Great Lakes in May 1965, muted 1960s colour film with fine grain, cold grey fog, soft diffused light. Every ship, piece of equipment and item of clothing is accurate for the mid-1960s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 96
  },
  {
   "sec": 3,
@@ -258,7 +286,8 @@
   "cue": "a norwegian freighter the topdalsfjord",
   "desc": "Map: two ship tracks converging east of the bridge",
   "optional": false,
-  "gid": "G09"
+  "gid": "G09",
+  "word": 105
  },
  {
   "sec": 3,
@@ -268,7 +297,7 @@
   "desc": "A captain in a 1960s pilothouse with a radio handset, fog outside",
   "optional": false,
   "img": 19,
-  "prompt": "Medium shot from behind of a ship's captain in a 1960s pilothouse holding a radio handset, looking out of windows filled with white fog, tense posture. Shot as a cinematic still from a drama set on the Great Lakes in May 1965, muted 1960s colour film with fine grain, cold grey fog, soft diffused light. Every ship, piece of equipment and item of clothing is accurate for the mid-1960s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 115
  },
  {
   "sec": 3,
@@ -278,7 +307,7 @@
   "desc": "A lookout on a bow from behind, a huge dark bow looming out of the fog",
   "optional": false,
   "img": 20,
-  "prompt": "Wide shot from behind of a lookout in a 1960s work jacket standing at the very front of a freighter's bow, pointing ahead as the huge dark bow of another ship looms out of thick fog straight toward them. Shot as a cinematic still from a drama set on the Great Lakes in May 1965, muted 1960s colour film with fine grain, cold grey fog, soft diffused light. Every ship, piece of equipment and item of clothing is accurate for the mid-1960s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 129
  },
  {
   "sec": 3,
@@ -288,7 +317,7 @@
   "desc": "An ice-strengthened bow striking the side of a freighter in fog",
   "optional": false,
   "img": 21,
-  "prompt": "Wide shot in thick fog of the heavy, ice-strengthened bow of a cargo ship striking the side of a long lake freighter, steel plates buckling, water spraying, seen from a distance, dramatic and grey. Shot as a cinematic still from a drama set on the Great Lakes in May 1965, muted 1960s colour film with fine grain, cold grey fog, soft diffused light. Every ship, piece of equipment and item of clothing is accurate for the mid-1960s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 144
  },
  {
   "sec": 3,
@@ -298,7 +327,7 @@
   "desc": "Crewmen from behind struggling with a large tarp over the ship's side",
   "optional": false,
   "img": 22,
-  "prompt": "Wide shot from behind of several 1960s crewmen in work clothes and life jackets struggling to pull a large canvas tarp down over the side of a freighter's hull, water churning below, fog all around. Shot as a cinematic still from a drama set on the Great Lakes in May 1965, muted 1960s colour film with fine grain, cold grey fog, soft diffused light. Every ship, piece of equipment and item of clothing is accurate for the mid-1960s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 159
  },
  {
   "sec": 3,
@@ -307,7 +336,8 @@
   "cue": "the captain turned toward a",
   "desc": "Map: the course toward a beach about 4 miles away, dashed",
   "optional": false,
-  "gid": "G10"
+  "gid": "G10",
+  "word": 173
  },
  {
   "sec": 3,
@@ -317,7 +347,17 @@
   "desc": "A freighter rolling onto her side in grey water and fog",
   "optional": false,
   "img": 23,
-  "prompt": "Wide shot of a long 1960s lake freighter rolling heavily onto her side in grey water, the deck tilted steeply, lifeboats swinging, fog on the water, seen from a distance. Shot as a cinematic still from a drama set on the Great Lakes in May 1965, muted 1960s colour film with fine grain, cold grey fog, soft diffused light. Every ship, piece of equipment and item of clothing is accurate for the mid-1960s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 191
+ },
+ {
+  "sec": 3,
+  "kind": "R",
+  "style": "-",
+  "cue": "the cedarville rolled onto",
+  "desc": "Closer on the ship rolling over",
+  "optional": false,
+  "img": 23,
+  "word": 208
  },
  {
   "sec": 3,
@@ -326,7 +366,8 @@
   "cue": "ten of the thirty five",
   "desc": "Number card: 10 of 35 died",
   "optional": false,
-  "gid": "G11"
+  "gid": "G11",
+  "word": 217
  },
  {
   "sec": 3,
@@ -336,7 +377,7 @@
   "desc": "The wreck in two halves on a drained lake bed",
   "optional": false,
   "img": 24,
-  "prompt": "Wide shot of the wreck of a long steel freighter lying in two separate halves on a drained, dry lake bed, rusted hull plates, mussels and silt, puddles around it, grey sky. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 224
  },
  {
   "sec": 3,
@@ -345,7 +386,8 @@
   "cue": "since then three divers have",
   "desc": "Card: 3 divers have died exploring her",
   "optional": false,
-  "gid": "G12"
+  "gid": "G12",
+  "word": 244
  },
  {
   "sec": 4,
@@ -355,7 +397,17 @@
   "desc": "Two dark pipelines coming out of the lake bed on a drained floor, the bridge in the distance",
   "optional": false,
   "img": 25,
-  "prompt": "Wide shot of two dark steel pipelines rising out of the lake bed and running side by side across a drained, dry floor of silt and rock, the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore in the distance behind them, overcast sky. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
+ },
+ {
+  "sec": 4,
+  "kind": "R",
+  "style": "-",
+  "cue": "and run across the bottom",
+  "desc": "The two pipelines on the dry bed again",
+  "optional": false,
+  "img": 9,
+  "word": 19
  },
  {
   "sec": 4,
@@ -364,7 +416,8 @@
   "cue": "they're oil pipelines together they're",
   "desc": "Title card: LINE 5 \u00b7 1953",
   "optional": false,
-  "gid": "G13"
+  "gid": "G13",
+  "word": 31
  },
  {
   "sec": 4,
@@ -374,7 +427,7 @@
   "desc": "A 1953 pipe-laying barge with a crane lowering pipe into the water",
   "optional": false,
   "img": 26,
-  "prompt": "Wide shot of a 1953 pipe-laying barge on a grey lake, a crane lowering a long section of black steel pipe into the water, workers in hard hats small on the deck, tugboat nearby. Shot as a cinematic still from a drama set in northern Michigan in the 1950s, warm amber 1950s colour film with fine grain, steel and water, workers in 1950s work clothes and hard hats seen from behind or small in the frame. Every piece of equipment and clothing is accurate for the 1950s. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 39
  },
  {
   "sec": 4,
@@ -383,7 +436,8 @@
   "cue": "each pipe is twenty inches",
   "desc": "Map: two 20-inch lines, 4.5 miles across the Straits, just west of the bridge",
   "optional": false,
-  "gid": "G14"
+  "gid": "G14",
+  "word": 56
  },
  {
   "sec": 4,
@@ -392,7 +446,8 @@
   "cue": "every day they carry nearly",
   "desc": "Number card: nearly 23 million gallons a day",
   "optional": false,
-  "gid": "G15"
+  "gid": "G15",
+  "word": 79
  },
  {
   "sec": 4,
@@ -402,7 +457,7 @@
   "desc": "A pipeline trench near shore, half buried, on the drained lake bed",
   "optional": false,
   "img": 27,
-  "prompt": "Wide shot of a long trench in the drained lake bed near the shore with a steel pipeline half buried in it, wet sand and stones, the pipe disappearing into the ground, overcast light. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 98
  },
  {
   "sec": 4,
@@ -412,7 +467,7 @@
   "desc": "Underwater: a pipeline resting on metal supports above the lake bed",
   "optional": false,
   "img": 28,
-  "prompt": "Underwater shot of a steel pipeline resting on metal support frames just above a rocky lake bed, mussels on the supports, green water, a beam of light from above. Shot as an underwater documentary still in the cold, fresh water of the Great Lakes, deep green-blue water, limited visibility, fine particles floating, the bright white beams of diver or robot lights, realistic detail. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 105
  },
  {
   "sec": 4,
@@ -422,7 +477,7 @@
   "desc": "The two pipelines running away across the drained canyon, ominous light",
   "optional": false,
   "img": 29,
-  "prompt": "Wide low shot of two steel pipelines running away across a vast drained canyon floor into the distance, wet silt and boulders, an ominous dark sky with a crack of gold light on the horizon. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 125
  },
  {
   "sec": 5,
@@ -432,7 +487,7 @@
   "desc": "An island's limestone shore with a natural rock arch, the water far lower than normal",
   "optional": false,
   "img": 30,
-  "prompt": "Wide shot of an island's tall limestone shoreline with a natural rock arch high on the cliff, the lake level far lower than normal, a wide band of exposed rock and silt beneath, forest above. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 5,
@@ -442,7 +497,7 @@
   "desc": "A 100-foot rock cliff standing on the drained lake bed",
   "optional": false,
   "img": 31,
-  "prompt": "Wide shot of a sheer rock cliff about a hundred feet high standing on a drained lake bed, wet dark rock, silt piled at its foot, tiny boulders for scale, a dramatic overcast sky. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 24
  },
  {
   "sec": 5,
@@ -451,7 +506,8 @@
   "cue": "it was discovered in august",
   "desc": "Card: MACKINAC FALLS \u00b7 discovered August 2007",
   "optional": false,
-  "gid": "G16"
+  "gid": "G16",
+  "word": 38
  },
  {
   "sec": 5,
@@ -461,7 +517,7 @@
   "desc": "Underwater: the edge of a submerged cliff, silt and darkness",
   "optional": false,
   "img": 32,
-  "prompt": "Underwater shot of the edge of a submerged rock cliff dropping into darkness, silt drifting, a faint light beam from above catching the lip of the cliff, deep green water. Shot as an underwater documentary still in the cold, fresh water of the Great Lakes, deep green-blue water, limited visibility, fine particles floating, the bright white beams of diver or robot lights, realistic detail. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 50
  },
  {
   "sec": 5,
@@ -471,7 +527,7 @@
   "desc": "A dry waterfall cliff on the lake bed with a dry channel above it, eerie light",
   "optional": false,
   "img": 33,
-  "prompt": "Wide shot of a dry waterfall cliff on a drained lake bed, a dry rocky channel leading to its edge where water once poured over, eerie silence, cold gold light from a low sun. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 69
  },
  {
   "sec": 6,
@@ -481,7 +537,7 @@
   "desc": "The wide drained Straits with several shipwrecks scattered on the floor",
   "optional": false,
   "img": 34,
-  "prompt": "High aerial shot of a vast drained strait between two shores, the dry lake bed scattered with several shipwrecks of different sizes, puddles and channels of silt, the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore small in the distance. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 6,
@@ -491,7 +547,7 @@
   "desc": "Old steamships and schooners in fog in a narrow passage",
   "optional": false,
   "img": 35,
-  "prompt": "Wide shot of several 19th-century steamships and wooden schooners passing through a narrow strait in thick fog, their sails and smoke faint in the mist, a dim lighthouse on the shore. Shot as a cinematic still from a drama set on the Great Lakes in May 1965, muted 1960s colour film with fine grain, cold grey fog, soft diffused light. Every ship, piece of equipment and item of clothing is accurate for the mid-1960s. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 13
  },
  {
   "sec": 6,
@@ -501,7 +557,7 @@
   "desc": "A white lighthouse on a point at the Straits at dusk",
   "optional": false,
   "img": 36,
-  "prompt": "Wide shot of a white lighthouse tower on a low point of land beside a strait at dusk, its light glowing, calm water, a pink and blue sky. Shot as a modern colour documentary photograph in northern Michigan, natural light, true-to-life colour, sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 25
  },
  {
   "sec": 6,
@@ -510,7 +566,8 @@
   "cue": "today this water is a",
   "desc": "Map: the 148 square mile preserve, 22+ wreck dots appearing",
   "optional": false,
-  "gid": "G17"
+  "gid": "G17",
+  "word": 35
  },
  {
   "sec": 6,
@@ -520,7 +577,7 @@
   "desc": "A 19th-century wooden sailing ship's wreck on the drained lake bed",
   "optional": false,
   "img": 37,
-  "prompt": "Wide shot of the wreck of a 19th-century wooden two-masted sailing ship lying on a drained lake bed, its dark timbers and broken masts covered in mussels, puddles around it. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 66
  },
  {
   "sec": 6,
@@ -530,7 +587,7 @@
   "desc": "A wooden schooner wreck, broken open, on the lake bed",
   "optional": false,
   "img": 38,
-  "prompt": "Wide shot of a broken-open wooden schooner wreck on a drained lake bed, ribs of the hull exposed like a skeleton, silt and stones around it, grey light. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 72
  },
  {
   "sec": 6,
@@ -540,7 +597,7 @@
   "desc": "Underwater: the wreck of an old steamer in clear green water",
   "optional": false,
   "img": 39,
-  "prompt": "Underwater shot of the wreck of an old steamship on a lake bed in clear green water, its boilers and machinery visible, mussels on the hull, soft light from above. Shot as an underwater documentary still in the cold, fresh water of the Great Lakes, deep green-blue water, limited visibility, fine particles floating, the bright white beams of diver or robot lights, realistic detail. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 78
  },
  {
   "sec": 6,
@@ -550,7 +607,7 @@
   "desc": "An old steamship wreck on the drained floor",
   "optional": false,
   "img": 40,
-  "prompt": "Wide shot of an old steel steamship wreck sitting upright on a drained lake bed, rusted and mussel-covered, a broken funnel, wet silt around it, overcast sky. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 86
  },
  {
   "sec": 6,
@@ -560,7 +617,7 @@
   "desc": "Underwater: the bow of a wooden steamer in a diver's light",
   "optional": false,
   "img": 41,
-  "prompt": "Underwater close shot of the bow of an old wooden steamer wreck lit by a diver's bright light, its planks and anchor chain visible, green darkness beyond. Shot as an underwater documentary still in the cold, fresh water of the Great Lakes, deep green-blue water, limited visibility, fine particles floating, the bright white beams of diver or robot lights, realistic detail. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 94
  },
  {
   "sec": 6,
@@ -569,7 +626,8 @@
   "cue": "now the whole of the",
   "desc": "The Cedarville's two halves again",
   "optional": false,
-  "img": 24
+  "img": 24,
+  "word": 108
  },
  {
   "sec": 6,
@@ -578,7 +636,8 @@
   "cue": "before we go any deeper",
   "desc": "Comment prompt: three cards, A SHIP / THE PIPELINES / SOMETHING OLDER",
   "optional": false,
-  "gid": "G18"
+  "gid": "G18",
+  "word": 125
  },
  {
   "sec": 6,
@@ -587,7 +646,8 @@
   "cue": "put your guess in the",
   "desc": "Comment box: a guess being typed",
   "optional": false,
-  "gid": "G19"
+  "gid": "G19",
+  "word": 152
  },
  {
   "sec": 6,
@@ -596,7 +656,8 @@
   "cue": "and stay with me the",
   "desc": "The pipelines across the canyon again",
   "optional": false,
-  "img": 29
+  "img": 29,
+  "word": 170
  },
  {
   "sec": 7,
@@ -606,7 +667,7 @@
   "desc": "A bridge tower exposed down to its foundation on the drained canyon floor, enormous",
   "optional": false,
   "img": 42,
-  "prompt": "Epic low-angle wide shot of one enormous bridge tower of the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore, exposed all the way down to its massive concrete foundation on the dry canyon floor, the deck high above, tiny boulders at the base for scale. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 7,
@@ -615,7 +676,18 @@
   "cue": "it opened on november the",
   "desc": "Date card: opened 1 November 1957 \u00b7 5 miles long",
   "optional": false,
-  "gid": "G20"
+  "gid": "G20",
+  "word": 15
+ },
+ {
+  "sec": 7,
+  "kind": "R",
+  "style": "-",
+  "cue": "and its two towers rise",
+  "desc": "The exposed tower again",
+  "optional": false,
+  "img": 42,
+  "word": 28
  },
  {
   "sec": 7,
@@ -624,17 +696,18 @@
   "cue": "but they don't stop at",
   "desc": "Diagram: tower 552 ft above water plus 210 ft below = over 760 ft",
   "optional": false,
-  "gid": "G21"
+  "gid": "G21",
+  "word": 42
  },
  {
   "sec": 7,
   "kind": "F",
   "style": "X",
-  "cue": "drivers only ever see part",
+  "cue": "each tower stands more than",
   "desc": "Looking straight up a bridge tower from its base on the dry lake bed",
   "optional": false,
   "img": 43,
-  "prompt": "Looking straight up a huge steel bridge tower from its massive concrete base on a dry lake bed, the tower soaring into the clouds, cables spreading from the top. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 59
  },
  {
   "sec": 7,
@@ -644,7 +717,7 @@
   "desc": "1950s construction: huge steel caissons and cranes in the Straits",
   "optional": false,
   "img": 44,
-  "prompt": "Wide shot of 1950s bridge construction in a strait: huge round steel caissons standing in the water, floating cranes and barges around them, workers small on the steel, a grey sky. Shot as a cinematic still from a drama set in northern Michigan in the 1950s, warm amber 1950s colour film with fine grain, steel and water, workers in 1950s work clothes and hard hats seen from behind or small in the frame. Every piece of equipment and clothing is accurate for the 1950s. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 82
  },
  {
   "sec": 7,
@@ -653,7 +726,8 @@
   "cue": "at a cost of a",
   "desc": "Card: $100 million \u00b7 and five men",
   "optional": false,
-  "gid": "G22"
+  "gid": "G22",
+  "word": 93
  },
  {
   "sec": 7,
@@ -663,7 +737,7 @@
   "desc": "A 1950s hard-hat diver being lowered from a barge",
   "optional": false,
   "img": 45,
-  "prompt": "Wide shot from behind of a 1950s hard-hat diver in a heavy canvas suit and brass helmet being lowered into the water from the deck of a work barge, workers holding the air hose. Shot as a cinematic still from a drama set in northern Michigan in the 1950s, warm amber 1950s colour film with fine grain, steel and water, workers in 1950s work clothes and hard hats seen from behind or small in the frame. Every piece of equipment and clothing is accurate for the 1950s. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 104
  },
  {
   "sec": 7,
@@ -673,7 +747,7 @@
   "desc": "An empty brass diving helmet on a barge deck, quiet",
   "optional": false,
   "img": 46,
-  "prompt": "Close shot of an empty brass diving helmet resting on the wooden deck of a work barge, coiled air hose beside it, grey water beyond, quiet and still. Shot as a cinematic still from a drama set in northern Michigan in the 1950s, warm amber 1950s colour film with fine grain, steel and water, workers in 1950s work clothes and hard hats seen from behind or small in the frame. Every piece of equipment and clothing is accurate for the 1950s. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 125
  },
  {
   "sec": 7,
@@ -683,7 +757,7 @@
   "desc": "Looking down inside a huge steel caisson, criss-crossing beams",
   "optional": false,
   "img": 47,
-  "prompt": "Looking down from the rim into a huge round steel caisson under construction, criss-crossing steel beams inside it, dark water at the bottom, a worker in a hard hat small at the edge. Shot as a cinematic still from a drama set in northern Michigan in the 1950s, warm amber 1950s colour film with fine grain, steel and water, workers in 1950s work clothes and hard hats seen from behind or small in the frame. Every piece of equipment and clothing is accurate for the 1950s. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 130
  },
  {
   "sec": 7,
@@ -693,7 +767,7 @@
   "desc": "A narrow steel beam over the water, a worker from behind",
   "optional": false,
   "img": 48,
-  "prompt": "Wide shot from behind of a 1950s steelworker in a hard hat walking along a narrow steel beam high above open water, nothing around him but sky and the drop below. Shot as a cinematic still from a drama set in northern Michigan in the 1950s, warm amber 1950s colour film with fine grain, steel and water, workers in 1950s work clothes and hard hats seen from behind or small in the frame. Every piece of equipment and clothing is accurate for the 1950s. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 147
  },
  {
   "sec": 7,
@@ -703,7 +777,7 @@
   "desc": "A high catwalk near a bridge tower under construction, wind",
   "optional": false,
   "img": 49,
-  "prompt": "Wide shot of a high, narrow plank catwalk strung beside a tall bridge tower under construction in the 1950s, wind tugging at the ropes, grey water far below. Shot as a cinematic still from a drama set in northern Michigan in the 1950s, warm amber 1950s colour film with fine grain, steel and water, workers in 1950s work clothes and hard hats seen from behind or small in the frame. Every piece of equipment and clothing is accurate for the 1950s. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 161
  },
  {
   "sec": 7,
@@ -712,7 +786,8 @@
   "cue": "jack baker and robert koppen",
   "desc": "In memoriam card: Jack Baker and Robert Koppen, 28",
   "optional": false,
-  "gid": "G23"
+  "gid": "G23",
+  "word": 175
  },
  {
   "sec": 7,
@@ -722,7 +797,7 @@
   "desc": "The bridge from below, quiet dawn water",
   "optional": false,
   "img": 50,
-  "prompt": "Low-angle wide shot from beneath the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore, at dawn, the deck high overhead, calm water reflecting the soft light, peaceful and quiet. Shot as a modern colour documentary photograph in northern Michigan, natural light, true-to-life colour, sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 197
  },
  {
   "sec": 7,
@@ -731,7 +806,8 @@
   "cue": "but one of them was",
   "desc": "Card: never found",
   "optional": false,
-  "gid": "G24"
+  "gid": "G24",
+  "word": 210
  },
  {
   "sec": 7,
@@ -741,7 +817,7 @@
   "desc": "A small plane flying in heavy fog near suspension cables",
   "optional": false,
   "img": 51,
-  "prompt": "Wide shot of a small single-engine 1970s private plane flying through heavy grey fog, the faint lines of huge suspension cables close ahead of it, ominous. Shot as a cinematic still set in northern Michigan in 1978, heavy grey fog, muted late-1970s colour film with grain, quiet and sombre. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 224
  },
  {
   "sec": 7,
@@ -751,7 +827,7 @@
   "desc": "Fog over dark water at the foot of the bridge",
   "optional": false,
   "img": 52,
-  "prompt": "Wide shot of thick fog lying over dark water at the foot of a huge bridge tower, the tower vanishing up into the fog, silent and sombre. Shot as a cinematic still set in northern Michigan in 1978, heavy grey fog, muted late-1970s colour film with grain, quiet and sombre. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 242
  },
  {
   "sec": 8,
@@ -761,7 +837,7 @@
   "desc": "The centre span seen from below, the canyon floor 250 feet beneath it",
   "optional": false,
   "img": 53,
-  "prompt": "Epic low-angle shot from the dry floor of a drained canyon looking up at the long central span of the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore, the deck far overhead, the canyon floor of silt and rock stretching away. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 8,
@@ -770,7 +846,8 @@
   "cue": "and here at about two",
   "desc": "Cross-section: the pipelines dipping to 270 ft",
   "optional": false,
-  "gid": "G25"
+  "gid": "G25",
+  "word": 18
  },
  {
   "sec": 8,
@@ -780,7 +857,7 @@
   "desc": "Underwater close-up of an old pipeline with worn coating and mussels",
   "optional": false,
   "img": 54,
-  "prompt": "Underwater close-up of an old steel pipeline on a lake bed, its outer coating patchy and worn, clusters of mussels attached, green water, light beam from an underwater robot. Shot as an underwater documentary still in the cold, fresh water of the Great Lakes, deep green-blue water, limited visibility, fine particles floating, the bright white beams of diver or robot lights, realistic detail. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 41
  },
  {
   "sec": 8,
@@ -789,7 +866,18 @@
   "cue": "in two thousand fourteen enbridge",
   "desc": "Diagram: supports required at least every 75 ft",
   "optional": false,
-  "gid": "G26"
+  "gid": "G26",
+  "word": 57
+ },
+ {
+  "sec": 8,
+  "kind": "R",
+  "style": "-",
+  "cue": "and the company says that",
+  "desc": "The worn pipeline again",
+  "optional": false,
+  "img": 54,
+  "word": 81
  },
  {
   "sec": 8,
@@ -799,7 +887,7 @@
   "desc": "Close-up of worn, peeling coating on an underwater pipe",
   "optional": false,
   "img": 55,
-  "prompt": "Macro underwater close-up of worn, peeling coating on a steel pipe, bare patches of metal showing, silt and small mussels, sharp detail. Shot as an underwater documentary still in the cold, fresh water of the Great Lakes, deep green-blue water, limited visibility, fine particles floating, the bright white beams of diver or robot lights, realistic detail. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 93
  },
  {
   "sec": 8,
@@ -809,7 +897,7 @@
   "desc": "A tugboat working in the Straits",
   "optional": false,
   "img": 56,
-  "prompt": "Wide shot of a red and black tugboat working in a wide strait on a grey day, a long suspension bridge in the background, choppy water. Shot as a modern colour documentary photograph in northern Michigan, natural light, true-to-life colour, sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 101
  },
  {
   "sec": 8,
@@ -819,7 +907,7 @@
   "desc": "A ship's anchor and chain lying on the lake bed right beside a pipeline",
   "optional": false,
   "img": 57,
-  "prompt": "Underwater shot of a large ship's anchor and heavy chain lying on a silty lake bed right beside a steel pipeline, green water, a beam of light from above. Shot as an underwater documentary still in the cold, fresh water of the Great Lakes, deep green-blue water, limited visibility, fine particles floating, the bright white beams of diver or robot lights, realistic detail. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 106
  },
  {
   "sec": 8,
@@ -828,7 +916,8 @@
   "cue": "the dent was less than",
   "desc": "Card: the dent was less than 1 inch \u00b7 the pipe held",
   "optional": false,
-  "gid": "G27"
+  "gid": "G27",
+  "word": 115
  },
  {
   "sec": 8,
@@ -838,7 +927,7 @@
   "desc": "A clean, rocky Lake Huron shoreline at dawn, clear water",
   "optional": false,
   "img": 58,
-  "prompt": "Wide shot of a clean, rocky Lake Huron shoreline at dawn, clear shallow water over smooth stones, a calm lake to the horizon, soft pink light. Shot as a modern colour documentary photograph in northern Michigan, natural light, true-to-life colour, sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 126
  },
  {
   "sec": 8,
@@ -847,7 +936,18 @@
   "cue": "lake michigan and lake huron",
   "desc": "Map: Lake Michigan and Lake Huron joining into one lake",
   "optional": false,
-  "gid": "G28"
+  "gid": "G28",
+  "word": 139
+ },
+ {
+  "sec": 8,
+  "kind": "R",
+  "style": "-",
+  "cue": "the largest freshwater lake on",
+  "desc": "The bridge at dawn again",
+  "optional": false,
+  "img": 1,
+  "word": 165
  },
  {
   "sec": 8,
@@ -856,7 +956,8 @@
   "cue": "and that water surges through",
   "desc": "Map: currents surging east and west through the Straits",
   "optional": false,
-  "gid": "G29"
+  "gid": "G29",
+  "word": 173
  },
  {
   "sec": 8,
@@ -865,7 +966,8 @@
   "cue": "a study by the university",
   "desc": "Map: about 700 miles of shoreline highlighted, up to 60% of Lake Huron",
   "optional": false,
-  "gid": "G30"
+  "gid": "G30",
+  "word": 196
  },
  {
   "sec": 8,
@@ -875,7 +977,7 @@
   "desc": "An underwater robot with lights inspecting a pipeline",
   "optional": false,
   "img": 59,
-  "prompt": "Underwater wide shot of a yellow remotely operated underwater robot with bright lights hovering over a steel pipeline on the lake bed, inspecting it, green water. Shot as an underwater documentary still in the cold, fresh water of the Great Lakes, deep green-blue water, limited visibility, fine particles floating, the bright white beams of diver or robot lights, realistic detail. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 226
  },
  {
   "sec": 8,
@@ -884,7 +986,8 @@
   "cue": "michigan sued in two thousand",
   "desc": "Timeline: 2018 tunnel planned \u00b7 2019 Michigan sues \u00b7 2021 Canada steps in",
   "optional": false,
-  "gid": "G31"
+  "gid": "G31",
+  "word": 248
  },
  {
   "sec": 8,
@@ -894,7 +997,7 @@
   "desc": "The pipelines on the dry canyon floor under the bridge at dusk",
   "optional": false,
   "img": 60,
-  "prompt": "Wide shot at dusk of two steel pipelines lying across a dry canyon floor beneath the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore, the bridge lights coming on high above, a deep blue and orange sky. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 286
  },
  {
   "sec": 9,
@@ -904,7 +1007,7 @@
   "desc": "The deepest point: the drained canyon floor, the bridge far above",
   "optional": false,
   "img": 61,
-  "prompt": "Epic wide shot from the very bottom of a deep drained canyon, rock walls rising on both sides, the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore far above spanning the canyon, a thin stream of water on the floor, dramatic light. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 9,
@@ -913,7 +1016,8 @@
   "cue": "it's a canyon",
   "desc": "Cross-section: the canyon revealed under the bridge",
   "optional": false,
-  "gid": "G32"
+  "gid": "G32",
+  "word": 31
  },
  {
   "sec": 9,
@@ -923,7 +1027,7 @@
   "desc": "An ice-age landscape: a retreating glacier, low lakes, tundra",
   "optional": false,
   "img": 62,
-  "prompt": "Wide shot of an ice-age landscape: a vast retreating glacier on the horizon, low cold lakes, bare rock and tundra in the foreground, a pale cold sky. Shot as a photorealistic documentary-style reconstruction of northern Michigan about nine thousand years ago at the end of the last ice age: cold wilderness, spruce and pine forest, bare rock, cool blue-green colour, nothing modern anywhere. People, if any, are tiny in the distance and wear simple hide clothing. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 34
  },
  {
   "sec": 9,
@@ -932,7 +1036,8 @@
   "cue": "where lake michigan is now",
   "desc": "Map: Lake Chippewa (smaller) inside today's Lake Michigan",
   "optional": false,
-  "gid": "G33"
+  "gid": "G33",
+  "word": 55
  },
  {
   "sec": 9,
@@ -942,7 +1047,7 @@
   "desc": "A river rushing through a narrow rock canyon, spruce forest",
   "optional": false,
   "img": 63,
-  "prompt": "Wide shot of a powerful river rushing through a narrow rock canyon, white water, spruce forest along the rim, cold morning mist. Shot as a photorealistic documentary-style reconstruction of northern Michigan about nine thousand years ago at the end of the last ice age: cold wilderness, spruce and pine forest, bare rock, cool blue-green colour, nothing modern anywhere. People, if any, are tiny in the distance and wear simple hide clothing. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 70
  },
  {
   "sec": 9,
@@ -952,7 +1057,7 @@
   "desc": "The river in the canyon at dusk, mist",
   "optional": false,
   "img": 64,
-  "prompt": "Wide shot of a river winding through a deep rock canyon at dusk, mist rising from the water, dark spruce on the rims, a deep blue sky with the last light. Shot as a photorealistic documentary-style reconstruction of northern Michigan about nine thousand years ago at the end of the last ice age: cold wilderness, spruce and pine forest, bare rock, cool blue-green colour, nothing modern anywhere. People, if any, are tiny in the distance and wear simple hide clothing. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 86
  },
  {
   "sec": 9,
@@ -962,7 +1067,7 @@
   "desc": "The waterfall: the river pouring over a 100-foot cliff",
   "optional": false,
   "img": 65,
-  "prompt": "Wide shot of a wide river pouring over a cliff about a hundred feet high into a misty pool, white spray, rock walls and spruce forest, a dramatic ancient landscape. Shot as a photorealistic documentary-style reconstruction of northern Michigan about nine thousand years ago at the end of the last ice age: cold wilderness, spruce and pine forest, bare rock, cool blue-green colour, nothing modern anywhere. People, if any, are tiny in the distance and wear simple hide clothing. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 94
  },
  {
   "sec": 9,
@@ -971,7 +1076,8 @@
   "cue": "mackinaw falls",
   "desc": "Title card: MACKINAC FALLS \u00b7 about 9,000 years ago",
   "optional": false,
-  "gid": "G34"
+  "gid": "G34",
+  "word": 104
  },
  {
   "sec": 9,
@@ -981,7 +1087,7 @@
   "desc": "A rising lake flooding the canyon",
   "optional": false,
   "img": 66,
-  "prompt": "Wide shot of a lake slowly rising to flood a rock canyon, the water creeping up the canyon walls, drowned trees, grey sky. Shot as a photorealistic documentary-style reconstruction of northern Michigan about nine thousand years ago at the end of the last ice age: cold wilderness, spruce and pine forest, bare rock, cool blue-green colour, nothing modern anywhere. People, if any, are tiny in the distance and wear simple hide clothing. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 106
  },
  {
   "sec": 9,
@@ -991,7 +1097,7 @@
   "desc": "Underwater: rows of stones on a submerged ridge in a diver's light",
   "optional": false,
   "img": 67,
-  "prompt": "Underwater shot of rows of large stones arranged in lines on a submerged rocky ridge in a diver's light, green water, ancient and mysterious. Shot as an underwater documentary still in the cold, fresh water of the Great Lakes, deep green-blue water, limited visibility, fine particles floating, the bright white beams of diver or robot lights, realistic detail. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 125
  },
  {
   "sec": 9,
@@ -1001,7 +1107,7 @@
   "desc": "A caribou herd crossing a tundra ridge, a stone hunting blind in the foreground",
   "optional": false,
   "img": 68,
-  "prompt": "Wide shot of a herd of caribou crossing a bare tundra ridge, a low wall of piled stones in the foreground used as a hiding place by hunters, tiny hunters in hide clothing crouched behind it far away, cold sky. Shot as a photorealistic documentary-style reconstruction of northern Michigan about nine thousand years ago at the end of the last ice age: cold wilderness, spruce and pine forest, bare rock, cool blue-green colour, nothing modern anywhere. People, if any, are tiny in the distance and wear simple hide clothing. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 144
  },
  {
   "sec": 9,
@@ -1011,16 +1117,37 @@
   "desc": "An ancient hunters' camp at dusk on dry land, small figures far away",
   "optional": false,
   "img": 69,
-  "prompt": "Wide shot at dusk of a small ancient hunters' camp on bare dry land, hide shelters and a small fire, tiny figures in hide clothing far away, a vast cold landscape beyond. Shot as a photorealistic documentary-style reconstruction of northern Michigan about nine thousand years ago at the end of the last ice age: cold wilderness, spruce and pine forest, bare rock, cool blue-green colour, nothing modern anywhere. People, if any, are tiny in the distance and wear simple hide clothing. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 166
+ },
+ {
+  "sec": 9,
+  "kind": "R",
+  "style": "-",
+  "cue": "if that just changed the",
+  "desc": "The waterfall again",
+  "optional": false,
+  "img": 65,
+  "word": 176
  },
  {
   "sec": 9,
   "kind": "G",
   "style": "-",
-  "cue": "if that just changed the",
+  "cue": "do two things for me",
   "desc": "Animated Like then Subscribe buttons",
   "optional": false,
-  "gid": "G35"
+  "gid": "G35",
+  "word": 187
+ },
+ {
+  "sec": 9,
+  "kind": "R",
+  "style": "-",
+  "cue": "for a small channel like",
+  "desc": "The bridge over the dry canyon again",
+  "optional": false,
+  "img": 7,
+  "word": 204
  },
  {
   "sec": 10,
@@ -1030,7 +1157,7 @@
   "desc": "Water flooding back into the drained canyon",
   "optional": false,
   "img": 70,
-  "prompt": "Wide shot of water flooding back into a vast drained canyon, a wall of water rushing across the dry lake bed, spray and foam, dramatic sky. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 0
  },
  {
   "sec": 10,
@@ -1040,7 +1167,7 @@
   "desc": "Water pouring back over the dry waterfall cliff and the pipelines on the canyon floor",
   "optional": false,
   "img": 71,
-  "prompt": "Wide shot of water pouring back over a dry waterfall cliff on a drained lake bed and flowing over two steel pipelines on the canyon floor, foam and spray. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 11
  },
  {
   "sec": 10,
@@ -1050,7 +1177,7 @@
   "desc": "Water rising up the bridge towers",
   "optional": false,
   "img": 72,
-  "prompt": "Wide shot of water rising up the concrete bases of the two towers of the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore, the dry canyon disappearing under the returning lake. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 18
  },
  {
   "sec": 10,
@@ -1060,7 +1187,7 @@
   "desc": "Water covering the wreck in two halves",
   "optional": false,
   "img": 73,
-  "prompt": "Wide shot of returning lake water flooding over the two halves of a long freighter wreck on the lake bed, water swirling around the rusted hull. Shot as a photorealistic, epic documentary still of the Straits of Mackinac in northern Michigan imagined with the lake completely drained away: a vast exposed lake bed of wet grey silt, pale limestone, scattered boulders, mussel-crusted stones and shallow puddles, cold overcast daylight with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 34
  },
  {
   "sec": 10,
@@ -1070,7 +1197,7 @@
   "desc": "Calm water at sunrise under the bridge",
   "optional": false,
   "img": 74,
-  "prompt": "Wide shot of calm water at sunrise beneath the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore, the lake glassy and gold, peaceful. Shot as a modern colour documentary photograph in northern Michigan, natural light, true-to-life colour, sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 48
  },
  {
   "sec": 10,
@@ -1080,7 +1207,7 @@
   "desc": "Cars on the bridge at dusk with headlights",
   "optional": false,
   "img": 75,
-  "prompt": "Wide shot at dusk of car headlights streaming across the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore, the bridge lights glowing, the water dark below. Long exposure. Shot as a modern colour documentary photograph in northern Michigan, natural light, true-to-life colour, sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 58
  },
  {
   "sec": 10,
@@ -1090,7 +1217,7 @@
   "desc": "A modern lake freighter passing under the bridge",
   "optional": false,
   "img": 76,
-  "prompt": "Wide shot of a modern long Great Lakes freighter passing under the central span of the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore on a clear day, deep blue water. Shot as a modern colour documentary photograph in northern Michigan, natural light, true-to-life colour, sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 66
  },
  {
   "sec": 10,
@@ -1100,25 +1227,57 @@
   "desc": "Dark water under the bridge at night, the deck lights reflected above",
   "optional": false,
   "img": 77,
-  "prompt": "Wide shot at night of dark water under the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore, the bridge's lights reflected in long lines on the black water, silent. Shot as a modern colour documentary photograph in northern Michigan, natural light, true-to-life colour, sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 71
+ },
+ {
+  "sec": 10,
+  "kind": "R",
+  "style": "-",
+  "cue": "if you live near the",
+  "desc": "Calm sunrise under the bridge again",
+  "optional": false,
+  "img": 74,
+  "word": 84
  },
  {
   "sec": 10,
   "kind": "G",
   "style": "-",
-  "cue": "if you live near the",
+  "cue": "what do you know about",
   "desc": "Comment prompt: tell me in the comments",
   "optional": false,
-  "gid": "G36"
+  "gid": "G36",
+  "word": 111
+ },
+ {
+  "sec": 10,
+  "kind": "R",
+  "style": "-",
+  "cue": "some of the best parts",
+  "desc": "Cars on the bridge at dusk again",
+  "optional": false,
+  "img": 75,
+  "word": 124
+ },
+ {
+  "sec": 11,
+  "kind": "R",
+  "style": "-",
+  "cue": "so here's my question for",
+  "desc": "The pipelines under the bridge at dusk again",
+  "optional": false,
+  "img": 60,
+  "word": 0
  },
  {
   "sec": 11,
   "kind": "G",
   "style": "-",
-  "cue": "so here's my question for",
+  "cue": "should they stay where they",
   "desc": "Question cards: STAY / TUNNEL / SHUT DOWN",
   "optional": false,
-  "gid": "G37"
+  "gid": "G37",
+  "word": 27
  },
  {
   "sec": 11,
@@ -1127,7 +1286,8 @@
   "cue": "tell me what you think",
   "desc": "Comment box",
   "optional": false,
-  "gid": "G38"
+  "gid": "G38",
+  "word": 44
  },
  {
   "sec": 11,
@@ -1136,7 +1296,8 @@
   "cue": "and if you've watched all",
   "desc": "Animated Subscribe button and bell",
   "optional": false,
-  "gid": "G39"
+  "gid": "G39",
+  "word": 56
  },
  {
   "sec": 11,
@@ -1146,7 +1307,7 @@
   "desc": "A lighthouse on a point on a stormy Lake Superior coast",
   "optional": false,
   "img": 78,
-  "prompt": "Wide shot of a lighthouse on a low point of a wild Lake Superior coast in a storm, huge waves rolling in, a dark sky. Shot as a modern colour documentary photograph in northern Michigan, natural light, true-to-life colour, sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 86
  },
  {
   "sec": 11,
@@ -1156,7 +1317,7 @@
   "desc": "The Mackinac Bridge at sunset, end card background",
   "optional": false,
   "img": 79,
-  "prompt": "Wide shot of the Mackinac Bridge, a five-mile-long suspension bridge with two tall towers in the middle, a long central suspension span between them, and long, low steel truss approach spans running to each shore at sunset, the sky orange and purple, the water calm, the left half of the frame open sky and water. Shot as a modern colour documentary photograph in northern Michigan, natural light, true-to-life colour, sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked surfaces, hulls and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "word": 109
  },
  {
   "sec": 11,
@@ -1165,6 +1326,7 @@
   "cue": "thanks for watching",
   "desc": "End card on the sunset bridge",
   "optional": false,
-  "gid": "G40"
+  "gid": "G40",
+  "word": 118
  }
 ]

@@ -15,10 +15,12 @@ G|-|but lake bed maps sonar|Sonar-style depth map of the Straits drawing itself
 F|X|so we're going to lower|Water draining away from around a bridge pier, wet lake bed appearing
 F|X|and at the very bottom|Two pipelines on a dry, cracked lake bed in ominous light
 G|-|this is great lakes files|Channel title stinger
+R:so let's drain it|-|we go looking for|The bridge over the dry canyon again
 G|-|tap subscribe right now|Animated Subscribe button and bell
 == 2
 G|-|let's start the drain|Cross-section of the Straits, the water level starting to fall; depth meter at 0 FT
 F|X|ten feet off mackinaw island|The Rock Maze: broken rock breaking the surface off an island's limestone cliffs
+R:ten feet off mackinaw island|-|divers call it the|Closer on the Rock Maze
 F|X|twenty feet the shoreline creeps|A wide band of wet exposed lake bed around a forested island
 G|-|the five mile gap between|Map: the Straits narrowing as the water drops
 F|X|thirty feet between the bridge|The bridge towers with the water lowered, still deep and dark between them
@@ -38,11 +40,13 @@ F|H|came out of the fog|An ice-strengthened bow striking the side of a freighter
 F|H|the crew tried to cover|Crewmen from behind struggling with a large tarp over the ship's side
 G|-|the captain turned toward a|Map: the course toward a beach about 4 miles away, dashed
 F|H|she didn't make it at|A freighter rolling onto her side in grey water and fog
+R:she didn't make it at|-|the cedarville rolled onto|Closer on the ship rolling over
 G|-|ten of the thirty five|Number card: 10 of 35 died
 F|X|with the water gone you'd|The wreck in two halves on a drained lake bed
 G|-|since then three divers have|Card: 3 divers have died exploring her
 == 4
 F|X|at sixty five feet just|Two dark pipelines coming out of the lake bed on a drained floor, the bridge in the distance
+R:and at the very bottom|-|and run across the bottom|The two pipelines on the dry bed again
 G|-|they're oil pipelines together they're|Title card: LINE 5 · 1953
 F|C|they were laid across the|A 1953 pipe-laying barge with a crane lowering pipe into the water
 G|-|each pipe is twenty inches|Map: two 20-inch lines, 4.5 miles across the Straits, just west of the bridge
@@ -73,8 +77,9 @@ R:remember them because the deeper|-|and stay with me the|The pipelines across t
 == 7
 F|X|as the water falls toward|A bridge tower exposed down to its foundation on the drained canyon floor, enormous
 G|-|it opened on november the|Date card: opened 1 November 1957 · 5 miles long
+R:as the water falls toward|-|and its two towers rise|The exposed tower again
 G|-|but they don't stop at|Diagram: tower 552 ft above water plus 210 ft below = over 760 ft
-F|X|drivers only ever see part|Looking straight up a bridge tower from its base on the dry lake bed
+F|X|each tower stands more than|Looking straight up a bridge tower from its base on the dry lake bed
 F|C|building them took four summers|1950s construction: huge steel caissons and cranes in the Straits
 G|-|at a cost of a|Card: $100 million · and five men
 F|C|in september nineteen fifty four|A 1950s hard-hat diver being lowered from a barge
@@ -92,12 +97,14 @@ F|X|under the middle of the|The centre span seen from below, the canyon floor 25
 G|-|and here at about two|Cross-section: the pipelines dipping to 270 ft
 F|U|remember i said there was|Underwater close-up of an old pipeline with worn coating and mussels
 G|-|in two thousand fourteen enbridge|Diagram: supports required at least every 75 ft
+R:remember i said there was|-|and the company says that|The worn pipeline again
 F|U|their outer coating has worn|Close-up of worn, peeling coating on an underwater pipe
 F|B|then in two thousand eighteen|A tugboat working in the Straits
 F|U|a tugboat's anchor hit the|A ship's anchor and chain lying on the lake bed right beside a pipeline
 G|-|the dent was less than|Card: the dent was less than 1 inch · the pipe held
 F|B|but it showed what could|A clean, rocky Lake Huron shoreline at dawn, clear water
 G|-|lake michigan and lake huron|Map: Lake Michigan and Lake Huron joining into one lake
+R:under the mackinaw bridge|-|the largest freshwater lake on|The bridge at dawn again
 G|-|and that water surges through|Map: currents surging east and west through the Straits
 G|-|a study by the university|Map: about 700 miles of shoreline highlighted, up to 60% of Lake Huron
 F|U|enbridge says the pipes under|An underwater robot with lights inspecting a pipeline
@@ -116,7 +123,9 @@ F|A|then the water rose and|A rising lake flooding the canyon
 F|U|in lake huron archaeologists have|Underwater: rows of stones on a submerged ridge in a diver's light
 F|A|they appear to be hunting|A caribou herd crossing a tundra ridge, a stone hunting blind in the foreground
 F|A|the world under these lakes|An ancient hunters' camp at dusk on dry land, small figures far away
-G|-|if that just changed the|Animated Like then Subscribe buttons
+R:and on its way east|-|if that just changed the|The waterfall again
+G|-|do two things for me|Animated Like then Subscribe buttons
+R:so let's drain it|-|for a small channel like|The bridge over the dry canyon again
 == 10
 F|X|now let the water back|Water flooding back into the drained canyon
 F|X|then the waterfall disappears then|Water pouring back over the dry waterfall cliff and the pipelines on the canyon floor
@@ -126,9 +135,12 @@ F|B|then the rock maze and|Calm water at sunrise under the bridge
 F|B|tomorrow thousands of cars will|Cars on the bridge at dusk with headlights
 F|B|freighters will pass under it|A modern lake freighter passing under the bridge
 F|B|and almost nobody will think|Dark water under the bridge at night, the deck lights reflected above
-G|-|if you live near the|Comment prompt: tell me in the comments
+R:then the rock maze and|-|if you live near the|Calm sunrise under the bridge again
+G|-|what do you know about|Comment prompt: tell me in the comments
+R:tomorrow thousands of cars will|-|some of the best parts|Cars on the bridge at dusk again
 == 11
-G|-|so here's my question for|Question cards: STAY / TUNNEL / SHUT DOWN
+R:for now the two pipes|-|so here's my question for|The pipelines under the bridge at dusk again
+G|-|should they stay where they|Question cards: STAY / TUNNEL / SHUT DOWN
 G|-|tell me what you think|Comment box
 G|-|and if you've watched all|Animated Subscribe button and bell
 F|B|because next we're going to|A lighthouse on a point on a stormy Lake Superior coast
