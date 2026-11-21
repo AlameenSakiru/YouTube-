@@ -100,7 +100,6 @@ Left out on purpose: "mackinac bridge crash", "jumper" and "accident". They are 
 
 Reply to every comment in the first 48 hours: the video says "I read every one".
 
-## Before you upload: two facts to check
+## Before you upload: one fact to check
 
 - Whether anything changed with the Line 5 tunnel or the Michigan lawsuit in late 2026. The video only says the tunnel "has been planned since 2018" and the pipes are "still here", so it stays true unless the pipes were shut down or moved.
-- The images: 7 of the 79 pictures are temporary stand-ins made from other shots (images 13, 20, 31, 39, 44, 63, 77). Send me the real ones and I re-render just those shots.
