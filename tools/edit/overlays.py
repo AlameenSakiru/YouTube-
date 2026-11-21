@@ -95,10 +95,11 @@ class Captions:
         c = self.at(T)
         if c is None: return
         cr.select_font_face(CAP_FONT, 0, 0); cr.set_font_size(size)
-        sp = cr.text_extents(' ').x_advance
-        ws = [w['text'] for w in c['words']]
-        widths = [cr.text_extents(w).x_advance for w in ws]
-        total = sum(widths) + sp * (len(ws) - 1)
+        sp = cr.text_extents(' ').x_advance + size * 0.24     # wide gaps: the black outline would otherwise close them
+        segs = [w['text'].split(' ') for w in c['words']]       # "9,000 years" is one timed word but two printed ones
+        segw = [[cr.text_extents(p).x_advance for p in sg] for sg in segs]
+        widths = [sum(ws) + sp * (len(ws) - 1) for ws in segw]
+        total = sum(widths) + sp * (len(widths) - 1)
         x = (W - total) / 2
         # soft band behind the words for readability on bright pictures
         g = cairo.LinearGradient(0, y - 120, 0, H)
@@ -107,13 +108,16 @@ class Captions:
         cur_k = max([i for i, w in enumerate(c['words']) if w['T'] <= T] or [0])
         for i, (w, wd) in enumerate(zip(c['words'], widths)):
             age = T - w['T']
-            pop = 1.0 + 0.14 * max(0.0, 1 - age / 0.16) if 0 <= age < 0.16 else 1.0
+            pop = 1.0 + 0.06 * max(0.0, 1 - age / 0.18) if 0 <= age < 0.18 else 1.0
             col = YELLOW if (i == cur_k and age >= -0.02) else WHITE
             cr.save(); cr.translate(x + wd / 2, y - size * 0.35); cr.scale(pop, pop); cr.translate(-(x + wd / 2), -(y - size * 0.35))
-            cr.move_to(x + 4, y + 5); cr.text_path(w['text']); cr.set_source_rgba(0, 0, 0, 0.55); cr.fill()
-            cr.move_to(x, y); cr.text_path(w['text'])
-            cr.set_source_rgba(0, 0, 0, 0.95); cr.set_line_width(size * 0.16); cr.set_line_join(cairo.LINE_JOIN_ROUND); cr.stroke_preserve()
-            cr.set_source_rgb(*col); cr.fill()
+            xx = x
+            for part, pw in zip(segs[i], segw[i]):
+                cr.move_to(xx + 4, y + 5); cr.text_path(part); cr.set_source_rgba(0, 0, 0, 0.55); cr.fill()
+                cr.move_to(xx, y); cr.text_path(part)
+                cr.set_source_rgba(0, 0, 0, 0.95); cr.set_line_width(size * 0.16); cr.set_line_join(cairo.LINE_JOIN_ROUND); cr.stroke_preserve()
+                cr.set_source_rgb(*col); cr.fill()
+                xx += pw + sp
             cr.restore()
             x += wd + sp
 
