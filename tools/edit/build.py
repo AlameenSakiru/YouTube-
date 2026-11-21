@@ -196,8 +196,11 @@ def watermark_casefile(path):
     cr.select_font_face('JetBrains Mono', 0, 1); cr.set_font_size(22)
     label = CHANNEL.upper(); w = cr.text_extents(label).x_advance + 2 * len(label)
     x = W - 128 - w; y = 92 if WM_POS == 'top' else H - 70
-    cr.set_source_rgba(0, 0, 0, 0.45); cr.move_to(x + 2, y + 2); cr.show_text(label)
-    cr.set_source_rgba(1, 1, 1, 0.78)
+    x0 = x
+    cr.set_source_rgba(0, 0, 0, 0.45)                       # shadow, spaced exactly like the letters
+    for ch in label:
+        cr.move_to(x + 2, y + 2); cr.show_text(ch); x += cr.text_extents(ch).x_advance + 2
+    x = x0; cr.set_source_rgba(1, 1, 1, 0.82)
     for ch in label:
         cr.move_to(x, y); cr.show_text(ch); x += cr.text_extents(ch).x_advance + 2
     cx = W - 128 - w - 26
