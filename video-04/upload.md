@@ -28,6 +28,8 @@ These are the videos whose results decided the topic, the format and the title. 
 | [America's Most Impossible Bridge Has a Problem No One Can Solve](https://www.youtube.com/watch?v=8yPjpewYR2o) | MegaBuilds | | 881,405 in 5 months | Same |
 | [15 Unbelievable Facts You Didn't Know About the Mackinac Bridge](https://www.youtube.com/watch?v=VUQvCk204wU) | MegaBuilds | | 283,905 in 2 months | Same |
 
+Their channels: [The Concourse](https://www.youtube.com/@theconcourseyt), [Fifty Below](https://www.youtube.com/@FiftyBelow), [Drained Atlas](https://www.youtube.com/@DrainedAtlas), [Northern Grounds](https://www.youtube.com/@NorthernGrounds), [Contour Atlas](https://www.youtube.com/@contouratlas), [Lie of the Land](https://www.youtube.com/@LieOfTheLandd), [MegaBuilds](https://www.youtube.com/@MegaBuilds-US), [Beyond The Exit](https://www.youtube.com/@BTE4172).
+
 Why this title wins: it is the month's strongest pattern, on a place with a proven audience, and nobody has made a "We Drained" video about the Mackinac Bridge or the Straits. Copies on places that were already done (Lake Michigan, Lake Huron) got 110 to 3,142 views, so being first matters. Full research: [research/video-04-working-titles-2026-11-21.md](../research/video-04-working-titles-2026-11-21.md).
 
 ## Description
@@ -74,7 +76,7 @@ Left out on purpose: "mackinac bridge crash", "jumper" and "accident". They are 
 
 ## Settings
 
-- **File name:** rename the file `we-drained-the-water-under-the-mackinac-bridge.mp4` before uploading
+- **File:** upload `We Drained the Water Under the Mackinac Bridge.mp4` (already named, with the title and channel name in its details and no encoder tags)
 - **Thumbnail:** coming once you send the three thumbnail images. I add "DRAINED" or "295 FT"
 - **Audience:** No, it's not made for kids
 - **Altered or synthetic content:** Yes. Every image is an AI illustration, and the "drained" views are not real
