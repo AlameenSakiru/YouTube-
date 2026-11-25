@@ -69,9 +69,24 @@ def read():
         ps = [txt(p.get('text', {})).replace('\xa0', ' ') for m in mp for p in m]
         views = next((p for p in ps if 'view' in p), next((p for p in ps if p and 'ago' not in p), ''))
         age = next((p for p in ps if 'ago' in p), '')
-        videos.append(dict(video_id=l.get('contentId'), title=txt(ti[0].get('title', {})) if ti else '',
-                           views=number(views), age=age))
+        title = txt(ti[0].get('title', {})) if ti else ''
+        n = number(views)
+        if re.search(r'\d\s*[KMB]', views.replace('\xa0', ' ')):
+            try: n = exact_views(title) or n
+            except Exception: pass
+        videos.append(dict(video_id=l.get('contentId'), title=title, views=n, age=age))
     return number(subs) if subs and 'No subscriber' not in subs else 0, videos
+
+
+def exact_views(title):
+    """The channel page rounds big counts ('1.2K views'); search results show the exact number."""
+    import urllib.parse
+    d = initial(fetch('https://www.youtube.com/results?search_query=' + urllib.parse.quote(title + ' Great Lakes Files')))
+    vr = []; walk(d or {}, 'videoRenderer', vr)
+    for v in vr:
+        if txt(v.get('title')) == title and 'Great Lakes Files' in txt(v.get('ownerText')):
+            return number(txt(v.get('viewCountText')))
+    return None
 
 
 def last_rows():
