@@ -24,3 +24,4 @@ Same rules as [video 1's monitoring](../video-01/monitoring.md): change one thin
 |---|---|---|---|
 | 2026-11-18 18:12 | Published with thumbnails/thumb-yours.png (split view: freighter above, peak below, yellow "21 FEET" with an arrow to the gap) | | |
 | 2026-11-21, between 03:03 and 06:03 | Title changed to "Something About the Edmund Fitzgerald's Wreck No Longer Makes Sense" (thumbnail unchanged) | 26 public views in 2.5 days; rebuilt from the month's biggest small-channel title pattern | 26 → 36 public views in 48 hours: +2 in the first day, +8 in the second, against +4 in the day before the change. A small lift, too small to be sure of. Kept; no Studio numbers received yet |
+| 2026-11-25 03:03 | No change. Breakout: 104 → 270 public views in 3 hours (55 an hour), after 76 → 104 the evening before | Started about 6 days after publishing, 3.5 days after the retitle | Rule: change nothing while it climbs |
