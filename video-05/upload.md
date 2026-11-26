@@ -69,7 +69,7 @@ Left out on purpose: "edmund fitzgerald song" and "gordon lightfoot" (the video 
 ## Settings
 
 - **File:** upload `We Drained the Edmund Fitzgerald's Graveyard.mp4` (already named, with the title and channel name in its details and no encoder tags)
-- **Thumbnail:** your own, or one made from the Flow thumbnail prompts (send them and I add the text)
+- **Thumbnail:** `thumbnails/thumb-main.jpg` (yours: "240 LOST SHIPS" over the drained graveyard, 1280×720)
 - **Audience:** No, it's not made for kids
 - **Altered or synthetic content:** Yes
 - **Subtitles:** upload `subtitles-en.srt` under Subtitles, English, Upload file, With timing
