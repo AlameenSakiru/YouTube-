@@ -383,7 +383,7 @@ def overlays_for():
         for k, g in enumerate(seq):
             if g.get('gid') in DEPTH_HIDE:
                 hide.append((g['T'], seq[k + 1]['T'] if k + 1 < len(seq) else 1e9))
-        dep = O.Depth(keys, a, b, hide=hide)
+        dep = O.Depth(keys, a, b, max_depth=DEPTH_MAX, hide=hide)
     _OVL = (cap, dep)
     return _OVL
 
@@ -562,6 +562,7 @@ ACC, ACC2 = (1.0, 0.54, 0.24), (0.37, 0.83, 0.82)
 DEPTH_KEYS = []         # depth meter: (section, phrase, feet, seconds)
 DEPTH_SHOW = None
 DEPTH_HIDE = set()
+DEPTH_MAX = 295
 SOUND = None
 _cfg = os.path.join(V, 'edit_config.py')
 if os.path.exists(_cfg):

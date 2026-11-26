@@ -29,6 +29,9 @@ elif GFX_SET == 'video3':
 elif GFX_SET == 'video4':
     import video4
     REG = video4.G
+elif GFX_SET == 'video5':
+    import video5
+    REG = video5.G
 else:
     REG = graphics.G
 

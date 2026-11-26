@@ -169,7 +169,9 @@ class Depth:
             cr.set_source(g); rr(cr, x0 + 4, y0 + h - 4 - fh, w - 8, fh, (w - 8) / 2); cr.fill()
         # ticks
         cr.select_font_face('JetBrains Mono', 0, 0); cr.set_font_size(15)
-        for d in (0, 100, 200, 295):
+        step = 100 if self.max <= 400 else 100
+        ticks = list(range(0, int(self.max) - 40, step)) + [int(self.max)]
+        for d in ticks:
             yy = y0 + 4 + (h - 8) * d / self.max
             cr.set_source_rgba(1, 1, 1, 0.75 * a); cr.set_line_width(2)
             cr.move_to(x0 - 10, yy); cr.line_to(x0, yy); cr.stroke()
