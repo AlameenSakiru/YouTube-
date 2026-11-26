@@ -27,3 +27,4 @@ Same rules as [video 1's monitoring](../video-01/monitoring.md): change one thin
 | 2026-11-25 03:03 | No change. Breakout: 104 → 270 public views in 3 hours (55 an hour), after 76 → 104 the evening before | Started about 6 days after publishing, 3.5 days after the retitle | Rule: change nothing while it climbs |
 | 2026-11-25 06:03 | No change | 270 → about 1,000 public views in 3 hours (shown as "1K"; about 240 an hour); subscribers 9 → 12 | Still climbing |
 | 2026-11-26 06:03 | No change | 2,130 → 2,595 public views in 3 hours (about 155 an hour, its fastest yet, overnight in the US); subscribers 30 | Still climbing |
+| 2026-11-26 18:02 | No change | Climbing again: 2,810 → 3,020 public views in 3 hours (70 an hour, up from 20); subscribers 40. Studio at 18:02 UTC: 3.2K views, 157 watch hours since publishing | Still climbing |
