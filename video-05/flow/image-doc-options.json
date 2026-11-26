@@ -1,0 +1,14 @@
+{
+  "video": 5,
+  "title": "We Drained the Edmund Fitzgerald's Graveyard. Here's What Was Hidden.",
+  "styleNames": {"X": "drained graveyard", "B": "present day", "O": "1870s to 1920", "F": "1958 to 1975", "U": "underwater"},
+  "checks": [
+    "Any readable text, letters, numbers, ship names or signs.",
+    "A lighthouse that isn't an open skeleton tower: Whitefish Point's light is a white iron framework of legs and braces around a slender column.",
+    "1970s freighters with the pilothouse anywhere but the very front, or the funnel anywhere but the very back.",
+    "Modern things in the 1870s to 1920 pictures, or 1970s things in the older ones.",
+    "Faces shown close up. People should be small, far away or seen from behind.",
+    "Anyone shown injured or dead, or any human remains near the wrecks. The wrecks are graves."
+  ],
+  "thumbText": "Make all three, two or three versions each. I will add the text and pick the one that reads best at phone size. Thumbnail 1 leaves the left third dark for text."
+}

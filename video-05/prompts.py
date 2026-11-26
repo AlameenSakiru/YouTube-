@@ -1,0 +1,106 @@
+# Flow image prompts for video 5. Each prompt is the scene (P) plus the look for its style (LOOK).
+# Written for Google Flow: a full sentence scene, camera terms, positive phrasing, plain ASCII.
+# Colour style for this video: cold steel-blue Lake Superior, grey silt and pale stone on the drained bed,
+# warm orange lamplight on the old ships, soft gold light breaking through the clouds.
+
+NOLETTER = "A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+
+LOOK = {
+ "X": "Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. " + NOLETTER,
+ "B": "Shot as a modern colour documentary photograph on the eastern shore of Lake Superior in Michigan's Upper Peninsula, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. " + NOLETTER,
+ "O": "Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. " + NOLETTER,
+ "F": "Shot as a cinematic still from a drama set on the Great Lakes between 1958 and 1975, cold steel-blue light, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the period. People are small in the frame or seen from behind. " + NOLETTER,
+ "U": "Shot as an underwater documentary still in the cold, very clear fresh water of Lake Superior, deep blue-green water, light fading with depth, the bright white beams of divers' lights, fine particles floating, the wrecks clean and free of mussels, realistic detail. " + NOLETTER,
+}
+
+LIGHT = "the Whitefish Point lighthouse, a tall white iron skeleton tower of open legs and cross-braces around a slender central column, with a black lantern room on top, standing on a low sandy point with scrub and pine trees"
+LAKER = "a very long Great Lakes ore freighter of the 1970s with a dark hull and white cabins, its pilothouse at the very front, its engine house and single funnel at the very back, and a long flat deck of hatch covers between them"
+STEAMER = "a wooden Great Lakes steamer of the 1870s with a long low hull, a small pilothouse and cabins on deck, one tall black funnel and two masts"
+HOOKER = "a small, old wooden Great Lakes steamer of 1919 with a low black hull, a small wooden pilothouse at the front, one funnel at the back, and her deck piled high with lumber"
+FREIGHTER = "an 1898 steel Great Lakes freighter with a long black hull, a small pilothouse at the very front, a single tall funnel at the very back and masts between"
+
+P = {
+1: "Epic wide shot from the drained lake bed looking back toward " + LIGHT + ", now standing high above a vast empty basin where Lake Superior used to be, dozens of shipwrecks of wood and steel scattered across the grey silt all the way to the horizon, puddles reflecting a stormy sky with gold light breaking through. 24mm lens at ground level.",
+2: "Wide shot of " + LIGHT + " at dusk, the light just lit, dark storm clouds rolling in over Lake Superior behind it, waves breaking on the sandy point. 35mm lens.",
+3: "Wide shot at night of " + STEAMER + ", steaming across calm dark water, canvas sacks of ore cargo stacked on her deck in the warm light of a hanging lantern, stars above.",
+4: "Wide shot at night of " + FREIGHTER + ", a violent burst of white steam and orange fire erupting from her stern, debris in the air, the bow still dark, the water black around her. Seen from a distance.",
+5: "Wide shot from a distance of a broken wooden pilothouse floating alone in huge icy storm waves, a single man clinging to its roof, snow blowing across the frame, no land in sight, grey light.",
+6: "Wide shot across a drained lake bed in drifting mist of several shipwrecks lying on the grey silt, a broken wooden schooner in the foreground and the rusted hulls of steel freighters fading into the mist behind. 28mm lens.",
+7: "Wide shot of the water draining away from a low sandy point below " + LIGHT + ", the shoreline sliding outward, wet sand and stones appearing, the broken timbers of an old wreck emerging from the shallows.",
+8: "Low-angle shot of the bare curved ribs of a wooden ship's hull standing up out of a dry lake bed like a skeleton, mist behind it, a beam of cold light falling across it. 24mm lens.",
+9: "Wide shot of huge storm waves marching across Lake Superior under a black sky, white spray blowing off their crests, a small old wooden steamer far away climbing one of the waves. Telephoto lens.",
+10: "Wide shot at night of thick fog over dark water, the blurred lights of several old ships glowing faintly through it at different distances, a crowded shipping lane where no ship can see the others.",
+11: "Close shot of a ship's rail and rigging coated in thick ice from frozen spray, icicles hanging from the ropes, a grey stormy dawn over the lake behind, shallow depth of field.",
+12: "Wide shot of " + LIGHT + ", with the lake around the point lowered so that a wide band of newly exposed wet sand and pale stones now surrounds it, the water far out beyond. Overcast light.",
+13: "Wide shot of the broken, scattered timbers of an old wooden barge lying in very shallow, lowered water close to a low sandy point, ripples around the wood, the lighthouse small in the background.",
+14: "Wide shot of a wooden schooner barge of the 1870s with her masts cut down, towed behind a small steamer on a thick towline that is pulled tight, both ships pitching in a November gale, heavy snow blowing across the frame.",
+15: "Wide shot of a wooden barge broken apart in heavy surf just off a sandy shore, her timbers torn loose and tumbling in the white waves, snow in the air, a grey sky.",
+16: "Wide shot of the wreck of a wooden schooner emerging from the sand on a drained shoreline, her hull half buried, her bow pointing at the sky, the lake far away. Cold afternoon light.",
+17: "Wide shot of a crew of 1913 lifesavers in oilskins and sou'westers rowing a white wooden surfboat through heavy breaking surf toward a schooner stranded on a sandbar, seen from the beach behind them.",
+18: "Wide shot of the wreck of an old wooden steamer lying on a drained lake bed, her funnel fallen beside her, a low point with a tall white lighthouse far behind her on the horizon.",
+19: "Wide shot at grey dawn of " + HOOKER + ", steaming out of a small wooded harbour towing a big wooden schooner barge that is also piled high with lumber, calm dark water.",
+20: "Wide shot of " + HOOKER + ", and the barge she tows, plunging through huge grey waves in a November gale, heavy snow blowing sideways, spray bursting over the lumber on her deck.",
+21: "Interior below deck of an old wooden ship's hull in lantern light, cold water spraying in through the seams between the planks, water sloshing across the floor, wooden frames and beams around.",
+22: "Close shot of the deck of an old wooden steamer coated in thick white ice, the rails, the stacked lumber and the ropes all frozen, snow blowing, a dark stormy sea beyond.",
+23: "Wide shot of a big wooden schooner barge riding at anchor in heavy seas, her bow turned into the waves, her anchor chains tight, snow and spray blowing across her deck.",
+24: "Wide shot of a large steel steamer of 1919 running close alongside a small iced-over wooden steamer in a storm, shielding her from the waves, both ships rolling in heavy seas, snow in the air.",
+25: "Wide shot of a 1919 motor lifeboat with a crew of lifesavers in oilskins plunging bow-first through a breaking wave, spray exploding around her, a grey stormy sea.",
+26: "Interior of an old ship's boiler room, cold water flooding across the floor and rising toward the glowing furnace doors, clouds of steam bursting up as the fires go out, a stoker seen from behind in the haze.",
+27: "Wide shot of " + HOOKER + ", sinking in a snowstorm, her stern lifting out of the water, her lumber spilling off the deck into the waves, a larger steamer's lights far off in the snow.",
+28: "Wide shot from a distance of two wooden lifeboats trapped in a churning sea of floating lumber and planks, huge waves around them, snow falling, the men in them small and far away.",
+29: "Wide shot from the high steel rail of a big steamer as a coiled rope line flies out over the waves toward a small lifeboat in the churning water below, snow in the air, the people small.",
+30: "Wide shot of a small wooden pilothouse torn loose from its ship and floating in a stormy sea, a man seen from behind climbing out through its broken window onto its roof, snow and spray around him.",
+31: "Wide shot at grey dawn of a steamer approaching a field of floating wreckage near a dark wooded island, a tiny figure lying on a floating pilothouse roof far off in the frame, a cold calm sea after the storm.",
+32: "Wide shot of a frozen winter shoreline on a Lake Superior bay, great slabs of ice heaped along the beach, snow on the dark pines behind, a grey sky, empty and silent.",
+33: "Wide shot of spring ice breaking up along a Lake Superior shore on a grey morning, floating plates of ice and dark open water, old snow on the beach.",
+34: "Wide shot of a small, old hillside cemetery in snow, simple weathered wooden and stone grave markers among birch trees, the frozen bay below, soft grey light.",
+35: "Wide shot of the wreck of a big wooden schooner barge on a drained lake bed, her hull broken open, another wooden wreck in the distance behind her, mist over the silt.",
+36: "Wide shot of the wreck of a large wooden schooner barge resting on the drained lake bed, her timbers dark and intact, a tall white lighthouse tiny on the horizon behind her. 24mm lens.",
+37: "Wide shot of a wooden schooner barge of the 1880s breaking loose from the steamer towing her in heavy seas, the towline snapping and whipping through the air, the barge swinging away into the waves.",
+38: "Wide shot of the wreck of a wooden steamer sitting upright on a drained lake bed, her decks partly gone so her old round boiler shows in the middle of the hull, puddles around her.",
+39: "Wide shot at night of two wooden steamers of the 1870s locked together after a collision, lanterns swinging, small figures climbing across from the damaged ship onto the other.",
+40: "Underwater wide shot of an old wooden shipwreck resting on the bottom in very clear, cold blue water, her timbers clean and well preserved, a diver's light beam sweeping along the hull.",
+41: "Underwater close shot of the clean wooden planking of an old shipwreck with brass fittings and a ship's wheel still in place, in very clear water, soft light from above.",
+42: "Underwater wide shot of three divers with bright lights hovering quietly over an old wooden shipwreck like visitors in a museum, the wreck lit in pools of light, deep blue water around them.",
+43: "Wide shot of the wreck of an early 1900s steel freighter lying on the drained floor of a deep bay, her hull rusted and broken in the middle, the steep sides of the bay rising behind her.",
+44: "Wide shot of two early 1900s steel Great Lakes freighters colliding in a bay on a grey day, the bow of one cutting deep into the side of the other, spray and splintered steel.",
+45: "Wide shot at night of the wreck of an old wooden passenger steamer lying on a drained lake bed under a sky full of stars, her paddle-less hull and broken cabins silhouetted, eerie blue light.",
+46: "Wide shot on a calm, clear starlit night of " + STEAMER + ", her lamps glowing, passing a lighthouse on a low point whose beam sweeps across the dark water.",
+47: "Shot from behind a lookout standing at the bow of an old wooden steamer at dusk, looking ahead at the white, red and green lights of another steamer coming toward them across dark water.",
+48: "Wide shot at night of the bow of an 1870s steamer striking the side of another wooden steamer, timbers splintering, lanterns swinging, water churning white.",
+49: "Wide shot at night of the upper cabins of a wooden steamer collapsing and sliding into the dark water after a collision, splintered wood and spray, another ship's lights close by.",
+50: "Interior of an old wooden ship's cargo hold in warm lantern light, canvas sacks of ore and stacked bars of pig iron filling the hold, wooden beams overhead, shadows in the corners.",
+51: "Underwater shot of a diver's light shining into the open cargo hold of an old wooden shipwreck, the beam disappearing into darkness inside, fine particles in the water.",
+52: "Extreme wide shot of a huge steel freighter wreck broken into two parts lying at the bottom of a deep drained basin, tiny in the vast landscape of grey silt and rock, steep slopes rising around her. Aerial view.",
+53: "Wide shot of " + FREIGHTER + ", sliding sideways into a river at her launch in 1898, a huge splash rising, crowds in Victorian clothes lining the riverbank and waving hats, flags on the shipyard.",
+54: "Wide shot at night of " + FREIGHTER + ", riding low in the water with a cargo of iron ore, her lamps glowing as she enters a bay, dark wooded shores around.",
+55: "Shot from the deck of a freighter at night looking ahead as the lights of another steel freighter come out of the darkness straight toward them, close and getting closer.",
+56: "Wide shot at night of the bow of a steel freighter ramming into the side of another freighter, steel crumpling, sparks and spray, both ships lit by their own lamps.",
+57: "Interior of an old steel ship's boiler room, a wall of cold lake water surging across the floor toward the glowing boilers, steam beginning to burst, red light and shadows.",
+58: "Wide shot at night from a distance of a huge explosion of white steam and orange fire bursting from the stern of a steel freighter, the blast lighting the dark water.",
+59: "Wide shot at night of wooden lifeboats hanging from their davits above the stern of a steel freighter, small figures hurrying toward them on the deck, lamps glowing.",
+60: "Wide shot at night of a man clinging to a floating wooden hatch cover in dark water, small in the frame, the lights of a ship far away on the horizon.",
+61: "Extreme wide shot at dusk of a vast drained lake floor stretching away into a deep open basin, the shore and its lighthouse tiny and far behind, the silt sloping down into darkness. Aerial view.",
+62: "Epic wide shot of the two broken halves of " + LAKER + ", lying on a dark drained lake floor 530 feet below where the surface used to be, the bow section standing upright in the grey mud, the stern section upside down further away, a field of rust-red ore pellets and torn steel between them, cold blue light, enormous scale. Low angle.",
+63: "Wide shot at night of snow falling onto black, icy open water, the surface dark and still between the waves, no ship and no land, a single faint light far away.",
+64: "Wide shot from a 1970s pilothouse window looking back along the long flat deck of " + LAKER + ", a row of hatch covers stretching away toward the stern, a grey overcast day on the lake.",
+65: "Medium-wide shot of a 1970s ship's galley, an older steward in a white jacket seen from behind as he works at the steel counter, pots on the stove, a porthole showing grey water.",
+66: "Wide shot of a huge Great Lakes freighter hull in a winter dry dock, snow on the dock, small workers in hard hats welding at the keel, bright sparks under the hull.",
+67: "Extreme close-up of a long weld seam on a steel ship's keel plate, the weld cracked and broken in places, rust stains running from the cracks, shallow depth of field.",
+68: "Medium shot from behind of a 1950s naval architect at a large drawing board, a long side-view plan of a lake freighter's hull pinned to it, drafting tools and a lamp, the drawing's lines too fine to read.",
+69: "Wide shot at night of calm, dark Lake Superior under a cloudy sky, the water almost black, a single distant light on the horizon, still and silent.",
+70: "Wide shot of water flooding back across a drained lake bed, a wall of foaming water rushing over the silt toward scattered shipwrecks in the distance, dramatic light.",
+71: "Wide shot of rising water swirling around the broken halves of a huge freighter on a lake floor, the water already up to her decks, dark blue light.",
+72: "Wide shot of rising water covering a large steel shipwreck and a smaller wooden steamer wreck beside her on a lake floor, only the tops of their hulls still showing.",
+73: "Wide shot of water rolling in over two old wooden shipwrecks near a sandy shore, waves breaking across their timbers, the lighthouse on the point behind.",
+74: "Wide shot at calm dawn of small waves lapping at the sandy shore at the foot of " + LIGHT + ", soft pink and gold light, Lake Superior peaceful and blue.",
+75: "Wide shot at sunset of a modern 1,000-foot Great Lakes freighter passing a low sandy point with a white skeleton-tower lighthouse, the ship long and dark against an orange sky.",
+76: "Wide shot of a long, low wooden maritime museum building beside " + LIGHT + " on a snowy evening, warm light glowing from its windows, pine trees around, no signs.",
+77: "Wide shot of " + LIGHT + " at sunset, the sky orange and purple over a calm Lake Superior, the left half of the frame open sky and water.",
+}
+
+THUMBS = [
+ "Epic low-angle wide shot from a drained lake bed of the broken bow of " + LAKER + ", standing upright and enormous in the grey mud where Lake Superior used to be, other shipwrecks of wood and steel scattered across the empty basin behind her, " + LIGHT + " tiny on a ridge far away, a dramatic stormy sky with gold light breaking through. High contrast, vivid, cinematic. The left third of the frame is dark sky for text. " + NOLETTER,
+ "Aerial shot of a vast drained lake basin off a low point with a white skeleton-tower lighthouse, dozens of shipwrecks scattered across the grey silt, and in the deepest part of the basin the two broken halves of a huge 1970s ore freighter. High contrast, cinematic, cold blue with warm gold light. " + NOLETTER,
+ "Split view: the left half shows dark, stormy Lake Superior water off a lighthouse point, the right half shows the same place with the water drained away, revealing shipwrecks on the bottom and the broken halves of a huge ore freighter. Dramatic, high contrast, cinematic. " + NOLETTER,
+]

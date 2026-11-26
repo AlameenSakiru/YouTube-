@@ -145,9 +145,10 @@ def make(tl, V, BUILD, cfg=None, depth_T=()):
     times, wv, wa, ru = [], [], [], []
     last = (0.2, 0.4, 0.0)
     for g in shots:
-        if g['kind'] in ('F', 'R', 'V1'):
-            st = g['style'] if g['kind'] == 'F' else styles.get(g.get('img'), 'B')
-            desc = g['desc'] if g['kind'] == 'F' else next((s['desc'] for s in shots if s['kind'] == 'F' and s.get('img') == g.get('img')), '')
+        if g['kind'] != 'G':
+            own = g['kind'] == 'F' or (g['kind'][0] == 'V' and g.get('style', '-') != '-')
+            st = g['style'] if own else styles.get(g.get('img'), 'B')
+            desc = g['desc'] if own else next((s['desc'] for s in shots if s['kind'] == 'F' and s.get('img') == g.get('img')), '')
             a = amb(st, desc); last = a
         else:
             a = (last[0] * 0.45, last[1] * 0.45, max(last[2] * 0.6, 0.25))

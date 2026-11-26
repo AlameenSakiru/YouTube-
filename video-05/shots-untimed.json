@@ -1,0 +1,1492 @@
+[
+ {
+  "sec": 1,
+  "kind": "V3",
+  "style": "F",
+  "cue": "seventeen miles that's how far",
+  "desc": "A 1970s ore freighter at night in a snowstorm",
+  "optional": false,
+  "img": 1
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "seventeen miles from whitefish point",
+  "desc": "Map: the Fitzgerald's position, 17 MILES from Whitefish Point and the bay behind it; \"just over an hour\"",
+  "optional": false,
+  "gid": "G01"
+ },
+ {
+  "sec": 1,
+  "kind": "V3",
+  "style": "F",
+  "cue": "at ten past seven her captain",
+  "desc": "Inside a 1970s pilothouse at night, the captain from behind with a radio handset",
+  "optional": false,
+  "img": 2
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "we are holding our own",
+  "desc": "Quote card: \"We are holding our own.\" \u00b7 7:10 P.M. \u00b7 10 NOVEMBER 1975",
+  "optional": false,
+  "gid": "G02"
+ },
+ {
+  "sec": 1,
+  "kind": "V3",
+  "style": "S",
+  "cue": "minutes later she was gone",
+  "desc": "Empty storm-tossed lake at night in snow, no ship anywhere",
+  "optional": false,
+  "img": 4
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "twenty nine men",
+  "desc": "Number card: 29 men",
+  "optional": false,
+  "gid": "G03"
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "X",
+  "cue": "she went down at the edge",
+  "desc": "THE SIGNATURE IMAGE: Whitefish Point's lighthouse above a drained lake bed scattered with shipwrecks to the horizon",
+  "optional": false,
+  "img": 1,
+  "prompt": "Epic wide shot from the drained lake bed looking back toward the Whitefish Point lighthouse, a tall white iron skeleton tower of open legs and cross-braces around a slender central column, with a black lantern room on top, standing on a low sandy point with scrub and pine trees, now standing high above a vast empty basin where Lake Superior used to be, dozens of shipwrecks of wood and steel scattered across the grey silt all the way to the horizon, puddles reflecting a stormy sky with gold light breaking through. 24mm lens at ground level. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "B",
+  "cue": "sailors call it the graveyard",
+  "desc": "Whitefish Point lighthouse on its point at dusk, storm clouds over Lake Superior",
+  "optional": false,
+  "img": 2,
+  "prompt": "Wide shot of the Whitefish Point lighthouse, a tall white iron skeleton tower of open legs and cross-braces around a slender central column, with a black lantern room on top, standing on a low sandy point with scrub and pine trees at dusk, the light just lit, dark storm clouds rolling in over Lake Superior behind it, waves breaking on the sandy point. 35mm lens. Shot as a modern colour documentary photograph on the eastern shore of Lake Superior in Michigan's Upper Peninsula, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "it has taken at least two",
+  "desc": "Number card: 240+ ships",
+  "optional": false,
+  "gid": "G04"
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "O",
+  "cue": "a steamer carrying seventy tons",
+  "desc": "An 1870s wooden steamer at night, cargo sacks on deck in lantern light",
+  "optional": false,
+  "img": 3,
+  "prompt": "Wide shot at night of a wooden Great Lakes steamer of the 1870s with a long low hull, a small pilothouse and cabins on deck, one tall black funnel and two masts, steaming across calm dark water, canvas sacks of ore cargo stacked on her deck in the warm light of a hanging lantern, stars above. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "O",
+  "cue": "a freighter that exploded when",
+  "desc": "An early steel freighter at night with steam and fire bursting from her stern",
+  "optional": false,
+  "img": 4,
+  "prompt": "Wide shot at night of an 1898 steel Great Lakes freighter with a long black hull, a small pilothouse at the very front, a single tall funnel at the very back and masts between, a violent burst of white steam and orange fire erupting from her stern, debris in the air, the bow still dark, the water black around her. Seen from a distance. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "O",
+  "cue": "a captain who survived twenty",
+  "desc": "A broken wooden pilothouse floating in icy storm waves, a man clinging to its roof, far off",
+  "optional": false,
+  "img": 5,
+  "prompt": "Wide shot from a distance of a broken wooden pilothouse floating alone in huge icy storm waves, a single man clinging to its roof, snow blowing across the frame, no land in sight, grey light. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "X",
+  "cue": "and almost all of them are",
+  "desc": "Wooden and steel wrecks lying on a drained lake bed in mist",
+  "optional": false,
+  "img": 6,
+  "prompt": "Wide shot across a drained lake bed in drifting mist of several shipwrecks lying on the grey silt, a broken wooden schooner in the foreground and the rusted hulls of steel freighters fading into the mist behind. 28mm lens. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "R",
+  "style": "-",
+  "cue": "so let's drain it",
+  "desc": "The drained graveyard again",
+  "optional": false,
+  "img": 1
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "but divers sonar and two hundred",
+  "desc": "Sonar-style map of Whitefish Point and the bay drawing itself",
+  "optional": false,
+  "gid": "G05"
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "X",
+  "cue": "so we're going to lower the",
+  "desc": "Water draining away from a rocky point below a lighthouse, wreck timbers appearing",
+  "optional": false,
+  "img": 7,
+  "prompt": "Wide shot of the water draining away from a low sandy point below the Whitefish Point lighthouse, a tall white iron skeleton tower of open legs and cross-braces around a slender central column, with a black lantern room on top, standing on a low sandy point with scrub and pine trees, the shoreline sliding outward, wet sand and stones appearing, the broken timbers of an old wreck emerging from the shallows. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "F",
+  "style": "X",
+  "cue": "and watch for this every ship",
+  "desc": "The bare ribs of a wooden ship on a dry lake bed, mist, ominous light",
+  "optional": false,
+  "img": 8,
+  "prompt": "Low-angle shot of the bare curved ribs of a wooden ship's hull standing up out of a dry lake bed like a skeleton, mist behind it, a beam of cold light falling across it. 24mm lens. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "by the time we reach the",
+  "desc": "Depth card: 530 FT",
+  "optional": false,
+  "gid": "G06"
+ },
+ {
+  "sec": 1,
+  "kind": "V3",
+  "style": "U",
+  "cue": "you'll see that on the night",
+  "desc": "The rusted bow of a huge ship upright in mud, lit by a submersible's lights",
+  "optional": false,
+  "img": 10
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "this is great lakes files",
+  "desc": "Channel title stinger",
+  "optional": false,
+  "gid": "G07"
+ },
+ {
+  "sec": 1,
+  "kind": "R",
+  "style": "-",
+  "cue": "we go looking for the",
+  "desc": "The drained graveyard again",
+  "optional": false,
+  "img": 1
+ },
+ {
+  "sec": 1,
+  "kind": "R",
+  "style": "-",
+  "cue": "a lot of you found us",
+  "desc": "The lighthouse at dusk again",
+  "optional": false,
+  "img": 2
+ },
+ {
+  "sec": 1,
+  "kind": "G",
+  "style": "-",
+  "cue": "tap subscribe right now",
+  "desc": "Animated Subscribe button and bell",
+  "optional": false,
+  "gid": "G08"
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "the point is called whitefish point",
+  "desc": "Map: Lake Superior, Whitefish Point at the eastern end, ships funnelling past toward the Soo",
+  "optional": false,
+  "gid": "G09"
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "three things kill them here",
+  "desc": "Title card: THREE KILLERS",
+  "optional": false,
+  "gid": "G10"
+ },
+ {
+  "sec": 2,
+  "kind": "F",
+  "style": "O",
+  "cue": "the storm behind the point lie",
+  "desc": "Huge storm waves on Lake Superior, an old steamer small in the distance",
+  "optional": false,
+  "img": 9,
+  "prompt": "Wide shot of huge storm waves marching across Lake Superior under a black sky, white spray blowing off their crests, a small old wooden steamer far away climbing one of the waves. Telephoto lens. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "a hundred and sixty miles of",
+  "desc": "Map: 160 miles of open water, a northwest gale arrow, \"WAVES 30 FT+\"",
+  "optional": false,
+  "gid": "G11"
+ },
+ {
+  "sec": 2,
+  "kind": "F",
+  "style": "O",
+  "cue": "the dark night fog snow squalls",
+  "desc": "Ship lights in thick fog at night, several ships faint in a crowded lane",
+  "optional": false,
+  "img": 10,
+  "prompt": "Wide shot at night of thick fog over dark water, the blurred lights of several old ships glowing faintly through it at different distances, a crowded shipping lane where no ship can see the others. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 2,
+  "kind": "F",
+  "style": "O",
+  "cue": "and the cold lake superior is",
+  "desc": "Ice-coated ship's rail and rigging, frozen spray, grey dawn",
+  "optional": false,
+  "img": 11,
+  "prompt": "Close shot of a ship's rail and rigging coated in thick ice from frozen spray, icicles hanging from the ropes, a grey stormy dawn over the lake behind, shallow depth of field. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "remember those three the storm",
+  "desc": "Three cards: THE STORM / THE DARK / THE COLD",
+  "optional": false,
+  "gid": "G12"
+ },
+ {
+  "sec": 2,
+  "kind": "G",
+  "style": "-",
+  "cue": "let's start the drain",
+  "desc": "Cross-section off Whitefish Point, the water level starting to fall; depth meter at 0 FT",
+  "optional": false,
+  "gid": "G13"
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "X",
+  "cue": "twenty feet just west of the",
+  "desc": "Whitefish Point's iron skeleton lighthouse above a newly exposed shoreline, the water lowered",
+  "optional": false,
+  "img": 12,
+  "prompt": "Wide shot of the Whitefish Point lighthouse, a tall white iron skeleton tower of open legs and cross-braces around a slender central column, with a black lantern room on top, standing on a low sandy point with scrub and pine trees, with the lake around the point lowered so that a wide band of newly exposed wet sand and pale stones now surrounds it, the water far out beyond. Overcast light. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "X",
+  "cue": "the bottom starts to show and",
+  "desc": "The broken timbers of an old wooden barge in shallow lowered water near a point",
+  "optional": false,
+  "img": 13,
+  "prompt": "Wide shot of the broken, scattered timbers of an old wooden barge lying in very shallow, lowered water close to a low sandy point, ripples around the wood, the lighthouse small in the background. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "O",
+  "cue": "in november eighteen seventy two",
+  "desc": "An 1870s schooner barge under tow in a November gale, the towline straining, snow",
+  "optional": false,
+  "img": 14,
+  "prompt": "Wide shot of a wooden schooner barge of the 1870s with her masts cut down, towed behind a small steamer on a thick towline that is pulled tight, both ships pitching in a November gale, heavy snow blowing across the frame. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "O",
+  "cue": "she was driven onto the",
+  "desc": "A wooden barge breaking apart in heavy surf near shore, timbers in the waves",
+  "optional": false,
+  "img": 15,
+  "prompt": "Wide shot of a wooden barge broken apart in heavy surf just off a sandy shore, her timbers torn loose and tumbling in the white waves, snow in the air, a grey sky. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 3,
+  "kind": "G",
+  "style": "-",
+  "cue": "seven men died the storm",
+  "desc": "Killer card: THE STORM \u00b7 SATURN \u00b7 1872 \u00b7 7 men",
+  "optional": false,
+  "gid": "G14"
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "X",
+  "cue": "thirty feet to the west",
+  "desc": "A wooden schooner wreck emerging on a sandy drained shoreline",
+  "optional": false,
+  "img": 16,
+  "prompt": "Wide shot of the wreck of a wooden schooner emerging from the sand on a drained shoreline, her hull half buried, her bow pointing at the sky, the lake far away. Cold afternoon light. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 3,
+  "kind": "F",
+  "style": "O",
+  "cue": "and the lifesaving crew from",
+  "desc": "1913 lifesavers rowing a surfboat through heavy surf toward a stranded schooner",
+  "optional": false,
+  "img": 17,
+  "prompt": "Wide shot of a crew of 1913 lifesavers in oilskins and sou'westers rowing a white wooden surfboat through heavy breaking surf toward a schooner stranded on a sandbar, seen from the beach behind them. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 3,
+  "kind": "R",
+  "style": "-",
+  "cue": "not every crew here was",
+  "desc": "The lighthouse above the lowered water again",
+  "optional": false,
+  "img": 12
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "X",
+  "cue": "at fifty feet a mile and",
+  "desc": "The wreck of a wooden steamer on a drained lake bed, a lighthouse point far behind",
+  "optional": false,
+  "img": 18,
+  "prompt": "Wide shot of the wreck of an old wooden steamer lying on a drained lake bed, her funnel fallen beside her, a low point with a tall white lighthouse far behind her on the horizon. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "G",
+  "style": "-",
+  "cue": "her name is the myron",
+  "desc": "Name card: MYRON \u00b7 186 FT \u00b7 23 NOVEMBER 1919",
+  "optional": false,
+  "gid": "G15"
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "on the twenty second of november",
+  "desc": "A 1919 wooden steamer piled high with lumber, towing a schooner barge out of a small harbour at dawn",
+  "optional": false,
+  "img": 19,
+  "prompt": "Wide shot at grey dawn of a small, old wooden Great Lakes steamer of 1919 with a low black hull, a small wooden pilothouse at the front, one funnel at the back, and her deck piled high with lumber, steaming out of a small wooded harbour towing a big wooden schooner barge that is also piled high with lumber, calm dark water. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "two hours later a november gale",
+  "desc": "The steamer and barge in a November gale, heavy snow, huge waves",
+  "optional": false,
+  "img": 20,
+  "prompt": "Wide shot of a small, old wooden Great Lakes steamer of 1919 with a low black hull, a small wooden pilothouse at the front, one funnel at the back, and her deck piled high with lumber, and the barge she tows, plunging through huge grey waves in a November gale, heavy snow blowing sideways, spray bursting over the lumber on her deck. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "the seas opened the seams of",
+  "desc": "Below deck in an old wooden hull, water spraying through the seams in lantern light",
+  "optional": false,
+  "img": 21,
+  "prompt": "Interior below deck of an old wooden ship's hull in lantern light, cold water spraying in through the seams between the planks, water sloshing across the floor, wooden frames and beams around. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "ice built up on her until",
+  "desc": "Thick ice coating a wooden steamer's deck, rails and lumber, snow blowing",
+  "optional": false,
+  "img": 22,
+  "prompt": "Close shot of the deck of an old wooden steamer coated in thick white ice, the rails, the stacked lumber and the ropes all frozen, snow blowing, a dark stormy sea beyond. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "her captain left the barge at",
+  "desc": "A schooner barge riding at anchor in heavy seas, bow to the waves, snow",
+  "optional": false,
+  "img": 23,
+  "prompt": "Wide shot of a big wooden schooner barge riding at anchor in heavy seas, her bow turned into the waves, her anchor chains tight, snow and spray blowing across her deck. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "a bigger steel steamer ran alongside",
+  "desc": "A large steel steamer running alongside a small iced-over wooden steamer in a storm",
+  "optional": false,
+  "img": 24,
+  "prompt": "Wide shot of a large steel steamer of 1919 running close alongside a small iced-over wooden steamer in a storm, shielding her from the waves, both ships rolling in heavy seas, snow in the air. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "a lifesaving crew followed in a",
+  "desc": "A 1919 motor lifeboat with lifesavers in oilskins plunging through surf",
+  "optional": false,
+  "img": 25,
+  "prompt": "Wide shot of a 1919 motor lifeboat with a crew of lifesavers in oilskins plunging bow-first through a breaking wave, spray exploding around her, a grey stormy sea. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "G",
+  "style": "-",
+  "cue": "a mile and a half from",
+  "desc": "Map: the Myron's position 1.5 MILES from Whitefish Point",
+  "optional": false,
+  "gid": "G16"
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "the water reached her boiler fires",
+  "desc": "A ship's boiler room flooding, the fires going out in clouds of steam, a stoker from behind",
+  "optional": false,
+  "img": 26,
+  "prompt": "Interior of an old ship's boiler room, cold water flooding across the floor and rising toward the glowing furnace doors, clouds of steam bursting up as the fires go out, a stoker seen from behind in the haze. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "she sank in four minutes",
+  "desc": "A wooden steamer going down in a snowstorm, her stern lifting, lumber spilling into the sea",
+  "optional": false,
+  "img": 27,
+  "prompt": "Wide shot of a small, old wooden Great Lakes steamer of 1919 with a low black hull, a small wooden pilothouse at the front, one funnel at the back, and her deck piled high with lumber, sinking in a snowstorm, her stern lifting out of the water, her lumber spilling off the deck into the waves, a larger steamer's lights far off in the snow. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "her crew got into the lifeboats",
+  "desc": "Two lifeboats trapped in a sea of floating lumber, waves and snow, men small and far away",
+  "optional": false,
+  "img": 28,
+  "prompt": "Wide shot from a distance of two wooden lifeboats trapped in a churning sea of floating lumber and planks, huge waves around them, snow falling, the men in them small and far away. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "one got close enough to throw",
+  "desc": "A rope line thrown from a big steamer's rail toward a lifeboat in the waves",
+  "optional": false,
+  "img": 29,
+  "prompt": "Wide shot from the high steel rail of a big steamer as a coiled rope line flies out over the waves toward a small lifeboat in the churning water below, snow in the air, the people small. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "her captain was still inside the",
+  "desc": "A wooden pilothouse torn loose and floating in a storm, a man climbing out of its window, from behind",
+  "optional": false,
+  "img": 30,
+  "prompt": "Wide shot of a small wooden pilothouse torn loose from its ship and floating in a stormy sea, a man seen from behind climbing out through its broken window onto its roof, snow and spray around him. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "twenty hours later a steamer coming",
+  "desc": "A steamer at grey dawn approaching floating wreckage, a tiny figure on a pilothouse roof far off",
+  "optional": false,
+  "img": 31,
+  "prompt": "Wide shot at grey dawn of a steamer approaching a field of floating wreckage near a dark wooded island, a tiny figure lying on a floating pilothouse roof far off in the frame, a cold calm sea after the storm. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "G",
+  "style": "-",
+  "cue": "he was the only survivor",
+  "desc": "Number card: 1 survivor \u00b7 17 men lost",
+  "optional": false,
+  "gid": "G17"
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "O",
+  "cue": "remember what sailors say about lake",
+  "desc": "A frozen winter shoreline on Whitefish Bay, ice heaped along the beach, grey sky",
+  "optional": false,
+  "img": 32,
+  "prompt": "Wide shot of a frozen winter shoreline on a Lake Superior bay, great slabs of ice heaped along the beach, snow on the dark pines behind, a grey sky, empty and silent. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "G",
+  "style": "-",
+  "cue": "all seventeen men were found still",
+  "desc": "Card: ALL 17 FOUND \u00b7 IN THEIR LIFE JACKETS",
+  "optional": false,
+  "gid": "G18"
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "B",
+  "cue": "eight weren't found until the next",
+  "desc": "Spring ice breaking up along a Lake Superior shore, grey morning",
+  "optional": false,
+  "img": 33,
+  "prompt": "Wide shot of spring ice breaking up along a Lake Superior shore on a grey morning, floating plates of ice and dark open water, old snow on the beach. Shot as a modern colour documentary photograph on the eastern shore of Lake Superior in Michigan's Upper Peninsula, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "B",
+  "cue": "people from the towns around the",
+  "desc": "A small snowy hillside cemetery with simple old grave markers above a bay",
+  "optional": false,
+  "img": 34,
+  "prompt": "Wide shot of a small, old hillside cemetery in snow, simple weathered wooden and stone grave markers among birch trees, the frozen bay below, soft grey light. Shot as a modern colour documentary photograph on the eastern shore of Lake Superior in Michigan's Upper Peninsula, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "F",
+  "style": "X",
+  "cue": "and the barge the myron left",
+  "desc": "A wooden schooner barge wreck on the drained bed, a second wreck in the distance",
+  "optional": false,
+  "img": 35,
+  "prompt": "Wide shot of the wreck of a big wooden schooner barge on a drained lake bed, her hull broken open, another wooden wreck in the distance behind her, mist over the silt. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 4,
+  "kind": "G",
+  "style": "-",
+  "cue": "two years later she sank off",
+  "desc": "Card: MIZTEC \u00b7 1921 \u00b7 all 7 lost",
+  "optional": false,
+  "gid": "G19"
+ },
+ {
+  "sec": 5,
+  "kind": "F",
+  "style": "X",
+  "cue": "a hundred feet seven miles out",
+  "desc": "A big wooden schooner barge wreck on the drained lake bed, the lighthouse tiny on the horizon",
+  "optional": false,
+  "img": 36,
+  "prompt": "Wide shot of the wreck of a large wooden schooner barge resting on the drained lake bed, her timbers dark and intact, a tall white lighthouse tiny on the horizon behind her. 24mm lens. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 5,
+  "kind": "F",
+  "style": "O",
+  "cue": "in september eighteen eighty seven she",
+  "desc": "An 1880s schooner barge breaking loose from a towing steamer in heavy seas, the towline snapping",
+  "optional": false,
+  "img": 37,
+  "prompt": "Wide shot of a wooden schooner barge of the 1880s breaking loose from the steamer towing her in heavy seas, the towline snapping and whipping through the air, the barge swinging away into the waves. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 5,
+  "kind": "F",
+  "style": "X",
+  "cue": "at a hundred and twenty feet",
+  "desc": "A wooden steamer wreck sitting upright on the drained bed, her boiler showing",
+  "optional": false,
+  "img": 38,
+  "prompt": "Wide shot of the wreck of a wooden steamer sitting upright on a drained lake bed, her decks partly gone so her old round boiler shows in the middle of the hull, puddles around her. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 5,
+  "kind": "F",
+  "style": "O",
+  "cue": "she sank in eighteen seventy three",
+  "desc": "Two 1870s wooden steamers after a night collision, a crew climbing across to the other ship",
+  "optional": false,
+  "img": 39,
+  "prompt": "Wide shot at night of two wooden steamers of the 1870s locked together after a collision, lanterns swinging, small figures climbing across from the damaged ship onto the other. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 5,
+  "kind": "F",
+  "style": "U",
+  "cue": "the water here is cold and",
+  "desc": "Underwater: an old wooden wreck in very clear, cold water, clean timbers, a diver's light",
+  "optional": false,
+  "img": 40,
+  "prompt": "Underwater wide shot of an old wooden shipwreck resting on the bottom in very clear, cold blue water, her timbers clean and well preserved, a diver's light beam sweeping along the hull. Shot as an underwater documentary still in the cold, very clear fresh water of Lake Superior, deep blue-green water, light fading with depth, the bright white beams of divers' lights, fine particles floating, the wrecks clean and free of mussels, realistic detail. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 5,
+  "kind": "F",
+  "style": "U",
+  "cue": "this is one of the last",
+  "desc": "Underwater: clean old planking and brass fittings on a wreck in clear water",
+  "optional": false,
+  "img": 41,
+  "prompt": "Underwater close shot of the clean wooden planking of an old shipwreck with brass fittings and a ship's wheel still in place, in very clear water, soft light from above. Shot as an underwater documentary still in the cold, very clear fresh water of Lake Superior, deep blue-green water, light fading with depth, the bright white beams of divers' lights, fine particles floating, the wrecks clean and free of mussels, realistic detail. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 5,
+  "kind": "G",
+  "style": "-",
+  "cue": "three hundred and seventy six square",
+  "desc": "Map: the Whitefish Point Underwater Preserve, 376 SQ MI, wreck dots appearing",
+  "optional": false,
+  "gid": "G20"
+ },
+ {
+  "sec": 5,
+  "kind": "F",
+  "style": "U",
+  "cue": "and divers call it an underwater",
+  "desc": "Underwater: divers with lights hovering over an old wreck like museum visitors",
+  "optional": false,
+  "img": 42,
+  "prompt": "Underwater wide shot of three divers with bright lights hovering quietly over an old wooden shipwreck like visitors in a museum, the wreck lit in pools of light, deep blue water around them. Shot as an underwater documentary still in the cold, very clear fresh water of Lake Superior, deep blue-green water, light fading with depth, the bright white beams of divers' lights, fine particles floating, the wrecks clean and free of mussels, realistic detail. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 5,
+  "kind": "G",
+  "style": "-",
+  "cue": "we're about halfway down so before",
+  "desc": "Guess cards: THE STORM / THE HATCHES / A SHOAL / THE SHIP",
+  "optional": false,
+  "gid": "G21"
+ },
+ {
+  "sec": 5,
+  "kind": "G",
+  "style": "-",
+  "cue": "put your guess in the comments",
+  "desc": "Comment box: a guess being typed",
+  "optional": false,
+  "gid": "G22"
+ },
+ {
+  "sec": 5,
+  "kind": "V3",
+  "style": "F",
+  "cue": "and stay with me because below",
+  "desc": "From a pilothouse window at night: snow, nothing visible ahead",
+  "optional": false,
+  "img": 59
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "X",
+  "cue": "as the water falls toward two",
+  "desc": "An early 1900s steel freighter wreck on the drained bed of a deep bay",
+  "optional": false,
+  "img": 43,
+  "prompt": "Wide shot of the wreck of an early 1900s steel freighter lying on the drained floor of a deep bay, her hull rusted and broken in the middle, the steep sides of the bay rising behind her. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "O",
+  "cue": "in july nineteen oh nine she",
+  "desc": "Two early 1900s steel freighters colliding in a bay, one bow cutting into the other's side",
+  "optional": false,
+  "img": 44,
+  "prompt": "Wide shot of two early 1900s steel Great Lakes freighters colliding in a bay on a grey day, the bow of one cutting deep into the side of the other, spray and splintered steel. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "G",
+  "style": "-",
+  "cue": "fourteen of her twenty four crew",
+  "desc": "Number card: 14 of 24 died \u00b7 JOHN B. COWLE \u00b7 1909",
+  "optional": false,
+  "gid": "G23"
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "X",
+  "cue": "and then at two hundred feet",
+  "desc": "An 1850s-style wooden passenger steamer wreck on the drained bed under stars, eerie",
+  "optional": false,
+  "img": 45,
+  "prompt": "Wide shot at night of the wreck of an old wooden passenger steamer lying on a drained lake bed under a sky full of stars, her paddle-less hull and broken cabins silhouetted, eerie blue light. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "G",
+  "style": "-",
+  "cue": "the comet",
+  "desc": "Title card: THE COMET \u00b7 1875 \u00b7 THE TREASURE SHIP OF LAKE SUPERIOR",
+  "optional": false,
+  "gid": "G24"
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "O",
+  "cue": "on a clear starlit night in",
+  "desc": "An 1870s wooden steamer on a calm starlit night passing a lighthouse",
+  "optional": false,
+  "img": 46,
+  "prompt": "Wide shot on a calm, clear starlit night of a wooden Great Lakes steamer of the 1870s with a long low hull, a small pilothouse and cabins on deck, one tall black funnel and two masts, her lamps glowing, passing a lighthouse on a low point whose beam sweeps across the dark water. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "O",
+  "cue": "in the dusk her lookout saw",
+  "desc": "A lookout at the bow from behind, a steamer's white, red and green lights ahead in the dusk",
+  "optional": false,
+  "img": 47,
+  "prompt": "Shot from behind a lookout standing at the bow of an old wooden steamer at dusk, looking ahead at the white, red and green lights of another steamer coming toward them across dark water. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "O",
+  "cue": "the canadian steamer manitoba struck her",
+  "desc": "An 1870s steamer's bow striking the side of another wooden steamer at night",
+  "optional": false,
+  "img": 48,
+  "prompt": "Wide shot at night of the bow of an 1870s steamer striking the side of another wooden steamer, timbers splintering, lanterns swinging, water churning white. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "O",
+  "cue": "a witness said her upper decks",
+  "desc": "A wooden steamer's upper cabins collapsing into the water at night",
+  "optional": false,
+  "img": 49,
+  "prompt": "Wide shot at night of the upper cabins of a wooden steamer collapsing and sliding into the dark water after a collision, splintered wood and spray, another ship's lights close by. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "G",
+  "style": "-",
+  "cue": "ten men died",
+  "desc": "Number card: 10 men died",
+  "optional": false,
+  "gid": "G25"
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "O",
+  "cue": "in her hold were five hundred",
+  "desc": "Inside a wooden ship's hold: sacks of ore and iron pigs in lantern light",
+  "optional": false,
+  "img": 50,
+  "prompt": "Interior of an old wooden ship's cargo hold in warm lantern light, canvas sacks of ore and stacked bars of pig iron filling the hold, wooden beams overhead, shadows in the corners. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "G",
+  "style": "-",
+  "cue": "and seventy tons of silver ore",
+  "desc": "Number card: 70 TONS \u00b7 silver ore from Montana",
+  "optional": false,
+  "gid": "G26"
+ },
+ {
+  "sec": 6,
+  "kind": "F",
+  "style": "U",
+  "cue": "people tried to salvage it in",
+  "desc": "Underwater: a diver's light on the open hold of an old wooden wreck, darkness beyond",
+  "optional": false,
+  "img": 51,
+  "prompt": "Underwater shot of a diver's light shining into the open cargo hold of an old wooden shipwreck, the beam disappearing into darkness inside, fine particles in the water. Shot as an underwater documentary still in the cold, very clear fresh water of Lake Superior, deep blue-green water, light fading with depth, the bright white beams of divers' lights, fine particles floating, the wrecks clean and free of mussels, realistic detail. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 6,
+  "kind": "G",
+  "style": "-",
+  "cue": "both times they couldn't even find",
+  "desc": "Card: 1876 \u00b7 1938 \u00b7 WRECK NOT FOUND",
+  "optional": false,
+  "gid": "G27"
+ },
+ {
+  "sec": 6,
+  "kind": "R",
+  "style": "-",
+  "cue": "divers finally found her in the",
+  "desc": "The clear-water wreck in a diver's light again",
+  "optional": false,
+  "img": 40
+ },
+ {
+  "sec": 6,
+  "kind": "G",
+  "style": "-",
+  "cue": "but what happened to the silver",
+  "desc": "Card: the silver ore \u00b7 UNKNOWN (stamp)",
+  "optional": false,
+  "gid": "G28"
+ },
+ {
+  "sec": 7,
+  "kind": "G",
+  "style": "-",
+  "cue": "below two hundred feet the bottom",
+  "desc": "Cross-section: the bay floor falling away to 270 FT",
+  "optional": false,
+  "gid": "G29"
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "X",
+  "cue": "and at the deepest point of",
+  "desc": "A huge steel freighter wreck in two parts at the bottom of a deep drained basin, tiny in scale",
+  "optional": false,
+  "img": 52,
+  "prompt": "Extreme wide shot of a huge steel freighter wreck broken into two parts lying at the bottom of a deep drained basin, tiny in the vast landscape of grey silt and rock, steep slopes rising around her. Aerial view. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "O",
+  "cue": "when she was launched in eighteen",
+  "desc": "An 1898 steel freighter sliding into a river at her launch, crowds lining the riverbank",
+  "optional": false,
+  "img": 53,
+  "prompt": "Wide shot of an 1898 steel Great Lakes freighter with a long black hull, a small pilothouse at the very front, a single tall funnel at the very back and masts between, sliding sideways into a river at her launch in 1898, a huge splash rising, crowds in Victorian clothes lining the riverbank and waving hats, flags on the shipyard. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "G",
+  "style": "-",
+  "cue": "she was the largest ship ever",
+  "desc": "Card: LARGEST SHIP EVER BUILT ON FRESH WATER \u00b7 1898",
+  "optional": false,
+  "gid": "G30"
+ },
+ {
+  "sec": 7,
+  "kind": "G",
+  "style": "-",
+  "cue": "at ten past nine on the",
+  "desc": "Card: 9:10 P.M. \u00b7 20 AUGUST 1920",
+  "optional": false,
+  "gid": "G31"
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "O",
+  "cue": "she was heading down into whitefish",
+  "desc": "An 1898-style steel freighter low with iron ore at night entering a bay, her lights on",
+  "optional": false,
+  "img": 54,
+  "prompt": "Wide shot at night of an 1898 steel Great Lakes freighter with a long black hull, a small pilothouse at the very front, a single tall funnel at the very back and masts between, riding low in the water with a cargo of iron ore, her lamps glowing as she enters a bay, dark wooded shores around. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "O",
+  "cue": "in the dark another freighter the",
+  "desc": "Another steel freighter's lights coming out of the darkness straight ahead",
+  "optional": false,
+  "img": 55,
+  "prompt": "Shot from the deck of a freighter at night looking ahead as the lights of another steel freighter come out of the darkness straight toward them, close and getting closer. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "O",
+  "cue": "the king hit her in the",
+  "desc": "A freighter's bow ramming the side of another freighter at night",
+  "optional": false,
+  "img": 56,
+  "prompt": "Wide shot at night of the bow of a steel freighter ramming into the side of another freighter, steel crumpling, sparks and spray, both ships lit by their own lamps. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "O",
+  "cue": "cold lake water rushed in and",
+  "desc": "A boiler room flooding, cold water surging toward the boilers, steam",
+  "optional": false,
+  "img": 57,
+  "prompt": "Interior of an old steel ship's boiler room, a wall of cold lake water surging across the floor toward the glowing boilers, steam beginning to burst, red light and shadows. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "O",
+  "cue": "they exploded and her stern was",
+  "desc": "A night explosion of steam and fire at a freighter's stern",
+  "optional": false,
+  "img": 58,
+  "prompt": "Wide shot at night from a distance of a huge explosion of white steam and orange fire bursting from the stern of a steel freighter, the blast lighting the dark water. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "O",
+  "cue": "most of the crew had run",
+  "desc": "Lifeboats hanging on davits above a freighter's stern at night, small figures",
+  "optional": false,
+  "img": 59,
+  "prompt": "Wide shot at night of wooden lifeboats hanging from their davits above the stern of a steel freighter, small figures hurrying toward them on the deck, lamps glowing. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "G",
+  "style": "-",
+  "cue": "twenty nine people died twenty eight",
+  "desc": "Number card: 29 \u00b7 28 men and one woman \u00b7 4 survived",
+  "optional": false,
+  "gid": "G32"
+ },
+ {
+  "sec": 7,
+  "kind": "F",
+  "style": "O",
+  "cue": "one of them was blown straight",
+  "desc": "A man clinging to a floating wooden hatch cover in dark water at night, ship lights far off",
+  "optional": false,
+  "img": 60,
+  "prompt": "Wide shot at night of a man clinging to a floating wooden hatch cover in dark water, small in the frame, the lights of a ship far away on the horizon. Shot as a cinematic still from a historical drama set on Lake Superior between the 1870s and 1920, cold blue-grey storm light, the warm orange glow of oil lamps and lanterns on the ships, muted colour with fine film grain. Every ship, boat and item of clothing is historically accurate for its year. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 7,
+  "kind": "G",
+  "style": "-",
+  "cue": "it was the worst collision in",
+  "desc": "Card: THE WORST COLLISION IN LAKE SUPERIOR'S HISTORY \u00b7 THE DARK + THE COLD",
+  "optional": false,
+  "gid": "G33"
+ },
+ {
+  "sec": 7,
+  "kind": "G",
+  "style": "-",
+  "cue": "remember that number twenty nine",
+  "desc": "A single glowing 29",
+  "optional": false,
+  "gid": "G34"
+ },
+ {
+  "sec": 8,
+  "kind": "F",
+  "style": "X",
+  "cue": "now the water keeps falling past",
+  "desc": "A vast drained lake floor stretching out into a deep open basin at dusk, the shore far behind",
+  "optional": false,
+  "img": 61,
+  "prompt": "Extreme wide shot at dusk of a vast drained lake floor stretching away into a deep open basin, the shore and its lighthouse tiny and far behind, the silt sloping down into darkness. Aerial view. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 8,
+  "kind": "G",
+  "style": "-",
+  "cue": "seventeen miles from whitefish point just",
+  "desc": "Map: Whitefish Point to the wreck, 17 MILES, the US\u2013Canada border, 530 FT",
+  "optional": false,
+  "gid": "G35"
+ },
+ {
+  "sec": 8,
+  "kind": "F",
+  "style": "X",
+  "cue": "five hundred and thirty feet down",
+  "desc": "THE CLIMAX IMAGE: the Edmund Fitzgerald's two broken halves on a dark drained lake floor, the bow upright, enormous",
+  "optional": false,
+  "img": 62,
+  "prompt": "Epic wide shot of the two broken halves of a very long Great Lakes ore freighter of the 1970s with a dark hull and white cabins, its pilothouse at the very front, its engine house and single funnel at the very back, and a long flat deck of hatch covers between them, lying on a dark drained lake floor 530 feet below where the surface used to be, the bow section standing upright in the grey mud, the stern section upside down further away, a field of rust-red ore pellets and torn steel between them, cold blue light, enormous scale. Low angle. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 8,
+  "kind": "G",
+  "style": "-",
+  "cue": "the edmund fitzgerald",
+  "desc": "Name card: EDMUND FITZGERALD \u00b7 729 FT \u00b7 10 NOVEMBER 1975",
+  "optional": false,
+  "gid": "G36"
+ },
+ {
+  "sec": 8,
+  "kind": "V3",
+  "style": "F",
+  "cue": "seven hundred and twenty nine feet",
+  "desc": "A huge 1970s ore freighter emerging from fog",
+  "optional": false,
+  "img": 40
+ },
+ {
+  "sec": 8,
+  "kind": "G",
+  "style": "-",
+  "cue": "and on her last night all",
+  "desc": "Three cards: THE STORM / THE DARK / THE COLD, all lighting up",
+  "optional": false,
+  "gid": "G37"
+ },
+ {
+  "sec": 8,
+  "kind": "V3",
+  "style": "F",
+  "cue": "the storm winds from the northwest",
+  "desc": "Huge waves in darkness lit by a freighter's deck lights",
+  "optional": false,
+  "img": 65
+ },
+ {
+  "sec": 8,
+  "kind": "V3",
+  "style": "F",
+  "cue": "the dark snow had closed in",
+  "desc": "From a pilothouse window: snow, nothing visible ahead",
+  "optional": false,
+  "img": 59
+ },
+ {
+  "sec": 8,
+  "kind": "V3",
+  "style": "F",
+  "cue": "she had lost both of her",
+  "desc": "A dead radar screen in a dark pilothouse",
+  "optional": false,
+  "img": 62
+ },
+ {
+  "sec": 8,
+  "kind": "V3",
+  "style": "F",
+  "cue": "she was running for whitefish point",
+  "desc": "A lighthouse on a point in a night storm",
+  "optional": false,
+  "img": 63
+ },
+ {
+  "sec": 8,
+  "kind": "G",
+  "style": "-",
+  "cue": "he learned it wasn't working",
+  "desc": "Card: WHITEFISH POINT RADIO BEACON \u00b7 OFF",
+  "optional": false,
+  "gid": "G38"
+ },
+ {
+  "sec": 8,
+  "kind": "F",
+  "style": "B",
+  "cue": "and the cold twenty nine men",
+  "desc": "Snow falling onto black, icy open water at night",
+  "optional": false,
+  "img": 63,
+  "prompt": "Wide shot at night of snow falling onto black, icy open water, the surface dark and still between the waves, no ship and no land, a single faint light far away. Shot as a modern colour documentary photograph on the eastern shore of Lake Superior in Michigan's Upper Peninsula, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 8,
+  "kind": "V3",
+  "style": "F",
+  "cue": "at ten past seven her captain",
+  "desc": "Inside a 1970s pilothouse at night, the captain from behind with a radio handset",
+  "optional": false,
+  "img": 2
+ },
+ {
+  "sec": 8,
+  "kind": "G",
+  "style": "-",
+  "cue": "minutes later she was gone twenty",
+  "desc": "Card: 29 lives \u00b7 SUPERIOR CITY 1920 = EDMUND FITZGERALD 1975",
+  "optional": false,
+  "gid": "G39"
+ },
+ {
+  "sec": 8,
+  "kind": "G",
+  "style": "-",
+  "cue": "if that just changed the way",
+  "desc": "Animated Like then Subscribe buttons",
+  "optional": false,
+  "gid": "G40"
+ },
+ {
+  "sec": 8,
+  "kind": "R",
+  "style": "-",
+  "cue": "for a small channel like this",
+  "desc": "The drained graveyard again",
+  "optional": false,
+  "img": 1
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "but there may have been a",
+  "desc": "Card: A FOURTH KILLER?",
+  "optional": false,
+  "gid": "G41"
+ },
+ {
+  "sec": 9,
+  "kind": "F",
+  "style": "F",
+  "cue": "after our last fitzgerald video some",
+  "desc": "A 1970s freighter's long deck seen from the pilothouse, a row of hatch covers, grey day",
+  "optional": false,
+  "img": 64,
+  "prompt": "Wide shot from a 1970s pilothouse window looking back along the long flat deck of a very long Great Lakes ore freighter of the 1970s with a dark hull and white cabins, its pilothouse at the very front, its engine house and single funnel at the very back, and a long flat deck of hatch covers between them, a row of hatch covers stretching away toward the stern, a grey overcast day on the lake. Shot as a cinematic still from a drama set on the Great Lakes between 1958 and 1975, cold steel-blue light, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the period. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "the ship herself",
+  "desc": "Title card: THE SHIP HERSELF",
+  "optional": false,
+  "gid": "G42"
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "when she was built she was",
+  "desc": "Diagram: the hull in side view, the waterline, FREEBOARD labelled",
+  "optional": false,
+  "gid": "G43"
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "but in nineteen sixty nine nineteen",
+  "desc": "Diagram: the load line raised in 1969, 1971 and 1973, the freeboard shrinking by 3 FT 3 IN",
+  "optional": false,
+  "gid": "G44"
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "on her last night her deck",
+  "desc": "Diagram: deck 11.5 FT above the water beside a 35 FT wave",
+  "optional": false,
+  "gid": "G45"
+ },
+ {
+  "sec": 9,
+  "kind": "V3",
+  "style": "F",
+  "cue": "in waves of up to thirty",
+  "desc": "A giant wave crashing over a freighter's hatch covers at night",
+  "optional": false,
+  "img": 48
+ },
+ {
+  "sec": 9,
+  "kind": "F",
+  "style": "F",
+  "cue": "her steward who sailed on her",
+  "desc": "A 1970s ship's galley, an older steward in a white jacket from behind",
+  "optional": false,
+  "img": 65,
+  "prompt": "Medium-wide shot of a 1970s ship's galley, an older steward in a white jacket seen from behind as he works at the steel counter, pots on the stove, a porthole showing grey water. Shot as a cinematic still from a drama set on the Great Lakes between 1958 and 1975, cold steel-blue light, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the period. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 9,
+  "kind": "F",
+  "style": "F",
+  "cue": "later testified that her keel was",
+  "desc": "A huge freighter's hull in a winter dry dock, workers welding at the keel, sparks",
+  "optional": false,
+  "img": 66,
+  "prompt": "Wide shot of a huge Great Lakes freighter hull in a winter dry dock, snow on the dock, small workers in hard hats welding at the keel, bright sparks under the hull. Shot as a cinematic still from a drama set on the Great Lakes between 1958 and 1975, cold steel-blue light, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the period. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 9,
+  "kind": "F",
+  "style": "F",
+  "cue": "he said parts of it were",
+  "desc": "Close-up of a cracked weld seam on a steel keel plate",
+  "optional": false,
+  "img": 67,
+  "prompt": "Extreme close-up of a long weld seam on a steel ship's keel plate, the weld cracked and broken in places, rust stains running from the cracks, shallow depth of field. Shot as a cinematic still from a drama set on the Great Lakes between 1958 and 1975, cold steel-blue light, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the period. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "he was never asked to testify",
+  "desc": "Card: NEVER CALLED TO THE OFFICIAL INQUIRY",
+  "optional": false,
+  "gid": "G46"
+ },
+ {
+  "sec": 9,
+  "kind": "F",
+  "style": "F",
+  "cue": "and one of the engineers who",
+  "desc": "A 1950s naval architect's drawing board with the plans of a long freighter, from behind",
+  "optional": false,
+  "img": 68,
+  "prompt": "Medium shot from behind of a 1950s naval architect at a large drawing board, a long side-view plan of a lake freighter's hull pinned to it, drafting tools and a lamp, the drawing's lines too fine to read. Shot as a cinematic still from a drama set on the Great Lakes between 1958 and 1975, cold steel-blue light, the look of 1970s colour film with fine grain. Every ship, piece of equipment and item of clothing is accurate for the period. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "the edmund fitzgerald was not seaworthy",
+  "desc": "Quote card: \"NOT SEAWORTHY\" \u00b7 one of her hull designers",
+  "optional": false,
+  "gid": "G47"
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "that's not the official answer the",
+  "desc": "Card: OFFICIAL: the hatch covers \u00b7 OTHERS: the waves, a shoal",
+  "optional": false,
+  "gid": "G48"
+ },
+ {
+  "sec": 9,
+  "kind": "V3",
+  "style": "U",
+  "cue": "she lies in two pieces her",
+  "desc": "The rusted bow of a huge ship upright in mud, lit by a submersible's lights",
+  "optional": false,
+  "img": 10
+ },
+ {
+  "sec": 9,
+  "kind": "V3",
+  "style": "U",
+  "cue": "her stern lies upside down about",
+  "desc": "The upturned stern of a huge ship on the lake bed, in lights",
+  "optional": false,
+  "img": 69
+ },
+ {
+  "sec": 9,
+  "kind": "V3",
+  "style": "U",
+  "cue": "between them is a field of",
+  "desc": "A heap of ore pellets and torn steel plating on the lake bed",
+  "optional": false,
+  "img": 73
+ },
+ {
+  "sec": 9,
+  "kind": "V3",
+  "style": "B",
+  "cue": "her bell isn't down there anymore",
+  "desc": "A polished bronze ship's bell in a museum display under a spotlight",
+  "optional": false,
+  "img": 79
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "a replica was left in its",
+  "desc": "Card: A REPLICA \u00b7 ENGRAVED WITH 29 NAMES",
+  "optional": false,
+  "gid": "G49"
+ },
+ {
+  "sec": 9,
+  "kind": "F",
+  "style": "B",
+  "cue": "under ontario law no one can",
+  "desc": "Calm dark Lake Superior at night with a single distant light",
+  "optional": false,
+  "img": 69,
+  "prompt": "Wide shot at night of calm, dark Lake Superior under a cloudy sky, the water almost black, a single distant light on the horizon, still and silent. Shot as a modern colour documentary photograph on the eastern shore of Lake Superior in Michigan's Upper Peninsula, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 10,
+  "kind": "F",
+  "style": "X",
+  "cue": "now let the water back in",
+  "desc": "Water flooding back across the drained graveyard toward the wrecks",
+  "optional": false,
+  "img": 70,
+  "prompt": "Wide shot of water flooding back across a drained lake bed, a wall of foaming water rushing over the silt toward scattered shipwrecks in the distance, dramatic light. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 10,
+  "kind": "F",
+  "style": "X",
+  "cue": "lake superior rises over the fitzgerald",
+  "desc": "Water rising around the Fitzgerald's broken halves on the lake floor",
+  "optional": false,
+  "img": 71,
+  "prompt": "Wide shot of rising water swirling around the broken halves of a huge freighter on a lake floor, the water already up to her decks, dark blue light. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 10,
+  "kind": "F",
+  "style": "X",
+  "cue": "the superior city disappears then the",
+  "desc": "Water covering a big steel wreck and a wooden steamer wreck",
+  "optional": false,
+  "img": 72,
+  "prompt": "Wide shot of rising water covering a large steel shipwreck and a smaller wooden steamer wreck beside her on a lake floor, only the tops of their hulls still showing. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 10,
+  "kind": "F",
+  "style": "X",
+  "cue": "the myron and the miztec slip",
+  "desc": "Water rolling over two wooden wrecks near the shore",
+  "optional": false,
+  "img": 73,
+  "prompt": "Wide shot of water rolling in over two old wooden shipwrecks near a sandy shore, waves breaking across their timbers, the lighthouse on the point behind. Shot as a photorealistic, epic documentary still of the waters off Whitefish Point on Lake Superior imagined with the lake drained away: a vast exposed lake bed of wet grey silt, pale sand, smooth boulders and shallow puddles, shipwrecks resting where the water used to be, cold steel-blue light with soft gold light breaking through the clouds, an enormous sense of scale, sharp detail. No people unless described. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 10,
+  "kind": "F",
+  "style": "B",
+  "cue": "then the saturn's broken timbers and",
+  "desc": "Lake Superior lapping at the foot of the Whitefish Point lighthouse at dawn, calm",
+  "optional": false,
+  "img": 74,
+  "prompt": "Wide shot at calm dawn of small waves lapping at the sandy shore at the foot of the Whitefish Point lighthouse, a tall white iron skeleton tower of open legs and cross-braces around a slender central column, with a black lantern room on top, standing on a low sandy point with scrub and pine trees, soft pink and gold light, Lake Superior peaceful and blue. Shot as a modern colour documentary photograph on the eastern shore of Lake Superior in Michigan's Upper Peninsula, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 10,
+  "kind": "F",
+  "style": "B",
+  "cue": "tomorrow freighters will pass whitefish point",
+  "desc": "A modern lake freighter passing Whitefish Point at sunset",
+  "optional": false,
+  "img": 75,
+  "prompt": "Wide shot at sunset of a modern 1,000-foot Great Lakes freighter passing a low sandy point with a white skeleton-tower lighthouse, the ship long and dark against an orange sky. Shot as a modern colour documentary photograph on the eastern shore of Lake Superior in Michigan's Upper Peninsula, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 10,
+  "kind": "R",
+  "style": "-",
+  "cue": "every one of them sails over",
+  "desc": "The drained graveyard again",
+  "optional": false,
+  "img": 1
+ },
+ {
+  "sec": 10,
+  "kind": "R",
+  "style": "-",
+  "cue": "and once you know the story",
+  "desc": "The calm lighthouse at dawn again",
+  "optional": false,
+  "img": 74
+ },
+ {
+  "sec": 10,
+  "kind": "G",
+  "style": "-",
+  "cue": "if you've sailed past whitefish point",
+  "desc": "Comment prompt: tell me your story",
+  "optional": false,
+  "gid": "G50"
+ },
+ {
+  "sec": 10,
+  "kind": "F",
+  "style": "B",
+  "cue": "stories from people like you are",
+  "desc": "A low maritime museum building beside a lighthouse in snow, warm lit windows",
+  "optional": false,
+  "img": 76,
+  "prompt": "Wide shot of a long, low wooden maritime museum building beside the Whitefish Point lighthouse, a tall white iron skeleton tower of open legs and cross-braces around a slender central column, with a black lantern room on top, standing on a low sandy point with scrub and pine trees on a snowy evening, warm light glowing from its windows, pine trees around, no signs. Shot as a modern colour documentary photograph on the eastern shore of Lake Superior in Michigan's Upper Peninsula, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 11,
+  "kind": "V3",
+  "style": "F",
+  "cue": "so what sank the edmund fitzgerald",
+  "desc": "A 1970s ore freighter at night in a snowstorm",
+  "optional": false,
+  "img": 1
+ },
+ {
+  "sec": 11,
+  "kind": "V3",
+  "style": "F",
+  "cue": "the storm the dark and the",
+  "desc": "Waves pouring over a freighter's deck at night",
+  "optional": false,
+  "img": 64
+ },
+ {
+  "sec": 11,
+  "kind": "G",
+  "style": "-",
+  "cue": "but was it the waves the",
+  "desc": "Verdict cards: THE WAVES / THE HATCHES / A SHOAL / THE SHIP",
+  "optional": false,
+  "gid": "G51"
+ },
+ {
+  "sec": 11,
+  "kind": "G",
+  "style": "-",
+  "cue": "now you've heard all of it",
+  "desc": "Comment box",
+  "optional": false,
+  "gid": "G52"
+ },
+ {
+  "sec": 11,
+  "kind": "G",
+  "style": "-",
+  "cue": "and if you've watched all the",
+  "desc": "Animated Subscribe button and bell",
+  "optional": false,
+  "gid": "G53"
+ },
+ {
+  "sec": 11,
+  "kind": "F",
+  "style": "B",
+  "cue": "because there are more graveyards hidden",
+  "desc": "Whitefish Point at sunset over Lake Superior, end card background",
+  "optional": false,
+  "img": 77,
+  "prompt": "Wide shot of the Whitefish Point lighthouse, a tall white iron skeleton tower of open legs and cross-braces around a slender central column, with a black lantern room on top, standing on a low sandy point with scrub and pine trees at sunset, the sky orange and purple over a calm Lake Superior, the left half of the frame open sky and water. Shot as a modern colour documentary photograph on the eastern shore of Lake Superior in Michigan's Upper Peninsula, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 11,
+  "kind": "G",
+  "style": "-",
+  "cue": "thanks for watching",
+  "desc": "End card on the sunset point",
+  "optional": false,
+  "gid": "G54"
+ }
+]

@@ -5,7 +5,7 @@
 
 Plan lines: kind|style|cue|description, sections start with "== N".
 kind: F (Flow image), F? (optional Flow image), F- (Flow image not used), G (graphic), R:<cue> (reuse the Flow image
-that starts at <cue>), V1:<n> (reuse image n from video 1).
+that starts at <cue>), V<k>:<n> (reuse image n from video k, e.g. V3:10).
 """
 import json, os, re, sys
 
@@ -40,8 +40,8 @@ def parse(video_dir):
     for s in shots:
         if s['kind'].startswith('R:'):
             s['img'] = fcue[s['kind'][2:]]; s['kind'] = 'R'
-        elif s['kind'].startswith('V1:'):
-            s['img'] = int(s['kind'][3:]); s['kind'] = 'V1'
+        elif re.match(r'V\d:', s['kind']):
+            s['img'] = int(s['kind'][3:]); s['kind'] = s['kind'][:2]
         elif s['kind'] == 'G':
             g += 1; s['gid'] = 'G%02d' % g
     return shots
@@ -70,7 +70,8 @@ if __name__ == '__main__':
     probs = check_cues(shots, secs)
     words = sum(len(toks(' '.join(s['paras']))) for s in secs)
     n = lambda k: sum(1 for s in shots if s['kind'] == k)
-    print('shots %d: Flow images %d, graphics %d, reuses %d, video 1 reuses %d' % (len(shots), n('F'), n('G'), n('R'), n('V1')))
+    print('shots %d: Flow images %d, graphics %d, reuses %d, reuses from other videos %d' % (len(shots), n('F'), n('G'), n('R'),
+          sum(1 for s in shots if re.match(r'V\d$', s['kind']))))
     print('about %.1f s per shot at 150 words a minute' % (words / 150 * 60 / len(shots)))
     for i in range(1, len(secs) + 1):
         ws = len(toks(' '.join(secs[i - 1]['paras'])))

@@ -1,0 +1,173 @@
+# kind | style | cue (first words of the line it starts on) | description
+# kind: F = Flow image, G = graphic I make, R:<cue> = reuse the Flow image that starts at <cue>,
+#       V3:<n> = reuse image n from video 3 (style column = its look, for the sound bed)
+# style: X = the graveyard drained (hypothetical), B = present day, O = historical drama (1870s to 1920s),
+#        F = the Fitzgerald's era (1958 to 1975), U = underwater
+== 1
+V3:1|F|seventeen miles that's how far|A 1970s ore freighter at night in a snowstorm
+G|-|seventeen miles from whitefish point|Map: the Fitzgerald's position, 17 MILES from Whitefish Point and the bay behind it; "just over an hour"
+V3:2|F|at ten past seven her captain|Inside a 1970s pilothouse at night, the captain from behind with a radio handset
+G|-|we are holding our own|Quote card: "We are holding our own." · 7:10 P.M. · 10 NOVEMBER 1975
+V3:4|S|minutes later she was gone|Empty storm-tossed lake at night in snow, no ship anywhere
+G|-|twenty nine men|Number card: 29 men
+F|X|she went down at the edge|THE SIGNATURE IMAGE: Whitefish Point's lighthouse above a drained lake bed scattered with shipwrecks to the horizon
+F|B|sailors call it the graveyard|Whitefish Point lighthouse on its point at dusk, storm clouds over Lake Superior
+G|-|it has taken at least two|Number card: 240+ ships
+F|O|a steamer carrying seventy tons|An 1870s wooden steamer at night, cargo sacks on deck in lantern light
+F|O|a freighter that exploded when|An early steel freighter at night with steam and fire bursting from her stern
+F|O|a captain who survived twenty|A broken wooden pilothouse floating in icy storm waves, a man clinging to its roof, far off
+F|X|and almost all of them are|Wooden and steel wrecks lying on a drained lake bed in mist
+R:she went down at the edge|-|so let's drain it|The drained graveyard again
+G|-|but divers sonar and two hundred|Sonar-style map of Whitefish Point and the bay drawing itself
+F|X|so we're going to lower the|Water draining away from a rocky point below a lighthouse, wreck timbers appearing
+F|X|and watch for this every ship|The bare ribs of a wooden ship on a dry lake bed, mist, ominous light
+G|-|by the time we reach the|Depth card: 530 FT
+V3:10|U|you'll see that on the night|The rusted bow of a huge ship upright in mud, lit by a submersible's lights
+G|-|this is great lakes files|Channel title stinger
+R:she went down at the edge|-|we go looking for the|The drained graveyard again
+R:sailors call it the graveyard|-|a lot of you found us|The lighthouse at dusk again
+G|-|tap subscribe right now|Animated Subscribe button and bell
+== 2
+G|-|the point is called whitefish point|Map: Lake Superior, Whitefish Point at the eastern end, ships funnelling past toward the Soo
+G|-|three things kill them here|Title card: THREE KILLERS
+F|O|the storm behind the point lie|Huge storm waves on Lake Superior, an old steamer small in the distance
+G|-|a hundred and sixty miles of|Map: 160 miles of open water, a northwest gale arrow, "WAVES 30 FT+"
+F|O|the dark night fog snow squalls|Ship lights in thick fog at night, several ships faint in a crowded lane
+F|O|and the cold lake superior is|Ice-coated ship's rail and rigging, frozen spray, grey dawn
+G|-|remember those three the storm|Three cards: THE STORM / THE DARK / THE COLD
+G|-|let's start the drain|Cross-section off Whitefish Point, the water level starting to fall; depth meter at 0 FT
+== 3
+F|X|twenty feet just west of the|Whitefish Point's iron skeleton lighthouse above a newly exposed shoreline, the water lowered
+F|X|the bottom starts to show and|The broken timbers of an old wooden barge in shallow lowered water near a point
+F|O|in november eighteen seventy two|An 1870s schooner barge under tow in a November gale, the towline straining, snow
+F|O|she was driven onto the|A wooden barge breaking apart in heavy surf near shore, timbers in the waves
+G|-|seven men died the storm|Killer card: THE STORM · SATURN · 1872 · 7 men
+F|X|thirty feet to the west|A wooden schooner wreck emerging on a sandy drained shoreline
+F|O|and the lifesaving crew from|1913 lifesavers rowing a surfboat through heavy surf toward a stranded schooner
+R:twenty feet just west of the|-|not every crew here was|The lighthouse above the lowered water again
+== 4
+F|X|at fifty feet a mile and|The wreck of a wooden steamer on a drained lake bed, a lighthouse point far behind
+G|-|her name is the myron|Name card: MYRON · 186 FT · 23 NOVEMBER 1919
+F|O|on the twenty second of november|A 1919 wooden steamer piled high with lumber, towing a schooner barge out of a small harbour at dawn
+F|O|two hours later a november gale|The steamer and barge in a November gale, heavy snow, huge waves
+F|O|the seas opened the seams of|Below deck in an old wooden hull, water spraying through the seams in lantern light
+F|O|ice built up on her until|Thick ice coating a wooden steamer's deck, rails and lumber, snow blowing
+F|O|her captain left the barge at|A schooner barge riding at anchor in heavy seas, bow to the waves, snow
+F|O|a bigger steel steamer ran alongside|A large steel steamer running alongside a small iced-over wooden steamer in a storm
+F|O|a lifesaving crew followed in a|A 1919 motor lifeboat with lifesavers in oilskins plunging through surf
+G|-|a mile and a half from|Map: the Myron's position 1.5 MILES from Whitefish Point
+F|O|the water reached her boiler fires|A ship's boiler room flooding, the fires going out in clouds of steam, a stoker from behind
+F|O|she sank in four minutes|A wooden steamer going down in a snowstorm, her stern lifting, lumber spilling into the sea
+F|O|her crew got into the lifeboats|Two lifeboats trapped in a sea of floating lumber, waves and snow, men small and far away
+F|O|one got close enough to throw|A rope line thrown from a big steamer's rail toward a lifeboat in the waves
+F|O|her captain was still inside the|A wooden pilothouse torn loose and floating in a storm, a man climbing out of its window, from behind
+F|O|twenty hours later a steamer coming|A steamer at grey dawn approaching floating wreckage, a tiny figure on a pilothouse roof far off
+G|-|he was the only survivor|Number card: 1 survivor · 17 men lost
+F|O|remember what sailors say about lake|A frozen winter shoreline on Whitefish Bay, ice heaped along the beach, grey sky
+G|-|all seventeen men were found still|Card: ALL 17 FOUND · IN THEIR LIFE JACKETS
+F|B|eight weren't found until the next|Spring ice breaking up along a Lake Superior shore, grey morning
+F|B|people from the towns around the|A small snowy hillside cemetery with simple old grave markers above a bay
+F|X|and the barge the myron left|A wooden schooner barge wreck on the drained bed, a second wreck in the distance
+G|-|two years later she sank off|Card: MIZTEC · 1921 · all 7 lost
+== 5
+F|X|a hundred feet seven miles out|A big wooden schooner barge wreck on the drained lake bed, the lighthouse tiny on the horizon
+F|O|in september eighteen eighty seven she|An 1880s schooner barge breaking loose from a towing steamer in heavy seas, the towline snapping
+F|X|at a hundred and twenty feet|A wooden steamer wreck sitting upright on the drained bed, her boiler showing
+F|O|she sank in eighteen seventy three|Two 1870s wooden steamers after a night collision, a crew climbing across to the other ship
+F|U|the water here is cold and|Underwater: an old wooden wreck in very clear, cold water, clean timbers, a diver's light
+F|U|this is one of the last|Underwater: clean old planking and brass fittings on a wreck in clear water
+G|-|three hundred and seventy six square|Map: the Whitefish Point Underwater Preserve, 376 SQ MI, wreck dots appearing
+F|U|and divers call it an underwater|Underwater: divers with lights hovering over an old wreck like museum visitors
+G|-|we're about halfway down so before|Guess cards: THE STORM / THE HATCHES / A SHOAL / THE SHIP
+G|-|put your guess in the comments|Comment box: a guess being typed
+V3:59|F|and stay with me because below|From a pilothouse window at night: snow, nothing visible ahead
+== 6
+F|X|as the water falls toward two|An early 1900s steel freighter wreck on the drained bed of a deep bay
+F|O|in july nineteen oh nine she|Two early 1900s steel freighters colliding in a bay, one bow cutting into the other's side
+G|-|fourteen of her twenty four crew|Number card: 14 of 24 died · JOHN B. COWLE · 1909
+F|X|and then at two hundred feet|An 1850s-style wooden passenger steamer wreck on the drained bed under stars, eerie
+G|-|the comet|Title card: THE COMET · 1875 · THE TREASURE SHIP OF LAKE SUPERIOR
+F|O|on a clear starlit night in|An 1870s wooden steamer on a calm starlit night passing a lighthouse
+F|O|in the dusk her lookout saw|A lookout at the bow from behind, a steamer's white, red and green lights ahead in the dusk
+F|O|the canadian steamer manitoba struck her|An 1870s steamer's bow striking the side of another wooden steamer at night
+F|O|a witness said her upper decks|A wooden steamer's upper cabins collapsing into the water at night
+G|-|ten men died|Number card: 10 men died
+F|O|in her hold were five hundred|Inside a wooden ship's hold: sacks of ore and iron pigs in lantern light
+G|-|and seventy tons of silver ore|Number card: 70 TONS · silver ore from Montana
+F|U|people tried to salvage it in|Underwater: a diver's light on the open hold of an old wooden wreck, darkness beyond
+G|-|both times they couldn't even find|Card: 1876 · 1938 · WRECK NOT FOUND
+R:the water here is cold and|-|divers finally found her in the|The clear-water wreck in a diver's light again
+G|-|but what happened to the silver|Card: the silver ore · UNKNOWN (stamp)
+== 7
+G|-|below two hundred feet the bottom|Cross-section: the bay floor falling away to 270 FT
+F|X|and at the deepest point of|A huge steel freighter wreck in two parts at the bottom of a deep drained basin, tiny in scale
+F|O|when she was launched in eighteen|An 1898 steel freighter sliding into a river at her launch, crowds lining the riverbank
+G|-|she was the largest ship ever|Card: LARGEST SHIP EVER BUILT ON FRESH WATER · 1898
+G|-|at ten past nine on the|Card: 9:10 P.M. · 20 AUGUST 1920
+F|O|she was heading down into whitefish|An 1898-style steel freighter low with iron ore at night entering a bay, her lights on
+F|O|in the dark another freighter the|Another steel freighter's lights coming out of the darkness straight ahead
+F|O|the king hit her in the|A freighter's bow ramming the side of another freighter at night
+F|O|cold lake water rushed in and|A boiler room flooding, cold water surging toward the boilers, steam
+F|O|they exploded and her stern was|A night explosion of steam and fire at a freighter's stern
+F|O|most of the crew had run|Lifeboats hanging on davits above a freighter's stern at night, small figures
+G|-|twenty nine people died twenty eight|Number card: 29 · 28 men and one woman · 4 survived
+F|O|one of them was blown straight|A man clinging to a floating wooden hatch cover in dark water at night, ship lights far off
+G|-|it was the worst collision in|Card: THE WORST COLLISION IN LAKE SUPERIOR'S HISTORY · THE DARK + THE COLD
+G|-|remember that number twenty nine|A single glowing 29
+== 8
+F|X|now the water keeps falling past|A vast drained lake floor stretching out into a deep open basin at dusk, the shore far behind
+G|-|seventeen miles from whitefish point just|Map: Whitefish Point to the wreck, 17 MILES, the US–Canada border, 530 FT
+F|X|five hundred and thirty feet down|THE CLIMAX IMAGE: the Edmund Fitzgerald's two broken halves on a dark drained lake floor, the bow upright, enormous
+G|-|the edmund fitzgerald|Name card: EDMUND FITZGERALD · 729 FT · 10 NOVEMBER 1975
+V3:40|F|seven hundred and twenty nine feet|A huge 1970s ore freighter emerging from fog
+G|-|and on her last night all|Three cards: THE STORM / THE DARK / THE COLD, all lighting up
+V3:65|F|the storm winds from the northwest|Huge waves in darkness lit by a freighter's deck lights
+V3:59|F|the dark snow had closed in|From a pilothouse window: snow, nothing visible ahead
+V3:62|F|she had lost both of her|A dead radar screen in a dark pilothouse
+V3:63|F|she was running for whitefish point|A lighthouse on a point in a night storm
+G|-|he learned it wasn't working|Card: WHITEFISH POINT RADIO BEACON · OFF
+F|B|and the cold twenty nine men|Snow falling onto black, icy open water at night
+V3:2|F|at ten past seven her captain|Inside a 1970s pilothouse at night, the captain from behind with a radio handset
+G|-|minutes later she was gone twenty|Card: 29 lives · SUPERIOR CITY 1920 = EDMUND FITZGERALD 1975
+G|-|if that just changed the way|Animated Like then Subscribe buttons
+R:she went down at the edge|-|for a small channel like this|The drained graveyard again
+== 9
+G|-|but there may have been a|Card: A FOURTH KILLER?
+F|F|after our last fitzgerald video some|A 1970s freighter's long deck seen from the pilothouse, a row of hatch covers, grey day
+G|-|the ship herself|Title card: THE SHIP HERSELF
+G|-|when she was built she was|Diagram: the hull in side view, the waterline, FREEBOARD labelled
+G|-|but in nineteen sixty nine nineteen|Diagram: the load line raised in 1969, 1971 and 1973, the freeboard shrinking by 3 FT 3 IN
+G|-|on her last night her deck|Diagram: deck 11.5 FT above the water beside a 35 FT wave
+V3:48|F|in waves of up to thirty|A giant wave crashing over a freighter's hatch covers at night
+F|F|her steward who sailed on her|A 1970s ship's galley, an older steward in a white jacket from behind
+F|F|later testified that her keel was|A huge freighter's hull in a winter dry dock, workers welding at the keel, sparks
+F|F|he said parts of it were|Close-up of a cracked weld seam on a steel keel plate
+G|-|he was never asked to testify|Card: NEVER CALLED TO THE OFFICIAL INQUIRY
+F|F|and one of the engineers who|A 1950s naval architect's drawing board with the plans of a long freighter, from behind
+G|-|the edmund fitzgerald was not seaworthy|Quote card: "NOT SEAWORTHY" · one of her hull designers
+G|-|that's not the official answer the|Card: OFFICIAL: the hatch covers · OTHERS: the waves, a shoal
+V3:10|U|she lies in two pieces her|The rusted bow of a huge ship upright in mud, lit by a submersible's lights
+V3:69|U|her stern lies upside down about|The upturned stern of a huge ship on the lake bed, in lights
+V3:73|U|between them is a field of|A heap of ore pellets and torn steel plating on the lake bed
+V3:79|B|her bell isn't down there anymore|A polished bronze ship's bell in a museum display under a spotlight
+G|-|a replica was left in its|Card: A REPLICA · ENGRAVED WITH 29 NAMES
+F|B|under ontario law no one can|Calm dark Lake Superior at night with a single distant light
+== 10
+F|X|now let the water back in|Water flooding back across the drained graveyard toward the wrecks
+F|X|lake superior rises over the fitzgerald|Water rising around the Fitzgerald's broken halves on the lake floor
+F|X|the superior city disappears then the|Water covering a big steel wreck and a wooden steamer wreck
+F|X|the myron and the miztec slip|Water rolling over two wooden wrecks near the shore
+F|B|then the saturn's broken timbers and|Lake Superior lapping at the foot of the Whitefish Point lighthouse at dawn, calm
+F|B|tomorrow freighters will pass whitefish point|A modern lake freighter passing Whitefish Point at sunset
+R:she went down at the edge|-|every one of them sails over|The drained graveyard again
+R:then the saturn's broken timbers and|-|and once you know the story|The calm lighthouse at dawn again
+G|-|if you've sailed past whitefish point|Comment prompt: tell me your story
+F|B|stories from people like you are|A low maritime museum building beside a lighthouse in snow, warm lit windows
+== 11
+V3:1|F|so what sank the edmund fitzgerald|A 1970s ore freighter at night in a snowstorm
+V3:64|F|the storm the dark and the|Waves pouring over a freighter's deck at night
+G|-|but was it the waves the|Verdict cards: THE WAVES / THE HATCHES / A SHOAL / THE SHIP
+G|-|now you've heard all of it|Comment box
+G|-|and if you've watched all the|Animated Subscribe button and bell
+F|B|because there are more graveyards hidden|Whitefish Point at sunset over Lake Superior, end card background
+G|-|thanks for watching|End card on the sunset point

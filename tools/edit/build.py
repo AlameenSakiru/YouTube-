@@ -297,7 +297,7 @@ def grade_bright(a, i):
 
 def motion(g):
     """(focus x, focus y, zoom0, zoom1) for a shot."""
-    if g['kind'] in ('R', 'V1'):
+    if g['kind'] == 'R' or re.match(r'V\d$', g['kind']):
         for key, m in REUSE_FOCUS:
             if key in g['desc'].lower(): return m
         return (0.5, 0.5, 1.30, 1.40)
@@ -323,7 +323,8 @@ def load_image(n, src=None):
 
 def image_producer(g):
     """f(i) -> frame i of an image shot (float RGB array), i may run past the shot for dissolves."""
-    im = load_image(g['img'], V1 if g['kind'] == 'V1' else None); sw, sh = im.size
+    src = os.path.join(ROOT, 'video-%02d' % int(g['kind'][1])) if re.match(r'V\d$', g['kind']) else None
+    im = load_image(g['img'], src); sw, sh = im.size
     fx, fy, z0, z1 = motion(g)
     vig = vignette(); n = g['n']
     def f(i):
@@ -445,7 +446,7 @@ def render_image_shot(g):
 
 def images(only=None):
     tl = timeline(); os.makedirs(os.path.join(BUILD, 'clips'), exist_ok=True)
-    jobs = [g for g in tl['shots'] if g['kind'] in ('F', 'R', 'V1') and (not only or g.get('img') in only)]
+    jobs = [g for g in tl['shots'] if g['kind'] != 'G' and (not only or g.get('img') in only)]
     if only:
         for g in jobs:
             out = os.path.join(BUILD, 'clips', 'S%04d.mp4' % g['F0'])
