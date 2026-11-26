@@ -1,6 +1,6 @@
 # Video 5: We Drained the Edmund Fitzgerald's Graveyard
 
-The words to record are in [video-05/voiceover-script.docx](../video-05/voiceover-script.docx) (source: [voiceover-sections.json](../video-05/voiceover-sections.json)). 10 sections, 1,889 words, about 12.5 minutes. Why this topic and title: [research/video-05-topic-2026-11-25.md](../research/video-05-topic-2026-11-25.md).
+The words to record are in [video-05/voiceover-script.docx](../video-05/voiceover-script.docx) (source: [voiceover-sections.json](../video-05/voiceover-sections.json)). 11 sections, 2,298 words, about 15 minutes. Why this topic and title: [research/video-05-topic-2026-11-25.md](../research/video-05-topic-2026-11-25.md).
 
 ## Title
 
@@ -8,27 +8,35 @@ The words to record are in [video-05/voiceover-script.docx](../video-05/voiceove
 
 Backup, if video 4's 48-hour numbers show "We Drained" titles don't get clicks on this channel: **The Edmund Fitzgerald Isn't the Only Ship Down There**
 
-## How the script is built
+## How the script is built (rewritten 26 November on video 3's model)
 
-Same structure as video 4: the water drops level by level off Whitefish Point, and a new wreck appears at each depth, each with a short true story. The Fitzgerald is the climax, at the very bottom.
+Video 3 held viewers for about 7 minutes on average (about 43% of 16:28). It did five things, and this script now does all five:
 
-| Depth | What appears | Section |
+| What worked in video 3 | How video 5 does it |
+|---|---|
+| Opened on the Fitzgerald itself, the moment people search for | Opens on "Seventeen miles": how close she was to shelter, and her last words |
+| One question ran through the whole video (did the mountain sink her?) | One idea runs through it: three things kill ships here (the storm, the dark, the cold), and all three were waiting for the Fitzgerald. Every wreck shows one of them |
+| A promise in the first minute | "By the time we reach the bottom... you'll see that every one of those killers was waiting for her" |
+| Numbers to remember, paid off later | "Remember those three"; "Remember that number... Twenty-nine" (the Superior City, then the Fitzgerald); "seldom gives up her dead" (set up, then turned around by the Myron) |
+| Viewers as jurors: guess, evidence for and against, verdict | Guess at about 6 minutes ("what really sank her?"); new evidence about her own hull (load line, keel, the designer's verdict) next to the official answer; verdict question at the end, "tell me if you've changed your mind" |
+
+The new evidence section answers the debate already running in video 3's comments (viewers raised the load line, the keel and the vents).
+
+| Time (about) | Depth | What appears |
 |---|---|---|
-| 20–30 ft | The Saturn (1872, 7 died) and the Allegheny (1913, all saved) | Twenty feet |
-| 50 ft | The Myron (1919): 17 died, the captain survived on the pilothouse roof; the Miztec, which survived that storm and sank two years later with all 7 | Fifty feet |
-| 100–120 ft | The Niagara (1887, all 9 lost); the Vienna (1873, all saved); the underwater museum | A hundred feet |
-| 180–200 ft | The John B. Cowle (1909, 14 of 24 died); the Comet (1875) and her 70 tons of silver ore, fate unknown | Two hundred feet |
-| 270 ft | The Superior City (1920): boilers exploded, 29 died | Two hundred and seventy feet |
-| 530 ft | The Edmund Fitzgerald (1975): 29 men; two pieces; the bell | Five hundred and thirty feet |
+| 0:00 | | The Fitzgerald, 17 miles from shelter; the graveyard; the promise |
+| 1:55 | | The three killers |
+| 2:45 | 20–30 ft | The Saturn (the storm); the Allegheny |
+| 3:25 | 50 ft | The Myron (the storm and the cold); the Miztec |
+| 5:50 | 100–120 ft | The Niagara; the Vienna; the underwater museum; **the guess** |
+| 7:05 | 180–200 ft | The John B. Cowle; the Comet and her silver (the dark) |
+| 8:25 | 270 ft | The Superior City (the dark and the cold; 29 lives) |
+| 9:40 | 530 ft | The Fitzgerald: all three killers that night; 29 men |
+| 11:20 | | Her own hull: the fourth suspect |
+| 13:25 | | Let the water back |
+| 14:25 | | Your verdict |
 
-Open loops that keep people watching:
-- "At the very bottom... a question nobody has ever answered for certain" (0:40, paid off at the end).
-- "Remember that number. Twenty-nine." (the Superior City, paid off by the Fitzgerald's 29).
-- The Comet's silver (a mystery left open for the comments).
-
-Retention check: the background before the drain is now 85 words (about 35 seconds), not a long block. The lighthouse and preserve facts were moved into the drain itself.
-
-Honesty: at 0:25 the narrator says "We can't really, of course. But divers, sonar and two hundred years of shipwreck records have shown us what's down there."
+Honesty: in the first minute the narrator says "We can't really, of course. But divers, sonar and two hundred years of shipwreck records have shown us what's down there."
 
 Care: the wrecks are graves. The script says so plainly about the Fitzgerald, describes the Myron's crew without detail, and leaves out the 1988 footage of human remains on the Superior City. Image prompts must show no remains.
 
@@ -36,10 +44,11 @@ Care: the wrecks are graves. The script says so plainly about the Fitzgerald, de
 
 | About | Ask | On screen |
 |---|---|---|
-| 0:50 | Subscribe, with a welcome for people who came from the Fitzgerald video | Subscribe button and bell |
-| 6:30 | Comment: where did the Comet's silver go? Plus a like | Three guess cards, then the like button |
-| 11:00 | Comment: stories from people who sailed past Whitefish Point, dived the wrecks or visited the museum (mentions, without a name, the former U.S. Steel sailor who commented on video 3) | Comment box |
-| 12:10 | Comment: which story stays with you? Then subscribe and bell | Four cards, then Subscribe |
+| 1:40 | Subscribe, with a welcome for people who came from the Fitzgerald video | Subscribe button and bell |
+| 6:30 | Comment: guess what really sank the Fitzgerald (one word) | Four guess cards: STORM / HATCHES / SHOAL / THE SHIP |
+| 11:00 | Like and subscribe, right after the "all three killers" reveal | Like then Subscribe |
+| 14:00 | Comment: stories from people who sailed past Whitefish Point, dived the wrecks or visited the museum | Comment box |
+| 14:40 | Comment: your verdict, and whether you changed your mind; then subscribe and bell | Verdict cards, then Subscribe |
 
 ## Fact check
 
@@ -55,6 +64,7 @@ Care: the wrecks are graves. The script says so plainly about the Fitzgerald, de
 | John B. Cowle: 170–200 ft; 12 July 1909, collision with the Isaac M. Scott in Whitefish Bay, 14 of 24 lost | Wikipedia, "Whitefish Point Underwater Preserve" |
 | Comet: 200–230 ft; 26 Aug 1875, clear starlit night, rounded Whitefish Point Light heading for Point Iroquois (toward the Soo); lookout saw lights; turned too late; struck by the Canadian steamer Manitoba; upper works crumbled and sank within about a minute (eyewitness, Toronto Globe); 10 died; cargo 500 tons pig iron, some copper ore, 70 tons Montana silver ore; salvage failed 1876 and 1938; found in the 1970s; fate of the silver ore unknown | Wikipedia, "SS Comet (1857)" |
 | Superior City: 190–270 ft; launched 1898 as the largest vessel ever built on fresh water, the town of Lorain crowding the riverfront; 9:10 p.m. 20 Aug 1920, downbound with 7,600 tons of iron ore, struck by the upbound Willis L. King in Whitefish Bay; cold water hit the boilers, explosion, stern nearly blown off; crew at the lifeboats above the boilers; 28 men and one woman died; 4 survivors, one blown overboard and found on a hatch cover; the worst collision ever on Lake Superior | Wikipedia, "SS Superior City" |
+| Fitzgerald's last day: snow from 2:45 p.m.; lost both radars; at 4:39 p.m. McSorley asked whether the Whitefish Point light and radio beacon were working, and was told both were out (the Avafors later said the light was on, the beacon off); northwest winds of 57 mph at the time of the sinking, near hurricane force (about 70 mph) at their peak. Her own hull: load line raised in 1969, 1971 and 1973, 3 ft 3.25 in less freeboard than designed, deck about 11.5 ft above the water in 35-ft waves; steward George "Red" Burgner (ten seasons, seven winters as ship-keeper) testified that the keel and sister kelsons were only tack-welded and many welds broken, and was not asked to testify before the Marine Board; naval architect Raymond Ramsay, part of her hull design team, concluded she was not seaworthy on 10 November 1975; the Coast Guard blamed ineffective hatch closures | Wikipedia, "SS Edmund Fitzgerald" |
 | Fitzgerald: 729 ft, largest ship to sink on the Great Lakes; 10 Nov 1975; waves up to 35 ft; 17 mi from Whitefish Bay, just over an hour at top speed; 7:10 p.m. "We are holding our own"; 29 men; no bodies recovered; in Canadian (Ontario) waters near the border at 530 ft; two pieces, bow upright in the mud about 170 ft from the stern, which lies capsized; taconite pellets, hatch covers and hull plating between; bell recovered 4 July 1995, replica engraved with the 29 names left in its place; Ontario Heritage Act requires a license | Wikipedia, "SS Edmund Fitzgerald" |
 
 Still to confirm before upload: the pronunciation of "Cowle" (the script's guide says KOHL, my best guess).
