@@ -30,3 +30,4 @@ Same rules as [video 1's monitoring](../video-01/monitoring.md): change one thin
 | 2026-11-26 18:02 | No change | Climbing again: 2,810 → 3,020 public views in 3 hours (70 an hour, up from 20); subscribers 40. Studio at 18:02 UTC: 3.2K views, 157 watch hours since publishing | Still climbing |
 | 2026-11-26 21:03 | No change | Climbing faster: 3,020 → 3,339 public views in 3 hours (106 an hour); subscribers 46. Video 5 went live at 19:00 | Still climbing |
 | 2026-11-27 00:03 | No change | Climbing faster: 3,339 → 3,775 public views in 3 hours (146 an hour); subscribers 51 | Still climbing |
+| 2026-11-27 03:03 | No change | Fastest yet: 3,775 → 4,459 public views in 3 hours (228 an hour); subscribers 60 | Still climbing |
