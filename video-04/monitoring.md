@@ -18,3 +18,4 @@ Same rules as [video 1's monitoring](../video-01/monitoring.md): change one thin
 | 2026-11-25 21:03 | No change. Picking up: 36 → 94 public views in 3 hours (about 19 an hour), after 2 to 20 views in its first 35 hours | Likely viewers arriving from video 3's breakout | Rule: change nothing while it climbs |
 | 2026-11-26 09:03 | No change. 48 hours passed at 07:00 UTC: 305 public views, slowing from 26 to 12 an hour | 48-hour check. Reach (click rate, impressions) and Engagement (retention) screenshots requested from the user | Waiting for the screenshots |
 | 2026-11-27 06:03 | No change | 515 → 628 public views in 3 hours (38 an hour, up from 17), lifted by video 3 | Rule: change nothing while it climbs |
+| 2026-11-27 09:03 | No change | Public counter did not move in 3 hours (likely frozen or cached, as subscribers also stayed at 71) | |
