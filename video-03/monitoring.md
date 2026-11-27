@@ -35,3 +35,4 @@ Same rules as [video 1's monitoring](../video-01/monitoring.md): change one thin
 | 2026-11-27 09:03 | No change | 5,478 → 5,862 public views in 3 hours (128 an hour, overnight in the US); subscribers 71 | Still climbing, slower |
 | 2026-11-27 12:03 | No change | 5,862 → 6,004 public views in 3 hours (47 an hour, US night into morning); subscribers 75 | Slowing |
 | 2026-11-27 14:54 | No change | Studio: 6.7K views, 312 watch hours (about 2:48 a view); 83 subscribers per a viewer comment | Still climbing |
+| 2026-11-27 18:03 | No change | Second surge: 6,289 → 7,143 public views in 3 hours (284 an hour, up from 95); subscribers passed 100 (101) | Still climbing |
