@@ -34,3 +34,4 @@ Same rules as [video 1's monitoring](../video-01/monitoring.md): change one thin
 | 2026-11-27 06:03 | No change | Fastest yet: 4,459 → 5,478 public views in 3 hours (339 an hour); subscribers 71. At the 157 hours / 3.2K views rate (about 2:57 a view) it is near 270 watch hours | Still climbing |
 | 2026-11-27 09:03 | No change | 5,478 → 5,862 public views in 3 hours (128 an hour, overnight in the US); subscribers 71 | Still climbing, slower |
 | 2026-11-27 12:03 | No change | 5,862 → 6,004 public views in 3 hours (47 an hour, US night into morning); subscribers 75 | Slowing |
+| 2026-11-27 14:54 | No change | Studio: 6.7K views, 312 watch hours (about 2:48 a view); 83 subscribers per a viewer comment | Still climbing |
