@@ -21,3 +21,4 @@ Same rules as [video 1's monitoring](../video-01/monitoring.md): change one thin
 | 2026-11-27 03:03 | No change | 12 public views after 8 hours (+10 in 3 hours): starting to move | |
 | 2026-11-27 06:03 | No change | 37 public views after 11 hours (8 an hour, rising) | |
 | 2026-11-27 09:03 | No change | Public counter did not move in 3 hours (likely frozen or cached, as subscribers also stayed at 71) | |
+| 2026-11-27 12:03 | No change | 45 public views after 17 hours | |
