@@ -17,3 +17,4 @@ Same rules as [video 1's monitoring](../video-01/monitoring.md): change one thin
 |---|---|---|---|
 | 2026-11-26 19:00 | Published, scheduled for 8:00 PM Nigeria time, with the user's "240 LOST SHIPS" thumbnail | Video 3 was climbing again (70 an hour); its end screen to point here | |
 | 2026-11-26 21:03 | No change | Public counter showed 1 view after 2 hours, likely lagging behind Studio | |
+| 2026-11-27 00:03 | No change | 2 public views after 5 hours. Video 4 also had 2 to 20 views in its first 35 hours before picking up. Asked the user to check Studio for notices or restrictions and that video 3's end screen points here | |
