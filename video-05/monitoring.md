@@ -24,3 +24,4 @@ Same rules as [video 1's monitoring](../video-01/monitoring.md): change one thin
 | 2026-11-27 12:03 | No change | 45 public views after 17 hours | |
 | 2026-11-27 21:03 | No change | 100 public views after 26 hours (+37 in 3 hours, 12 an hour) | |
 | 2026-11-28 00:03 | No change | 118 public views after 29 hours (6 an hour) | |
+| 2026-11-28 04:52 | No change | 118 → 219 public views in 4.8 hours (21 an hour, up from 6), likely from video 3 | |

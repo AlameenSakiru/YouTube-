@@ -38,3 +38,4 @@ Same rules as [video 1's monitoring](../video-01/monitoring.md): change one thin
 | 2026-11-27 18:03 | No change | Second surge: 6,289 → 7,143 public views in 3 hours (284 an hour, up from 95); subscribers passed 100 (101) | Still climbing |
 | 2026-11-27 21:03 | No change | Biggest surge yet: 7,143 → 9,087 public views in 3 hours (646 an hour); subscribers 119 | Still climbing |
 | 2026-11-28 00:03 | No change | Passed 10,000: 9,087 → 11,231 public views in 3 hours (716 an hour); subscribers 144. Last check of the 14-day monitoring | Still climbing |
+| 2026-11-28 04:52 | No change | Fastest yet: 11,231 → 16,326 public views in 4.8 hours (about 1,060 an hour, overnight in the US); subscribers 192 | Still climbing |
