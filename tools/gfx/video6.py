@@ -55,6 +55,15 @@ def _prev_images():
 
 
 BACK = _prev_images()
+try:
+    _TT = json.load(open(os.path.join(V6, 'gfx-times.json')))      # when key words land inside a graphic (from the voice)
+except Exception:
+    _TT = {}
+
+
+def TT(gid, i, default):
+    v = _TT.get(gid)
+    return max(0.15, v[i]) if v and i < len(v) and v[i] > 0 else default
 BACK.update({'G52': ('video-06', 60), 'G50': ('video-06', 58)})
 _SURF = {}
 
@@ -370,8 +379,8 @@ def cards(cr, t, items, starts, cols=None, y=430, w=440, h=250, letters=False, f
         cr.restore()
 
 
-def comment_cta(cr, t, d, s='COMMENT YOUR GUESS  ↓', y=790):
-    k = ramp(t, d * 0.55, 0.4)
+def comment_cta(cr, t, d, s='COMMENT YOUR GUESS  ↓', y=790, start=None):
+    k = ramp(t, d * 0.55 if start is None else start, 0.4)
     if k <= 0: return
     p = 1 + 0.05 * math.sin(t * 6)
     cr.save(); cr.translate(W / 2, y); cr.scale(p, p)
@@ -477,7 +486,7 @@ def g06(cr, t, d):
     mono(cr, 'CASE FILE 06 · FOUR QUESTIONS', 240, 270, 30, OR, t=t, start=0.0, bold=True)
     qs = ['WHY DID SHE SAIL?', 'WHAT WAS HER CREW DOING ON DECK?', 'WHY DID EVERY CLUE POINT EAST?', 'WHAT DOES THE WRECK SAY?']
     for i, q in enumerate(qs):
-        k = ramp(t, 0.4 + i * d * 0.17, 0.4)
+        k = ramp(t, TT('G06', i, 0.4 + i * d * 0.17) - 0.2, 0.4)
         if k <= 0: continue
         y = 380 + i * 110
         font(cr, HEAD, 38); text(cr, '%02d' % (i + 1), 240, y, OR, k)
@@ -524,7 +533,7 @@ def g09(cr, t, d):
 def g10(cr, t, d):
     backdrop(cr, 'G10', t, d, dark=0.40); hud(cr, t)
     mono(cr, 'ONE STORM, THREE NAMES', W / 2, 330, 32, CY, align='center', t=t, start=0.0, bold=True)
-    cards(cr, t, ['THE BIG\nBLOW', 'THE FRESHWATER\nFURY', 'THE WHITE\nHURRICANE'], [0.3, d * 0.33, d * 0.58],
+    cards(cr, t, ['THE BIG\nBLOW', 'THE FRESHWATER\nFURY', 'THE WHITE\nHURRICANE'], [TT('G10', i, x) - 0.15 for i, x in enumerate((0.3, d * 0.33, d * 0.58))],
           cols=[OR, CY, WH], y=420, w=500, h=270, size=48)
 
 
@@ -781,7 +790,7 @@ def g28(cr, t, d):
         cx = W / 2 + (-420 if i == 0 else 420); st = 0.2 + i * 0.8
         mono(cr, lab, cx, 380, 32, col, align='center', t=t, start=st, bold=True, cps=50)
         head(cr, big, cx, 540, 150, WH, align='center', t=t, start=st + 0.1)
-    stamp(cr, 'JUDGED A FAKE', W / 2, 760, t, d * 0.55, 80, RD)
+    stamp(cr, 'DATED AFTER SHE SANK', W / 2, 760, t, TT('G28', 0, d * 0.55), 72, RD)
 
 
 @reg('G29')
@@ -932,7 +941,7 @@ def g40(cr, t, d):
     mono(cr, 'THE NOTE AGAINST THE WRECK', 300, 330, 32, CY, t=t, start=0.0, bold=True)
     rows = [('SHE BROKE IN TWO', True), ('12 MILES EAST OF MARQUETTE', False)]
     for i, (s, ok) in enumerate(rows):
-        st = 0.4 + i * d * 0.3; k = ramp(t, st, 0.4)
+        st = TT('G40', i, 0.4 + i * d * 0.3) - 0.2; k = ramp(t, st, 0.4)
         y = 470 + i * 160
         head(cr, s, 400, y, 70, WH, a=k)
         tick(cr, 330, y - 24, 1.4, GN if ok else RD, ramp(t, st + 0.4, 0.3), ok)
@@ -1061,9 +1070,10 @@ def g48(cr, t, d):
     backdrop(cr, 'G48', t, d, dark=0.34); hud(cr, t)
     head(cr, 'YOUR VERDICT', W / 2, 270, 96, WH, align='center', t=t, start=0.0)
     mono(cr, 'WHAT SANK THE HENRY B. SMITH?', W / 2, 340, 32, OR, align='center', t=t, start=0.3, bold=True)
-    cards(cr, t, ['THE HATCHES', 'THE STORM', 'THE DECISION', 'ALL THREE'], [d * 0.12, d * 0.2, d * 0.28, d * 0.4],
+    cards(cr, t, ['THE HATCHES', 'THE STORM', 'THE DECISION', 'ALL THREE'],
+          [TT('G48', i, x) - 0.15 for i, x in enumerate((d * 0.12, d * 0.2, d * 0.28, d * 0.4))],
           cols=[OR, CY, WH, GN], y=430, w=370, h=220, letters=True, size=40)
-    comment_cta(cr, t, d, 'COMMENT YOUR VERDICT  ↓')
+    comment_cta(cr, t, d, 'COMMENT YOUR VERDICT  ↓', start=TT('G48', 3, d * 0.45) + 1.0)
 
 
 @reg('G49')

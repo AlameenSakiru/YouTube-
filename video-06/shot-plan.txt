@@ -27,9 +27,9 @@ F|O|the storm began on the seventh|Black storm clouds massing over Lake Superior
 G|-|two storm systems one from the|Weather map: two storm systems converging over the Great Lakes, 7 to 10 November 1913
 G|-|people gave it three names the|Three name cards: THE BIG BLOW · THE FRESHWATER FURY · THE WHITE HURRICANE
 F|O|for four days it threw gusts|Huge waves breaking over the deck of a steel freighter of 1913 in a blizzard
-G|-|gusts of up to ninety miles|Numbers: GUSTS 90 MPH · WAVES 35+ FT
+G|-|and waves of more than thirty|Numbers: GUSTS 90 MPH · WAVES 35+ FT
 F|O|forecasters could see a storm coming|A 1913 weather office: a forecaster seen from behind drawing a weather map by hand under a lamp
-G|-|by the time a forecast was|Card: REPORTS TWICE A DAY · MAPS DRAWN BY HAND
+G|-|in nineteen thirteen weather reports|Card: REPORTS TWICE A DAY · MAPS DRAWN BY HAND
 F|O|on lake superior the day before|A huge wave smashing into the pilothouse of a steel freighter, glass and spray exploding
 F|O|it tore three walls off the|A freighter's cabins torn open by the sea, broken walls and snow, a grey storm beyond
 G|-|by the time the storm was|Card: 250+ DEAD · 19 SHIPS DESTROYED · 7 TO 10 NOVEMBER 1913
@@ -43,6 +43,7 @@ F|O|she arrived in marquette on the|The Marquette ore dock: a towering dock on t
 F|O|the ore froze solid inside the|Men with long iron bars breaking frozen ore loose inside railway ore cars, snow falling
 G|-|every hour the smith fell further|Calendar: NOV 6 · 7 · 8 · 9, the days ticking past
 F|O|for her captain james owen it|A ship's captain of 1913 seen from behind on the bridge wing, looking out at a storm over the harbour
+R:and on sunday the ninth of|-|it had been a bad year|The Smith waiting at the ore dock again
 F|O|and there's a story told in|A 1913 shipping office at night, two men in suits seen from behind at a desk with a letter, lamplight
 G|-|this last trip had better be|Card: "This last trip had better be on time." · THE STORY TOLD IN MARQUETTE · NEVER PROVEN
 F|O|then on sunday afternoon something changed|Storm clouds parting a little over the harbour, the water calmer, pale light on a breakwater lighthouse
@@ -53,7 +54,7 @@ F|O|she backed away from the dock|The Smith backing away from the ore dock into 
 == 4
 F|O|people on the shore watched her|Townspeople in 1913 coats on a snowy breakwater, seen from behind, watching a freighter head out
 G|-|her deck was covered by thirty|Deck plan: the Smith from above with 32 hatches; most still open
-F|O|on a ship like the smith|Deckhands on a freighter's long deck dragging heavy hatch covers into place, spray, dusk
+F|O|before a ship heads into open|Deckhands on a freighter's long deck dragging heavy hatch covers into place, spray, dusk
 F|O|as she steamed out of the|From the shore: the freighter heading out past the breakwater, tiny figures still on her deck, waves rising
 G|-|twenty minutes later the storm came|Timer card: +20 MINUTES
 F|O|the lull hadn't been the end|A wall of snow squall racing across the lake toward a lone freighter, the sky going dark
@@ -92,6 +93,7 @@ F|M|on the twenty fourth of may|A small search boat on a calm, bright Lake Super
 G|-|twenty minutes later there she was|Sonar screen: the wreck scrolls into view, full screen
 G|-|five hundred and thirty five feet|Map: the wreck 30 MILES NORTH of Marquette, 535 FT
 G|-|north not east nowhere near the|Map: the wreck against the wreckage beaches and the note's spot · NOT EAST
+R:and when she was finally found|-|if you guessed somewhere else you|The open lake from above again
 F|M|but they still couldn't prove|A small yellow underwater camera on a tether being lowered over the side of the boat
 F|U|it got caught on the wreck|In black water, a camera's light against the rusted edge of a steel hull, its cable snagged
 F|M|and in that time it showed|On the boat in June, people seen from behind watching a monitor that glows deep blue
@@ -101,22 +103,26 @@ F|U|she is sitting upright on the|A camera's lights on the upright bow of an old
 F|U|her pilothouse is still on her|An old pilothouse with empty windows on the bow of a wreck, a mast rising into the dark
 F|U|her stern cabins have collapsed crushed|Crumpled, collapsed cabins on the stern of a steel wreck in a camera's light
 F|U|and on her stern after a|A camera's light moving across the curved steel stern plating of an old wreck
-G|-|henry b smith but she is|Name card: HENRY B. SMITH
+G|-|you can still read her name|Name card: HENRY B. SMITH
 G|-|but she is broken in two|Wreck diagram: bow upright, pilothouse and mast, break near the middle, stern cabins collapsed, ore spilled · 535 FT
 F|U|and all around her spilled across|Red iron ore spilled across the grey silt beside a dark steel hull, in a camera's light
 G|-|now think back to the clues|Card: THE NOTE · BROKE IN TWO ✓ · 12 MILES EAST ✗
 R:then in june of nineteen fourteen|-|whoever wrote it guessed right about|The bottle at the water's edge again
+R:twenty minutes after she left the|-|and breaking in two is exactly|The Smith in the storm again
 R:people on the shore watched her|-|and the people on the shore|The watchers on the breakwater again
 G|-|that's exactly the direction she was|Map: the turn to port at LAST SEEN, a line on to the wreck · THEY WERE RIGHT
 F|O|she had turned north maybe for|The freighter fighting north into the storm at night toward a dark headland far away
-G|-|so why did the wreckage end|Map: north and northwest winds driving wreckage southeast to the three beaches
+R:for a hundred years the best|-|so why did the wreckage end|The planks and hatch cover on the beach again
+G|-|because floating wreckage goes wherever|Map: north and northwest winds driving wreckage southeast to the three beaches
 R:two days later wreckage began washing|-|toward chocolay bay shot point and|The wreckage on the beach again
 == 9
-G|-|so what actually sank the henry|Three suspect cards, face down
+R:and all that time the henry|-|so what actually sank the henry|The faint ship in the dark water again
+G|-|no one survived to tell us|Three suspect cards, face down
 F|O|one the hatches when she left|Waves pouring over a freighter's deck and down into an open hatch at night
+R:the lull hadn't been the end|-|twenty minutes later the full storm|The snow squall racing toward the ship again
 G|-|if even a few of them|Cutaway diagram: water pouring through open hatches into the holds
 F|O|two the storm itself that night|A freighter's bow climbing a huge wave at night, her stern down in the trough, snow
-G|-|can be lifted at both ends|Diagram: waves under the bow and stern, nothing under the middle, the hull bending
+G|-|a ship five hundred and forty|Diagram: waves under the bow and stern, nothing under the middle, the hull bending
 F|O|and she broke near the middle|The middle of a freighter's deck buckling and tearing apart in a storm at night, seen from a distance
 R:for her captain james owen it|-|three the decision captain owen had|The captain on the bridge wing again
 R:then on sunday afternoon something changed|-|then the storm went quiet just|The lull over the harbour again
@@ -132,5 +138,5 @@ G|-|only two were ever found somewhere|Card: IN MEMORY · THE 25 MEN OF THE HENR
 F|U|the henry b smith is a|A camera's light slowly fading on the old bow in the dark, peaceful
 F|B|and she isn't the only one|Lake Superior at sunset from a rocky shore, calm and empty
 G|-|if you want to hear their|Animated Subscribe button and bell
-F|B|and if you haven't seen it|Marquette's harbour lighthouse at sunset over calm Lake Superior, end card background
-G|-|thanks for watching|End card on the sunset harbour
+F-|B|and if you haven't seen it|Marquette's harbour lighthouse at sunset over calm Lake Superior, end card background
+G|-|and if you haven't seen it|End card on the sunset harbour

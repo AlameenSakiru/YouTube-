@@ -28,7 +28,7 @@ PAUSES = [
     (6, 'kept her secret', 0.6), (6, 'in the dark waiting', 0.6),
     (7, 'there she was', 0.9), (7, 'north of marquette', 0.5), (7, 'you were right', 0.6), (7, "couldn't prove it was her", 0.4),
     (8, 'read her name henry b smith', 0.8), (8, 'carrying that night', 0.6), (8, 'and she never made it', 0.7),
-    (9, 'three suspects', 0.5), (9, 'it was gone', 0.9), (9, 'able to settle it', 0.6),
+    (9, 'three suspects', 0.5), (9, 'she broke near the middle', 0.7), (9, 'it was gone', 0.9), (9, 'able to settle it', 0.6),
     (10, 'i read every single one', 0.5), (10, 'nobody even knew where it was', 0.9), (10, 'never been found', 0.6),
 ]
 
@@ -51,6 +51,9 @@ REUSE_FOCUS = [
     ("the bottle at the water's edge again", (0.50, 0.55, 1.20, 1.35)), ('the watchers on the breakwater again', (0.55, 0.45, 1.15, 1.28)),
     ('the wreckage on the beach again', (0.45, 0.60, 1.18, 1.32)), ('the captain on the bridge wing again', (0.50, 0.40, 1.15, 1.30)),
     ('the lull over the harbour again', (0.55, 0.45, 1.12, 1.24)), ('the smith steaming out of the harbour again', (0.50, 0.50, 1.15, 1.28)),
+    ('the smith waiting at the ore dock again', (0.60, 0.50, 1.18, 1.30)), ('the open lake from above again', (0.55, 0.50, 1.10, 1.22)),
+    ('the smith in the storm again', (0.45, 0.50, 1.18, 1.32)), ('the planks and hatch cover on the beach again', (0.50, 0.60, 1.15, 1.28)),
+    ('the faint ship in the dark water again', (0.50, 0.60, 1.10, 1.25)), ('the snow squall racing toward the ship again', (0.55, 0.50, 1.12, 1.26)),
     ('ore freighter at night in a snowstorm', (0.50, 0.50, 1.04, 1.16)), ('the rusted bow of a huge ship', (0.50, 0.50, 1.05, 1.18)),
     ('the upturned stern', (0.50, 0.50, 1.05, 1.18)),
 ]
