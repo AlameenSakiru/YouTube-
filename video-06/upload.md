@@ -62,7 +62,7 @@ Left out on purpose: "footage", "wreck video" and "ROV" (there is no real footag
 
 ## After it goes live
 
-- **Video 3's end screen:** keep it on video 5 for now; video 6 gets the end screens of videos 4 and 5.
+- **End screens:** on video 3, add video 6 as a second Video element next to video 5 (video 3 is still sending hundreds of viewers an hour). On videos 4 and 5, point the Video element at video 6.
 - **Pin this comment:**
 
 > Your verdict: what sank the Henry B. Smith?
