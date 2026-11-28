@@ -96,7 +96,7 @@ def amb(style, desc):
     if style == 'P': return (0.30, 0.40, 0.0)
     if style == 'A' and ('waterfall' in d or 'river' in d): return (0.15, 0.9, 0.1)
     if any(w in d for w in INSIDE): return (0.25, 0.1, 0.12)
-    if style in ('S', 'F') and any(w in d for w in STORM): return (1.0, 0.9, 0.0)
+    if style in ('S', 'F', 'O') and any(w in d for w in STORM): return (1.0, 0.9, 0.0)
     if style in ('S', 'F'): return (0.4, 0.5, 0.0)
     if style == 'D': return (0.3, 0.45, 0.0)
     return (0.18, 0.5, 0.0)
