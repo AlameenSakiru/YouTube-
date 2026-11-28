@@ -13,7 +13,7 @@ CHAPTERS = {
     2: 'The White Hurricane', 3: 'Three days in Marquette', 4: 'Thirty-two hatches', 5: 'Two clues',
     6: 'A hundred years', 7: 'North', 8: 'What the camera saw', 9: 'Three suspects', 10: 'Your verdict',
 }
-CHAPTER_SKIP = set()
+CHAPTER_SKIP = {10}      # section 10 opens on the verdict cards; its first picture is the 25 men, not a heading
 
 # dramatic pauses: (section, words that end the line, extra seconds)
 PAUSES = [
