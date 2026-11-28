@@ -108,6 +108,14 @@ if __name__ == "__main__":
         plan = sys.argv[1]; outdir = sys.argv[2]
     shots = json.load(open(plan))
     flow = [s for s in shots if s["kind"] == "F"]
+    if os.path.isdir(sys.argv[1]):       # images made but not shown (F- lines) still get a prompt, e.g. an end-card background
+        n = 0
+        for line in open(os.path.join(sys.argv[1], "shot-plan.txt")):
+            k = line.split("|")[0]
+            if k in ("F", "F?", "F-"):
+                n += 1
+                if k == "F-": flow.append(dict(kind="F", img=n, style=line.split("|")[1], desc=line.split("|", 3)[3].strip(), unused=True))
+        flow.sort(key=lambda s: s["img"])
     assert sorted(P) == [s["img"] for s in flow], "prompt numbers do not match the plan"
     for s in flow:
         s["prompt"] = P[s["img"]] + " " + LOOK[s["style"]]

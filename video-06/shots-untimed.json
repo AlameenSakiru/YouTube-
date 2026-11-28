@@ -35,7 +35,7 @@
   "desc": "A camera's light on the bow of an old steel freighter in total darkness on the lake floor",
   "optional": false,
   "img": 2,
-  "prompt": "Wide shot of the bow of the wreck of an old steel lake freighter rising out of the darkness on the lake floor, the camera's white lights falling across the rusted bow and its old railings, everything beyond the light completely black. Shot as a deep-water documentary still from a remotely operated camera 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Wide shot of the bow of the wreck of an old steel lake freighter rising out of the darkness on the lake floor, the camera's white lights falling across the rusted bow and its old railings, everything beyond the light completely black. Shot as a deep-water documentary still from an underwater camera lowered on a long cable 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 1,
@@ -103,7 +103,7 @@
   "desc": "Broken planks and a wooden hatch cover washed up on a snowy beach, grey morning",
   "optional": false,
   "img": 7,
-  "prompt": "Wide shot of a snowy sand beach on a grey morning after a storm, broken wooden planks and a heavy wooden hatch cover washed up at the waterline, small waves still rolling in, snow on the dune grass behind. Shot as a cinematic still from a historical drama set on Lake Superior in 1913, cold blue-grey storm light, the warm orange glow of oil lamps and deck lights, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1906 to 1914. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Close shot of a single splintered wooden hatch cover and a broken oar half buried in fresh snow at the edge of a grey lake, a grey morning after a storm, small waves rolling in behind, nothing else on the beach. Shot as a cinematic still from a historical drama set on Lake Superior in 1913, cold blue-grey storm light, the warm orange glow of oil lamps and deck lights, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1906 to 1914. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 1,
@@ -212,7 +212,7 @@
   "sec": 2,
   "kind": "G",
   "style": "-",
-  "cue": "gusts of up to ninety miles",
+  "cue": "and waves of more than thirty",
   "desc": "Numbers: GUSTS 90 MPH \u00b7 WAVES 35+ FT",
   "optional": false,
   "gid": "G11"
@@ -225,13 +225,13 @@
   "desc": "A 1913 weather office: a forecaster seen from behind drawing a weather map by hand under a lamp",
   "optional": false,
   "img": 12,
-  "prompt": "Wide interior shot of a 1913 weather office at night, a forecaster seen from behind leaning over a large desk drawing curved lines on a blank paper map by hand under a green-shaded lamp, a telegraph key and stacks of paper beside him. Shot as a cinematic still from a historical drama set on Lake Superior in 1913, cold blue-grey storm light, the warm orange glow of oil lamps and deck lights, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1906 to 1914. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Wide interior shot of a 1913 weather office at night, a forecaster seen from behind leaning over a large desk, drawing curved pressure lines by hand on a big paper map of plain coastlines under a green-shaded lamp, a telegraph key and stacks of paper beside him. Shot as a cinematic still from a historical drama set on Lake Superior in 1913, cold blue-grey storm light, the warm orange glow of oil lamps and deck lights, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1906 to 1914. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 2,
   "kind": "G",
   "style": "-",
-  "cue": "by the time a forecast was",
+  "cue": "in nineteen thirteen weather reports",
   "desc": "Card: REPORTS TWICE A DAY \u00b7 MAPS DRAWN BY HAND",
   "optional": false,
   "gid": "G12"
@@ -355,6 +355,15 @@
  },
  {
   "sec": 3,
+  "kind": "R",
+  "style": "-",
+  "cue": "it had been a bad year",
+  "desc": "The Smith waiting at the ore dock again",
+  "optional": false,
+  "img": 16
+ },
+ {
+  "sec": 3,
   "kind": "F",
   "style": "O",
   "cue": "and there's a story told in",
@@ -443,11 +452,11 @@
   "sec": 4,
   "kind": "F",
   "style": "O",
-  "cue": "on a ship like the smith",
+  "cue": "before a ship heads into open",
   "desc": "Deckhands on a freighter's long deck dragging heavy hatch covers into place, spray, dusk",
   "optional": false,
   "img": 27,
-  "prompt": "Wide shot at dusk on the long deck of a 1913 steel freighter, deckhands in oilskins dragging heavy hatch covers into place over the square openings in the deck, spray flying over the rail, snow. Shot as a cinematic still from a historical drama set on Lake Superior in 1913, cold blue-grey storm light, the warm orange glow of oil lamps and deck lights, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1906 to 1914. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Wide shot at dusk on the long deck of a 1913 steel freighter, deckhands in oilskins dragging heavy hatch covers into place over the square openings in the deck and pulling canvas tarpaulins over them, many openings still uncovered, spray flying over the rail, snow. Shot as a cinematic still from a historical drama set on Lake Superior in 1913, cold blue-grey storm light, the warm orange glow of oil lamps and deck lights, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1906 to 1914. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 4,
@@ -684,7 +693,7 @@
   "desc": "Deep dark water, the faint outline of a ship far below in the blackness",
   "optional": false,
   "img": 39,
-  "prompt": "Wide shot looking down into deep, dark water, the faint grey outline of a long ship barely visible far below in the blackness, a few particles drifting in a faint beam of light. Shot as a deep-water documentary still from a remotely operated camera 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Wide shot looking down into deep, dark water, the faint grey outline of a long ship barely visible far below in the blackness, a few particles drifting in a faint beam of light. Shot as a deep-water documentary still from an underwater camera lowered on a long cable 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 6,
@@ -783,6 +792,15 @@
  },
  {
   "sec": 7,
+  "kind": "R",
+  "style": "-",
+  "cue": "if you guessed somewhere else you",
+  "desc": "The open lake from above again",
+  "optional": false,
+  "img": 8
+ },
+ {
+  "sec": 7,
   "kind": "F",
   "style": "M",
   "cue": "but they still couldn't prove",
@@ -799,7 +817,7 @@
   "desc": "In black water, a camera's light against the rusted edge of a steel hull, its cable snagged",
   "optional": false,
   "img": 46,
-  "prompt": "Close shot in black water of a camera's white light pressed against the rusted, silt-covered edge of a steel hull, its thin cable snagged on a jagged steel plate, darkness everywhere else. Shot as a deep-water documentary still from a remotely operated camera 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Close shot in black water of a camera's white light pressed against the rusted, silt-covered edge of a steel hull, its thin cable snagged on a jagged steel plate, darkness everywhere else. Shot as a deep-water documentary still from an underwater camera lowered on a long cable 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 7,
@@ -828,7 +846,7 @@
   "desc": "A camera's lights on the upright bow of an old steel freighter on the dark lake floor",
   "optional": false,
   "img": 48,
-  "prompt": "Wide shot of the bow of the wreck of an old steel lake freighter sitting upright on the dark lake floor, the camera's lights falling across its rusted plates, an old anchor still in place, the rest of the ship fading into black. Shot as a deep-water documentary still from a remotely operated camera 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Wide shot of the bow of the wreck of an old steel lake freighter sitting upright on the dark lake floor, the camera's lights falling across its rusted plates and old railings, the rest of the ship fading into black. Shot as a deep-water documentary still from an underwater camera lowered on a long cable 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 8,
@@ -838,7 +856,7 @@
   "desc": "An old pilothouse with empty windows on the bow of a wreck, a mast rising into the dark",
   "optional": false,
   "img": 49,
-  "prompt": "Wide shot of the small old pilothouse on the bow of the wreck of an old steel lake freighter, its windows empty and dark, a tall mast still standing behind it and rising up into the black water, lit by the camera's lights. Shot as a deep-water documentary still from a remotely operated camera 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Wide shot of the small old pilothouse on the bow of the wreck of an old steel lake freighter, its windows empty and dark, a tall mast still standing behind it and rising up into the black water, lit by the camera's lights. Shot as a deep-water documentary still from an underwater camera lowered on a long cable 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 8,
@@ -848,7 +866,7 @@
   "desc": "Crumpled, collapsed cabins on the stern of a steel wreck in a camera's light",
   "optional": false,
   "img": 50,
-  "prompt": "Wide shot of the collapsed, crumpled deckhouse on the stern of the wreck of an old steel lake freighter, its walls crushed inward and folded, twisted metal and silt, lit by the camera's lights in the darkness. Shot as a deep-water documentary still from a remotely operated camera 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Wide shot of the collapsed, crumpled deckhouse on the stern of the wreck of an old steel lake freighter, its walls crushed inward and folded, twisted metal and silt, lit by the camera's lights in the darkness. Shot as a deep-water documentary still from an underwater camera lowered on a long cable 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 8,
@@ -858,13 +876,13 @@
   "desc": "A camera's light moving across the curved steel stern plating of an old wreck",
   "optional": false,
   "img": 51,
-  "prompt": "Close shot of the camera's light moving slowly across the curved, rusted steel plating of an old ship's stern, rivet lines and silt, darkness all around. Shot as a deep-water documentary still from a remotely operated camera 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Close shot of the camera's light moving slowly across the curved, rusted steel plating of an old ship's stern, rivet lines and silt, darkness all around. Shot as a deep-water documentary still from an underwater camera lowered on a long cable 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 8,
   "kind": "G",
   "style": "-",
-  "cue": "henry b smith but she is",
+  "cue": "you can still read her name",
   "desc": "Name card: HENRY B. SMITH",
   "optional": false,
   "gid": "G38"
@@ -886,7 +904,7 @@
   "desc": "Red iron ore spilled across the grey silt beside a dark steel hull, in a camera's light",
   "optional": false,
   "img": 52,
-  "prompt": "Wide shot of a field of red iron ore spilled across the grey silt of the lake floor beside the dark, rusted side of the wreck of an old steel lake freighter, lit by the camera's lights. Shot as a deep-water documentary still from a remotely operated camera 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Wide shot of a field of red iron ore spilled across the grey silt of the lake floor beside the dark, rusted side of the wreck of an old steel lake freighter, lit by the camera's lights. Shot as a deep-water documentary still from an underwater camera lowered on a long cable 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 8,
@@ -905,6 +923,15 @@
   "desc": "The bottle at the water's edge again",
   "optional": false,
   "img": 35
+ },
+ {
+  "sec": 8,
+  "kind": "R",
+  "style": "-",
+  "cue": "and breaking in two is exactly",
+  "desc": "The Smith in the storm again",
+  "optional": false,
+  "img": 5
  },
  {
   "sec": 8,
@@ -936,9 +963,18 @@
  },
  {
   "sec": 8,
-  "kind": "G",
+  "kind": "R",
   "style": "-",
   "cue": "so why did the wreckage end",
+  "desc": "The planks and hatch cover on the beach again",
+  "optional": false,
+  "img": 7
+ },
+ {
+  "sec": 8,
+  "kind": "G",
+  "style": "-",
+  "cue": "because floating wreckage goes wherever",
   "desc": "Map: north and northwest winds driving wreckage southeast to the three beaches",
   "optional": false,
   "gid": "G42"
@@ -954,9 +990,18 @@
  },
  {
   "sec": 9,
-  "kind": "G",
+  "kind": "R",
   "style": "-",
   "cue": "so what actually sank the henry",
+  "desc": "The faint ship in the dark water again",
+  "optional": false,
+  "img": 39
+ },
+ {
+  "sec": 9,
+  "kind": "G",
+  "style": "-",
+  "cue": "no one survived to tell us",
   "desc": "Three suspect cards, face down",
   "optional": false,
   "gid": "G43"
@@ -970,6 +1015,15 @@
   "optional": false,
   "img": 54,
   "prompt": "Wide shot at night on the deck of a 1913 steel freighter as a wave pours across it and cascades down into an open square cargo hatch, water rushing into the black hold below, snow and spray. Shot as a cinematic still from a historical drama set on Lake Superior in 1913, cold blue-grey storm light, the warm orange glow of oil lamps and deck lights, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1906 to 1914. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+ },
+ {
+  "sec": 9,
+  "kind": "R",
+  "style": "-",
+  "cue": "twenty minutes later the full storm",
+  "desc": "The snow squall racing toward the ship again",
+  "optional": false,
+  "img": 29
  },
  {
   "sec": 9,
@@ -988,13 +1042,13 @@
   "desc": "A freighter's bow climbing a huge wave at night, her stern down in the trough, snow",
   "optional": false,
   "img": 55,
-  "prompt": "Wide shot at night from a distance of a long steel freighter of 1913 with her bow lifted high on the crest of a huge wave and her stern down in the trough behind it, the long middle of her hull bending, snow. Shot as a cinematic still from a historical drama set on Lake Superior in 1913, cold blue-grey storm light, the warm orange glow of oil lamps and deck lights, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1906 to 1914. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Wide shot at night from a distance of a long steel freighter of 1913 stretched across two huge waves, her bow on the crest of one and her stern on the crest of the next, the middle of her hull over the deep trough between them, snow. Shot as a cinematic still from a historical drama set on Lake Superior in 1913, cold blue-grey storm light, the warm orange glow of oil lamps and deck lights, muted colour with fine film grain. Every ship, building and item of clothing is historically accurate for 1906 to 1914. People are small in the frame or seen from behind, never close up. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 9,
   "kind": "G",
   "style": "-",
-  "cue": "can be lifted at both ends",
+  "cue": "a ship five hundred and forty",
   "desc": "Diagram: waves under the bow and stern, nothing under the middle, the hull bending",
   "optional": false,
   "gid": "G45"
@@ -1053,7 +1107,7 @@
   "desc": "The two halves of a steel wreck on the dark lake floor, seen from above in a camera's lights",
   "optional": false,
   "img": 57,
-  "prompt": "High-angle wide shot looking down on the wreck of an old steel lake freighter broken into two halves on the dark lake floor, the camera's lights sweeping across both pieces, red ore scattered between them, darkness beyond. Shot as a deep-water documentary still from a remotely operated camera 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "High-angle wide shot looking down on the wreck of an old steel lake freighter broken into two halves on the dark lake floor, the camera's lights sweeping across both pieces, red ore scattered between them, darkness beyond. Shot as a deep-water documentary still from an underwater camera lowered on a long cable 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 9,
@@ -1108,7 +1162,7 @@
   "desc": "A camera's light slowly fading on the old bow in the dark, peaceful",
   "optional": false,
   "img": 58,
-  "prompt": "Wide shot of the bow of the wreck of an old steel lake freighter on the dark lake floor as the camera's lights slowly dim and fade, the shape of the old ship sinking back into the darkness, peaceful and still. Shot as a deep-water documentary still from a remotely operated camera 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
+  "prompt": "Wide shot of the bow of the wreck of an old steel lake freighter on the dark lake floor as the camera's lights slowly dim and fade, the shape of the old ship sinking back into the darkness, peaceful and still. Shot as a deep-water documentary still from an underwater camera lowered on a long cable 535 feet down in Lake Superior: near-total darkness, cold blue-green water, the bright white beams of the camera's own lights falling on the wreck, fine particles floating in the beams, the steel rusted brown and dusted with fine grey silt, realistic detail. No divers and no people. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
  },
  {
   "sec": 10,
@@ -1131,19 +1185,9 @@
  },
  {
   "sec": 10,
-  "kind": "F",
-  "style": "B",
-  "cue": "and if you haven't seen it",
-  "desc": "Marquette's harbour lighthouse at sunset over calm Lake Superior, end card background",
-  "optional": false,
-  "img": 60,
-  "prompt": "Wide shot at sunset of a red brick lighthouse with a square tower standing on a rocky point above a harbour on Lake Superior, the sky orange and purple, calm water, the left half of the frame open sky and water. Shot as a modern colour documentary photograph on the south shore of Lake Superior near Marquette, Michigan, cool northern light, deep blue water, true-to-life colour and sharp detail. People are small in the frame or seen from behind. A clean image with plain, unmarked hulls, surfaces and signs, and no lettering, names or numbers anywhere. Cinematic 16:9 wide frame."
- },
- {
-  "sec": 10,
   "kind": "G",
   "style": "-",
-  "cue": "thanks for watching",
+  "cue": "and if you haven't seen it",
   "desc": "End card on the sunset harbour",
   "optional": false,
   "gid": "G52"
