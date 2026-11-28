@@ -37,3 +37,4 @@ Same rules as [video 1's monitoring](../video-01/monitoring.md): change one thin
 | 2026-11-27 14:54 | No change | Studio: 6.7K views, 312 watch hours (about 2:48 a view); 83 subscribers per a viewer comment | Still climbing |
 | 2026-11-27 18:03 | No change | Second surge: 6,289 → 7,143 public views in 3 hours (284 an hour, up from 95); subscribers passed 100 (101) | Still climbing |
 | 2026-11-27 21:03 | No change | Biggest surge yet: 7,143 → 9,087 public views in 3 hours (646 an hour); subscribers 119 | Still climbing |
+| 2026-11-28 00:03 | No change | Passed 10,000: 9,087 → 11,231 public views in 3 hours (716 an hour); subscribers 144. Last check of the 14-day monitoring | Still climbing |
