@@ -14,7 +14,7 @@ F|O|she sailed out of marquette into|The Smith steaming out of the harbour into 
 G|-|with twenty five men on board|Number card: 25 MEN
 F|O|twenty minutes after she left the|The Smith in huge storm waves at night, snow, spray bursting over her deck
 F|O|and then she vanished|Empty storm-tossed lake at night in snow, no ship anywhere
-F|O|for a hundred years the only|Broken planks and a wooden hatch cover washed up on a snowy beach, grey morning
+F|O|for a hundred years the best|Broken planks and a wooden hatch cover washed up on a snowy beach, grey morning
 G|-|both of them pointed the same|Map: two clue arrows pointing east of Marquette, a question mark out in the lake
 F|B|and when she was finally found|Open Lake Superior today from high above, deep blue water to the horizon, a tiny boat far out
 G|-|so let's work it out together|Case file: four questions (WHY DID SHE SAIL? · WHAT WAS THE CREW DOING? · WHY DID THE CLUES POINT EAST? · WHAT DOES THE WRECK SAY?)
@@ -28,7 +28,7 @@ G|-|two storm systems one from the|Weather map: two storm systems converging ove
 G|-|people gave it three names the|Three name cards: THE BIG BLOW · THE FRESHWATER FURY · THE WHITE HURRICANE
 F|O|for four days it threw gusts|Huge waves breaking over the deck of a steel freighter of 1913 in a blizzard
 G|-|gusts of up to ninety miles|Numbers: GUSTS 90 MPH · WAVES 35+ FT
-F|O|and nobody saw it coming in|A 1913 weather office: a forecaster seen from behind drawing a weather map by hand under a lamp
+F|O|forecasters could see a storm coming|A 1913 weather office: a forecaster seen from behind drawing a weather map by hand under a lamp
 G|-|by the time a forecast was|Card: REPORTS TWICE A DAY · MAPS DRAWN BY HAND
 F|O|on lake superior the day before|A huge wave smashing into the pilothouse of a steel freighter, glass and spray exploding
 F|O|it tore three walls off the|A freighter's cabins torn open by the sea, broken walls and snow, a grey storm beyond
@@ -66,7 +66,7 @@ G|-|remember that turn it matters later|Card: REMEMBER THE TURN
 F|O|two days later wreckage began washing|Wreckage on a snowy sand beach: broken planks, a wooden hatch cover, cork life jackets, a grey morning
 G|-|at chocolay bay at shot point|Map: wreckage found at CHOCOLAY BAY, SHOT POINT and LAUGHING FISH POINT, east of Marquette
 F|O|the henry b smith never reached|The empty grey lake from the shore at dawn after the storm, ice on the rocks
-G|-|of her twenty five men only|Card: 25 MEN · ONLY 2 EVER FOUND
+G|-|of her twenty five men only|Card: 25 MEN · ONLY 2 EVER FOUND, BOTH FAR TO THE EAST
 F|O|so where was she the wreckage|Townspeople of 1913 standing on a snowy beach, seen from behind, looking out at the lake
 F|O|then in june of nineteen fourteen|A glass bottle with a rolled paper inside lying among pebbles at the water's edge, summer light
 G|-|and it said the ship had|Note card: BROKE IN TWO · 12 MILES EAST OF MARQUETTE (the claim, not a copy of the note)
@@ -84,17 +84,17 @@ F|U|and all that time the henry|Deep dark water, the faint outline of a ship far
 G|-|lake superior is the largest freshwater|Map: Lake Superior, LARGEST FRESHWATER LAKE BY AREA
 F|M|jerry eliason ken merryman and kraig|Three people seen from behind on the deck of a small research boat on Lake Superior, cables coiled, grey day
 G|-|had been hunting lake superior's lost|Names card: JERRY ELIASON · KEN MERRYMAN · KRAIG SMITH · ABOUT 20 YEARS OF SEARCHING
-F|M|jerry's wife karen dug through government|A desk stacked with archive folders and old charts beside a laptop under a lamp
-F|M|their son jarrod built the sonar|A workbench with a yellow torpedo-shaped sonar being assembled, tools and cables
+F|M|jerry and his wife karen dug|A desk stacked with archive folders and old charts beside a laptop under a lamp
+F|M|jerry's son jarrod built the sonar|A workbench with a yellow torpedo-shaped sonar being assembled, tools and cables
 F|M|exactly how they narrowed it down|A blank nautical chart on a table with a pencil circle drawn on it, a compass and dividers
 == 7
 F|M|on the twenty fourth of may|A small search boat on a calm, bright Lake Superior morning, a sonar cable running from her stern into the water
 G|-|twenty minutes later there she was|Sonar screen: the wreck scrolls into view, full screen
 G|-|five hundred and thirty five feet|Map: the wreck 30 MILES NORTH of Marquette, 535 FT
 G|-|north not east nowhere near the|Map: the wreck against the wreckage beaches and the note's spot · NOT EAST
-F|M|then they sent a camera down|A small yellow underwater camera on a tether being lowered over the side of the boat
-F|U|just as it reached the wreck|In black water, a camera light just touching the rusted edge of a steel hull, the light flickering
-F|M|in june they did and this|On the boat in June, people seen from behind watching a monitor that glows deep blue
+F|M|but they still couldn't prove|A small yellow underwater camera on a tether being lowered over the side of the boat
+F|U|it got caught on the wreck|In black water, a camera's light against the rusted edge of a steel hull, its cable snagged
+F|M|and in that time it showed|On the boat in June, people seen from behind watching a monitor that glows deep blue
 == 8
 G|-|if you've been waiting for this|Animated Like button
 F|U|she is sitting upright on the|A camera's lights on the upright bow of an old steel freighter on the dark lake floor

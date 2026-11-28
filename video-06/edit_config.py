@@ -26,7 +26,7 @@ PAUSES = [
     (5, 'laughing fish point', 0.5), (5, 'were ever found', 0.8), (5, 'twelve miles east of marquette', 0.6),
     (5, 'east again', 0.4), (5, 'it was a fake', 0.6),
     (6, 'kept her secret', 0.6), (6, 'in the dark waiting', 0.6),
-    (7, 'there she was', 0.9), (7, 'north of marquette', 0.5), (7, 'you were right', 0.6), (7, 'had to come back', 0.4),
+    (7, 'there she was', 0.9), (7, 'north of marquette', 0.5), (7, 'you were right', 0.6), (7, "couldn't prove it was her", 0.4),
     (8, 'read her name henry b smith', 0.8), (8, 'carrying that night', 0.6), (8, 'and she never made it', 0.7),
     (9, 'three suspects', 0.5), (9, 'it was gone', 0.9), (9, 'able to settle it', 0.6),
     (10, 'i read every single one', 0.5), (10, 'nobody even knew where it was', 0.9), (10, 'never been found', 0.6),
@@ -66,7 +66,7 @@ DISPLAY = [
     ('thirty-two miles an hour', '32 miles an hour'), ('thirty-two hatches', '32 hatches'),
     ('seventy miles an hour', '70 miles an hour'), ('June of nineteen fourteen', 'June 1914'), ('seven months', '7 months'),
     ('twelve miles', '12 miles'), ('the twelfth of November', 'November 12'), ('nineteen seventy-five', '1975'),
-    ('all twenty-nine men', 'all 29 men'), ('twenty years', '20 years'), ('three days', '3 days'), ('two days', '2 days'),
+    ('all twenty-nine men', 'all 29 men'), ('twenty years', '20 years'), ('three days', '3 days'), ('two days', '2 days'), ('five hundred feet long', '500 feet long'),
 ]
 
 # sound: extra hits on graphics (seconds after the graphic starts)

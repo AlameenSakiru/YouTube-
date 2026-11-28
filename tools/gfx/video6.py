@@ -536,7 +536,7 @@ def g11(cr, t, d):
 @reg('G12')
 def g12(cr, t, d):
     card_lines(cr, 'G12', t, d, 'WEATHER FORECASTING IN 1913', ['REPORTS COLLECTED TWICE A DAY', 'MAPS DRAWN BY HAND',
-               'NO WAY TO SEE IT COMING'], step=d * 0.25, start=0.4, size=60, y0=470)
+               'NO WAY TO SEE HOW BAD IT WOULD GET'], step=d * 0.25, start=0.4, size=60, y0=470)
 
 
 @reg('G13')
@@ -733,7 +733,7 @@ def g24(cr, t, d):
 
 @reg('G25')
 def g25(cr, t, d):
-    big_number(cr, 'G25', t, d, 25, 'MEN ON BOARD', 'Only two were ever found', color=WH)
+    big_number(cr, 'G25', t, d, 25, 'MEN ON BOARD', 'Only two were ever found, both far to the east', color=WH)
 
 
 @reg('G26')

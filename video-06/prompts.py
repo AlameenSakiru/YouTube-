@@ -62,7 +62,7 @@ P = {
 43: "Top-down shot of a blank nautical chart spread on a wooden table, a pencil circle drawn on an empty area of water, a brass compass and dividers beside it, soft lamp light.",
 44: "Wide shot of a small modern search boat on a calm, bright Lake Superior morning, a cable running from her stern down into the clear blue water, gentle ripples, no land in sight.",
 45: "Wide shot from the deck of a small boat of a compact yellow underwater camera on a long cable tether being lowered over the side into deep blue water, hands seen from behind guiding the cable.",
-46: "Close shot in black water of a camera's white light just touching the rusted, silt-covered edge of a steel hull for the first time, the beam flickering, darkness everywhere else.",
+46: "Close shot in black water of a camera's white light pressed against the rusted, silt-covered edge of a steel hull, its thin cable snagged on a jagged steel plate, darkness everywhere else.",
 47: "Wide shot from behind of two people on a small boat's deck in June, leaning toward a monitor that glows deep blue, sunlight on the calm lake around them.",
 48: "Wide shot of the bow of " + WRECK + " sitting upright on the dark lake floor, the camera's lights falling across its rusted plates, an old anchor still in place, the rest of the ship fading into black.",
 49: "Wide shot of the small old pilothouse on the bow of " + WRECK + ", its windows empty and dark, a tall mast still standing behind it and rising up into the black water, lit by the camera's lights.",
