@@ -1,0 +1,136 @@
+# kind | style | cue (first words of the line it starts on) | description
+# kind: F = Flow image, G = graphic I make, R:<cue> = reuse the Flow image that starts at <cue>,
+#       V3:<n> = reuse image n from video 3 (style column = its look, for the sound bed)
+# style: O = historical drama (Lake Superior, 1906 to 1914), M = the 2013 search (modern documentary),
+#        U = the wreck 535 feet down, seen by a camera on a tether (no divers), B = present day
+== 1
+F|M|on the twenty fourth of may|Three people on a small search boat on calm grey Lake Superior at dawn, lowering a sonar on a cable over the stern
+G|-|twenty minutes later a shape appeared|Sonar screen: a ship-shaped shadow scrolls into view, broken in two · SIDE-SCAN SONAR · 24 MAY 2013
+G|-|five hundred and thirty five feet|Number card: 535 FT
+F|U|a ship broken in two|A camera's light on the bow of an old steel freighter in total darkness on the lake floor
+G|-|she had been missing for almost|Card: LOST 1913 · FOUND 2013 · almost 100 YEARS
+F|O|her name was the henry b|THE SIGNATURE IMAGE: the Henry B. Smith at the Marquette ore dock in November 1913, snow falling
+F|O|she sailed out of marquette into|The Smith steaming out of the harbour into a grey storm at dusk, past a breakwater light
+G|-|with twenty five men on board|Number card: 25 MEN
+F|O|twenty minutes after she left the|The Smith in huge storm waves at night, snow, spray bursting over her deck
+F|O|and then she vanished|Empty storm-tossed lake at night in snow, no ship anywhere
+F|O|for a hundred years the only|Broken planks and a wooden hatch cover washed up on a snowy beach, grey morning
+G|-|both of them pointed the same|Map: two clue arrows pointing east of Marquette, a question mark out in the lake
+F|B|and when she was finally found|Open Lake Superior today from high above, deep blue water to the horizon, a tiny boat far out
+G|-|so let's work it out together|Case file: four questions (WHY DID SHE SAIL? · WHAT WAS THE CREW DOING? · WHY DID THE CLUES POINT EAST? · WHAT DOES THE WRECK SAY?)
+F|O|by the end you'll know more|The Smith's lit pilothouse at night in the storm, seen from the deck behind it
+== 2
+G|-|if you came here from our|Card: SAME LAKE · SAME MONTH · 62 YEARS EARLIER
+V3:1|F|this is the same lake in|A 1970s ore freighter at night in a snowstorm
+G|-|and if you'd like to hear|Animated Subscribe button and bell
+F|O|the storm began on the seventh|Black storm clouds massing over Lake Superior in 1913, a small steamer far off on the horizon
+G|-|two storm systems one from the|Weather map: two storm systems converging over the Great Lakes, 7 to 10 November 1913
+G|-|people gave it three names the|Three name cards: THE BIG BLOW · THE FRESHWATER FURY · THE WHITE HURRICANE
+F|O|for four days it threw gusts|Huge waves breaking over the deck of a steel freighter of 1913 in a blizzard
+G|-|gusts of up to ninety miles|Numbers: GUSTS 90 MPH · WAVES 35+ FT
+F|O|and nobody saw it coming in|A 1913 weather office: a forecaster seen from behind drawing a weather map by hand under a lamp
+G|-|by the time a forecast was|Card: REPORTS TWICE A DAY · MAPS DRAWN BY HAND
+F|O|on lake superior the day before|A huge wave smashing into the pilothouse of a steel freighter, glass and spray exploding
+F|O|it tore three walls off the|A freighter's cabins torn open by the sea, broken walls and snow, a grey storm beyond
+G|-|by the time the storm was|Card: 250+ DEAD · 19 SHIPS DESTROYED · 7 TO 10 NOVEMBER 1913
+F|O|it is still the deadliest natural|A snowy 1913 shoreline strewn with storm wreckage and a broken lifeboat, grey sky
+F|O|and on sunday the ninth of|The Smith tied up at the huge ore dock in Marquette at dusk, snow, waiting
+== 3
+F|O|she was a big ship for|The Smith new in 1906, steaming across a calm summer lake, seen side on
+G|-|five hundred and forty five feet|Ship profile card: HENRY B. SMITH · 545 FT · BUILT 1906 · LORAIN, OHIO
+F|O|built in nineteen oh six at|A steel freighter sliding sideways into a river at her launch, crowds on the bank
+F|O|she arrived in marquette on the|The Marquette ore dock: a towering dock on timber legs, railway ore cars on top, a freighter alongside, overcast
+F|O|the ore froze solid inside the|Men with long iron bars breaking frozen ore loose inside railway ore cars, snow falling
+G|-|every hour the smith fell further|Calendar: NOV 6 · 7 · 8 · 9, the days ticking past
+F|O|for her captain james owen it|A ship's captain of 1913 seen from behind on the bridge wing, looking out at a storm over the harbour
+F|O|and there's a story told in|A 1913 shipping office at night, two men in suits seen from behind at a desk with a letter, lamplight
+G|-|this last trip had better be|Card: "This last trip had better be on time." · THE STORY TOLD IN MARQUETTE · NEVER PROVEN
+F|O|then on sunday afternoon something changed|Storm clouds parting a little over the harbour, the water calmer, pale light on a breakwater lighthouse
+G|-|by one account it fell to|Wind gauge falling to 32 MPH
+F|O|at about five o'clock the last|A steel chute pouring red iron ore into a ship's open hatch at dusk, lamplight
+G|-|and the henry b smith didn't|Clock card: 5:00 P.M. · SUNDAY 9 NOVEMBER 1913
+F|O|she backed away from the dock|The Smith backing away from the ore dock into the harbour at dusk, smoke from her funnel
+== 4
+F|O|people on the shore watched her|Townspeople in 1913 coats on a snowy breakwater, seen from behind, watching a freighter head out
+G|-|her deck was covered by thirty|Deck plan: the Smith from above with 32 hatches; most still open
+F|O|on a ship like the smith|Deckhands on a freighter's long deck dragging heavy hatch covers into place, spray, dusk
+F|O|as she steamed out of the|From the shore: the freighter heading out past the breakwater, tiny figures still on her deck, waves rising
+G|-|twenty minutes later the storm came|Timer card: +20 MINUTES
+F|O|the lull hadn't been the end|A wall of snow squall racing across the lake toward a lone freighter, the sky going dark
+G|-|that night the second storm swung|Map: hurricane-force winds over four of the Great Lakes, 70+ MPH, the night of 9 November
+F|O|the last time anyone saw the|The freighter far off, turning in heavy seas, snow blowing between her and the shore
+G|-|maybe her captain was trying to|Map: Marquette, her course out, the turn to port toward the Keweenaw, LAST SEEN
+F|O|then the snow closed in and|A blizzard over the dark lake, a ship's faint lights fading into the snow
+G|-|remember that turn it matters later|Card: REMEMBER THE TURN
+== 5
+F|O|two days later wreckage began washing|Wreckage on a snowy sand beach: broken planks, a wooden hatch cover, cork life jackets, a grey morning
+G|-|at chocolay bay at shot point|Map: wreckage found at CHOCOLAY BAY, SHOT POINT and LAUGHING FISH POINT, east of Marquette
+F|O|the henry b smith never reached|The empty grey lake from the shore at dawn after the storm, ice on the rocks
+G|-|of her twenty five men only|Card: 25 MEN · ONLY 2 EVER FOUND
+F|O|so where was she the wreckage|Townspeople of 1913 standing on a snowy beach, seen from behind, looking out at the lake
+F|O|then in june of nineteen fourteen|A glass bottle with a rolled paper inside lying among pebbles at the water's edge, summer light
+G|-|and it said the ship had|Note card: BROKE IN TWO · 12 MILES EAST OF MARQUETTE (the claim, not a copy of the note)
+G|-|east again two clues both pointing|Map: the note's spot and the wreckage beaches, both east of Marquette
+G|-|but there was a problem with|Card: THE NOTE WAS DATED 12 NOVEMBER · SHE WAS LOST ON THE 9TH OR 10TH
+F|O|after a long debate her owners|Men in 1914 suits seen from behind examining a small unfolded note under a lamp
+G|-|so before i tell you where|Guess cards: EAST · SOMEWHERE ELSE
+G|-|put it in the comments right|Comment box: a guess being typed
+== 6
+F|B|for a hundred years lake superior|Endless Lake Superior seen from a high rocky shore, deep blue water to the horizon
+F|O|the ore boats kept sailing past|A long Great Lakes ore freighter of the 1950s passing a rocky Lake Superior shore in summer
+G|-|in nineteen seventy five sixty two|Timeline: 1913 HENRY B. SMITH · 1975 EDMUND FITZGERALD · 2013 FOUND
+V3:10|F|broken in two with all twenty|The rusted bow of a huge ship upright in mud
+F|U|and all that time the henry|Deep dark water, the faint outline of a ship far below in the blackness
+G|-|lake superior is the largest freshwater|Map: Lake Superior, LARGEST FRESHWATER LAKE BY AREA
+F|M|jerry eliason ken merryman and kraig|Three people seen from behind on the deck of a small research boat on Lake Superior, cables coiled, grey day
+G|-|had been hunting lake superior's lost|Names card: JERRY ELIASON · KEN MERRYMAN · KRAIG SMITH · ABOUT 20 YEARS OF SEARCHING
+F|M|jerry's wife karen dug through government|A desk stacked with archive folders and old charts beside a laptop under a lamp
+F|M|their son jarrod built the sonar|A workbench with a yellow torpedo-shaped sonar being assembled, tools and cables
+F|M|exactly how they narrowed it down|A blank nautical chart on a table with a pencil circle drawn on it, a compass and dividers
+== 7
+F|M|on the twenty fourth of may|A small search boat on a calm, bright Lake Superior morning, a sonar cable running from her stern into the water
+G|-|twenty minutes later there she was|Sonar screen: the wreck scrolls into view, full screen
+G|-|five hundred and thirty five feet|Map: the wreck 30 MILES NORTH of Marquette, 535 FT
+G|-|north not east nowhere near the|Map: the wreck against the wreckage beaches and the note's spot · NOT EAST
+F|M|then they sent a camera down|A small yellow underwater camera on a tether being lowered over the side of the boat
+F|U|just as it reached the wreck|In black water, a camera light just touching the rusted edge of a steel hull, the light flickering
+F|M|in june they did and this|On the boat in June, people seen from behind watching a monitor that glows deep blue
+== 8
+G|-|if you've been waiting for this|Animated Like button
+F|U|she is sitting upright on the|A camera's lights on the upright bow of an old steel freighter on the dark lake floor
+F|U|her pilothouse is still on her|An old pilothouse with empty windows on the bow of a wreck, a mast rising into the dark
+F|U|her stern cabins have collapsed crushed|Crumpled, collapsed cabins on the stern of a steel wreck in a camera's light
+F|U|and on her stern after a|A camera's light moving across the curved steel stern plating of an old wreck
+G|-|henry b smith but she is|Name card: HENRY B. SMITH
+G|-|but she is broken in two|Wreck diagram: bow upright, pilothouse and mast, break near the middle, stern cabins collapsed, ore spilled · 535 FT
+F|U|and all around her spilled across|Red iron ore spilled across the grey silt beside a dark steel hull, in a camera's light
+G|-|now think back to the clues|Card: THE NOTE · BROKE IN TWO ✓ · 12 MILES EAST ✗
+R:then in june of nineteen fourteen|-|whoever wrote it guessed right about|The bottle at the water's edge again
+R:people on the shore watched her|-|and the people on the shore|The watchers on the breakwater again
+G|-|that's exactly the direction she was|Map: the turn to port at LAST SEEN, a line on to the wreck · THEY WERE RIGHT
+F|O|she had turned north maybe for|The freighter fighting north into the storm at night toward a dark headland far away
+G|-|so why did the wreckage end|Map: north and northwest winds driving wreckage southeast to the three beaches
+R:two days later wreckage began washing|-|toward chocolay bay shot point and|The wreckage on the beach again
+== 9
+G|-|so what actually sank the henry|Three suspect cards, face down
+F|O|one the hatches when she left|Waves pouring over a freighter's deck and down into an open hatch at night
+G|-|if even a few of them|Cutaway diagram: water pouring through open hatches into the holds
+F|O|two the storm itself that night|A freighter's bow climbing a huge wave at night, her stern down in the trough, snow
+G|-|can be lifted at both ends|Diagram: waves under the bow and stern, nothing under the middle, the hull bending
+F|O|and she broke near the middle|The middle of a freighter's deck buckling and tearing apart in a storm at night, seen from a distance
+R:for her captain james owen it|-|three the decision captain owen had|The captain on the bridge wing again
+R:then on sunday afternoon something changed|-|then the storm went quiet just|The lull over the harbour again
+G|-|twenty minutes later it was gone|Three suspect cards turned over: THE HATCHES · THE STORM · THE DECISION
+G|-|and here's the hardest part did|Question card: BROKE ON THE SURFACE? · OR AT THE BOTTOM?
+F|U|or did water through the hatches|The two halves of a steel wreck on the dark lake floor, seen from above in a camera's lights
+V3:69|F|it's the same question people still|The upturned stern of a huge ship on the lake bed
+== 10
+G|-|so now it's your turn you've|Verdict cards: THE HATCHES · THE STORM · THE DECISION · ALL THREE
+G|-|tell me in the comments i|Comment box
+R:she sailed out of marquette into|-|twenty five men sailed out of|The Smith steaming out of the harbour again
+G|-|only two were ever found somewhere|Card: IN MEMORY · THE 25 MEN OF THE HENRY B. SMITH · 9 NOVEMBER 1913
+F|U|the henry b smith is a|A camera's light slowly fading on the old bow in the dark, peaceful
+F|B|and she isn't the only one|Lake Superior at sunset from a rocky shore, calm and empty
+G|-|if you want to hear their|Animated Subscribe button and bell
+F|B|and if you haven't seen it|Marquette's harbour lighthouse at sunset over calm Lake Superior, end card background
+G|-|thanks for watching|End card on the sunset harbour

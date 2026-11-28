@@ -1,0 +1,14 @@
+{
+  "video": 6,
+  "title": "A Ship Vanished in Lake Superior in 1913. It Was Found 100 Years Later.",
+  "styleNames": {"O": "1906 to 1914", "M": "the 2013 search", "U": "the wreck, 535 feet down", "B": "present day"},
+  "checks": [
+    "Any readable text, letters, numbers, ship names or signs.",
+    "The 1913 freighter with the pilothouse anywhere but the very front, or the funnel anywhere but the very back.",
+    "Modern things in the 1913 pictures (steel boxy superstructures, radar, orange life rings), or old things in the 2013 ones.",
+    "Divers or people in the wreck pictures: at 535 feet only a camera on a cable goes down.",
+    "Faces shown close up. People should be small, far away or seen from behind.",
+    "Anyone shown injured or dead, or any human remains near the wreck. The wreck is a grave."
+  ],
+  "thumbText": "Make all three, two or three versions each. I will add the text and pick the one that reads best at phone size. Thumbnail 1 leaves the left third dark for text."
+}

@@ -1,0 +1,144 @@
+{
+ "video": 6,
+ "title": "A Ship Vanished in Lake Superior in 1913. It Was Found 100 Years Later.",
+ "folder": "video-06/voice",
+ "voice": "Use the same voice as videos 1 to 5 (Sawyer, Midnight Storyteller) with exactly the same settings, so the channel always sounds like one narrator.",
+ "pronNote": "These are the words an AI voice is most likely to say wrong. If a word comes out wrong, type it the way the last column shows and generate that section again.",
+ "pron": [
+  ["Marquette", "mar-KET", "Mar-ket"],
+  ["Keweenaw", "KEE-wuh-naw", "Kee-wuh-naw"],
+  ["Chocolay", "SHOCK-uh-lay (my best guess)", "Shock-a-lay"],
+  ["Ludington", "LUD-ing-tun", "Luddington"],
+  ["Lorain", "lor-AYN", "Lor-ain"],
+  ["Eliason", "ee-LYE-uh-sun (my best guess)", "Ee-lye-a-son"],
+  ["Soo", "SOO, rhymes with blue", "Soo"]
+ ],
+ "sections": [
+  {
+   "title": "Twenty minutes",
+   "dir": "Quiet and gripping, like the opening of a true mystery. Slow down for \"Five hundred and thirty-five feet down. A ship. Broken in two.\" with a pause after each sentence. \"And then she vanished.\" is said plainly, then a pause. The last paragraph is warmer and direct.",
+   "paras": [
+    "On the twenty-fourth of May, twenty thirteen, three shipwreck hunters lowered a sonar into Lake Superior, about thirty miles north of Marquette, Michigan.",
+    "Twenty minutes later, a shape appeared on their screen. Five hundred and thirty-five feet down. A ship. Broken in two.",
+    "She had been missing for almost exactly a hundred years.",
+    "Her name was the Henry B. Smith. On a Sunday evening in November, nineteen thirteen, she sailed out of Marquette into the deadliest storm in the history of the Great Lakes, with twenty-five men on board. Twenty minutes after she left, the storm hit her with everything it had. And then she vanished.",
+    "For a hundred years, the only clues anyone had were some wreckage on a beach and a note in a bottle. Both of them pointed the same way. And when she was finally found, she was somewhere else entirely.",
+    "So let's work it out together. Why did her captain leave port in the middle of that storm? What were her crew doing on deck as she sailed away? Why did every clue point the wrong way? And what does the wreck itself tell us about how she died? By the end, you'll know more about the last night of the Henry B. Smith than anyone did for a century."
+   ]
+  },
+  {
+   "title": "The White Hurricane",
+   "dir": "Steady and vivid. The first paragraph is friendly and quick, like talking to a new viewer. Give the three storm names a small pause each. Slow down for \"It is still the deadliest natural disaster in the history of the Great Lakes.\" The last line is quiet.",
+   "paras": [
+    "If you came here from our Edmund Fitzgerald video, welcome. This is the same lake, in the same month, sixty-two years earlier. And if you'd like to hear the next story like this one, tap subscribe. It's how a small channel like this one finds the people who love these lakes.",
+    "The storm began on the seventh of November, nineteen thirteen. Two storm systems, one from the north and one that formed far to the south, came together over the Great Lakes. People gave it three names. The Big Blow. The Freshwater Fury. And the White Hurricane.",
+    "For four days it threw gusts of up to ninety miles an hour and waves of more than thirty-five feet at every ship it could find.",
+    "And nobody saw it coming. In nineteen thirteen, weather reports were collected only twice a day, and the maps were drawn by hand. By the time a forecast was ready, the weather it described had already changed.",
+    "On Lake Superior, the day before the Smith sailed, a single wave smashed into the wheelhouse of the freighter L. C. Waldo. It tore three walls off the cabins below and threw her wheelsman out of the wheelhouse.",
+    "By the time the storm was over, more than two hundred and fifty people were dead and nineteen ships had been destroyed. It is still the deadliest natural disaster in the history of the Great Lakes.",
+    "And on Sunday, the ninth of November, right in the middle of it, the Henry B. Smith was tied up in Marquette, waiting."
+   ]
+  },
+  {
+   "title": "Three days in Marquette",
+   "dir": "Storytelling, a little slower. \"We can't prove that.\" is said plainly and honestly. Slow down and lower your voice for \"The wind dropped.\" The last paragraph builds: a short pause before \"And the Henry B. Smith didn't wait.\"",
+   "paras": [
+    "She was a big ship for her time. Five hundred and forty-five feet long, built in nineteen-oh-six at Lorain, Ohio, and named after a lumberman from Ludington, Michigan.",
+    "She arrived in Marquette on the sixth of November to load iron ore. Then the cold came. The ore froze solid inside the railway cars, and men had to climb in and break it loose by hand. Every hour, the Smith fell further behind.",
+    "For her captain, James Owen, it was the last thing he needed. It had been a bad year. One misfortune after another had left the Smith late, again and again. And there's a story, told in Marquette then and still told today, that her owners had made it very clear: this last trip had better be on time.",
+    "We can't prove that. But the story has never gone away.",
+    "Then, on Sunday afternoon, something changed. The wind dropped. By one account, it fell to about thirty-two miles an hour. The lake was still rolling, but for the first time in days, it looked like the storm was passing.",
+    "At about five o'clock, the last car of ore was loaded. And the Henry B. Smith didn't wait. She backed away from the dock and headed straight out into the lake."
+   ]
+  },
+  {
+   "title": "Thirty-two hatches",
+   "dir": "Tense and clear. Say \"Twenty minutes later\" slowly. \"It was a gap.\" is short and heavy. Slow down for the last two paragraphs, and leave a pause before \"Remember that turn.\"",
+   "paras": [
+    "People on the shore watched her go. And what they saw is the first real clue.",
+    "Her deck was covered by thirty-two hatches, the openings down into her cargo holds. Before a ship heads into open water, every one of them has to be covered and fastened down. On a ship like the Smith, that normally took hours.",
+    "As she steamed out of the harbour, the watchers could see her deckhands still working on them.",
+    "Twenty minutes later, the storm came back with its full force.",
+    "The lull hadn't been the end of the storm. It was a gap. That night, the second storm swung north into the first, and over Lake Superior and three other lakes, the winds rose past seventy miles an hour and stayed there for hours.",
+    "The last time anyone saw the Henry B. Smith, she was turning to port. Turning north. Maybe her captain was trying to reach the shelter of the Keweenaw Peninsula, the long arm of land that reaches out into Lake Superior. Then the snow closed in, and she was gone.",
+    "Remember that turn. It matters later."
+   ]
+  },
+  {
+   "title": "Two clues",
+   "dir": "Investigative, like laying evidence on a table. Name the three beaches slowly, with a pause after each. \"East again.\" is short. The guess paragraph is friendly and direct, talking straight to the viewer.",
+   "paras": [
+    "Two days later, wreckage began washing up on the beaches east of Marquette. At Chocolay Bay. At Shot Point. At Laughing Fish Point.",
+    "The Henry B. Smith never reached the Soo. Of her twenty-five men, only two were ever found.",
+    "So where was she? The wreckage seemed to point east, along that shore.",
+    "Then, in June of nineteen fourteen, seven months later, someone found a note in a bottle. It claimed to be from the Henry B. Smith. And it said the ship had broken in two, twelve miles east of Marquette.",
+    "East again. Two clues, both pointing the same way.",
+    "But there was a problem with the note. It was dated the twelfth of November, and by then the Smith had already been gone for two days. After a long debate, her owners decided it was a fake.",
+    "So before I tell you where she was really found, I want your guess. Was she east of Marquette, where the wreckage and the note pointed? Or somewhere else? Put it in the comments right now. East, or somewhere else. One word is enough, and in a few minutes, you'll find out if you were right."
+   ]
+  },
+  {
+   "title": "A hundred years",
+   "dir": "Reflective and a little slower. \"waiting\" at the end of the second paragraph is soft. The last two paragraphs are warmer, like introducing people you admire.",
+   "paras": [
+    "For a hundred years, Lake Superior kept her secret.",
+    "The ore boats kept sailing past Marquette, and they kept getting bigger. In nineteen seventy-five, sixty-two years after the Smith, the Edmund Fitzgerald went down further east on the same lake, broken in two, with all twenty-nine men. And all that time, the Henry B. Smith lay somewhere in the dark, waiting.",
+    "Lake Superior is the largest freshwater lake in the world by area. Finding one ship in it takes patience, money, and a lot of luck.",
+    "Jerry Eliason, Ken Merryman and Kraig Smith had been hunting Lake Superior's lost ships for about twenty years, going out several times a year.",
+    "And they didn't search blindly. Jerry's wife, Karen, dug through government records and archives for anything that could narrow down where the Smith might be. Their son, Jarrod, built the sonar they used. Exactly how they narrowed it down, they've never fully said. They want to use the same method to find more ships."
+   ]
+  },
+  {
+   "title": "North",
+   "dir": "Building to a reveal. Slow down for \"Twenty minutes later, there she was.\" Say \"North. Not east.\" slowly, with a pause after each word group. The last paragraph is quiet and full of anticipation.",
+   "paras": [
+    "On the twenty-fourth of May, twenty thirteen, they took their boat out to one small patch of Lake Superior and lowered the sonar into the water.",
+    "Twenty minutes later, there she was.",
+    "Five hundred and thirty-five feet down. About thirty miles north of Marquette.",
+    "North. Not east. Nowhere near the beaches where the wreckage washed up, and nowhere near where the note said she sank. If you guessed somewhere else, you were right.",
+    "Then they sent a camera down to her on a long tether. Just as it reached the wreck, a part inside it blew. So they had to come back.",
+    "In June, they did. And this time, the camera showed them everything."
+   ]
+  },
+  {
+   "title": "What the camera saw",
+   "dir": "Clear and respectful. The first paragraph is light and quick. Slow down for \"Henry B. Smith.\" at the end of the third paragraph. The last two paragraphs are a detective connecting the dots: steady, with small pauses.",
+   "paras": [
+    "If you've been waiting for this moment, give the video a like. It tells YouTube that a story like this one is worth showing to more people.",
+    "She is sitting upright on the bottom, mostly in one piece. Her pilothouse is still on her bow, and her forward mast is still standing. Her stern cabins have collapsed, crushed on the way down.",
+    "And on her stern, after a hundred years, you can still read her name. Henry B. Smith.",
+    "But she is broken in two, near the middle. And all around her, spilled across the lake floor, is the iron ore she was carrying that night.",
+    "Now think back to the clues. The note said she broke in two, and she did. But it said that happened twelve miles east of Marquette, and she's thirty miles north. Whoever wrote it guessed right about one thing and wrong about the other. And breaking in two is exactly what anyone who knew these long, heavy ore boats might have guessed.",
+    "And the people on the shore? They said the last time they saw her, she was turning to port. Turning north. That's exactly the direction she was found in. They were right. She hadn't run east along the coast. She had turned north, maybe for the shelter of the Keweenaw, and she never made it.",
+    "So why did the wreckage end up on the beaches to the east? Because floating wreckage goes wherever the wind and waves push it. That night the wind was blowing hard from the north and northwest, and it would have driven anything floating toward the shore south and east of her. Toward Chocolay Bay, Shot Point and Laughing Fish Point."
+   ]
+  },
+  {
+   "title": "Three suspects",
+   "dir": "Thoughtful, like a closing argument. Say \"One.\", \"Two.\" and \"Three.\" as their own words, with a pause after each. Slow down for \"Twenty minutes later, it was gone.\" The last paragraph is quiet and serious.",
+   "paras": [
+    "So what actually sank the Henry B. Smith? Nobody can say for certain. No one survived to tell us, and the wreck can't tell us everything. But the evidence points to three suspects.",
+    "One. The hatches. When she left Marquette, her crew were still covering thirty-two hatches, a job that normally took hours. Twenty minutes later, the full storm hit her. If even a few of them weren't fastened down, every wave that broke over her deck would have poured water into her holds.",
+    "Two. The storm itself. That night the winds over Lake Superior reached hurricane force. A ship five hundred and forty-five feet long, loaded with iron ore, can be lifted at both ends by waves like that, with nothing holding up her middle. And she broke near the middle.",
+    "Three. The decision. Captain Owen had been waiting for three days. He was behind schedule, and maybe under pressure. Then the storm went quiet, just for a moment, and he took the chance. Twenty minutes later, it was gone.",
+    "And here's the hardest part. Did she break in two on the surface, which would point to the storm? Or did water through the hatches drag her down first, and she broke when she hit the bottom? It's the same question people still ask about the Edmund Fitzgerald. And just like the Fitzgerald, nobody has been able to settle it."
+   ]
+  },
+  {
+   "title": "Your verdict",
+   "dir": "Direct and warm, then quiet and respectful for the twenty-five men. The last paragraph is warm and friendly, with a smile in the voice on \"Thanks for watching.\"",
+   "paras": [
+    "So now it's your turn. You've seen all the evidence. What sank the Henry B. Smith? The hatches? The storm? The decision to sail? Or, like so many wrecks on this lake, all three at once? Tell me in the comments. I read every single one.",
+    "Twenty-five men sailed out of Marquette that Sunday evening. Only two were ever found. Somewhere five hundred and thirty-five feet down, the Henry B. Smith is a grave for the rest, and for a hundred years, nobody even knew where it was.",
+    "And she isn't the only one. Lake Superior still holds ships that have never been found.",
+    "If you want to hear their stories too, subscribe and turn on the bell. And if you haven't seen it yet, our video on the Edmund Fitzgerald is right here. Same lake, same kind of storm, and the same question nobody can answer. Thanks for watching."
+   ]
+  }
+ ],
+ "done": [
+  "Every number, year and date is written out in words, so the AI reads them the way a person would.",
+  "Three dots are not used in this script; the pauses are in the directions for each section.",
+  "The like, subscribe and comment asks are part of the script on purpose. Each comes right after a moment that earns it. Don't cut them.",
+  "Save each section as its own file, named 01.mp3 to 10.mp3, in the order of this script."
+ ]
+}
