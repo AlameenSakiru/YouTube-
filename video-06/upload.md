@@ -1,6 +1,6 @@
 # Video 6 upload details
 
-Copy these into YouTube Studio when you upload `A Ship Vanished in Lake Superior in 1913.mp4`. The chapter times are filled in from the final cut.
+Copy these into YouTube Studio when you upload `A Ship Vanished in Lake Superior in 1913.mp4`. Chapter times match the final cut (13:21 long).
 
 ## Title
 
@@ -28,7 +28,16 @@ On Sunday, November 9, 1913, the steel freighter Henry B. Smith sailed out of Ma
 
 The pictures in this video are AI illustrations, not photographs or footage of the wreck. The sonar screens, maps and diagrams are illustrations, approximate and not to scale. The wreck is a grave; nothing in this video shows human remains.
 
-CHAPTERS (filled in after the render)
+0:00 She vanished in 1913
+1:21 The White Hurricane
+3:04 Three days in Marquette
+4:29 Thirty-two hatches
+5:40 Two clues
+7:00 A hundred years
+8:11 North
+8:58 What the camera saw
+10:45 Three suspects
+12:18 Your verdict
 
 Sources:
 SS Henry B. Smith (Wikipedia): https://en.wikipedia.org/wiki/SS_Henry_B._Smith

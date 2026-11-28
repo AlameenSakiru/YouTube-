@@ -1,0 +1,931 @@
+1
+00:00:00,530 --> 00:00:04,943
+On May 24, 2013, three shipwreck hunters lowered a sonar into Lake Superior,
+
+2
+00:00:04,963 --> 00:00:07,510
+about 30 miles north of Marquette, Michigan.
+
+3
+00:00:10,200 --> 00:00:13,590
+20 minutes later, a shape appeared on their screen.
+
+4
+00:00:13,660 --> 00:00:15,860
+535 feet down.
+
+5
+00:00:15,930 --> 00:00:17,140
+A ship.
+
+6
+00:00:17,210 --> 00:00:19,075
+Broken in two.
+
+7
+00:00:19,145 --> 00:00:23,350
+She had been missing for almost exactly 100 years.
+
+8
+00:00:23,420 --> 00:00:25,120
+Her name was the Henry B.
+
+9
+00:00:25,190 --> 00:00:26,140
+Smith.
+
+10
+00:00:26,210 --> 00:00:28,012
+On a Sunday evening in November, 1913,
+
+11
+00:00:28,032 --> 00:00:32,183
+she sailed out of Marquette into the deadliest storm in the history of the Great Lakes,
+
+12
+00:00:32,203 --> 00:00:33,190
+with 25 men on board.
+
+13
+00:00:37,320 --> 00:00:41,340
+20 minutes after she left, the storm hit her with everything it had.
+
+14
+00:00:41,410 --> 00:00:44,460
+And then she vanished.
+
+15
+00:00:44,530 --> 00:00:45,535
+For 100 years,
+
+16
+00:00:45,555 --> 00:00:51,320
+the best clues anyone had were some wreckage on a beach and a note in a bottle.
+
+17
+00:00:51,390 --> 00:00:53,770
+Both of them pointed the same way.
+
+18
+00:00:53,840 --> 00:00:58,580
+And when she was finally found, she was somewhere else entirely.
+
+19
+00:00:58,650 --> 00:01:00,520
+So let's work it out together.
+
+20
+00:01:00,590 --> 00:01:04,480
+Why did her captain leave port in the middle of that storm?
+
+21
+00:01:04,550 --> 00:01:08,050
+What were her crew doing on deck as she sailed away?
+
+22
+00:01:08,120 --> 00:01:10,810
+Why did every clue point the wrong way?
+
+23
+00:01:10,880 --> 00:01:14,470
+And what does the wreck itself tell us about how she died?
+
+24
+00:01:14,540 --> 00:01:18,210
+By the end, you'll know more about the last night of the Henry B.
+
+25
+00:01:18,280 --> 00:01:22,050
+Smith than anyone did for a century.
+
+26
+00:01:22,120 --> 00:01:26,370
+If you came here from our Edmund Fitzgerald video, welcome.
+
+27
+00:01:26,440 --> 00:01:31,470
+This is the same lake, in the same month, 62 years earlier.
+
+28
+00:01:31,540 --> 00:01:35,220
+And if you'd like to hear the next story like this one, tap subscribe.
+
+29
+00:01:35,290 --> 00:01:41,320
+It's how a small channel like this one finds the people who love these lakes.
+
+30
+00:01:41,390 --> 00:01:45,640
+The storm began on November 7, 1913.
+
+31
+00:01:45,710 --> 00:01:50,462
+Two storm systems, one from the north and one that formed far to the south,
+
+32
+00:01:50,482 --> 00:01:52,690
+came together over the Great Lakes.
+
+33
+00:01:53,410 --> 00:01:55,310
+People gave it three names.
+
+34
+00:01:55,380 --> 00:01:56,630
+The Big Blow.
+
+35
+00:01:56,700 --> 00:01:58,270
+The Freshwater Fury.
+
+36
+00:01:58,340 --> 00:02:00,530
+And the White Hurricane.
+
+37
+00:02:00,600 --> 00:02:07,580
+For four days it threw gusts of up to 90 miles an hour and waves of more than 35 feet at every ship it could find.
+
+38
+00:02:09,350 --> 00:02:11,490
+Forecasters could see a storm coming.
+
+39
+00:02:11,560 --> 00:02:14,990
+What they couldn't see was how bad it would get.
+
+40
+00:02:15,060 --> 00:02:19,523
+In 1913, weather reports were collected only twice a day,
+
+41
+00:02:19,543 --> 00:02:22,040
+and the maps were drawn by hand.
+
+42
+00:02:22,190 --> 00:02:27,840
+By the time a forecast was ready, the weather it described had already changed.
+
+43
+00:02:27,910 --> 00:02:31,043
+On Lake Superior, the day before the Smith sailed,
+
+44
+00:02:31,063 --> 00:02:34,890
+a single wave smashed into the wheelhouse of the freighter L.
+
+45
+00:02:35,500 --> 00:02:35,860
+C.
+
+46
+00:02:35,930 --> 00:02:36,300
+Waldo.
+
+47
+00:02:36,370 --> 00:02:42,210
+It tore three walls off the cabins below and threw her wheelsman out of the wheelhouse.
+
+48
+00:02:42,280 --> 00:02:44,568
+By the time the storm was over,
+
+49
+00:02:44,588 --> 00:02:49,260
+more than 250 people were dead and 19 ships had been destroyed.
+
+50
+00:02:49,970 --> 00:02:55,490
+It is still the deadliest natural disaster in the history of the Great Lakes.
+
+51
+00:02:55,560 --> 00:03:00,620
+And on Sunday, November 9, right in the middle of it, the Henry B.
+
+52
+00:03:00,690 --> 00:03:04,595
+Smith was tied up in Marquette, waiting.
+
+53
+00:03:04,665 --> 00:03:07,075
+She was a big ship for her time.
+
+54
+00:03:07,145 --> 00:03:10,339
+545 feet long, built in 1906 at Lorain, Ohio,
+
+55
+00:03:10,359 --> 00:03:14,125
+and named after a lumberman from Ludington, Michigan.
+
+56
+00:03:16,785 --> 00:03:21,545
+She arrived in Marquette on November 6 to load iron ore.
+
+57
+00:03:21,615 --> 00:03:22,985
+Then the cold came.
+
+58
+00:03:23,055 --> 00:03:26,277
+The ore froze solid inside the railway cars,
+
+59
+00:03:26,297 --> 00:03:30,035
+and men had to climb in and break it loose by hand.
+
+60
+00:03:30,725 --> 00:03:33,995
+Every hour, the Smith fell further behind.
+
+61
+00:03:34,065 --> 00:03:37,895
+For her captain, James Owen, it was the last thing he needed.
+
+62
+00:03:37,965 --> 00:03:40,135
+It had been a bad year.
+
+63
+00:03:40,205 --> 00:03:45,005
+One misfortune after another had left the Smith late, again and again.
+
+64
+00:03:45,075 --> 00:03:48,259
+And there's a story, told in Marquette then and still told today,
+
+65
+00:03:48,279 --> 00:03:52,055
+that her owners had made it very clear: this last trip had better be on time.
+
+66
+00:03:56,425 --> 00:03:57,855
+We can't prove that.
+
+67
+00:03:57,925 --> 00:04:01,035
+But the story has never gone away.
+
+68
+00:04:01,105 --> 00:04:04,925
+Then, on Sunday afternoon, something changed.
+
+69
+00:04:04,995 --> 00:04:06,885
+The wind dropped.
+
+70
+00:04:06,955 --> 00:04:10,535
+By one account, it fell to about 32 miles an hour.
+
+71
+00:04:10,605 --> 00:04:14,475
+The lake was still rolling, but for the first time in days,
+
+72
+00:04:14,495 --> 00:04:16,915
+it looked like the storm was passing.
+
+73
+00:04:16,985 --> 00:04:21,195
+At about five o'clock, the last car of ore was loaded.
+
+74
+00:04:21,265 --> 00:04:22,075
+And the Henry B.
+
+75
+00:04:22,145 --> 00:04:24,305
+Smith didn't wait.
+
+76
+00:04:24,375 --> 00:04:29,396
+She backed away from the dock and headed straight out into the lake.
+
+77
+00:04:29,466 --> 00:04:31,886
+People on the shore watched her go.
+
+78
+00:04:31,956 --> 00:04:35,166
+And what they saw is the first real clue.
+
+79
+00:04:35,236 --> 00:04:41,246
+Her deck was covered by 32 hatches, the openings down into her cargo holds.
+
+80
+00:04:41,316 --> 00:04:43,656
+Before a ship heads into open water,
+
+81
+00:04:43,676 --> 00:04:47,196
+every one of them has to be covered and fastened down.
+
+82
+00:04:47,266 --> 00:04:51,246
+On a ship like the Smith, that normally took hours.
+
+83
+00:04:51,316 --> 00:04:53,161
+As she steamed out of the harbour,
+
+84
+00:04:53,181 --> 00:04:56,396
+the watchers could see her deckhands still working on them.
+
+85
+00:04:56,466 --> 00:05:01,166
+20 minutes later, the storm came back with its full force.
+
+86
+00:05:01,236 --> 00:05:04,016
+The lull hadn't been the end of the storm.
+
+87
+00:05:04,086 --> 00:05:05,846
+It was a gap.
+
+88
+00:05:05,916 --> 00:05:08,272
+That night, the second storm swung north into the first,
+
+89
+00:05:08,292 --> 00:05:10,181
+and over Lake Superior and three other lakes,
+
+90
+00:05:10,201 --> 00:05:12,896
+the winds rose past 70 miles an hour and stayed there for hours.
+
+91
+00:05:17,506 --> 00:05:20,076
+The last time anyone saw the Henry B.
+
+92
+00:05:20,146 --> 00:05:22,216
+Smith, she was turning to port.
+
+93
+00:05:22,286 --> 00:05:23,716
+Turning north.
+
+94
+00:05:23,786 --> 00:05:27,766
+Maybe her captain was trying to reach the shelter of the Keweenaw Peninsula,
+
+95
+00:05:27,786 --> 00:05:30,766
+the long arm of land that reaches out into Lake Superior.
+
+96
+00:05:31,666 --> 00:05:36,286
+Then the snow closed in, and she was gone.
+
+97
+00:05:36,356 --> 00:05:37,696
+Remember that turn.
+
+98
+00:05:37,766 --> 00:05:40,422
+It matters later.
+
+99
+00:05:40,492 --> 00:05:45,502
+2 days later, wreckage began washing up on the beaches east of Marquette.
+
+100
+00:05:45,572 --> 00:05:46,982
+At Chocolay Bay.
+
+101
+00:05:47,052 --> 00:05:48,542
+At Shot Point.
+
+102
+00:05:48,612 --> 00:05:51,362
+At Laughing Fish Point.
+
+103
+00:05:51,432 --> 00:05:52,062
+The Henry B.
+
+104
+00:05:52,132 --> 00:05:53,932
+Smith never reached the Soo.
+
+105
+00:05:54,002 --> 00:06:00,982
+Of her 25 men, only two were ever found, both of them far to the east.
+
+106
+00:06:01,342 --> 00:06:02,702
+So where was she?
+
+107
+00:06:02,772 --> 00:06:06,252
+The wreckage seemed to point east, along that shore.
+
+108
+00:06:06,322 --> 00:06:13,302
+Then, in June 1914, 7 months later, someone found a note in a bottle.
+
+109
+00:06:13,562 --> 00:06:15,232
+It claimed to be from the Henry B.
+
+110
+00:06:15,302 --> 00:06:15,612
+Smith.
+
+111
+00:06:15,682 --> 00:06:21,922
+And it said the ship had broken in two, 12 miles east of Marquette.
+
+112
+00:06:21,992 --> 00:06:23,352
+East again.
+
+113
+00:06:23,422 --> 00:06:26,762
+Two clues, both pointing the same way.
+
+114
+00:06:26,832 --> 00:06:28,912
+But there was a problem with the note.
+
+115
+00:06:28,982 --> 00:06:35,602
+It was dated November 12, and by then the Smith had already been gone for 2 days.
+
+116
+00:06:35,672 --> 00:06:40,182
+After a long debate, her owners decided it was a fake.
+
+117
+00:06:40,252 --> 00:06:44,432
+So before I tell you where she was really found, I want your guess.
+
+118
+00:06:44,502 --> 00:06:49,182
+Was she east of Marquette, where the wreckage and the note pointed?
+
+119
+00:06:49,252 --> 00:06:50,672
+Or somewhere else?
+
+120
+00:06:50,742 --> 00:06:52,742
+Put it in the comments right now.
+
+121
+00:06:52,812 --> 00:06:55,122
+East, or somewhere else.
+
+122
+00:06:55,192 --> 00:07:01,027
+One word is enough, and in a few minutes, you'll find out if you were right.
+
+123
+00:07:01,097 --> 00:07:05,337
+For 100 years, Lake Superior kept her secret.
+
+124
+00:07:05,407 --> 00:07:10,007
+The ore boats kept sailing past Marquette, and they kept getting bigger.
+
+125
+00:07:10,077 --> 00:07:11,931
+In 1975, 62 years after the Smith,
+
+126
+00:07:11,951 --> 00:07:16,175
+the Edmund Fitzgerald went down further east on the same lake, broken in two,
+
+127
+00:07:16,195 --> 00:07:17,057
+with all 29 men.
+
+128
+00:07:22,037 --> 00:07:24,307
+And all that time, the Henry B.
+
+129
+00:07:24,377 --> 00:07:28,107
+Smith lay somewhere in the dark, waiting.
+
+130
+00:07:28,177 --> 00:07:32,897
+Lake Superior is the largest freshwater lake in the world by area.
+
+131
+00:07:32,967 --> 00:07:37,357
+Finding one ship in it takes patience, money, and a lot of luck.
+
+132
+00:07:37,427 --> 00:07:38,122
+Jerry Eliason,
+
+133
+00:07:38,142 --> 00:07:42,823
+Ken Merryman and Kraig Smith had been hunting Lake Superior's lost ships for about 20 years,
+
+134
+00:07:42,843 --> 00:07:44,407
+going out several times a year.
+
+135
+00:07:48,747 --> 00:07:50,557
+And they didn't search blindly.
+
+136
+00:07:50,627 --> 00:07:51,996
+Jerry and his wife, Karen,
+
+137
+00:07:52,016 --> 00:07:57,607
+dug through government records and archives for anything that could narrow down where the Smith might be.
+
+138
+00:07:59,267 --> 00:08:03,437
+Jerry's son, Jarrod, built the sonar they used.
+
+139
+00:08:03,507 --> 00:08:07,507
+Exactly how they narrowed it down, they kept to themselves.
+
+140
+00:08:07,577 --> 00:08:11,863
+They wanted to use the same method to find more ships.
+
+141
+00:08:11,933 --> 00:08:12,895
+On May 24, 2013,
+
+142
+00:08:12,915 --> 00:08:18,913
+they took their boat out to one small patch of Lake Superior and lowered the sonar into the water.
+
+143
+00:08:21,353 --> 00:08:24,933
+20 minutes later, there she was.
+
+144
+00:08:25,003 --> 00:08:27,863
+535 feet down.
+
+145
+00:08:27,933 --> 00:08:30,913
+About 30 miles north of Marquette.
+
+146
+00:08:30,983 --> 00:08:31,723
+North.
+
+147
+00:08:31,793 --> 00:08:32,923
+Not east.
+
+148
+00:08:32,993 --> 00:08:36,672
+Nowhere near the beaches where the wreckage washed up,
+
+149
+00:08:36,692 --> 00:08:39,823
+and nowhere near where the note said she sank.
+
+150
+00:08:39,893 --> 00:08:43,343
+If you guessed somewhere else, you were right.
+
+151
+00:08:43,413 --> 00:08:46,053
+But they still couldn't prove it was her.
+
+152
+00:08:46,123 --> 00:08:52,103
+So a month later, they came back and lowered a camera on a tether 500 feet long.
+
+153
+00:08:52,173 --> 00:08:54,893
+It got caught on the wreck for half an hour.
+
+154
+00:08:54,963 --> 00:08:58,678
+And in that time, it showed them everything.
+
+155
+00:08:58,748 --> 00:09:02,928
+If you've been waiting for this moment, give the video a like.
+
+156
+00:09:02,998 --> 00:09:08,518
+It tells YouTube that a story like this one is worth showing to more people.
+
+157
+00:09:08,588 --> 00:09:12,428
+She is sitting upright on the bottom, mostly in one piece.
+
+158
+00:09:12,498 --> 00:09:18,188
+Her pilothouse is still on her bow, and her forward mast is still standing.
+
+159
+00:09:18,258 --> 00:09:22,628
+Her stern cabins have collapsed, crushed on the way down.
+
+160
+00:09:22,698 --> 00:09:27,908
+And on her stern, after 100 years, you can still read her name.
+
+161
+00:09:27,978 --> 00:09:28,628
+Henry B.
+
+162
+00:09:28,698 --> 00:09:30,113
+Smith.
+
+163
+00:09:30,183 --> 00:09:33,118
+But she is broken in two, near the middle.
+
+164
+00:09:33,188 --> 00:09:36,892
+And all around her, spilled across the lake floor,
+
+165
+00:09:36,912 --> 00:09:40,168
+is the iron ore she was carrying that night.
+
+166
+00:09:40,483 --> 00:09:43,218
+Now think back to the clues.
+
+167
+00:09:43,288 --> 00:09:46,528
+The note said she broke in two, and she did.
+
+168
+00:09:46,598 --> 00:09:52,188
+But it said that happened 12 miles east of Marquette, and she's 30 miles north.
+
+169
+00:09:52,258 --> 00:09:56,518
+Whoever wrote it guessed right about one thing and wrong about the other.
+
+170
+00:09:56,588 --> 00:10:00,644
+And breaking in two is exactly what anyone who knew these long,
+
+171
+00:10:00,664 --> 00:10:02,908
+heavy ore boats might have guessed.
+
+172
+00:10:02,978 --> 00:10:04,238
+And the people on the shore?
+
+173
+00:10:04,308 --> 00:10:08,828
+They said the last time they saw her, she was turning to port.
+
+174
+00:10:08,898 --> 00:10:10,048
+Turning north.
+
+175
+00:10:10,118 --> 00:10:13,108
+That's exactly the direction she was found in.
+
+176
+00:10:13,178 --> 00:10:14,278
+They were right.
+
+177
+00:10:14,348 --> 00:10:16,878
+She hadn't run east along the coast.
+
+178
+00:10:16,948 --> 00:10:23,438
+She had turned north, maybe for the shelter of the Keweenaw, and she never made it.
+
+179
+00:10:23,508 --> 00:10:26,808
+So why did the wreckage end up on the beaches to the east?
+
+180
+00:10:26,878 --> 00:10:30,908
+Because floating wreckage goes wherever the wind and waves push it.
+
+181
+00:10:30,978 --> 00:10:34,080
+That night the wind was blowing hard from the north and northwest,
+
+182
+00:10:34,100 --> 00:10:37,958
+and it would have driven anything floating toward the shore south and east of her.
+
+183
+00:10:40,358 --> 00:10:45,448
+Toward Chocolay Bay, Shot Point and Laughing Fish Point.
+
+184
+00:10:45,518 --> 00:10:47,498
+So what actually sank the Henry B.
+
+185
+00:10:47,568 --> 00:10:48,358
+Smith?
+
+186
+00:10:48,428 --> 00:10:50,358
+Nobody can say for certain.
+
+187
+00:10:50,428 --> 00:10:54,798
+No one survived to tell us, and the wreck can't tell us everything.
+
+188
+00:10:54,868 --> 00:10:57,968
+But the evidence points to three suspects.
+
+189
+00:10:58,038 --> 00:10:58,998
+One.
+
+190
+00:10:59,068 --> 00:11:00,138
+The hatches.
+
+191
+00:11:00,208 --> 00:11:04,928
+When she left Marquette, her crew were still covering 32 hatches,
+
+192
+00:11:04,948 --> 00:11:07,188
+a job that normally took hours.
+
+193
+00:11:07,448 --> 00:11:10,528
+20 minutes later, the full storm hit her.
+
+194
+00:11:10,598 --> 00:11:13,166
+If even a few of them weren't fastened down,
+
+195
+00:11:13,186 --> 00:11:17,578
+every wave that broke over her deck would have poured water into her holds.
+
+196
+00:11:18,398 --> 00:11:19,238
+Two.
+
+197
+00:11:19,308 --> 00:11:20,828
+The storm itself.
+
+198
+00:11:20,898 --> 00:11:25,618
+That night the winds over Lake Superior reached hurricane force.
+
+199
+00:11:25,688 --> 00:11:28,076
+A ship 545 feet long, loaded with iron ore,
+
+200
+00:11:28,096 --> 00:11:32,668
+can be lifted at both ends by waves like that, with nothing holding up her middle.
+
+201
+00:11:36,818 --> 00:11:39,128
+And she broke near the middle.
+
+202
+00:11:39,198 --> 00:11:40,048
+Three.
+
+203
+00:11:40,118 --> 00:11:41,228
+The decision.
+
+204
+00:11:41,298 --> 00:11:44,298
+Captain Owen had been waiting for 3 days.
+
+205
+00:11:44,368 --> 00:11:47,348
+He was behind schedule, and maybe under pressure.
+
+206
+00:11:47,418 --> 00:11:52,418
+Then the storm went quiet, just for a moment, and he took the chance.
+
+207
+00:11:52,488 --> 00:11:55,958
+20 minutes later, it was gone.
+
+208
+00:11:56,028 --> 00:11:57,888
+And here's the hardest part.
+
+209
+00:11:57,958 --> 00:12:01,808
+Did she break in two on the surface, which would point to the storm?
+
+210
+00:12:01,878 --> 00:12:05,795
+Or did water through the hatches drag her down first,
+
+211
+00:12:05,815 --> 00:12:08,618
+and she broke when she hit the bottom?
+
+212
+00:12:08,688 --> 00:12:12,838
+It's the same question people still ask about the Edmund Fitzgerald.
+
+213
+00:12:12,908 --> 00:12:18,362
+And just like the Fitzgerald, nobody has been able to settle it.
+
+214
+00:12:18,432 --> 00:12:19,662
+So now it's your turn.
+
+215
+00:12:19,732 --> 00:12:21,762
+You've seen all the evidence.
+
+216
+00:12:21,832 --> 00:12:23,102
+What sank the Henry B.
+
+217
+00:12:23,172 --> 00:12:24,122
+Smith?
+
+218
+00:12:24,192 --> 00:12:25,062
+The hatches?
+
+219
+00:12:25,132 --> 00:12:26,272
+The storm?
+
+220
+00:12:26,342 --> 00:12:27,962
+The decision to sail?
+
+221
+00:12:28,032 --> 00:12:32,212
+Or, like so many wrecks on this lake, all three at once?
+
+222
+00:12:32,282 --> 00:12:34,192
+Tell me in the comments.
+
+223
+00:12:34,262 --> 00:12:36,512
+I read every single one.
+
+224
+00:12:36,582 --> 00:12:40,282
+25 men sailed out of Marquette that Sunday evening.
+
+225
+00:12:40,352 --> 00:12:42,432
+Only two were ever found.
+
+226
+00:12:42,502 --> 00:12:46,552
+Somewhere 535 feet down, the Henry B.
+
+227
+00:12:46,622 --> 00:12:53,602
+Smith is a grave for the rest, and for 100 years, nobody even knew where it was.
+
+228
+00:12:54,222 --> 00:12:56,172
+And she isn't the only one.
+
+229
+00:12:56,242 --> 00:13:00,852
+Lake Superior still holds ships that have never been found.
+
+230
+00:13:00,922 --> 00:13:05,512
+If you want to hear their stories too, subscribe and turn on the bell.
+
+231
+00:13:05,582 --> 00:13:10,712
+And if you haven't seen it yet, our video on the Edmund Fitzgerald is right here.
+
+232
+00:13:10,782 --> 00:13:16,212
+Same lake, same kind of storm, and the same question nobody can answer.
+
+233
+00:13:16,282 --> 00:13:09,362
+Thanks for watching.
